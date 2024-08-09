@@ -1,0 +1,2 @@
+- [‎TranslateKit: App Localizer on the Mac App Store](https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=iosdev.space&mt=8) 
+- 

@@ -1,0 +1,5 @@
+
+replace-regex "publish: true
+title: "
+with "publish: true\npublish: true
+title: "

@@ -1,4 +1,5 @@
 # Quartz v4
+[![Build and Test](https://github.com/DandyLyons/notes/actions/workflows/ci.yaml/badge.svg?branch=v4)](https://github.com/DandyLyons/notes/actions/workflows/ci.yaml)
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 

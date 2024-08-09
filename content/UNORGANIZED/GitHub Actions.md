@@ -1,0 +1,2 @@
+- [[Topics/Software Development/Apple Platforms/Xcode/index|Xcode]]
+	- [How to Set up GitHub Actions for CI with Xcode | Quality Coding](https://qualitycoding.org/github-actions-ci-xcode/) 

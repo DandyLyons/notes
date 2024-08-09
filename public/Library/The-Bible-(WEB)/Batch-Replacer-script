@@ -1,0 +1,14 @@
+
+replace-regex "^# (.*)$"
+with "---\npublish: true
+title: $1\naliases:\n  - $1\n---"
+---
+## My Notes
+
+---
+## Footnotes
+---
+## My Notes
+
+---
+## Footnotes

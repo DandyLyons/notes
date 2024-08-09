@@ -1,0 +1,4 @@
+- [[Exod-21#v22|Exodus 21:22-27]] 
+- [[Lev-24#v19|Leviticus 24:19-20]]
+- [[Deut-19#v21|Deuteronomy 19:19-21]]
+- [[Matt-05#v38|Matthew 5:38]] 
