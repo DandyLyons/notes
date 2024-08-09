@@ -2099,43 +2099,6 @@ Warning: ${file.data.filePath} isn't yet tracked by git, last modification date 
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import rehypeMathjax from "rehype-mathjax/svg";
-var Latex = /* @__PURE__ */ __name((opts) => {
-  const engine = opts?.renderEngine ?? "katex";
-  const macros = opts?.customMacros ?? {};
-  return {
-    name: "Latex",
-    markdownPlugins() {
-      return [remarkMath];
-    },
-    htmlPlugins() {
-      if (engine === "katex") {
-        return [[rehypeKatex, { output: "html", macros }]];
-      } else {
-        return [[rehypeMathjax, { macros }]];
-      }
-    },
-    externalResources() {
-      if (engine === "katex") {
-        return {
-          css: [
-            // base css
-            "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css"
-          ],
-          js: [
-            {
-              // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
-              src: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js",
-              loadTime: "afterDOMReady",
-              contentType: "external"
-            }
-          ]
-        };
-      } else {
-        return {};
-      }
-    }
-  };
-}, "Latex");
 
 // quartz/plugins/transformers/description.ts
 import { toString } from "hast-util-to-string";
@@ -3000,14 +2963,13 @@ var TableOfContents = /* @__PURE__ */ __name((userOpts) => {
 // quartz/plugins/transformers/linebreaks.ts
 import remarkBreaks from "remark-breaks";
 
-// quartz/plugins/filters/draft.ts
-var RemoveDrafts = /* @__PURE__ */ __name(() => ({
-  name: "RemoveDrafts",
+// quartz/plugins/filters/explicit.ts
+var ExplicitPublish = /* @__PURE__ */ __name(() => ({
+  name: "ExplicitPublish",
   shouldPublish(_ctx, [_tree, vfile]) {
-    const draftFlag = vfile.data?.frontmatter?.draft || false;
-    return !draftFlag;
+    return vfile.data?.frontmatter?.publish ?? false;
   }
-}), "RemoveDrafts");
+}), "ExplicitPublish");
 
 // quartz/plugins/emitters/contentPage.tsx
 import path6 from "path";
@@ -4432,6 +4394,20 @@ var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
 import { jsx as jsx31 } from "preact/jsx-runtime";
 
 // quartz.layout.ts
+var MyExplorer = Explorer_default({
+  title: "Explorer",
+  folderClickBehavior: "link",
+  folderDefaultState: "collapsed",
+  useSavedState: true,
+  // sortFn: (a, b) => {
+  // implement sortFn here
+  // },
+  filterFn: (node) => node.name !== "tags",
+  //filter out "tags" folder
+  // mapFn: undefined,
+  order: ["filter", "map", "sort"]
+  // what order to apply functions in
+});
 var sharedPageComponents = {
   head: Head_default(),
   header: [],
@@ -4455,7 +4431,7 @@ var defaultContentPageLayout = {
     MobileOnly_default(Spacer_default()),
     Search_default(),
     Darkmode_default(),
-    DesktopOnly_default(Explorer_default())
+    DesktopOnly_default(MyExplorer)
   ],
   right: [
     Graph_default(),
@@ -4470,7 +4446,7 @@ var defaultListPageLayout = {
     MobileOnly_default(Spacer_default()),
     Search_default(),
     Darkmode_default(),
-    DesktopOnly_default(Explorer_default())
+    DesktopOnly_default(MyExplorer)
   ],
   right: []
 };
@@ -5576,14 +5552,14 @@ import chalk4 from "chalk";
 // quartz.config.ts
 var config = {
   configuration: {
-    pageTitle: "\u{1FAB4} Quartz 4.0",
+    pageTitle: "Daniel's Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "dandylyons.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -5637,10 +5613,12 @@ var config = {
       GitHubFlavoredMarkdown(),
       TableOfContents(),
       CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Description(),
-      Latex({ renderEngine: "katex" })
+      Description({
+        descriptionLength: 150
+      })
+      // Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [RemoveDrafts()],
+    filters: [ExplicitPublish()],
     emitters: [
       AliasRedirects(),
       ComponentResources(),
@@ -5649,7 +5627,7 @@ var config = {
       TagPage(),
       ContentIndex({
         enableSiteMap: true,
-        enableRSS: true
+        includeEmptyFiles: false
       }),
       Assets(),
       Static(),

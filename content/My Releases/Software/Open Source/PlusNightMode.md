@@ -1,7 +1,7 @@
 ---
 repo: https://github.com/DandyLyons/PlusNightMode
 date: 2023-09-14
-publish: true
+publish: false
 tags:
   - open-source
 ---

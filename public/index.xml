@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <title>Daniel&#039;s Notes</title>
+      <link>https://dandylyons.github.io</link>
+      <description>Last 10 notes on Daniel&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>can you see this?</title>
-    <link>https://quartz.jzhao.xyz/gitignore/can-you-see-this</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/can-you-see-this</guid>
-    <description></description>
-    <pubDate>Fri, 09 Aug 2024 02:45:40 GMT</pubDate>
+    <title>Daniel&#039;s Dev Diary</title>
+    <link>https://dandylyons.github.io/Dev-Diary/</link>
+    <guid>https://dandylyons.github.io/Dev-Diary/</guid>
+    <description>2024-08-09 job copilot So the current plan is to: create initializers on my types so that they can convert back and forth to SwiftyJSONResum. My models will only be persisted with my own types.</description>
+    <pubDate>Fri, 09 Aug 2024 19:41:55 GMT</pubDate>
   </item><item>
-    <title>2024-W25</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Weekly-Notes/2024-W25</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Weekly-Notes/2024-W25</guid>
-    <description> .</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>index</title>
+    <link>https://dandylyons.github.io/Topics/Email/</link>
+    <guid>https://dandylyons.github.io/Topics/Email/</guid>
+    <description>Stopping Email Overloading STOP Giving Your Real Email Address (do this instead) - YouTube .</description>
+    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
   </item><item>
-    <title>2024-Q3</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Quarterly-Notes/2024-Q3</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Quarterly-Notes/2024-Q3</guid>
-    <description> .</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>AI Tools I Like</title>
+    <link>https://dandylyons.github.io/Topics/AI/AI-Tools-I-Like</link>
+    <guid>https://dandylyons.github.io/Topics/AI/AI-Tools-I-Like</guid>
+    <description> Perplexity.ai ChatGPT Udio.com GitHub Copilot .</description>
+    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
   </item><item>
-    <title>2024-W24</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Weekly-Notes/2024-W24</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Weekly-Notes/2024-W24</guid>
-    <description> .</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>copium</title>
+    <link>https://dandylyons.github.io/Topics/copium</link>
+    <guid>https://dandylyons.github.io/Topics/copium</guid>
+    <description>Copium is a word that means pretty much exactly what it sound like. It’s a portmanteau of cope and opium, and it is an all-too fitting description of the human condition.</description>
+    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
   </item><item>
-    <title>2024-Q2</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Quarterly-Notes/2024-Q2</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/Quarterly-Notes/2024-Q2</guid>
-    <description> Timeline .</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>Journals Plugin</title>
+    <link>https://dandylyons.github.io/Journals-Plugin</link>
+    <guid>https://dandylyons.github.io/Journals-Plugin</guid>
+    <description> GitHubgithub.com/srg-kostyrko/obsidian-journalDocsObsidian URLobsidian://show-plugin?id=journals Syntax Supported Code Blocks .</description>
+    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
   </item><item>
-    <title>2024-06</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06</guid>
-    <description> .</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>Inputs</title>
+    <link>https://dandylyons.github.io/Topics/Inputs/</link>
+    <guid>https://dandylyons.github.io/Topics/Inputs/</guid>
+    <description> It’s not the outcomes. It&#039;s the inputs. The person who consumes from better sources, gets better thoughts. The person who asks better questions, gets better answers.</description>
+    <pubDate>Fri, 09 Aug 2024 03:28:47 GMT</pubDate>
   </item><item>
-    <title>2024-06-29</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-29</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-29</guid>
-    <description>...</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>Responsive Text</title>
+    <link>https://dandylyons.github.io/Topics/Dreams/Responsive-Text</link>
+    <guid>https://dandylyons.github.io/Topics/Dreams/Responsive-Text</guid>
+    <description>Books as a format have remained largely unchanged since the printing press in the 1400’s. Magazines, newspapers, and pamphlets all existed but they were essentially the same medium: text on paper, sometime with images.</description>
+    <pubDate>Fri, 09 Aug 2024 03:28:47 GMT</pubDate>
   </item><item>
-    <title>2024-06-24</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-24</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-24</guid>
-    <description> Links Superlist NOW List Takeaways A problem is an opportunity for a solution. Today I hit many discouraging dead ends. But I realized that really I’m just encountering problems that I haven’t solved yet.</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>vim</title>
+    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/vim</link>
+    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/vim</guid>
+    <description> vim is easy Cheat Sheet Vim Cheat Sheet How to Search in Vim / Vi | Linuxize Learn VimGenius Getting Started .</description>
+    <pubDate>Fri, 09 Aug 2024 03:12:51 GMT</pubDate>
   </item><item>
-    <title>2024-06-16</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-16</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-16</guid>
-    <description> Links Superlist NOW List Takeaways.</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>Welcome to Dream. Build. Ship!</title>
+    <link>https://dandylyons.github.io/</link>
+    <guid>https://dandylyons.github.io/</guid>
+    <description>Hello and welcome to Dream. Build. Ship!, the personal website of Daniel Lyons. Here, I collect anything and everything that I find interesting, and think might be beneficial to someone else on the internet.</description>
+    <pubDate>Fri, 09 Aug 2024 03:12:51 GMT</pubDate>
   </item><item>
-    <title>2024-06-15</title>
-    <link>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-15</link>
-    <guid>https://quartz.jzhao.xyz/gitignore/Journals/Life/2024/June/2024-06-15</guid>
-    <description> .</description>
-    <pubDate>Fri, 09 Aug 2024 02:32:43 GMT</pubDate>
+    <title>Probability Distribution</title>
+    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/Probability-Distribution</link>
+    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/Probability-Distribution</guid>
+    <description> A list of possible values. Each value is assigned a probability number The number must be between 0 and 1. The sum of all the numbers must be exactly 1.</description>
+    <pubDate>Fri, 09 Aug 2024 03:12:51 GMT</pubDate>
   </item>
     </channel>
   </rss>

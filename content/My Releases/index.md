@@ -1,6 +1,6 @@
 ---
-title: Releases
+title: My Releases
 publish: true
 aliases:
-  - Releases
+  - My Releases
 ---

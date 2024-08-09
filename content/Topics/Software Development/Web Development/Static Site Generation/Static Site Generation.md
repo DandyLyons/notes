@@ -14,7 +14,7 @@ A Static Site Generator is a tool that compiles all of the pages of a website in
 
 ## Examples of Static Site Generators
 - *Publish* a static site generator written in Swift by John Sundell. 
-- [[Hugo/index]] : Javascript, HTML, Go based. 
+- [[Topics/Web Development/Hugo/index]] : Javascript, HTML, Go based. 
 - [[Topics/Software Development/Web Development/Static Site Generation/Quartz/index|Quartz]] : Obsidian based SSG, built on top of Hugo and Jekyll. 
 - Swift [Publish](https://github.com/JohnSundell/Publish), (an SSG), [Plot](https://github.com/johnsundell/plot) (an HTML theme engine), and [Ink](https://github.com/JohnSundell/Ink) (a Markdown parser)
 - [Ignite](https://github.com/twostraws/Ignite): Swift based. 

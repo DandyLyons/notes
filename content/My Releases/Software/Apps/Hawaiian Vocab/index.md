@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Hawaiian Vocab
 aliases:
   - Hawaiian Vocab

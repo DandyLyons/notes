@@ -1,6 +1,6 @@
 ---
 aliases:
   - Open Source
-publish: true
+publish: false
 title: Open Source
 ---

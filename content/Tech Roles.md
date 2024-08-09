@@ -1,1 +1,0 @@
-- [TechRolepedia - A wiki for tech job roles • Thriving Technologist](https://thrivingtechnologist.com/resources/techrolepedia/) 

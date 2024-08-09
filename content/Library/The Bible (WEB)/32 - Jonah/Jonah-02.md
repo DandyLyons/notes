@@ -1,8 +1,8 @@
 ---
-publish: true
 title: Jonah 2
 aliases:
   - Jonah 2
+publish: true
 ---
 
 [[Jonah-01|← Jonah 01]] | [[Jonah]] | [[Jonah-03|Jonah 03 →]]

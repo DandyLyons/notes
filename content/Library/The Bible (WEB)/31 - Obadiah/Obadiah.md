@@ -1,3 +1,6 @@
+---
+publish: true
+---
 links: [[Library/The Bible (WEB)/index]]
 # Obadiah
 

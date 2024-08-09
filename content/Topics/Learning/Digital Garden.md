@@ -39,6 +39,6 @@ The other important thing to understand is that since the intentions of a digita
 >Just because any piece of content is on this site, does not mean that I claim it is my own original idea. In fact the assumption should be made that it is not my original idea, unless otherwise noted. 
 
 In particular, the parts of this site that are more "polished", that are "my own" are: 
-- [[Releases/index|Releases]]: The section where I share things that I have built and would like to share in one way or another. 
+- [[My Releases/index|Releases]]: The section where I share things that I have built and would like to share in one way or another. 
 - [[Blog/index|Blog]] 
 
