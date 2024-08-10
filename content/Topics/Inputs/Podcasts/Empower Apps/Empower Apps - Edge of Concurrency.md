@@ -1,9 +1,11 @@
 ---
 subjects:
   - "[[Topics/Software Development/Programming Languages/Swift/Concurrency/index|concurrency in Swift]]"
+publish: true
 ---
 Guest: [[Matt Massicote]]
 Subjects: [[Topics/Software Development/Programming Languages/Swift/Concurrency/index|concurrency in Swift]] 
+Notes: [Daniel's AI podcast notes from Edge of Concurrency with Matt Massicotte](https://share.snipd.com/episode-takeaways/a45296e2-cd96-4c48-b8ef-ce29c61e69be) 
 
 Episode notes: [Edge of Concurrency with Matt Massicotte](https://share.snipd.com/episode/8754a0a2-83ed-488b-b8c7-78683c30297c)
 ## Excerpts
