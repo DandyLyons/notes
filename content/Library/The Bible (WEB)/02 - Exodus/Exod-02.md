@@ -17,7 +17,7 @@ A man of the house of Levi went and took a daughter of Levi as his wife.
 The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months. 
 
 ###### v3 
-When she could no longer hide him, she took a papyrus basket for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river's bank. 
+When she could no longer hide him, she took a papyrus basket[^1] for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river's bank. 
 
 ###### v4 
 His sister stood far off, to see what would be done to him. 
@@ -91,5 +91,6 @@ God saw the children of Israel, and God was concerned about them.
 ---
 ## My Notes
 
----
-## Footnotes
+# Footnotes
+
+[^1]: The Hebrew word here means ark. It is the same word used to describe Noah’s Ark. 

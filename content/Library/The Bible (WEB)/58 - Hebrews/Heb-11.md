@@ -9,12 +9,12 @@ aliases:
 ***
 
 
-
+## The Hall of Faith
 ###### v1 
-Now faith is assurance of things hoped for, proof of things not seen. 
+Now [[faith]] is assurance of things hoped for, proof of things not seen. 
 
 ###### v2 
-For by this, the elders obtained testimony. 
+For by this, the elders obtained testimony.
 
 ###### v3 
 By faith, we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible. 
@@ -58,6 +58,7 @@ If indeed they had been thinking of that country from which they went out, they 
 ###### v16 
 But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them. 
 
+### Abraham, Isaac and Jacob
 ###### v17 
 By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son, 
 
@@ -75,6 +76,8 @@ By faith, Jacob, when he was dying, blessed each of the sons of Joseph, and wors
 
 ###### v22 
 By faith, Joseph, when his end was near, made mention of the departure of the children of Israel, and gave instructions concerning his bones. 
+
+### Moses
 
 ###### v23 
 By faith, Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king's commandment. 
@@ -94,6 +97,7 @@ By faith, he left Egypt, not fearing the wrath of the king; for he endured, as s
 ###### v28 
 By faith, he kept the Passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them. 
 
+### The Israelites After Moses
 ###### v29 
 By faith, they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up. 
 
@@ -135,6 +139,10 @@ God having provided some better thing concerning us, so that apart from us they 
 
 ---
 ## My Notes
+
+[[#v2]]: Is faith the absence of reason, logic and evidence? If so, then what would be the purpose of obtaining testimony? Faith is certainly not the rejection of evidence, but rather faith rests upon it. 
+
+[[#v26]]: **considering the reproach of Christ greater** : Isn't it interesting that Moses considered the *reproach* of Christ to be greater. One would expect Moses to consider the *riches* of Christ to be greater. Why would Moses want the reproaches of anyone? Who wants reproaches? One, the idea here expressed, is that Christ is so much greater than all the treasures of Egypt, that even the reproaches of Christ are to be treasured. Two, reproaches, actually can be a valuable treasure. As [[2 Tim-03#v16|2 Timothy 3:16]] says scripture is profitable *for reproof, for correction, for instruction in righteousness*. Remember *no discipline seems pleasant at the time, but afterwards it yields a harvest of righteousness*. ([[Heb-12#v11|Hebrews 12:11]])
 
 ---
 ## Footnotes

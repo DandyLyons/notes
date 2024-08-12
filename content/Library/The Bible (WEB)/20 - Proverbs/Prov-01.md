@@ -29,7 +29,7 @@ that the wise man may hear, and increase in learning; that the man of understand
 to understand a proverb and parables, the words and riddles of the wise. 
 
 ###### v7 
-The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom and instruction. 
+The fear of Yahweh is the beginning of [[knowledge]]; but the foolish despise [[wisdom]] and instruction. 
 
 ###### v8 
 My son, listen to your father's instruction, and don't forsake your mother's teaching: 
