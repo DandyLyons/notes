@@ -7,3 +7,6 @@ title: Professional Development
 speaker: Mark Lauterbach
 ---
 "Professional Development" refers to ==the process of gaining new skills and knowledge to improve job performance and career prospects==. 
+
+## Sources 
+- [[Using AI Effectively in your Job Hunt#Handout Unique Value Proposition (UVP)]] 

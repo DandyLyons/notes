@@ -9,7 +9,7 @@ Pages: 368
 Cover: http://books.google.com/books/content?id=PrEhzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Rating 0-5: 
 DateRead: 
-Status: 👀 Reading
+Status: 🔴 Dropped
 publish: false
 ---
 

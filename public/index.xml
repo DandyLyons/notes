@@ -6,65 +6,65 @@
       <description>Last 10 notes on Daniel&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Daniel&#039;s Dev Diary</title>
-    <link>https://dandylyons.github.io/Dev-Diary/</link>
-    <guid>https://dandylyons.github.io/Dev-Diary/</guid>
-    <description>2024-08-09 job copilot So the current plan is to: create initializers on my types so that they can convert back and forth to SwiftyJSONResum. My models will only be persisted with my own types.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:55 GMT</pubDate>
+    <title>Job Search in Software Development</title>
+    <link>https://dandylyons.github.io/Topics/Software-Development/Job-Search/</link>
+    <guid>https://dandylyons.github.io/Topics/Software-Development/Job-Search/</guid>
+    <description> Scope This section is dedicated to details about the job search endeavor that are unique to the field of software development.</description>
+    <pubDate>Thu, 15 Aug 2024 15:43:37 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://dandylyons.github.io/Topics/Email/</link>
-    <guid>https://dandylyons.github.io/Topics/Email/</guid>
-    <description>Stopping Email Overloading STOP Giving Your Real Email Address (do this instead) - YouTube .</description>
-    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
+    <title>Big O</title>
+    <link>https://dandylyons.github.io/Topics/Software-Development/Algorithms/Big-O</link>
+    <guid>https://dandylyons.github.io/Topics/Software-Development/Algorithms/Big-O</guid>
+    <description> Sources Cracking the Coding Interview .</description>
+    <pubDate>Thu, 15 Aug 2024 15:25:01 GMT</pubDate>
   </item><item>
-    <title>AI Tools I Like</title>
-    <link>https://dandylyons.github.io/Topics/AI/AI-Tools-I-Like</link>
-    <guid>https://dandylyons.github.io/Topics/AI/AI-Tools-I-Like</guid>
-    <description> Perplexity.ai ChatGPT Udio.com GitHub Copilot .</description>
-    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
+    <title>Cracking the Coding Interview</title>
+    <link>https://dandylyons.github.io/Topics/Inputs/Books/Cracking-the-Coding-Interview</link>
+    <guid>https://dandylyons.github.io/Topics/Inputs/Books/Cracking-the-Coding-Interview</guid>
+    <description> Cracking the Coding Interview Notable Quotables Takeaways Big O .</description>
+    <pubDate>Thu, 15 Aug 2024 15:21:45 GMT</pubDate>
   </item><item>
-    <title>copium</title>
-    <link>https://dandylyons.github.io/Topics/copium</link>
-    <guid>https://dandylyons.github.io/Topics/copium</guid>
-    <description>Copium is a word that means pretty much exactly what it sound like. It’s a portmanteau of cope and opium, and it is an all-too fitting description of the human condition.</description>
-    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
+    <title>Swift Concurrency Cheat Sheet</title>
+    <link>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</link>
+    <guid>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</guid>
+    <description>This page is intended to be a quick, glanceable view of Swift’s broad concurrency features. It holds a list of Code: language level keywords, protocols, attributes, types and methods.</description>
+    <pubDate>Mon, 12 Aug 2024 18:12:55 GMT</pubDate>
   </item><item>
-    <title>Journals Plugin</title>
-    <link>https://dandylyons.github.io/Journals-Plugin</link>
-    <guid>https://dandylyons.github.io/Journals-Plugin</guid>
-    <description> GitHubgithub.com/srg-kostyrko/obsidian-journalDocsObsidian URLobsidian://show-plugin?id=journals Syntax Supported Code Blocks .</description>
-    <pubDate>Fri, 09 Aug 2024 19:22:43 GMT</pubDate>
+    <title>Proverbs 1</title>
+    <link>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-01</link>
+    <guid>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-01</guid>
+    <description>Proverbs | Proverbs 02 → v1 The proverbs of Solomon, the son of David, king of Israel: v2 to know wisdom and instruction; to discern the words of understanding; v3 to receive instruction ...</description>
+    <pubDate>Mon, 12 Aug 2024 00:45:32 GMT</pubDate>
+  </item><item>
+    <title>Using AI Effectively in your Job Hunt</title>
+    <link>https://dandylyons.github.io/Topics/Inputs/Presentations/Using-AI-Effectively-in-your-Job-Hunt</link>
+    <guid>https://dandylyons.github.io/Topics/Inputs/Presentations/Using-AI-Effectively-in-your-Job-Hunt</guid>
+    <description>Handout: Unique Value Proposition (UVP) You need to describe your unique value in many forms, the first being a very concise sentence that makes it crystal clear to whomever you are ...</description>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Professional Development</title>
+    <link>https://dandylyons.github.io/Topics/Professional-Development/</link>
+    <guid>https://dandylyons.github.io/Topics/Professional-Development/</guid>
+    <description>“Professional Development” refers to the process of gaining new skills and knowledge to improve job performance and career prospects. Sources Handout Unique Value Proposition (UVP) .</description>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Hebrews 11</title>
+    <link>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-11</link>
+    <guid>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-11</guid>
+    <description>← Hebrews 10 | Hebrews | Hebrews 12 → The Hall of Faith v1 Now faith is assurance of things hoped for, proof of things not seen. v2 For by this, the elders obtained testimony.</description>
+    <pubDate>Sun, 11 Aug 2024 18:32:33 GMT</pubDate>
+  </item><item>
+    <title>Exodus 2</title>
+    <link>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-02</link>
+    <guid>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-02</guid>
+    <description>← Exodus 01 | Exodus | Exodus 03 → v1 A man of the house of Levi went and took a daughter of Levi as his wife. v2 The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months.</description>
+    <pubDate>Sun, 11 Aug 2024 16:31:33 GMT</pubDate>
   </item><item>
     <title>Inputs</title>
     <link>https://dandylyons.github.io/Topics/Inputs/</link>
     <guid>https://dandylyons.github.io/Topics/Inputs/</guid>
     <description> It’s not the outcomes. It&#039;s the inputs. The person who consumes from better sources, gets better thoughts. The person who asks better questions, gets better answers.</description>
-    <pubDate>Fri, 09 Aug 2024 03:28:47 GMT</pubDate>
-  </item><item>
-    <title>Responsive Text</title>
-    <link>https://dandylyons.github.io/Topics/Dreams/Responsive-Text</link>
-    <guid>https://dandylyons.github.io/Topics/Dreams/Responsive-Text</guid>
-    <description>Books as a format have remained largely unchanged since the printing press in the 1400’s. Magazines, newspapers, and pamphlets all existed but they were essentially the same medium: text on paper, sometime with images.</description>
-    <pubDate>Fri, 09 Aug 2024 03:28:47 GMT</pubDate>
-  </item><item>
-    <title>vim</title>
-    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/vim</link>
-    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/vim</guid>
-    <description> vim is easy Cheat Sheet Vim Cheat Sheet How to Search in Vim / Vi | Linuxize Learn VimGenius Getting Started .</description>
-    <pubDate>Fri, 09 Aug 2024 03:12:51 GMT</pubDate>
-  </item><item>
-    <title>Welcome to Dream. Build. Ship!</title>
-    <link>https://dandylyons.github.io/</link>
-    <guid>https://dandylyons.github.io/</guid>
-    <description>Hello and welcome to Dream. Build. Ship!, the personal website of Daniel Lyons. Here, I collect anything and everything that I find interesting, and think might be beneficial to someone else on the internet.</description>
-    <pubDate>Fri, 09 Aug 2024 03:12:51 GMT</pubDate>
-  </item><item>
-    <title>Probability Distribution</title>
-    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/Probability-Distribution</link>
-    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/Probability-Distribution</guid>
-    <description> A list of possible values. Each value is assigned a probability number The number must be between 0 and 1. The sum of all the numbers must be exactly 1.</description>
-    <pubDate>Fri, 09 Aug 2024 03:12:51 GMT</pubDate>
+    <pubDate>Sat, 10 Aug 2024 05:20:54 GMT</pubDate>
   </item>
     </channel>
   </rss>

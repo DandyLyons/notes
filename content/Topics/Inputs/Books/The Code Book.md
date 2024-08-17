@@ -8,9 +8,9 @@ Publisher: Fourth Estate (GB)
 PublishDate: 2000
 Pages: 402
 Cover: http://books.google.com/books/content?id=rK6YPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-Rating 0-5: 
+Rating 0-5: "5"
 DateRead: 
-Status: 🙏🏼 Want To Read
+Status: ✅ Read
 publish: true
 ---
 
