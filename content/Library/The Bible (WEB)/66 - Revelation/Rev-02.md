@@ -29,7 +29,7 @@ Remember therefore from where you have fallen, and repent and do the first works
 But this you have, that you hate the works of the Nicolaitans, which I also hate. 
 
 ###### v7 
-He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God. 
+He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the [[Paradise]] of my God. 
 
 ###### v8 
 "To the angel of the assembly in Smyrna write: "The first and the last, who was dead, and has come to life says these things: 

@@ -57,7 +57,7 @@ Yahweh God said to the serpent, "Because you have done this, you are cursed abov
 I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel."
 
 ###### v16
-To the woman he said, "I will greatly multiply your pain in childbirth. You will bear children in pain. Your desire will be for your husband, and he will rule over you."
+To the woman he said, "I will greatly multiply your pain in childbirth[^1]. You will bear children in pain. Your desire will be for your husband, and he will rule over you."
 
 ###### v17
 To Adam he said, "Because you have listened to your wife's voice, and have eaten from the tree, about which I commanded you, saying, 'You shall not eat of it,' the ground is cursed for your sake. You will eat from it with much labor all the days of your life.
@@ -66,7 +66,7 @@ To Adam he said, "Because you have listened to your wife's voice, and have eaten
 It will yield thorns and thistles to you; and you will eat the herb of the field.
 
 ###### v19
-You will eat bread by the sweat of your face until you return to the ground, for you were taken out of it. For you are dust, and you shall return to dust."
+You will eat bread by the sweat of your face until you return to the ground, for you were taken out of it. For you are [[dust]], and you shall return to dust."
 
 ###### v20
 The man called his wife Eve because she would be the mother of all the living.
@@ -92,4 +92,6 @@ So he drove out the man; and he placed cherubim at the east of the garden of Ede
  - [[Rev-20#v2|Revelation 20:2]] makes it clear that Satan is *the old serpent*, and *the dragon*, and *the devil*
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Notice, even in the curse of woman and man, God blesses them. To the woman, He blesses her with child, albeit with pain. To the man He blesses him with bread (food) albeit with toil. 

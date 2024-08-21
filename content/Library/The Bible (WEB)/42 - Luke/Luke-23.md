@@ -137,7 +137,7 @@ And we indeed justly, for we receive the due reward for our deeds, but this man 
 He said to Jesus, "Lord, remember me when you come into your Kingdom." 
 
 ###### v43 
-Jesus said to him, "Assuredly I tell you, today you will be with me in Paradise." 
+Jesus said to him, "Assuredly I tell you, today you will be with me in [[Paradise]]." 
 
 ###### v44 
 It was now about the sixth hour, and darkness came over the whole land until the ninth hour. 

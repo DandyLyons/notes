@@ -9,10 +9,11 @@ Pages: 558
 Cover: http://books.google.com/books/content?id=HjyvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 Rating 0-5: "5"
 DateRead: 2023-12-29
-Status: 
-topics:
-  - "[[Heroes]]"
-publish: false
+Status: ✅ Read
+topics: 
+publish: true
+subjects:
+  - "[[Elon Musk]]"
 ---
 
 ![cover|150](http://books.google.com/books/content?id=HjyvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

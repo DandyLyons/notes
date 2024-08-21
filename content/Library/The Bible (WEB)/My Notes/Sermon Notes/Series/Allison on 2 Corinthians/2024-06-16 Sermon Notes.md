@@ -5,12 +5,12 @@ speaker: "[[Archibald Allison]]"
 date: 2024-06-16
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[2 Cor-11#v14|2 Corinthians 11:14]]"
-sermon series: "[[Allison on 2 Corinthians]]"
+sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index]]"
 sermon link: 
 subjects:
   - "[[Satan]]"
 title: 
-takeaways:
+takeaways: 
 ---
 ## 💡Big Idea
 >- 

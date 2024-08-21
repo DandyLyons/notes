@@ -53,7 +53,7 @@ Happy is the man who finds wisdom, the man who gets understanding.
 For her good profit is better than getting silver, and her return is better than fine gold. 
 
 ###### v15 
-She is more precious than rubies. None of the things you can desire are to be compared to her. 
+She is more precious than rubies.[^1] None of the things you can desire are to be compared to her. 
 
 ###### v16 
 Length of days is in her right hand. In her left hand are riches and honor. 
@@ -122,4 +122,6 @@ The wise will inherit glory, but shame will be the promotion of fools.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: This is a reference to the [[Prov-31|Proverbs 31]] woman. 
