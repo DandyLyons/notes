@@ -1,5 +1,8 @@
 ---
 publish: true
+title: TipKit
+aliases:
+  - TipKit
 ---
  ![WWDC23: Make features discoverable with TipKit | Apple - YouTube](https://www.youtube.com/watch?v=yppA9-n0fL4&pp=ygUMYXBwbGUgdGlwa2l0)
 
@@ -15,6 +18,7 @@ publish: true
 - WWDC: 
 	- [Make features discoverable with TipKit - WWDC23 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2023/10229/)
 	- WWDC Notes: [Make features discoverable with TipKit | WWDC NOTES](https://www.wwdcnotes.com/notes/wwdc23/10229/) 
+	- [WWDC24: Customize feature discovery with TipKit](https://wwdcnotes.com/documentation/wwdcnotes/wwdc24-10070-customize-feature-discovery-with-tipkit) 
 
 ## TipView
 ### Styling

@@ -16,3 +16,6 @@ related:
 
 ## Deep Dives
 - [You Need to Document Your Swift Code with DocC - YouTube](https://www.youtube.com/watch?v=XEHZuy_VJmM) 
+
+### Linking
+- [Linking to native type extensions in DocC | Daniel Saidi](https://danielsaidi.com/blog/2024/03/21/linking-to-native-type-extensions-in-docc) 

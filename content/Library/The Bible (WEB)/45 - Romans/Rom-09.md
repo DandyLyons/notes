@@ -9,6 +9,7 @@ aliases:
 ***
 
 
+## Israel's Rejection of Christ
 
 ###### v1 
 I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit 
@@ -25,6 +26,7 @@ who are Israelites; whose is the adoption, the glory, the covenants, the giving 
 ###### v5 
 of whom are the fathers, and from whom is Christ as concerning the flesh, who is over all, God, blessed forever. Amen. 
 
+## Israel's Rejection and God's Purpose
 ###### v6 
 But it is not as though the word of God has come to nothing. For they are not all Israel that are of Israel. 
 

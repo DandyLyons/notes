@@ -24,11 +24,11 @@ Since tuples lacked the ability to conform to protocols, many developers stopped
 
 ### Typed throws
 
-Errors in Swift are always type-erased to `any Error`, which encourages writing generalized error handling code. Once [SE-413](https://github.com/apple/swift-evolution/blob/main/proposals/0413-typed-throws.md) has been implemented, functions and closures can throw concrete error types.
+- [Typed throws in Swift | Swift with Majid](https://swiftwithmajid.com/2024/08/20/typed-throws-in-swift/) 
 
 ## Swift 6 Language Mode
 - [Docs: Enabling the Swift 6 Language Mode](https://www.swift.org/migration/documentation/swift-6-concurrency-migration-guide/swift6mode) 
-
+- [Setting the Swift Language mode for an SPM Package – Donny Wals](https://www.donnywals.com/setting-the-swift-language-mode-for-an-spm-package/) 
 
 ## Sources
 - [Swift 6 New Features. Apple had earlier mentioned that there… | by Md. Ibrahim Hassan | Mar, 2024 | Swiftify](https://blog.swiftify.com/whats-new-in-swift-6-e875ca675a28) 

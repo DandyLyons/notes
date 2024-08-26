@@ -85,5 +85,9 @@ his body shall not remain all night on the tree, but you shall surely bury him t
 ---
 ## My Notes
 
+### notes on v23
+#### for he who is hanged is accursed of God
+See [[2024-08-25 Sermon Notes#^5999c2]] 
+
 ---
 ## Footnotes
