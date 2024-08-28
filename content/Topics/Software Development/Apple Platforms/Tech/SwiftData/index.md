@@ -17,6 +17,9 @@ See [[Topics/Software Development/Programming Languages/Swift/Concurrency/index]
 ## SwiftData + CloudKit
 - [https://www.compuscoop.com/advanced-swiftdata-and-icloud-syncing-the-complete-guide/](https://t.co/6RA7RIViXF) 
 
+## Gotchas
+- [Michael Tsai - Blog  -  Using Codable and Enums in SwiftData Models](https://mjtsai.com/blog/2024/08/26/using-codable-and-enums-in-swiftdata-models/) 
+
 # Footnotes
 
 [^1]: Though during [[WWDC '23]]
