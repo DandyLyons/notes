@@ -4,12 +4,15 @@ aliases:
   - Regular Expressions in Swift
   - Regex in Swift
 ---
-
+- See also: [[Topics/Software Development/Regular Expressions/index|Regular Expressions]] 
 - [Regex | Apple Developer Documentation](https://developer.apple.com/documentation/swift/regex)
 - [WWDC22 Regex: Beyond the Basics](https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110358-swift-regex-beyond-the-basics/) 
 ## Deep Dives
 - [Swift Regex Deep Dive | Intro to Regular Expressions | Big Nerd Ranch](https://bignerdranch.com/blog/swift-regex/) 
 - [Swift Regex with practical examples | Medium](https://blorenzop.medium.com/swift-regex-56eaf81e6d1e)
+
+## Playgrounds
+- [Swift Regex.com](https://swiftregex.com)
 
 ## Overview
 Regular expressions are a concise way of describing a pattern, which can help you match or extract portions of a string. You can create a `Regex` instance using regular expression syntax, either in a regex literal or a string.

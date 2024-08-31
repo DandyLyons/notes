@@ -1,5 +1,6 @@
 ---
 publish: false
+deprecated: true
 ---
 *This privacy policy was last updated on May 31, 2024.*
 

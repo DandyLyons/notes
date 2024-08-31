@@ -1,7 +1,10 @@
 ---
 publish: true
 ---
+[Swift Testing - Xcode - Apple Developer](https://developer.apple.com/xcode/swift-testing/) 
 ## Docs
+- [GitHub](https://github.com/swiftlang/swift-testing)
+- [Documentation](https://swiftpackageindex.com/swiftlang/swift-testing/main/documentation/testing)
 - [WWDC24: Meet Swift Testing | Apple - YouTube](https://www.youtube.com/watch?v=WFnkNcvLnCI&pp=ygUNc3dpZnQgdGVzdGluZw%3D%3D)
 - [WWDC24: Go further with Swift Testing | Apple - YouTube](https://www.youtube.com/watch?v=bOvWGHi-BxI&t=5s&pp=ygUNc3dpZnQgdGVzdGluZw%3D%3D)
 
@@ -25,3 +28,17 @@ To guarantee that a test suite is run in a particular order use `@Suite(.seriali
 
 ## Migrating from XCTest
 ### Use `Issue.record` instead of `XCTFail`
+
+## Passing in parameters into a test
+```swift
+@Test("Continents mentioned in videos", arguments: [
+    "A Beach",
+    "By the Lake",
+    "Camping in the Woods"
+])
+func mentionedContinents(videoName: String) async throws {
+    let videoLibrary = try await VideoLibrary()
+    let video = try #require(await videoLibrary.video(named: videoName))
+    #expect(video.mentionedContinents.count <= 3)
+}
+```

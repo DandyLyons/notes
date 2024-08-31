@@ -6,6 +6,7 @@ title: TCACalc
 aliases:
   - TCACalc
 repo: https://github.com/DandyLyons/TCACalc
+deprecated: true
 ---
 # TCACalc
 

@@ -1,6 +1,8 @@
 ---
 title: Hugo
 publish: true
+aliases:
+  - Hugo
 ---
 
 

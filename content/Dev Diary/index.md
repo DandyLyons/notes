@@ -2,7 +2,7 @@
 title: Daniel's Dev Diary
 aliases:
   - Daniel's Dev Diary
-publish: true
+publish: false
 ---
 ## [[2024-08-09]]
 

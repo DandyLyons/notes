@@ -3,6 +3,7 @@ publish: false
 title: AestheText
 aliases:
   - AestheText
+deprecated: true
 ---
 *AestheText*.
 Aesthetic Text.

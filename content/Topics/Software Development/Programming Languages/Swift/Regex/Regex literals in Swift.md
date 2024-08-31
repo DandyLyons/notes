@@ -9,19 +9,29 @@ Swift Regex literal are compatible with Python, Perl and many others.
 // Regex literals
 let digits = /\d+/
 // digits: Regex<Substring>
-
-// Run-time construction
-let runtimeString = #"\d+"#
-let digits = try Regex(runtimeString)
-// digits: Regex<AnyRegexOutput>
 ```
 
+## Syntax for Regex literals
+Each language has its own "flavor" for (literal) regex syntax.
+
+The Swift implementation is closely related to ICU (see [ICU documentation](https://unicode-org.github.io/icu/userguide/strings/regexp.html)). 
+
+- Swift Regex literals start and end with `/`
+- Strongly typed capturing groups
+	- literals infer the strong types for all the internal captures
+
+
+
 ## Extended Delimiters
-See: [Meet Swift Regex WWDC22](https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110357-meet-swift-regex/) at 10:45
+Syntax: 
+- starts with `#/` and ends with `/#` 
+- See: [Meet Swift Regex WWDC22](https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110357-meet-swift-regex/) at 10:45
+- See: [WWDC22 Swift Regex: Beyond the Basics](https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110358-swift-regex-beyond-the-basics/) at 8:40 
 
 When using extended delimiters: 
 - slashes do not need to be escaped
-- whitespace is ignored
+- allows non-semantic whitespaces: 
+	- whitespace is ignored
 - below `date` is a named capture 
 ```swift
 let regex = #/

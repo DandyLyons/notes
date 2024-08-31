@@ -3,6 +3,7 @@ publish: false
 title: Hawaiian Vocab
 aliases:
   - Hawaiian Vocab
+deprecated: true
 ---
 - [App Site](https://dream-build-ship.notion.site/Hawai-ian-Vocab-App-b7516edb310b462aa725741e99ae0f73)
 - [Privacy Policy](https://dream-build-ship.notion.site/Privacy-Policy-de011d813e4f42f6a8a20d431799f134)
