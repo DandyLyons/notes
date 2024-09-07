@@ -8,7 +8,7 @@ aliases:
 - [Migrating to Swift 6 | Documentation](https://www.swift.org/migration/documentation/migrationguide/) 
 
 ## New Features
-- htt
+- [What's new in Swift 6.0](https://www.hackingwithswift.com/swift/6.0) 
 
 ### Expression macro as caller-side argument
 
