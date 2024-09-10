@@ -1,0 +1,74 @@
+---
+publish: true
+---
+Speaker: Becky Farone
+URL: https://hireready.heysummit.com/talks/networking-workshop/
+
+- Networking is really helpful
+- Why networking matters (and why it's actually exciting)
+	- You often feel like you don't have much choice, control, connection, creativity, trust, growth
+	- Networking helps with all of these. 
+	- Trust: Networking allows others to establish trust for you
+		- They vouch for you
+- Your networking superpower is **authenticity**: 
+	- the more you try to be someone else, you end up in the wrong job
+- **Design thinking**
+	- A problem solving methodology from the design
+	- ![[Screenshot 2024-09-05 at 1.08.38 PM.png]]
+	- Similar to PDCA: (plan, do, check, act)
+	- Similar to Agile
+	- Step 1: Empathize: 
+		- Understanding others **and** yourself
+		- *Who are you?*
+			- Present. Past. Future. 
+			- ![[Screenshot 2024-09-05 at 1.13.17 PM.png]]
+		- *What is important to you now in your work/career?* 
+		- *What does your community care about?* 
+		- *What do you stand for?* (values)
+		- *Who are you? How can you best explain that to your network?* 
+		- What type of networking suits you best? 
+	- Step 2: Define
+		- Clarify your networking targets? 
+		- What type of people will you connect with?
+		- Who do you know in each type, or category? 
+		- What are you asking for? 
+		- Why do you think this type of person can help? 
+		- The Career Networking Persona Organizer
+			- Spreadsheet: [Fireworks Coaching Networking Organizer - 083024 - Google Drive](https://docs.google.com/spreadsheets/d/1-q6k48i1Am7XawaDoIhPHulN-avAXP-hL3ibJirDmhA/edit?gid=1185666861#gid=1185666861) 
+				- Click File > Make a copy to edit your own copy
+			- ![[Screenshot 2024-09-05 at 1.16.27 PM.png]]
+			- a tool to keep track of people you know in your network
+			- similar to a CMS
+			- This is an **ongoing process**. It should be done periodically, even when you are not actively job seeking. 
+	- Step 3: ideate
+		- Ask yourself *Who might I know*
+	- Step 4: Prototype
+		- Experiment
+		- Start with people who are friendly with you
+		- Just DO it. 
+		- Track results - what worked? What didn't? 
+	- Step 5: Test and Repeat
+		- make it a daily habit
+		- keep track of your progress
+		- check and adjust
+		- keep your network alive
+		- be of service to others
+
+- What to ask for? 
+	- Make it easy for someone to say yes.
+		- Offer scheduling times
+			- try using Calendly or similar tools. 
+	- Make it genuine
+	- Ideas of what to ask for: 
+		- An update, a thank you, an intro request, an appreciation, an offering, ask if you can take them out for coffee or beer
+- 
+
+- Introverted? Try this: 
+	- Ask someone you know if they can introduce you to someone you don't know
+- Overcoming networking challenges: 
+	- Nervous? 
+		- focus on where is the joy? What's in it for you. 
+	- Made a mistake? 
+		- focus on what did you learn? 
+	- Procrastinating? 
+		- focus on what will you gain if you do reach out. 

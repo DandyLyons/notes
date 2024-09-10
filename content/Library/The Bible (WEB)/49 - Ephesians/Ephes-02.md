@@ -3,6 +3,8 @@ publish: true
 title: Ephesians 2
 aliases:
   - Ephesians 2
+subjects:
+  - "[[grace]]"
 ---
 
 [[Ephes-01|← Ephesians 01]] | [[Ephesians]] | [[Ephes-03|Ephesians 03 →]]

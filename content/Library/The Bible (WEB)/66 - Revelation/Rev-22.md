@@ -14,7 +14,7 @@ aliases:
 He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb, 
 
 ###### v2 
-in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations. 
+in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month[^1]. The leaves of the tree were for the healing of the nations. 
 
 ###### v3 
 There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants will serve him. 
@@ -80,4 +80,6 @@ The grace of the Lord Jesus Christ be with all the saints. Amen.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: There are still months, and yet no moon. 
