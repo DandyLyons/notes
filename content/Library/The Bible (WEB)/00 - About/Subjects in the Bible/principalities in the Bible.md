@@ -1,6 +1,7 @@
 ---
 aliases:
   - principalities
+publish: true
 ---
 ## Relevant Passages
 - [[Ephes-02#v2|Ephesians 2:2]] 
