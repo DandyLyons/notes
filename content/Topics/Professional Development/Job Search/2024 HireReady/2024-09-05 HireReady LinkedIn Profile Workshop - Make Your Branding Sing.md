@@ -1,6 +1,8 @@
 ---
 publish: true
+media_link:
 ---
+- From: [[2024-09-05 HireReady Workshop]] 
 - Professional Headline: 
 	- This is the section right below your name: 
 	- Focus on the top keywords: 

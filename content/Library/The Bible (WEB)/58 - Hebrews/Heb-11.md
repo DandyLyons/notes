@@ -29,19 +29,19 @@ By faith, Enoch was taken away, so that he wouldn't see death, and he was not fo
 Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him. 
 
 ###### v7 
-By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith. 
+By faith, [[Noah]], being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith. 
 
 ###### v8 
-By faith, Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went. 
+By faith, [[Abraham]], when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went. 
 
 ###### v9 
-By faith, he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise. 
+By faith, he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with [[Isaac]] and [[Jacob]], the heirs with him of the same promise. 
 
 ###### v10 
 For he looked for the city which has the foundations, whose builder and maker is God. 
 
 ###### v11 
-By faith, even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised. 
+By faith, even [[Sarah]] herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised. 
 
 ###### v12 
 Therefore as many as the stars of the sky in multitude, and as innumerable as the sand which is by the sea shore, were fathered by one man, and him as good as dead. 
@@ -60,10 +60,10 @@ But now they desire a better country, that is, a heavenly one. Therefore God is 
 
 ### Abraham, Isaac and Jacob
 ###### v17 
-By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son, 
+By faith, [[Abraham]], being tested, offered up [[Isaac]]. Yes, he who had gladly received the promises was offering up his one and only son, 
 
 ###### v18 
-to whom it was said, "Your offspring will be accounted as from Isaac,"  
+to whom it was [[Gen-20#v12|said]], "Your offspring will be accounted as from Isaac,"  
 
 ###### v19 
 concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead. 
@@ -80,7 +80,7 @@ By faith, Joseph, when his end was near, made mention of the departure of the ch
 ### Moses
 
 ###### v23 
-By faith, Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king's commandment. 
+By faith, [[Moses]], when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king's commandment. 
 
 ###### v24 
 By faith, Moses, when he had grown up, refused to be called the son of Pharaoh's daughter, 
@@ -108,7 +108,7 @@ By faith, the walls of Jericho fell down, after they had been encircled for seve
 By faith, [[Rahab]] the prostitute didn't perish with those who were disobedient, having received the spies in peace. 
 
 ###### v32 
-What more shall I say? For the time would fail me if I told of Gideon, Barak, [[Samson]], Jephthah, [[David]], [[Samuel]], and the prophets, 
+What more shall I say? For the time would fail me if I told of [[Gideon]], [[Barak]], [[Samson]], [[Jephthah]], [[David]], [[Samuel]], and the prophets, 
 
 ###### v33 
 who through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions, 

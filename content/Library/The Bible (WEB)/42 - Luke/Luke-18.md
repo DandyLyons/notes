@@ -37,6 +37,7 @@ I tell you that he will avenge them quickly. Nevertheless, when the Son of Man c
 ###### v9 
 He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others. 
 
+### The Parable of the Pharisee and the Tax Collector
 ###### v10 
 "Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector. 
 
@@ -52,6 +53,7 @@ But the tax collector, standing far away, wouldn't even lift up his eyes to heav
 ###### v14 
 I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted." 
 
+### Jesus Blesses the Little Children 
 ###### v15 
 They were also bringing their babies to him, that he might touch them. But when the disciples saw it, they rebuked them. 
 

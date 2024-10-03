@@ -17,8 +17,7 @@ aliases:
 - [[#Expo]]
 - [[Ignite in React Native|Ignite]]
 
-## Expo
- 
+## Expo 
 - [Expo is now the officially recommended way to set up React Native](https://reactnative.dev/blog/2024/06/25/use-a-framework-to-build-react-native-apps) 
 	- [Analysis by theo - YouTube](https://www.youtube.com/watch?v=ek_IdGC0G80) 
 	- [The advantages of using  Expo - YouTube](https://www.youtube.com/watch?v=gntZth3mIbM)

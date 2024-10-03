@@ -3,6 +3,8 @@ publish: true
 title: Matthew 26
 aliases:
   - Matthew 26
+subjects:
+  - "[[The Lord’s Supper|communion]]"
 ---
 
 [[Matt-25|← Matthew 25]] | [[Matthew]] | [[Matt-27|Matthew 27 →]]
@@ -85,6 +87,7 @@ The Son of Man goes even as it is written of him, but woe to that man through wh
 ###### v25 
 Judas, who betrayed him, answered, "It isn't me, is it, Rabbi?" He said to him, "You said it." 
 
+## Jesus Institutes the Lord’s Supper
 ###### v26 
 As they were eating, Jesus took bread, gave thanks for it, and broke it. He gave to the disciples and said, "Take, eat; this is my body." 
 

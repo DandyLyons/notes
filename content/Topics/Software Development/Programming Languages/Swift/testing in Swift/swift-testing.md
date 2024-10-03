@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Swift Testing
 ---
 [Swift Testing - Xcode - Apple Developer](https://developer.apple.com/xcode/swift-testing/) 
 ## Docs

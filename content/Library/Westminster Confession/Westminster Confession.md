@@ -359,7 +359,7 @@ All those that are justified, God vouchsafeth, in and for His only Son Jesus Chr
 ###### Of Baptism
 
 1. Baptism is a sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible church, but also to be unto him a sign and seal of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life: which sacrament is, by Christ’s own appointment, to be continued in His church until the end of the world.
-2. The outward element to be used in the sacrament is water, wherewith the party is to be baptized in the name of the Father, and of the Son, and of the Holy Ghost, by a minister of the gospel, lawfully called thereunto.
+2. The outward element to be used in the sacrament is water, wherewith the party is to be baptized in the name of the Father, and of the Son, and of the Holy Ghost, by a minister of the gospel, lawfully called thereunto.[^2] 
 3. Dipping of the person into the water is not necessary; but baptism is rightly administered by pouring or sprinkling water upon the person.
 4. Not only those that do actually profess faith in and obedience unto Christ, but also the infants of one or both believing parents are to be baptized.
 5. Although it be a great sin to contemn or neglect this ordinance, yet grace and salvation are not so inseparably annexed unto it as that no person can be regenerated or saved without it, or that all that are baptized are undoubtedly regenerated.
@@ -422,3 +422,4 @@ It is important to note that many words used in this confession have different m
 ## Footnotes
 
 [^1]: Here, *terrible* does not mean bad or wrong. Instead it just means something that is so great and powerful that it is awe-inspiring. 
+[^2]: In other words, only ordained ministers are permitted to baptize other. 

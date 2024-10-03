@@ -9,7 +9,7 @@ aliases:
 ***
 
 
-
+### Children and Parents
 ###### v1 
 Children, obey your parents in the Lord, for this is right. 
 
@@ -22,6 +22,7 @@ Children, obey your parents in the Lord, for this is right.
 ###### v4 
 You fathers, don't provoke your children to wrath, but nurture them in the discipline and instruction of the Lord. 
 
+### Servants
 ###### v5 
 Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ, 
 
@@ -40,6 +41,7 @@ You masters, do the same things to them, and give up threatening, knowing that h
 ###### v10 
 Finally, be strong in the Lord, and in the strength of his might. 
 
+### The Armor of God
 ###### v11 
 Put on the whole armor of God, that you may be able to stand against the wiles of the devil. 
 

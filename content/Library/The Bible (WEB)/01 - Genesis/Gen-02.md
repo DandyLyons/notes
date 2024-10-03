@@ -65,7 +65,7 @@ but you shall not eat of the tree of the knowledge of good and evil; for in the 
 Yahweh God said, "It is not good for the man to be alone. I will make him a helper comparable to him."
 
 ###### v19
-Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name.
+Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them.[^1] Whatever the man called every living creature became its name.
 
 ###### v20
 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him.
@@ -92,4 +92,6 @@ The man and his wife were both naked, and they were not ashamed.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Here God gives mankind intellectual labor. And it is labor. 

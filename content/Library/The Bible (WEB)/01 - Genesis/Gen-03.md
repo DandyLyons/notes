@@ -3,6 +3,8 @@ publish: true
 title: Genesis 3
 aliases:
   - Genesis 3
+subjects:
+  - "[[labor]]"
 ---
 [[#My Notes]] 
 [[Gen-02|← Genesis 02]] | [[Genesis]] | [[Gen-04|Genesis 04 →]]
@@ -90,6 +92,8 @@ So he drove out the man; and he placed cherubim at the east of the garden of Ede
 ## My Notes
 ### notes on v1
  - [[Rev-20#v2|Revelation 20:2]] makes it clear that Satan is *the old serpent*, and *the dragon*, and *the devil*
+
+### notes on v15
 
 ---
 # Footnotes

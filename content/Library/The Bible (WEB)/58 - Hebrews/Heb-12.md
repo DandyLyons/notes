@@ -14,7 +14,7 @@ aliases:
 Therefore let's also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let's run with perseverance the race that is set before us, 
 
 ###### v2 
-looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God. 
+looking to Jesus, the author and perfecter of [[faith]], who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God. 
 
 ###### v3 
 For consider him who has endured such contradiction of sinners against himself, that you don't grow weary, fainting in your souls. 
