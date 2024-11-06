@@ -37,7 +37,7 @@ publish: true
 	- There are over 500 million people living in North America and yet only 500 thousand NAPARC (North American Protestant and Reformed Church going people). 
 	- Samson, the judge also did what was right in his own eyes. Living in sin. 
 - How did it come to this point where Samson was captured by the Philistines in Gaze and blinded and chained? 
-	- We can see that there was tremendous **pride** in Samson. 
+	- We can see that there was tremendous **[[pride]]** in Samson. 
 		- His pride was not entirely unfounded. On many occasions he had bested his enemies with his tremendous strength.
 		- But this strength that he had was not from him but from God. 
 		- How often do we also have great pride in our own accomplishments yet ours are also from God. Everything that we have is from God. 

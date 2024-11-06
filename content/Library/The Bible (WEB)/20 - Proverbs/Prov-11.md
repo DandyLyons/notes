@@ -14,7 +14,7 @@ aliases:
 A false balance is an abomination to Yahweh, but accurate weights are his delight. 
 
 ###### v2 
-When pride comes, then comes shame, but with humility comes wisdom. 
+When [[pride]] comes, then comes shame, but with humility comes wisdom. 
 
 ###### v3 
 The integrity of the upright shall guide them, but the perverseness of the treacherous shall destroy them. 

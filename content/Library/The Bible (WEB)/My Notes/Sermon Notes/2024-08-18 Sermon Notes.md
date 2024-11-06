@@ -38,7 +38,7 @@ takeaways:
 - God provides for all of the needs of our physical body.
 	- Food, clothing, water, air and so much more. 
 - **Everything comes to us from the good hand of God to meet our daily needs.** 
-	- We ought to have humility. It is not us who provide for our needs, but God. 
+	- We ought to have [[humility]]. It is not us who provide for our needs, but God. 
 	- Pay attention to how little we deserve, and yet how much we receive from God. 
 		- We deserve death and hell for the sinners we are, and yet God gives us such grace. 
 		- We ought to praise and thank the LORD for each and every blessing. 
@@ -50,7 +50,7 @@ takeaways:
 		- This path does not lead to happiness, for you will always want more, feel entitled to more, and feel disappointed with what you have. 
 - This text is not a list of demands for us to place upon God. It is all for the glory and praise of God. 
 	- These blessings are not for just our benefit, but for His glory and praise. 
-	- We should bow before God's providence, in humility. 
+	- We should bow before God's providence, in [[humility]]. 
 	- Riches tempt us to become proud like Pharaoh, who denied God. 
 		- It is so easy for us to covet what others have. 
 		- Riches cause us to desire materials and luxury, but these things do not satisfy the deepest longings of our hearts. 
@@ -86,7 +86,7 @@ takeaways:
 	- [[Phil-02#v14|Philippians 2:14-16]] *do all things without complaining*
 	- No believer has any reason to complain
 - 3. this text is a cure for [[envy]]
-	- <u>Envy is thinking that someone has what you should have</u>
+	- <u>[[Envy]] is thinking that someone has what you should have</u>
 	- You are not entitled to anything you have. 
 	- It is God's right to do whatever He wants with all that He has made. 
 		- [[Matt-20#v13|Matthew 20:13-16]] 

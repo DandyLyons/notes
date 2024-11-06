@@ -3,6 +3,9 @@ publish: true
 ---
 You can write and build Swift code in [[VS Code]]. Make sure to download the [official Swift extension](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang) inside of VS Code. 
 
+## Demo
+- [[Video - Building Swift Packages in VSCode - Tim Condon - Swift Heroes 2022]] 
+
 ## How to build
 To build Swift code in Visual Studio Code, you need to set up a task that will run the Swift compiler. Here's how you can do it:
 

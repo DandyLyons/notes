@@ -1,7 +1,7 @@
 ---
 Title: Tress of the Emerald Sea
 Subtitle: 
-Authors: Brandon Sanderson
+Authors: "[[Brandon Sanderson]]"
 Category: 
 Publisher: 
 PublishDate: 2023

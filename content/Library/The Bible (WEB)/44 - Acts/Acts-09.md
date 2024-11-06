@@ -23,7 +23,7 @@ As he traveled, he got close to Damascus, and suddenly a light from the sky shon
 He fell on the earth, and heard a voice saying to him, "Saul, Saul, why do you persecute me?" 
 
 ###### v5 
-He said, "Who are you, Lord?" The Lord said, "I am Jesus, whom you are persecuting. 
+He said, "Who are you, Lord?" The Lord said, "I am Jesus, whom you are persecuting. [^1]It is hard for you to kick against the goads.
 
 ###### v6 
 But rise up and enter into the city, then you will be told what you must do." 
@@ -147,4 +147,7 @@ He stayed many days in Joppa with a tanner named Simon.
 ## My Notes
 
 ---
-## Footnotes
+
+# Footnotes
+
+[^1]: omitted from the NU text, this is a reference to a goad which is used to prod a work animal 

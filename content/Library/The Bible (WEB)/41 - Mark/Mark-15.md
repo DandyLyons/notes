@@ -38,7 +38,7 @@ The multitude, crying aloud, began to ask him to do as he always did for them.
 Pilate answered them, saying, "Do you want me to release to you the King of the Jews?" 
 
 ###### v10 
-For he perceived that for envy the chief priests had delivered him up. 
+For he perceived that for [[envy]] the chief priests had delivered him up. 
 
 ###### v11 
 But the chief priests stirred up the multitude, that he should release Barabbas to them instead. 

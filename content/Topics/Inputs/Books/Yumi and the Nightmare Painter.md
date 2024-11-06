@@ -1,7 +1,7 @@
 ---
 Title: Yumi and the Nightmare Painter
 Subtitle: A Cosmere Novel
-Authors: Brandon Sanderson
+Authors: "[[Brandon Sanderson]]"
 Category: Fiction
 Publisher: Dragonsteel, LLC
 PublishDate: 2023-07-11

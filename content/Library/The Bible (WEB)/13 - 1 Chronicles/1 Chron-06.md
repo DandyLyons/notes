@@ -53,7 +53,7 @@ Shallum became the father of Hilkiah. Hilkiah became the father of Azariah.
 Azariah became the father of Seraiah. Seraiah became the father of Jehozadak. 
 
 ###### v15 
-Jehozadak went into captivity, when Yahweh carried Judah and Jerusalem away by the hand of Nebuchadnezzar. 
+Jehozadak went into captivity, when Yahweh carried Judah and Jerusalem away by the hand of [[Nebuchadnezzar]]. 
 
 ###### v16 
 The sons of Levi: Gershom, Kohath, and Merari. 

@@ -42,13 +42,13 @@ publish: true
 		- Note: he is not concerned that he is exalted at all. He does not view exalting someone as inherently bad. 
 		- The problem comes when we exalt someone **more than they deserve**. 
 - **Why is it dangerous for a Christian to be exalted above measure?** 
-	- Allison: Devout exaltation, leads to self-exaltation (i.e. pride). 
+	- Allison: Devout exaltation, leads to self-exaltation (i.e. [[pride]]). 
 		- In other words, if we are regularly and overly praised, then we are at risk of becoming arrogant and puffed up with vanity. 
-	- Paul knew much and yet he also knew that he knew but a little. (An example of humility)
+	- Paul knew much and yet he also knew that he knew but a little. (An example of [[humility]])
 	- ❓: If Paul was in danger of arrogance, how much more are you and I in danger of it? 
 	- Most people like to be praised and flattered. 
 		- We should be wary of great praise.
-			- Why? Because we should recognize in ourselves, we have a tendency toward pride. 
+			- Why? Because we should recognize in ourselves, we have a tendency toward [[pride]]. 
 			- Pride is a great danger to **everyone**. 
 		- We must rejoice in spiritual success, but we must be on guard from pride. 
 			- (It would be ungrateful for us not to rejoice in spiritual success). 

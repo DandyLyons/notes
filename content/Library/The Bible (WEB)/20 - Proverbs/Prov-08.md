@@ -47,7 +47,7 @@ For wisdom is better than rubies. All the things that may be desired can't be co
 "I, wisdom, have made prudence my dwelling. Find out knowledge and discretion. 
 
 ###### v13 
-The fear of Yahweh is to hate evil. I hate pride, arrogance, the evil way, and the perverse mouth. 
+The fear of Yahweh is to hate evil. I hate [[pride]], arrogance, the evil way, and the perverse mouth. 
 
 ###### v14 
 Counsel and sound knowledge are mine. I have understanding and power. 

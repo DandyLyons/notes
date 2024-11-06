@@ -92,7 +92,74 @@ Link: [HireReady Resume Workshop](https://hireready.heysummit.com/talks/resume-w
 - Resume summary: [23:36](https://www.youtube.com/watch?t=1416&v=aRN3h1V3NIs)
 	- 1. **Original**: Be unique. Not many people could write this. 
 	- 2. Add value: Don't just be a synopsis of the rest of the summary
+	- 3. **Informal**: [14:42](https://www.youtube.com/watch?t=882&v=aRN3h1V3NIs)
+- 1. **Power verb**, 2. **Method/Skill**, 3. **Result**
+- ![[Screenshot 2024-09-05 at 10.16.08 AM.png]]
+- 1. **Power verb**: 
+	- e.g. built, improved, led
+- 2. **Method/Skill**: 
+	- How did you accomplish this? 
+- 3. **Result**: 
+	- Include the results as measurable metrics
+	- What if my accomplishments are not **measurable**? If I don't have metrics. 
+		- It is okay to estimate. It doesn't have to be exact. 
+		- Try to regularly write measurable results while you have the job (before you forget). 
+	- e.g. *resulting in*, *leading to*, 
+
+## How to Shorten Bullet Points
+[16:57](https://www.youtube.com/watch?t=1017&v=aRN3h1V3NIs)
+- <u>The **And** Technique</u>: (How to tell if your bullet point is too long)
+	- A technique to write more concisely
+	- Cmd+F and look for "`and`". 
+	- ⭐ The rule is **you should only have one "and" per sentence**
+		- If you have more, then it means you are trying to say too much in one sentence of bullet point. 
+
+## Word Count
+[18:38](https://www.youtube.com/watch?t=1118&v=aRN3h1V3NIs)
+- Word Count: 
+	- **Forget page count. Use word count instead**
+	- The ideal word count for a resume is **<u>500 words</u>**
+		- <u>early to mid career</u>: 350-500 words
+		- <u>15+ years experience</u>: 500-600 words
+	- When you increase word count, you are decreasing the probability that they will see your best assets. 
+- New mindset: "Your resume is the movie trailer, not the entire movie. Less is more." [21:21](https://www.youtube.com/watch?t=1281&v=aRN3h1V3NIs) 
+
+## Resume Summary: Adding Personality
+[21:56](https://www.youtube.com/watch?t=1316&v=aRN3h1V3NIs)
+- Challenge #3; Being human on paper
+- A resume is a dual purpose document
+	- Helps get an interview
+	- Once you've gotten the interview, the resume helps create a connection with the hiring manager / interviewer
+- Resume summary: [23:36](https://www.youtube.com/watch?t=1416&v=aRN3h1V3NIs)
+	- 1. **Original**: Be unique. Not many people could write this. 
+	- 2. Add value: Don't just be a synopsis of the rest of the summary
 	- 3. **Informal**: 
+	- Example: 
+		- ![[Screenshot 2024-09-05 at 10.26.15 AM.png]]
+		- **beat Mark Zuckerberg at hockey** was a conversation starter and interesting ice-breaker. 
+		- ![[Screenshot 2024-09-05 at 10.28.01 AM.png]]
+- Example of a **boring** summary without personality: 
+	- "*Experienced project manager with 5 years experience, self-driven, self-starter, workin gin the gaming industry for 10 years.*"
+- Takeaway: **Human beings hire human beings.**
+
+
+- This talk is not about 
+	- ![[Screenshot 2024-09-05 at 10.29.25 AM.png]]
+- Growth Hack Your Career: 
+	- ![[Screenshot 2024-09-05 at 10.30.28 AM.png]]
+
+## Q & A
+[31:59](https://www.youtube.com/watch?t=1919&v=aRN3h1V3NIs)
+
+### Metrics
+[31:59](https://www.youtube.com/watch?t=1919&v=aRN3h1V3NIs)
+- What if I don't have measurable accomplishments? We don't measure things. 
+	- **It is okay to estimate.**
+	- How many customers would you say come through the store? How many do you help a day? 
+	- It helps to have at least 3 or 4 numbers on your resume. 
+
+### ATS 
+- ATS issues: [35:21](https://www.youtube.com/watch?t=2121&v=aRN3h1V3NIs)
 	- Example: 
 		- ![[Screenshot 2024-09-05 at 10.26.15 AM.png]]
 		- **beat Mark Zuckerberg at hockey** was a conversation starter and interesting ice-breaker. 

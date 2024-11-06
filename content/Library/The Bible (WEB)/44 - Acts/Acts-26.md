@@ -37,6 +37,8 @@ Why is it judged incredible with you, if God does raise the dead?
 ###### v9 
 "I myself most certainly thought that I ought to do many things contrary to the name of Jesus of Nazareth. 
 
+## Paul Retells His Conversion
+See [[Acts-09|Acts 9]] 
 ###### v10 
 I also did this in Jerusalem. I both shut up many of the saints in prisons, having received authority from the chief priests, and when they were put to death I gave my vote against them. 
 

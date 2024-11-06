@@ -26,7 +26,7 @@ For to him who is joined with all the living there is hope; for a living dog is 
 For the living know that they will die, but the dead don't know anything, neither do they have any more a reward; for their memory is forgotten. 
 
 ###### v6 
-Also their love, their hatred, and their envy has perished long ago; neither do they any longer have a portion forever in anything that is done under the sun. 
+Also their love, their hatred, and their [[envy]] has perished long ago; neither do they any longer have a portion forever in anything that is done under the sun. 
 
 ###### v7 
 Go your way--eat your bread with joy, and drink your wine with a merry heart; for God has already accepted your works. 

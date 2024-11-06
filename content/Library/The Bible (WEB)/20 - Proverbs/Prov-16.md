@@ -62,7 +62,7 @@ How much better it is to get wisdom than gold! Yes, to get understanding is to b
 The highway of the upright is to depart from evil. He who keeps his way preserves his soul. 
 
 ###### v18 
-Pride goes before destruction, and an arrogant spirit before a fall. 
+[[Pride]] goes before destruction, and an arrogant spirit before a fall. 
 
 ###### v19 
 It is better to be of a lowly spirit with the poor, than to divide the plunder with the proud. 

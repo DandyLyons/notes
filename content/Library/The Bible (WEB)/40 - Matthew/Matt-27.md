@@ -65,7 +65,7 @@ They had then a notable prisoner called Barabbas.
 When therefore they were gathered together, Pilate said to them, "Whom do you want me to release to you? Barabbas, or Jesus who is called Christ?" 
 
 ###### v18 
-For he knew that because of envy they had delivered him up. 
+For he knew that because of [[envy]] they had delivered him up. 
 
 ###### v19 
 While he was sitting on the judgment seat, his wife sent to him, saying, "Have nothing to do with that righteous man, for I have suffered many things today in a dream because of him." 

@@ -119,7 +119,7 @@ All the inhabitants of the earth are reputed as nothing; and he does according t
 At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me. 
 
 ###### v37 
-Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.
+Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in [[pride]] he is able to abase.
 
 ***
 [[Dan-03|← Daniel 03]] | [[Daniel]] | [[Dan-05|Daniel 05 →]]

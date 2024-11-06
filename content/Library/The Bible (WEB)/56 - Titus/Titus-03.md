@@ -17,7 +17,7 @@ Remind them to be in subjection to rulers and to authorities, to be obedient, to
 to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. 
 
 ###### v3 
-For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another. 
+For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and [[envy]], hateful, and hating one another. 
 
 ###### v4 
 But when the kindness of God our Savior and his love toward mankind appeared, 

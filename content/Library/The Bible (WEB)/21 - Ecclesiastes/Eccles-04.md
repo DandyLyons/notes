@@ -20,7 +20,7 @@ Therefore I praised the dead who have been long dead more than the living who ar
 Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun. 
 
 ###### v4 
-Then I saw all the labor and achievement that is the envy of a man's neighbor. This also is vanity and a striving after wind. 
+Then I saw all the labor and achievement that is the [[envy]] of a man's neighbor. This also is vanity and a striving after wind. 
 
 ###### v5 
 The fool folds his hands together and ruins himself. 

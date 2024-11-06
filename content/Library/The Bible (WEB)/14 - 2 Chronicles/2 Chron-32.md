@@ -86,7 +86,7 @@ In those days Hezekiah was terminally ill, and he prayed to Yahweh; and he spoke
 But Hezekiah didn't reciprocate appropriate to the benefit done for him, because his heart was lifted up. Therefore there was wrath on him, and on Judah and Jerusalem. 
 
 ###### v26 
-Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that Yahweh's wrath didn't come on them in the days of Hezekiah. 
+Notwithstanding Hezekiah humbled himself for the [[pride]] of his heart, both he and the inhabitants of Jerusalem, so that Yahweh's wrath didn't come on them in the days of Hezekiah. 
 
 ###### v27 
 Hezekiah had exceedingly much riches and honor. He provided himself with treasuries for silver, for gold, for precious stones, for spices, for shields, and for all kinds of valuable vessels; 

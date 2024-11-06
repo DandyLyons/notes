@@ -80,7 +80,7 @@ A wise man scales the city of the mighty, and brings down the strength of its co
 Whoever guards his mouth and his tongue keeps his soul from troubles. 
 
 ###### v24 
-The proud and arrogant man--"Scoffer" is his name-- he works in the arrogance of pride. 
+The proud and arrogant man--"Scoffer" is his name-- he works in the arrogance of [[pride]]. 
 
 ###### v25 
 The desire of the sluggard kills him, for his hands refuse to labor. 

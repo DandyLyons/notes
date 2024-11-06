@@ -3,6 +3,7 @@ publish: true
 title: 1 Thessalonians 5
 aliases:
   - 1 Thessalonians 5
+media_link:
 ---
 
 [[1 Thess-04|← 1 Thessalonians 04]] | [[1 Thessalonians]]

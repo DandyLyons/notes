@@ -38,7 +38,7 @@ The ransom of a man's life is his riches, but the poor hear no threats.
 The light of the righteous shines brightly, but the lamp of the wicked is snuffed out. 
 
 ###### v10 
-Pride only breeds quarrels, but wisdom is with people who take advice. 
+[[Pride]] only breeds quarrels, but wisdom is with people who take advice. 
 
 ###### v11 
 Wealth gained dishonestly dwindles away, but he who gathers by hand makes it grow. 

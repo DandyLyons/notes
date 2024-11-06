@@ -77,7 +77,7 @@ He who pampers his servant from youth will have him become a son in the end.
 An angry man stirs up strife, and a wrathful man abounds in sin. 
 
 ###### v23 
-A man's pride brings him low, but one of lowly spirit gains honor. 
+A man's [[pride]] brings him low, but one of lowly spirit gains honor. 
 
 ###### v24 
 Whoever is an accomplice of a thief is an enemy of his own soul. He takes an oath, but dares not testify. 

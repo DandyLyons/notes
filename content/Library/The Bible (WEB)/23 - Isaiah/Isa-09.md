@@ -35,7 +35,7 @@ Of the increase of his government and of peace there shall be no end, on David's
 The Lord sent a word into Jacob, and it falls on Israel. 
 
 ###### v9 
-All the people will know, including Ephraim and the inhabitants of Samaria, who say in pride and in arrogance of heart, 
+All the people will know, including Ephraim and the inhabitants of Samaria, who say in [[pride]] and in arrogance of heart, 
 
 ###### v10 
 "The bricks have fallen, but we will build with cut stone. The sycamore fig trees have been cut down, but we will put cedars in their place." 

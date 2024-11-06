@@ -57,7 +57,7 @@ takeaways:
 - Do you serve others? You should. 
 	- [[Phil-02#v1|Philippians 2:1-8]] *Let each of you look out, not only for your own interests, but for the interests of others*
 		- Every true believer should have the mind of Christ: 
-			- namely **serving** others in unity, love, joy, sincerity, humility, selflessness and peace
+			- namely **serving** others in unity, love, joy, sincerity, [[humility]], selflessness and peace
 		- Stop serving yourself.
 		- Stop serving the devil. 
 		- Be reconciled to God. 

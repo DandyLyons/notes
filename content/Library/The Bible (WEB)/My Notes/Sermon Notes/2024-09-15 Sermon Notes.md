@@ -50,7 +50,7 @@ Therefore I take pleasure in weaknesses, in injuries, in necessities, in persecu
 	- Joseph became weak: beaten, sold as a slave, thrown into prison. 
 	- It was when Joseph became weak that he was humble enough to realize that he needed God. 
 - Case study: two debtors: [[Luke-07#v41|Luke 7:41]]
-- Humility benefits our Gospel witness. 
+- [[Humility]] benefits our Gospel witness. 
 	- When we realize that God could save us (wretched, weak and sinful as we are), then we realize, **wow, If God can save me, God can truly save anyone!** 
 - You will not find satisfaction when you come to the Lord's table, full. You must come empty, and hungry. Then you can eat and be satisfied. 
 - Benefits of weakness: 

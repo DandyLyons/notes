@@ -110,7 +110,7 @@ We are his witnesses of these things; and so also is the Holy Spirit, whom God h
 But they, when they heard this, were cut to the heart, and were determined to kill them. 
 
 ###### v34 
-But one stood up in the council, a Pharisee named Gamaliel, a teacher of the law, honored by all the people, and commanded to put the apostles out for a little while. 
+But one stood up in the council, a Pharisee named [[Gamaliel]], a teacher of the law, honored by all the people, and commanded to put the apostles out for a little while. 
 
 ###### v35 
 He said to them, "You men of Israel, be careful concerning these men, what you are about to do. 

@@ -74,7 +74,7 @@ He said, "That which proceeds out of the man, that defiles the man.
 For from within, out of the hearts of men, proceed evil thoughts, adulteries, sexual sins, murders, thefts, 
 
 ###### v22 
-covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness. 
+covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, [[pride]], and foolishness. 
 
 ###### v23 
 All these evil things come from within, and defile the man." 

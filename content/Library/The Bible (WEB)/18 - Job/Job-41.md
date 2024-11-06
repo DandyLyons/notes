@@ -11,7 +11,7 @@ aliases:
 
 
 ###### v1 
-"Can you draw out Leviathan with a fish hook, or press down his tongue with a cord? 
+"Can you draw out [[Leviathan]] with a fish hook, or press down his tongue with a cord? 
 
 ###### v2 
 Can you put a rope into his nose, or pierce his jaw through with a hook? 

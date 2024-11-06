@@ -56,7 +56,7 @@ I have written to you, fathers, because you know him who is from the beginning. 
 Don't love the world or the things that are in the world. If anyone loves the world, the Father's love isn't in him. 
 
 ###### v16 
-For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, isn't the Father's, but is the world's. 
+For all that is in the world, the lust of the flesh, the lust of the eyes, and the [[pride]] of life, isn't the Father's, but is the world's. 
 
 ###### v17 
 The world is passing away with its lusts, but he who does God's will remains forever. 

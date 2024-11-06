@@ -1,7 +1,7 @@
 ---
 Title: The Sunlit Man
 Subtitle: A Cosmere Novel
-Authors: Brandon Sanderson
+Authors: "[[Brandon Sanderson]]"
 Category: Fiction
 Publisher: Dragonsteel, LLC
 PublishDate: 2023-10-10

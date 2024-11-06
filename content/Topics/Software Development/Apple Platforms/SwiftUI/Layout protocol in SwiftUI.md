@@ -20,7 +20,8 @@ publish: true
 - [[#SwiftUI Lab Deep Dive]]
 - [The Layout Protocol - Swift Talk - objc.io](https://talk.objc.io/episodes/S01E308-the-layout-protocol?t=489)
 - [SwiftUI Layout： The Mystery of Size | Fatbobman's Blog](https://fatbobman.com/en/posts/layout-dimensions-1/)
-
+- [SwiftUI Field Guide](https://www.swiftuifieldguide.com/)
+	- [Chris Eidhof: Deep dive into SwiftUI – mDevCamp 2024 - YouTube](https://www.youtube.com/watch?v=lm2Q3BU9dsg) 
 ### SwiftUI Lab Deep Dive
 - [The SwiftUI Layout Protocol - Part 1 - The SwiftUI Lab](https://swiftui-lab.com/layout-protocol-part-1/) 
 	- [What is the Layout Protocol?](https://swiftui-lab.com/layout-protocol-part-1/#whatis)

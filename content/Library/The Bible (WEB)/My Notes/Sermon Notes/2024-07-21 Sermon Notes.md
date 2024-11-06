@@ -65,7 +65,7 @@ in v23
 		- [[2 Cor-01#v7|2 Corinthians 1:7]] and if we partake of Christ's suffering, we will also partake of His comfort
 - These are the things which Paul boasts of:
 	- These are the things that give him authority to speak as an apostle
-	- These are the things which we also must derive our pride from
+	- These are the things which we also must derive our [[pride]] from
 		- Not from our merit, or lineage, or knowledge or anything else in ourselves
 		- But only from our <u>weakness</u> and the work and grace of Christ. : [[2 Cor-12#v5|2 Corinthians 12:5]]. 
 

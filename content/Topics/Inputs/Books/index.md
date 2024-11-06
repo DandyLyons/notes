@@ -4,6 +4,7 @@ aliases:
   - Books
 title: Books
 ---
+
 %%
 ```dataview
 TABLE status, authors

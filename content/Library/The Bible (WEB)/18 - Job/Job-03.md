@@ -32,7 +32,7 @@ As for that night, let thick darkness seize on it. Let it not rejoice among the 
 Behold, let that night be barren. Let no joyful voice come therein. 
 
 ###### v8 
-Let them curse it who curse the day, who are ready to rouse up leviathan. 
+Let them curse it who curse the day, who are ready to rouse up [[leviathan]]. 
 
 ###### v9 
 Let the stars of its twilight be dark. Let it look for light, but have none, neither let it see the eyelids of the morning, 
