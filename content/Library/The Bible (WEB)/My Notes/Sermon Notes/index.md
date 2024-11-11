@@ -7,7 +7,8 @@ aliases:
 ---
 %%
 ```dataview
-TABLE title, date FROM "Library/The Bible (WEB)/My Notes/Sermon Notes"
+TABLE title, date 
+FROM "Library/The Bible (WEB)/My Notes/Sermon Notes"
 SORT file.ctime DESC
 ```
 %%

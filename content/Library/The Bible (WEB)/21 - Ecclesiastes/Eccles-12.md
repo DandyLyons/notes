@@ -29,7 +29,7 @@ yes, they shall be afraid of heights, and terrors will be on the way; and the al
 before the silver cord is severed, or the golden bowl is broken, or the pitcher is broken at the spring, or the wheel broken at the cistern, 
 
 ###### v7 
-and the dust returns to the earth as it was, and the spirit returns to God who gave it. 
+and the dust returns to the earth as it was, and the [[The Holy Spirit|spirit]] returns to God who gave it. 
 
 ###### v8 
 "Vanity of vanities," says the Preacher. "All is vanity!" 
