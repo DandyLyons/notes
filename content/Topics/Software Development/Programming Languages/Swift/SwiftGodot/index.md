@@ -10,7 +10,7 @@ aliases:
 [SwiftGodot](https://swiftpackageindex.com/migueldeicaza/SwiftGodot) is a [[Topics/Software Development/Game Development/Game Engines/Godot/GDExtension/index|GDExtension]]. 
 
 ## Motivation
-- [[Swift Godot Fixing the Multi-million dollar mistake]]
+- [[Swift Godot Fixing the Multi-million dollar mistake]]: Creator, Miguel, explains his reasoning for creating SwiftGodot, as well as some of the philosophy behind its design. 
 
 ## Use Cases
 - [[Using Custom Swift Types within Godot Engine]] 
@@ -20,3 +20,4 @@ aliases:
 - IDE's: 
 	- [[Using SwiftGodot with Xcode]] 
 	- [[Using SwiftGodot with VS Code]] 
+- [[Hot Reloading in SwiftGodot]] 
