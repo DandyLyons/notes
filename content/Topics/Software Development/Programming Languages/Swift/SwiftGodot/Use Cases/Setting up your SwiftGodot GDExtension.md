@@ -12,6 +12,8 @@ publish: true
 2. [[#Build Your GDExtension in Terminal]] 
 3. [[#Copy the build targets into your Godot project]] 
 
+See also: [[#Using a Build Script]]. 
+
 ### Define you `.gdextension` file
 Define your [[The .gdextension file|.gdextension file]] in [[TOML]] syntax. 
 ### Example  `.gdextension` file for SwiftGodot
@@ -44,10 +46,10 @@ swift build --configuration debug
 See [docs tutorial Section 3](https://swiftpackageindex.com/migueldeicaza/swiftgodot/main/tutorials/swiftgodot/your-first-extension#Set-up-the-extension) step 5 and 6. 
 
 > [!Question] How do we automate this?
-> There must be a way to automate this so that it is quicker, easier and less error prone. Perhaps we should use a makefile or a script? 
+> There must be a way to automate this so that it is quicker, easier and less error prone. Perhaps we should use a makefile or a script?  See [[#Using a Build Script]]. 
 
 ## Using a Build Script 
-Here is an example build script[^1] which can be used to copy the build targets into your Godot project. 
+Here is an example build script[^1] which can be used to copy the build targets into your Godot project. And here is an [explanation](https://www.perplexity.ai/search/you-are-an-expert-at-godot-exp-IWU2FwreQgqGUpR8V0MjoQ) of how the script works.
 
 ```sh
 #!/bin/sh
