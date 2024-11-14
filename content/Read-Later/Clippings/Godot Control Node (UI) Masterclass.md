@@ -23,7 +23,13 @@ subjects:
 ### [0:00](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=0s) Intro
 
 ###  [0:50](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=50s) The Basics
+- **How transform works**. 
+- **Z-Axis:**[02:33](https://www.youtube.com/watch?t=153&v=5Hog6a0EYa0) nodes that are lower in the tree (left-sidebar) are stacked on top visually
+
 ###  [2:39](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=159s) Anchors
+See [[anchors in Godot]]
+-  **Anchors are used to  design layouts that work properly with any aspect ratio**. 
+- 
 ###  [4:48](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=288s) Anchor Offsets
 ###  [6:55](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=415s) Anchor Presets
 ###  [8:49](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=529s) Custom Minimum Size
