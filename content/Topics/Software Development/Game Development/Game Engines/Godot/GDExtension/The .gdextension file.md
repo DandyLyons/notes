@@ -5,9 +5,9 @@ This is the manifest that tells Godot how to load a [[Topics/Software Developmen
 ## Docs
 - [The .gdextension file](https://docs.godotengine.org/en/stable/tutorials/scripting/gdextension/gdextension_file.html) 
 
-## Syntax
-What is the syntax of the text within a `.gdextension` file? It looks like [[TOML]], but I haven't found anything in the docs to confirm this. 
-
+## Syntax 
+> [!question] Syntax
+> What is the syntax of the text within a `.gdextension` file? It looks like [[TOML]], but I haven't found anything in the docs to confirm this. 
 ## Example
 
 ```toml
@@ -26,6 +26,16 @@ linux.release.arm64 = "res://bin/libgdexample.linux.template_release.arm64.so"
 linux.debug.rv64 = "res://bin/libgdexample.linux.template_debug.rv64.so"
 linux.release.rv64 = "res://bin/libgdexample.linux.template_release.rv64.so"
 ```
+
+## Feature Flags
+The `.gdextension` file can define configurations to be applied based on certain [[Feature Tags]]. 
+
+
+> [!question] Order?
+> Does the order of the feature tags in a .gdextension file matter? For example, is there a difference between `macos.debug.arm64` and `macos.arm64.debug`? 
+
+
+
 
 ## Sections
 
