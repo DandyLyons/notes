@@ -21,3 +21,4 @@ aliases:
 	- [[Using SwiftGodot with Xcode]] 
 	- [[Using SwiftGodot with VS Code]] 
 - [[Hot Reloading in SwiftGodot]] 
+- [[Referencing Nodes from your Scene]] 

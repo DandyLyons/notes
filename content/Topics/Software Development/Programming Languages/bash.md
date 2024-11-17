@@ -1,13 +1,34 @@
 ---
 publish: true
+aliases:
+  - Bash shell
 ---
-Bash, short for Bourne-Again SHell, is a shell program and command language. 
+Bash, short for Bourne-Again SHell, is a shell program and [command language](https://en.wikipedia.org/wiki/Command_language). 
+
+
+> [!NOTE] Disambiguation
+> Not to be confused with the [[Bourne Shell]]. [[bash]] is effectively the newer more modern implementation of the Bourne shell. Most systems that use the Bourne shell are actually implemented with bash. However bash is not used everywhere. 
+
+
+## shebang
+To use bash use the following [[shebang]]: 
+```sh
+#!/bin/bash
+```
+
+### Portability
+Here's another shebang you could use: 
+```sh
+#!/usr/bin/env bash
+```
+
+[Using `#!/usr/bin/env bash` vs. `#!/bin/bash`](https://www.perplexity.ai/search/explain-usr-bin-env-bash-vs-bi-vrTmxUuBQGmTQDEC8IQ.Qw). 
 
 ## Cheatsheet
 - [Bash scripting cheatsheet](https://devhints.io/bash) 
 
 From [Learn Bash in Y Minutes](https://learnxinyminutes.com/docs/bash/):
-```bash
+```sh
 #!/usr/bin/env bash
 # First line of the script is the shebang which tells the system how to execute
 # the script: https://en.wikipedia.org/wiki/Shebang_(Unix)
@@ -495,3 +516,8 @@ info bash 'Bash Features'
 info bash 6
 info --apropos bash
 ```
+
+## Syntax
+[[bash]] syntax is effectively a superset of [[Bourne Shell]] syntax. So most bash syntax will be covered in [[bash#Cheatsheet]] or [[Bourne Shell#Syntax]]. This section will focus on bash differences from Bourne shell. **Most differences are additive, meaning that bash is designed to backwards compatible with Bourne shell while adding new features.** So in general: 
+1. Bourne shell scripts will typically run correctly in bash but
+2. bash scripts will not always run in Bourne shell (particularly if they require new features). 

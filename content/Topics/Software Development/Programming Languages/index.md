@@ -1,5 +1,8 @@
 ---
 publish: true
+title: Programming Languages
+aliases:
+  - Programming Languages
 ---
 
 |             | Swift          | TypeScript                    | Python             | Go                 |
