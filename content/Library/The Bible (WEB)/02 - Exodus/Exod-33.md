@@ -61,6 +61,7 @@ For how would people know that I have found favor in your sight, I and your peop
 ###### v17 
 Yahweh said to Moses, "I will do this thing also that you have spoken; for you have found favor in my sight, and I know you by name." 
 
+### God Shows His Glory to Moses
 ###### v18 
 Moses said, "Please show me your glory." 
 
@@ -74,7 +75,7 @@ He said, "You cannot see my face, for man may not see me and live."
 Yahweh also said, "Behold, there is a place by me, and you shall stand on the rock. 
 
 ###### v22 
-It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by; 
+It will happen, while [[God's glory|my glory]] passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by; 
 
 ###### v23 
 then I will take away my hand, and you will see my back; but my face shall not be seen."

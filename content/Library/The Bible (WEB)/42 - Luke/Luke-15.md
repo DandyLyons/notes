@@ -8,7 +8,7 @@ aliases:
 [[Luke-14|← Luke 14]] | [[Luke]] | [[Luke-16|Luke 16 →]]
 ***
 
-
+### The Parable of the Lost Sheep
 
 ###### v1 
 Now all the tax collectors and sinners were coming close to him to hear him. 
@@ -20,7 +20,7 @@ The Pharisees and the scribes murmured, saying, "This man welcomes sinners, and 
 He told them this parable. 
 
 ###### v4 
-"Which of you men, if you had one hundred sheep, and lost one of them, wouldn't leave the ninety-nine in the wilderness, and go after the one that was lost, until he found it? 
+"Which of you men, if you had ==one hundre==d sheep, and lost one of them, wouldn't leave the ==ninety-nine== in the wilderness, and go after the ==one== that was lost, until he found it? 
 
 ###### v5 
 When he has found it, he carries it on his shoulders, rejoicing. 
@@ -31,8 +31,9 @@ When he comes home, he calls together his friends and his neighbors, saying to t
 ###### v7 
 I tell you that even so there will be more joy in heaven over one sinner who repents, than over ninety-nine righteous people who need no repentance. 
 
+### The Parable of the Lost Coin
 ###### v8 
-Or what woman, if she had ten drachma coins, if she lost one drachma coin, wouldn't light a lamp, sweep the house, and seek diligently until she found it? 
+Or what woman, if she had ==ten== drachma coins, if she lost ==one== drachma coin, wouldn't light a lamp, sweep the house, and seek diligently until she found it? 
 
 ###### v9 
 When she has found it, she calls together her friends and neighbors, saying, 'Rejoice with me, for I have found the drachma which I had lost.' 
@@ -40,8 +41,9 @@ When she has found it, she calls together her friends and neighbors, saying, 'Re
 ###### v10 
 Even so, I tell you, there is joy in the presence of the angels of God over one sinner repenting." 
 
+### The Parable of the Prodigal Son
 ###### v11 
-He said, "A certain man had two sons. 
+He said, "A certain man had ==two== sons. 
 
 ###### v12 
 The younger of them said to his father, 'Father, give me my share of your property.' So he divided his livelihood between them. 

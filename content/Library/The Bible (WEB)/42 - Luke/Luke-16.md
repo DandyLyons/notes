@@ -49,6 +49,7 @@ If you have not been faithful in that which is another's, who will give you that
 ###### v13 
 No servant can serve two masters, for either he will hate the one, and love the other; or else he will hold to one, and despise the other. You aren't able to serve God and Mammon." 
 
+### The Law, The Prophets, and The Kingdom
 ###### v14 
 The Pharisees, who were lovers of money, also heard all these things, and they scoffed at him. 
 
@@ -64,6 +65,8 @@ But it is easier for heaven and earth to pass away than for one tiny stroke of a
 ###### v18 
 Everyone who divorces his wife and marries another commits adultery. He who marries one who is divorced from a husband commits adultery. 
 
+### The Rich Man and Lazarus
+[[#My notes on The Rich Man And Lazarus]]
 ###### v19 
 "Now there was a certain rich man, and he was clothed in purple and fine linen, living in luxury every day. 
 
@@ -74,10 +77,10 @@ A certain beggar, named Lazarus, was taken to his gate, full of sores,
 and desiring to be fed with the crumbs that fell from the rich man's table. Yes, even the dogs came and licked his sores. 
 
 ###### v22 
-The beggar died, and he was carried away by the angels to Abraham's bosom. The rich man also died, and was buried. 
+The beggar died, and he was carried away by the angels to [[Abraham's bosom]]. The rich man also died, and was buried. 
 
 ###### v23 
-In Hades, he lifted up his eyes, being in torment, and saw Abraham far off, and Lazarus at his bosom. 
+In [[Hades]], he lifted up his eyes, being in torment, and saw [[Abraham]] far off, and Lazarus at his bosom. 
 
 ###### v24 
 He cried and said, 'Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue! For I am in anguish in this flame.' 
@@ -109,5 +112,13 @@ for I have five brothers, that he may testify to them, so they won't also come i
 ---
 ## My Notes
 
+### My notes on The Rich Man And Lazarus 
+[[#The Rich Man and Lazarus]]
+
+- The rich man calls Abraham his father three times. 
+	- He was a son of Abraham, and Israel (outwardly) but he was not a son of God. 
+- The rich man expresses regret, but this should not be confused for remorse or repentance. He expresses neither of these. 
+- [[#v25]]: “'Son, remember that you, in your lifetime, received your good things, and Lazarus, in the same way, bad things. But here he is now comforted, and you are in anguish.”:
+	- it is worth noting that God blesses even the sinners during their lifetimes. [[Matt-05#v45|Matthew 5:45]] It may be frustrating for us, to see sinful people prosper  How could God let this happen? In this parable we see at least one reason. The generosity of God toward the rich man silences any objections that the rich man could possibly have. He cannot accuse God of being unkind or unjust or uncharitable. This generosity also further highlights the selfishness and lack of generosity in the rich man who did not give to needy Lazarus. And this further solidifies the reason for the rich man’s conviction. 
 ---
 ## Footnotes

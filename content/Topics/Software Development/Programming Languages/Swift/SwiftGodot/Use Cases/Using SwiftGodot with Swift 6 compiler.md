@@ -21,7 +21,9 @@ The point is that it is completely fine to build a SwiftGodot project without ac
 
 That being said, if your are using the Swift 6 tools then you will need to suppress some warning in order to get your project to compile. This guide will provide helpful recommendations. 
 
-## Use `@unchecked Sendable`
+## Using Swift 5 Language Mode
+
+### Use `@unchecked Sendable`
 It is recommended to add `@unchecked Sendable` conformance to any type that has the [[@Godot macro]] attached to it. 
 
 ```swift 
@@ -33,7 +35,7 @@ It is recommended to add `@unchecked Sendable` conformance to any type that has 
 This does not make your code any less safe than it was before Swift 6. Rather it is telling the compiler that you are opting out of strict sendability checking for this type. 
 
 Not adding `@unchecked Sendable` to your `@Godot` types means that certain features like the [[@Callable macro]] will not compile. 
-## Consider using `@preconcurrency import SwiftGodot`
+### Consider using `@preconcurrency import SwiftGodot`
 Consider using `@preconcurrency import SwiftGodot` to import SwiftGodot. Certain features may not compile without using `@preconcurrency`. 
 
 ---

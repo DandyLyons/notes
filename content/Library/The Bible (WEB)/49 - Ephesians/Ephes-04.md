@@ -41,7 +41,7 @@ Now this, "He ascended", what is it but that he also first descended into the lo
 He who descended is the one who also ascended far above all the heavens, that he might fill all things. 
 
 ###### v11 
-He gave some to be apostles; and some, prophets; and some, evangelists; and some, shepherds and teachers; 
+He gave some to be [[apostles]]; and some, [[prophets]]; and some, [[evangelists]]; and some, shepherds and [[teachers]]; 
 
 ###### v12 
 for the perfecting of the saints, to the work of serving, to the building up of the body of Christ, 

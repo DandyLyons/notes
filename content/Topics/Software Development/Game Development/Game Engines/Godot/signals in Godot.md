@@ -10,3 +10,4 @@ aliases:
 
 ## Explained 
 - [[How to Use Signals in Godot 4 - Editor vs. Code]] 
+- [[Every Variant in Godot 4#[32 17](https //www.youtube.com/watch?v=RM_ExxV-0Qo&t=1937s) Signals and Callables|Every Variant in Godot: Signals and Callables]] 

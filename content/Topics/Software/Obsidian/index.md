@@ -21,7 +21,7 @@ Obsidian is probably one of my favorite apps ever. It's difficult to explain wha
 
 
 ### Everything Is A Plugin
-Obsidian takes a very similar design approach to [[VS Code]]. 
+Obsidian takes a very similar design approach to [[Topics/Software Development/IDEs/VS Code/index]]. 
 
 ## Docs
 - [Official Help Site](https://help.obsidian.md/Home)

@@ -5,7 +5,6 @@ aliases:
 ---
 Bash, short for Bourne-Again SHell, is a shell program and [command language](https://en.wikipedia.org/wiki/Command_language). 
 
-
 > [!NOTE] Disambiguation
 > Not to be confused with the [[Bourne Shell]]. [[bash]] is effectively the newer more modern implementation of the Bourne shell. Most systems that use the Bourne shell are actually implemented with bash. However bash is not used everywhere. 
 

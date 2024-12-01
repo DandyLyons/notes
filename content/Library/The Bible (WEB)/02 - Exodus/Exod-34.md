@@ -94,6 +94,7 @@ Yahweh said to Moses, "Write these words; for in accordance with these words I h
 ###### v28 
 He was there with Yahweh forty days and forty nights; he neither ate bread, nor drank water. He wrote on the tablets the words of the covenant, [[The Ten Commandments]]. 
 
+### Moses Comes Down From Mount Sinai
 ###### v29 
 When Moses came down from Mount Sinai with the two tablets of the covenant in Moses' hand, when he came down from the mountain, Moses didn't know that the skin of his face shone by reason of his speaking with him. 
 

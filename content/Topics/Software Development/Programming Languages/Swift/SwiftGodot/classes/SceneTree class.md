@@ -4,5 +4,7 @@ docs: https://swiftpackageindex.com/migueldeicaza/swiftgodot/main/documentation/
 ---
 
 > [!disambiguation] Disambiguation
-> Not to be confused with [[@SceneTree macro]] 
+> Not to be confused with [[@SceneTree macro]] or [[Scene Tree|SceneTree in Godot]]. 
+ 
+
 

@@ -17,7 +17,7 @@ Moses called to all Israel, and said to them, "Hear, Israel, the statutes and th
 Yahweh our God made a covenant with us in Horeb. 
 
 ###### v3 
-Yahweh didn't make this covenant with our fathers, but with us, even us, who are all of us here alive today. 
+Yahweh didn't make this covenant with our fathers, but with us [[#Yahweh didn't make this covenant with our fathers, but with us|*]], even us, who are all of us here alive today. 
 
 ###### v4 
 Yahweh spoke with you face to face on the mountain out of the middle of the fire, 
@@ -114,6 +114,11 @@ You shall walk in all the way which Yahweh your God has commanded you, that you 
 
 ---
 ## My Notes
+
+### Yahweh didn't make this covenant with our fathers, but with us
+Here, God makes clear that the Ten Commandments were not only to the past generation, but also to this generation in Deuteronomy 5. Remember that almost the entire generation died while wandering in the wildernessA. Practically all of the people here were not alive or even born when God gave these Ten Commandments. Yet it says here that He made this covenant with them. 
+
+It would follow, then, that these commandments must apply to all future generations of God’s people as well then. God’s law is not temporary. [[Matt-05#v17|Matthew 5:17-20]]
 
 ---
 ## Footnotes

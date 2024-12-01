@@ -29,7 +29,7 @@ subjects:
 ###  [2:39](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=159s) Anchors
 See [[anchors in Godot]]
 -  **Anchors are used to  design layouts that work properly with any aspect ratio**. 
-- 
+ 
 ###  [4:48](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=288s) Anchor Offsets
 ###  [6:55](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=415s) Anchor Presets
 ###  [8:49](https://www.youtube.com/watch?v=5Hog6a0EYa0&t=529s) Custom Minimum Size

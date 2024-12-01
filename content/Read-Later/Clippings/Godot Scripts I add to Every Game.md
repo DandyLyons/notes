@@ -18,19 +18,7 @@ subjects:
 
 ## Description
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-### Outline
-00:00 Learning Game is Hard
-01:03 Autoload Scripts 
-01:56 Global
-03:38 Signal Bus
-04:24 Warnings about Signals
-05:17 My Games
-05:38 Utility
-06:58 References
-08:17 Scene Changer
-09:21 Audio Manager
-10:44 Hexagon Utility
-11:58 This is Hard
+
 ## My Notes
 
 ### 00:00: Intro: Learning Game is Hard
