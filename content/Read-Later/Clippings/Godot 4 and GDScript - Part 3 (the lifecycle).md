@@ -13,6 +13,7 @@ tags:
 takeaways: 
 subjects:
   - "[[Node Lifecycle in Godot]]"
+publish: true
 ---
 ![](https://www.youtube.com/watch?v=yGXZFSs0jt8)
 

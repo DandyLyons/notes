@@ -11,7 +11,7 @@ aliases:
 
 
 ###### v1 
-Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and Yahweh's glory filled the house. 
+Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and [[Yahweh's glory]] filled the house. 
 
 ###### v2 
 The priests could not enter into Yahweh's house, because Yahweh's glory filled Yahweh's house. 

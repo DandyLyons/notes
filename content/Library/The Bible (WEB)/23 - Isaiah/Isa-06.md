@@ -14,22 +14,22 @@ aliases:
 In the year that king Uzziah died, I saw the Lord sitting on a throne, high and lifted up; and his train filled the temple. 
 
 ###### v2 
-Above him stood the seraphim. Each one had six wings. With two he covered his face. With two he covered his feet. With two he flew. 
+Above him stood the [[seraphim]]. Each one had six wings. With two he covered his face. With two he covered his feet. With two he flew. 
 
 ###### v3 
-One called to another, and said, "Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!" 
+One called to another, and said, "Holy, holy, holy, is [[Yahweh of Armies]]! The whole earth is full of his glory!" 
 
 ###### v4 
 The foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. 
 
 ###### v5 
-Then I said, "Woe is me! For I am undone, because I am a man of unclean lips, and I dwell among a people of unclean lips: for my eyes have seen the King, Yahweh of Armies!" 
+Then I said[^1], "==Woe is me! For I am undone, because I am a man of unclean lips, and I dwell among a people of unclean lips: for my eyes have seen the King, Yahweh of Armies!==" 
 
 ###### v6 
 Then one of the seraphim flew to me, having a live coal in his hand, which he had taken with the tongs from off the altar. 
 
 ###### v7 
-He touched my mouth with it, and said, "Behold, this has touched your lips; and your iniquity is taken away, and your sin forgiven." 
+He touched my mouth with it, and said[^2], "Behold, this has touched your lips; and your iniquity is taken away, and your sin forgiven." 
 
 ###### v8 
 I heard the Lord's voice, saying, "Whom shall I send, and who will go for us?" Then I said, "Here I am. Send me!" 
@@ -56,4 +56,7 @@ If there is a tenth left in it, that also will in turn be consumed, as a terebin
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: This is the only proper response for all of us sinners upon coming face to face with the one, true, holy God. 
+[^2]: What overwhelming mercy and grace we see here. Instead of judgment and condemnation, God responded with grace and forgiveness. 

@@ -62,7 +62,7 @@ On the third day, when it was morning, there were thunders and lightnings, and a
 Moses led the people out of the camp to meet God; and they stood at the lower part of the mountain. 
 
 ###### v18 
-All of Mount Sinai smoked, because Yahweh descended on it in fire; and its smoke ascended like the smoke of a furnace, and the whole mountain quaked greatly. 
+All of Mount Sinai smoked, because Yahweh descended on it in fire[^1]; and its smoke ascended like the smoke of a furnace, and the whole mountain quaked greatly. 
 
 ###### v19 
 When the sound of the trumpet grew louder and louder, Moses spoke, and God answered him by a voice. 
@@ -92,4 +92,7 @@ So Moses went down to the people, and told them.
 ## My Notes
 
 ---
-## Footnotes
+
+# Footnotes
+
+[^1]: God also appeared in a flame on a mountain in [[Exod-03#v2|Exodus 3:2]]  

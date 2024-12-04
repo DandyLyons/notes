@@ -20,3 +20,7 @@ Hello Godotneers! Have you ever wanted to use shaders in your game but found tha
 ## My Notes
 
 
+### [21:59](https://www.youtube.com/watch?t=1319&v=nyFzPaWAzeQ)Limitations of VisualShaders
+- Cannot run loops
+- Cannot make custom functions
+- 

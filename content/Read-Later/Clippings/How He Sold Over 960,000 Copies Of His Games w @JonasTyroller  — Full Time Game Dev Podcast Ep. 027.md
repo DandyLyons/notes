@@ -4,7 +4,7 @@ source: https://www.youtube.com/watch?v=hglxTerNK2U
 media_link: https://www.youtube.com/watch?v=hglxTerNK2U
 author:
   - "[[Thomas Brush]]"
-contentPublished: 
+contentPublished: 2024-11-29
 noteCreated: 2024-11-30
 description: "I chat with Jonas Tyroller ( @JonasTyroller ) about how he sold over 960,000 copies of his game. ► Play Thronefall: https://store.steampowered.com/app/223915..."
 tags:
@@ -13,7 +13,7 @@ tags:
 takeaways: 
 publish: true
 ---
-![](https://www.youtube.com/watch?v=hglxTerNK2U)
+![How He Sold Over 960,000 Copies](https://www.youtube.com/watch?v=hglxTerNK2U)
 
 ## Description
 I chat with Jonas Tyroller ( @JonasTyroller ) about how he sold over 960,000 copies of his game. ► Play Thronefall: https://store.steampowered.com/app/223915...
@@ -70,3 +70,8 @@ I chat with Jonas Tyroller ( @JonasTyroller ) about how he sold over 960,000 cop
 	- [30:14](https://www.youtube.com/watch?t=1814&v=hglxTerNK2U): A: Second, listen to the players. 
 		- **The tricky thing about listening to players is that you need to read between the lines.** 
 		- ⭐: [30:40](https://www.youtube.com/watch?t=1840&v=hglxTerNK2U): Listen to the **problems** that players have rather than the solutions that players have. 
+- Q: [39:26](https://www.youtube.com/watch?t=2366&v=hglxTerNK2U): How do you know if you should just push through bad feedback or if the game is so bad that you should "give up" and try something else (or a different prototype)?
+
+### Two Sentence Pitch
+- [53:29](https://www.youtube.com/watch?t=3209&v=hglxTerNK2U): 
+	- A: [54:52](https://www.youtube.com/watch?t=3292&v=hglxTerNK2U): **Expectation management is extremely important on Steam**  

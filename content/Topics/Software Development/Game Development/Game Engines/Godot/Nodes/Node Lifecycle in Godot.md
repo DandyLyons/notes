@@ -4,4 +4,4 @@ aliases:
   - Node Lifecycle
 ---
 ## See Also
-- [[Godot 4 and GDScript - Part 3 (the lifecycle)]] 
+- [[Godot 4 and GDScript - Part 3 (the lifecycle)]]  

@@ -19,4 +19,4 @@ Zoid is a retired game developer who worked in the industry for over 32 years on
 
 ## My Notes
 
-
+## Transcript
