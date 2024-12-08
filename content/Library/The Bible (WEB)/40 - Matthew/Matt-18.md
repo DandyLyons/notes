@@ -3,13 +3,17 @@ publish: true
 title: Matthew 18
 aliases:
   - Matthew 18
+subjects:
+  - "[[forgiveness]]"
+  - "[[Discipline]]"
+  - "[[reconciliation]]"
 ---
 
 [[Matt-17|← Matthew 17]] | [[Matthew]] | [[Matt-19|Matthew 19 →]]
 ***
 
 
-
+## The Text
 ###### v1 
 In that hour the disciples came to Jesus, saying, "Who then is greatest in the [[Kingdom of Heaven]]?" 
 
@@ -35,13 +39,13 @@ but ==whoever causes one of these little ones who believe in me to stumble[^1], 
 If your hand or your foot causes you to stumble, cut it off and cast it from you. It is better for you to enter into life maimed or crippled, rather than having two hands or two feet to be cast into the eternal fire. 
 
 ###### v9 
-If your eye causes you to stumble, pluck it out and cast it from you. It is better for you to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of fire[^2]. 
+If your eye causes you to stumble, pluck it out and cast it from you. It is better for you to enter into life with one eye, rather than having two eyes to be cast into the [[Gehenna]] of fire[^2]. 
 
 ###### v10 
 See that you don't despise one of these little ones, for I tell you that in heaven their angels always see the face of my Father who is in heaven. 
 
 ###### v11 
-For the Son of Man came to save that which was lost. 
+For the [[Son of Man]] came to save that which was lost. 
 
 ### The One Hundred Sheep
 ###### v12 
@@ -54,6 +58,7 @@ If he finds it, most certainly I tell you, he rejoices over it more than over th
 Even so it is not the will of your Father who is in heaven that one of these little ones should perish. 
 
 ### If Your Brother Sins Against You...
+[[#Notes on If Your Brother Sins Against You...]] 
 ###### v15 
 "If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. 
 
@@ -78,6 +83,8 @@ Then Peter came and said to him, "Lord, how often shall my brother sin against m
 ###### v22 
 Jesus said to him, "I don't tell you until seven times, but, until seventy times seven. 
 
+### The King Who Wanted To Settle Accounts
+[[#Notes on The King Who Wanted To Settle Accounts]]
 ###### v23 
 Therefore the [[Kingdom of Heaven]] is like a certain king, who wanted to settle accounts with his servants. 
 
@@ -122,6 +129,16 @@ So my heavenly Father will also do to you, if you don't each forgive your brothe
 
 ---
 ## My Notes
+
+### Notes on [[#If Your Brother Sins Against You...]]
+- **Context**: 
+### Notes on [[#The King Who Wanted To Settle Accounts]]
+- **Context**: Jesus is answering Peter's question at  [[#v21]]. 
+- [[forgiveness]] is choosing to not require repayment for wrongdoing that was done against you. 
+	- An unbeliever cannot truly forgive another because: 
+		- he is not forgiven by God. 
+		- he does not truly realize his utter need for forgiveness. 
+		- he thinks he is still owed something
 
 ---
 ## Footnotes

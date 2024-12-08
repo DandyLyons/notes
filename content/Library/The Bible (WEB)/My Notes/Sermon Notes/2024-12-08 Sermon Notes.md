@@ -56,7 +56,7 @@ takeaways:
 			- We rejoice and weep with our fellow believers in the church. It is a family of God's people. 
 		- Discipline in the Church Must follow the order established by God in scripture: 
 			- [[Matt-18#If Your Brother Sins Against You...|Matthew 18:15-20]]
-			- **We should not bring our grievances directly to the church first.** Instead we ought to confront our brother directly first in love, faithfulness, and compassion. Under the authority of Christ and His Word. [[Matt-18#v15|Matthew 18:15]] 
+			- **We should not bring our grievances directly to the church first.** Instead we ought to confront our brother directly first in love ([[Gal-06#v1|Galatians 6:1]]), faithfulness, and compassion. Under the authority of Christ and His Word. [[Matt-18#v15|Matthew 18:15]] 
 				- This should be done face to face. Not in a letter, or public gossip. 
 				- We should be humble, Godly and show concern for our brother, as a friend, seeking their best welfare. [[Prov-27#v6|Proverbs 27:6]] 
 				- We should lovingly state "*I'm not better or different from you.*"
@@ -102,4 +102,4 @@ takeaways:
 ---
 ## 💬Discussion Questions
 
-1. 
+1. Why do we need **Church discipline**? Why not just have preaching? 
