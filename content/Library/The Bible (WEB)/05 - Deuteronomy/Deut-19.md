@@ -53,7 +53,7 @@ Your eye shall not pity him, but you shall purge the innocent blood from Israel 
 You shall not remove your neighbor's landmark, which they of old time have set, in your inheritance which you shall inherit, in the land that Yahweh your God gives you to possess. 
 
 ###### v15 
-One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 
+One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of [["two or three witnesses"|two witnesses]], or at the mouth of three witnesses, shall a matter be established. 
 
 ###### v16 
 If an unrighteous witness rises up against any man to testify against him of wrongdoing, 

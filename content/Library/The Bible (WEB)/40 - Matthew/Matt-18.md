@@ -26,7 +26,7 @@ Whoever therefore humbles himself as this little child is the greatest in the [[
 Whoever receives one such little child in my name receives me, 
 
 ###### v6 
-but whoever causes one of these little ones who believe in me to stumble, it would be better for him if a huge millstone were hung around his neck and that he were sunk in the depths of the sea. 
+but ==whoever causes one of these little ones who believe in me to stumble[^1], it would be better for him if a huge millstone were hung around his neck and that he were sunk in the depths of the sea==. 
 
 ###### v7 
 "Woe to the world because of occasions of stumbling! For it must be that the occasions come, but woe to that person through whom the occasion comes! 
@@ -35,7 +35,7 @@ but whoever causes one of these little ones who believe in me to stumble, it wou
 If your hand or your foot causes you to stumble, cut it off and cast it from you. It is better for you to enter into life maimed or crippled, rather than having two hands or two feet to be cast into the eternal fire. 
 
 ###### v9 
-If your eye causes you to stumble, pluck it out and cast it from you. It is better for you to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of fire. 
+If your eye causes you to stumble, pluck it out and cast it from you. It is better for you to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of fire[^2]. 
 
 ###### v10 
 See that you don't despise one of these little ones, for I tell you that in heaven their angels always see the face of my Father who is in heaven. 
@@ -43,6 +43,7 @@ See that you don't despise one of these little ones, for I tell you that in heav
 ###### v11 
 For the Son of Man came to save that which was lost. 
 
+### The One Hundred Sheep
 ###### v12 
 "What do you think? If a man has one hundred sheep, and one of them goes astray, doesn't he leave the ninety-nine, go to the mountains, and seek that which has gone astray? 
 
@@ -52,14 +53,15 @@ If he finds it, most certainly I tell you, he rejoices over it more than over th
 ###### v14 
 Even so it is not the will of your Father who is in heaven that one of these little ones should perish. 
 
+### If Your Brother Sins Against You...
 ###### v15 
 "If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. 
 
 ###### v16 
-But if he doesn't listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. 
+But if he doesn't listen, take one or two more with you, that at the mouth of [["two or three witnesses"]] every word may be established. 
 
 ###### v17 
-If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector. 
+If he refuses to listen to them, tell it to the assembly[^3]. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector. 
 
 ###### v18 
 Most certainly I tell you, whatever things you bind on earth will have been bound in heaven, and whatever things you release on earth will have been released in heaven. 
@@ -68,7 +70,7 @@ Most certainly I tell you, whatever things you bind on earth will have been boun
 Again, assuredly I tell you, that if two of you will agree on earth concerning anything that they will ask, it will be done for them by my Father who is in heaven. 
 
 ###### v20 
-For where two or three are gathered together in my name, there I am in the middle of them." 
+==For where two or three are gathered together in my name, there I am in the middle of them.==" 
 
 ###### v21 
 Then Peter came and said to him, "Lord, how often shall my brother sin against me, and I forgive him? Until seven times?" 
@@ -123,3 +125,7 @@ So my heavenly Father will also do to you, if you don't each forgive your brothe
 
 ---
 ## Footnotes
+
+[^1]: Or sin
+[^2]: Or *Hell fire*
+[^3]: Or *the Church*
