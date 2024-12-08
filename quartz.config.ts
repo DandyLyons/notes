@@ -13,6 +13,7 @@ const config: QuartzConfig = {
     baseUrl: "dandylyons.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
