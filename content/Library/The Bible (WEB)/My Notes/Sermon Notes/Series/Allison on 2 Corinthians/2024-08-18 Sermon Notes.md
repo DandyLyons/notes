@@ -5,7 +5,7 @@ speaker: "[[Archibald Allison]]"
 date: 2024-08-18
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[2 Cor-12#v1|2 Corinthians 12:1-6]]"
-sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index]]"
+sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index|Allison on 2 Corinthians]]"
 sermon link: 
 subjects:
   - "[[Paradise]]"

@@ -5,7 +5,7 @@ speaker: "[[Archibald Allison]]"
 date: 2024-11-10
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[2 Cor-12#v15|2 Corinthians 12:15]]"
-sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index]]"
+sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index|Allison on 2 Corinthians]]"
 sermon link: 
 subjects: 
 title: The Heart of Christ Our Shepherd

@@ -1,4 +1,4 @@
-links: [[Library/The Bible (WEB)/index]]
+links: [[Library/The Bible (WEB)/index|The Bible (WEB)]]
 # Luke
 
 [[Luke-01|Start Reading →]]

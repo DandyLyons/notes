@@ -5,14 +5,13 @@ speaker: "[[Archibald Allison]]"
 date: 2024-07-28
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[2 Cor-11#v26|2 Corinthians 11:26-29]]"
-sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index]]"
+sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index|Allison on 2 Corinthians]]"
 sermon link: https://www.sermonaudio.com/sermoninfo.asp?SID=729241731123910
 subjects:
   - "[[suffering]]"
 title: A Minister of Christ's Credentials
-takeaways: 
+takeaways:
 ---
-
 
 ## 💡Big Idea
 >- The truest evidence of a genuine Christian is suffering for the service of the LORD

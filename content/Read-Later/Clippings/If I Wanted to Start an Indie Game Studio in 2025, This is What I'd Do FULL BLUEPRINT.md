@@ -10,7 +10,8 @@ description: I want to help any of you aspiring indie devs know exactly what to 
 tags:
   - clippings
   - video
-takeaways:
+takeaways: 
+Status: ✅ Read
 ---
 ![](https://www.youtube.com/watch?v=5ChBGf2mDeE)
 

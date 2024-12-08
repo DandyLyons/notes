@@ -10,7 +10,9 @@ description: Learn how to leverage the NodePath class to create unbreakable Unit
 tags:
   - clippings
   - video
-takeaways:
+takeaways: 
+subjects:
+  - "[[Topics/Software Development/Game Development/Game Engines/Godot/index|Godot]]"
 ---
 ![](https://www.youtube.com/watch?v=5ztwXNLa2-0)
 

@@ -13,6 +13,7 @@ tags:
 takeaways: 
 subjects:
   - "[[functional programming]]"
+  - "[[callables in Godot]]"
 ---
 ![GDScript Callables & Lambdas Deep Dive | Godot 4 Tutorial](https://www.youtube.com/watch?v=56I72m5wDj4)
 

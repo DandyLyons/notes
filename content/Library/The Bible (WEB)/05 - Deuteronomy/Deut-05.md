@@ -22,6 +22,7 @@ Yahweh didn't make this covenant with our fathers, but with us [[#Yahweh didn't 
 ###### v4 
 Yahweh spoke with you face to face on the mountain out of the middle of the fire, 
 
+### The Ten Commandments
 ###### v5 
 (I stood between Yahweh and you at that time, to show you Yahweh's word; for you were afraid because of the fire, and didn't go up onto the mountain) saying, 
 

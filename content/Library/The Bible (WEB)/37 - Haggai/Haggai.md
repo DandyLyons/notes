@@ -1,4 +1,4 @@
-links: [[Library/The Bible (WEB)/index]]
+links: [[Library/The Bible (WEB)/index|The Bible (WEB)]]
 # Haggai
 
 [[Hag-01|Start Reading →]]

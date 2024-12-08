@@ -4,8 +4,10 @@ title: Clippings
 aliases:
   - Clippings
 ---
+# Clippings 
 
 ```dataview
-TABLE title, date
+TABLE status, noteCreated, subjects
 FROM "Read-Later/Clippings"
+SORT date DESC
 ```

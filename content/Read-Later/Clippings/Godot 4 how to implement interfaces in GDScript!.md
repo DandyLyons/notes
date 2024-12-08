@@ -13,6 +13,7 @@ tags:
 takeaways: 
 subjects:
   - "[[Topics/Software Development/Programming Languages/GDScript/index|GDScript]]"
+  - "[[classes in Godot]]"
 ---
 ![Godot 4: how to implement interfaces in GDScript!](https://www.youtube.com/watch?v=pBs6c902P0Q)
 

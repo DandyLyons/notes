@@ -5,13 +5,12 @@ speaker: "[[Archibald Allison]]"
 date: 2024-08-04
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[2 Cor-11#v30|2 Corinthians 11:30-33]]"
-sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index]]"
+sermon series: "[[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index|Allison on 2 Corinthians]]"
 sermon link: 
 subjects: 
 title: A Minister's Humble Sincerity
-takeaways: 
+takeaways:
 ---
-
 
 ## 💡Big Idea
 >- 
