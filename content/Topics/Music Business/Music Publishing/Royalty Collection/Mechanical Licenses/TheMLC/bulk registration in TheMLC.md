@@ -5,7 +5,9 @@ publish: true
 
 ## Gotchas
 ### Entering Multiple Recordings on a Single Work
-==As far as I can tell this is not possible on the bulk registration tool. It is possible with the Individual Registration Tool however.== 
+- ==As far as I can tell this is not possible on the bulk registration tool. It is possible with the Individual Registration Tool however.== 
+	- WORKAROUND: We can bulk register songs. Then we can add more recordings using the [Matching Tool](https://help.themlc.com/en/support/what-is-the-matching-tool). 
+
 ### **Entering Multiple Writers on a Single Work**
 
 **==A work title may only appear once per bulk work document.==**

@@ -208,6 +208,7 @@ Fear came on all who lived around them, and all these sayings were talked about 
 ###### v66 
 All who heard them laid them up in their heart, saying, "What then will this child be?" The hand of the Lord was with him. 
 
+### The Prophecy of Zechariah 
 ###### v67 
 His father Zacharias was filled with the Holy Spirit, and prophesied, saying, 
 

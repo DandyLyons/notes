@@ -4,12 +4,23 @@ aliases:
   - Node Lifecycle
 ---
 ## Order
-As far as I can tell from the docs this is the order of events when **creating a new node and adding it**: 
-1. `_init()`
-2. `_enter_tree()`
-	- (This happens after the node is added to the [[Scene Tree]] using `add_Child()`)
-3. [[ready in Godot]] 
 
+### Inserting a node into the scene tree
+As far as I can tell from the docs this is the order of events when **creating a new node and adding it**: 
+1. the constructor (`MyObject.new()`)
+2. `_init()`
+3. `_enter_tree()`
+	- (This happens after the node is added to the [[Scene Tree]] using `add_Child()`)
+4. [[ready in Godot]] 
+	- This happens after every child node[^3] has been initialized, added to the scene, tree and has already called `_ready()`. 
+
+
+> [!NOTE] `_init()` **usually** is called after the constructor finishes
+> It seems that we should assume that `_init()` will be called **after** the constructor, but unfortunately Godot doesn't seem to guarantee the order? Read this from the [docs](https://arc.net/l/quote/jsbknxdp)
+>
+>"*`_init()` is Called when the object's script is instantiated, oftentimes after the object is initialized in memory (through `Object.new()` in GDScript, or `new GodotObject` in C#). It can be also defined to take in parameters. This method is similar to a constructor in most programming languages.*"
+
+### Instantiating a scene
 As for as I can tell from the docs, this is the order of events when **instantiating a scene and adding it**[^1]: 
 1. **Initial value assignment:** the property is assigned its initialization value, or its default value if one is not specified. **If a setter exists, it is not used.**[^2]
 2. **``_init()`` assignment:** the property's value is replaced by any assignments made in `_init()`, triggering the setter.
@@ -61,3 +72,4 @@ func _init():
 
 ## See Also
 - [[Godot 4 and GDScript - Part 3 (the lifecycle)]]  
+[^3]: recursively

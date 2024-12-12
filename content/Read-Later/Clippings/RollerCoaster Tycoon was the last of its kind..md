@@ -14,7 +14,7 @@ takeaways:
 subjects:
 Status: "🙏🏼 Want To Read"
 ---
-![](https://www.youtube.com/watch?v=0JouTsMQsEA)
+![](https://www.youtube.com/watch?v=0JouTsMQsEA) 
 
 ## Description
 Patreon: https://www.patreon.com/ahoyMerch: https://ahoy-shop.fourthwall.com/00:00 Introduction01:04 Chris Sawyer's Early Career03:56 Transition to the PC06:...

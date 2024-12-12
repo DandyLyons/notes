@@ -12,7 +12,8 @@ tags:
   - "video"
 takeaways:
 ---
-![](https://www.youtube.com/watch?v=t2fAD5wPXEk)
+![](https://www.youtube.com/watch?v=t2fAD5wPXEk) 
+
 
 ## Description
 This tutorial aims to teach you how to collaborate in Godot projects using git and some basic git features, perfect for beginners.Collaboration is often an o...

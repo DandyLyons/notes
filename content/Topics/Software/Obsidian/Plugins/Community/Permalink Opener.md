@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: permalink-opener
 ---
 
 | GitHub       |                                                  |
@@ -7,7 +8,7 @@ publish: true
 | Docs         |                                                  |
 | Obsidian URL | [🔗](obsidian://show-plugin?id=permalink-opener) |
 
-This plugin is designed for people who are publishing their Obsidian vault to a public website (using a tool like [[Topics/Web Development/Hugo/index|Hugo]], Jekyll, or perhaps [[Obsidian Publish]]). It allows you to define a **permalink** for each note in the [[properties in Obsidian|properties]] of each note. Simply define a `permalink` property: 
+This plugin is designed for people who are publishing their Obsidian vault to a public website (using a tool like [[Topics/Web Development/Hugo/index|Hugo]], Jekyll, or perhaps [[Obsidian Publish]]). It allows you to define a [[Permalink]] for each note in the [[properties in Obsidian|properties]] of each note. Simply define a `permalink` property: 
 
 ```
 ---

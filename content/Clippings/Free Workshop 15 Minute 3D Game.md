@@ -22,6 +22,7 @@ Get free music: [https://newgrounds.com/](https://newgrounds.com/)
 
   
 \-- Voice Over Trigger Script--
+```cs
 
 \*Be sure you name it VoiceOverTrigger.cs\* 👇
 
@@ -51,5 +52,5 @@ public class VoiceOverTrigger : MonoBehaviour
     }
 
 }
-
+```
 ## My Notes

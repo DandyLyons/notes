@@ -4,6 +4,8 @@ subjects:
   - "[[Obsidian Web Clipper]]"
 url: https://sascha-kasper.com/step-by-step-guide-to-the-obsidian-web-clipper/
 ---
+FROM: [Guide to the Obsidian Web Clipper | LeanProductivity](https://sascha-kasper.com/step-by-step-guide-to-the-obsidian-web-clipper/) 
+
 This post will explore the [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper), a powerful tool that enhances productivity by allowing you to clip web content directly into your Obsidian vault. Follow along as we cover installation, configuration, templates, and everyday use cases to help you make the most out of this handy extension.
 
 ## What You Get

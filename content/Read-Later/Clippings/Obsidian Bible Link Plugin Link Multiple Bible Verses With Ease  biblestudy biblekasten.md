@@ -12,7 +12,7 @@ tags:
   - video
 takeaways: 
 subjects: 
-Status: 👀 Reading
+Status: ✅ Read
 publish: true
 ---
 ![](https://www.youtube.com/watch?v=8Pr_8nCvjEw)
