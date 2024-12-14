@@ -227,10 +227,10 @@ var en_US_default = {
     },
     recentNotes: {
       title: "Recent Notes",
-      seeRemainingMore: ({ remaining }) => `See ${remaining} more \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `See ${remaining} more \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transclude of ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Link to original"
     },
     search: {
@@ -241,13 +241,13 @@ var en_US_default = {
       title: "Table of Contents"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min read`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Recent notes",
-      lastFewNotes: ({ count }) => `Last ${count} notes`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Last ${count} notes`, "lastFewNotes")
     },
     error: {
       title: "Not Found",
@@ -256,14 +256,14 @@ var en_US_default = {
     },
     folderContent: {
       folder: "Folder",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 item under this folder." : `${count} items under this folder.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item under this folder." : `${count} items under this folder.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Tag Index",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
-      showingFirst: ({ count }) => `Showing first ${count} tags.`,
-      totalTags: ({ count }) => `Found ${count} total tags.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item with this tag." : `${count} items with this tag.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Showing first ${count} tags.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Found ${count} total tags.`, "totalTags")
     }
   }
 };
@@ -309,10 +309,10 @@ var en_GB_default = {
     },
     recentNotes: {
       title: "Recent Notes",
-      seeRemainingMore: ({ remaining }) => `See ${remaining} more \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `See ${remaining} more \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transclude of ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Link to original"
     },
     search: {
@@ -323,13 +323,13 @@ var en_GB_default = {
       title: "Table of Contents"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min read`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Recent notes",
-      lastFewNotes: ({ count }) => `Last ${count} notes`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Last ${count} notes`, "lastFewNotes")
     },
     error: {
       title: "Not Found",
@@ -338,14 +338,14 @@ var en_GB_default = {
     },
     folderContent: {
       folder: "Folder",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 item under this folder." : `${count} items under this folder.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item under this folder." : `${count} items under this folder.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Tag Index",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
-      showingFirst: ({ count }) => `Showing first ${count} tags.`,
-      totalTags: ({ count }) => `Found ${count} total tags.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item with this tag." : `${count} items with this tag.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Showing first ${count} tags.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Found ${count} total tags.`, "totalTags")
     }
   }
 };
@@ -391,10 +391,10 @@ var fr_FR_default = {
     },
     recentNotes: {
       title: "Notes R\xE9centes",
-      seeRemainingMore: ({ remaining }) => `Voir ${remaining} de plus \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Voir ${remaining} de plus \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclusion de ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transclusion de ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Lien vers l'original"
     },
     search: {
@@ -405,13 +405,13 @@ var fr_FR_default = {
       title: "Table des Mati\xE8res"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min de lecture`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min de lecture`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Notes r\xE9centes",
-      lastFewNotes: ({ count }) => `Les derni\xE8res ${count} notes`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Les derni\xE8res ${count} notes`, "lastFewNotes")
     },
     error: {
       title: "Introuvable",
@@ -420,14 +420,14 @@ var fr_FR_default = {
     },
     folderContent: {
       folder: "Dossier",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 \xE9l\xE9ment sous ce dossier." : `${count} \xE9l\xE9ments sous ce dossier.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 \xE9l\xE9ment sous ce dossier." : `${count} \xE9l\xE9ments sous ce dossier.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\xC9tiquette",
       tagIndex: "Index des \xE9tiquettes",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 \xE9l\xE9ment avec cette \xE9tiquette." : `${count} \xE9l\xE9ments avec cette \xE9tiquette.`,
-      showingFirst: ({ count }) => `Affichage des premi\xE8res ${count} \xE9tiquettes.`,
-      totalTags: ({ count }) => `Trouv\xE9 ${count} \xE9tiquettes au total.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 \xE9l\xE9ment avec cette \xE9tiquette." : `${count} \xE9l\xE9ments avec cette \xE9tiquette.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Affichage des premi\xE8res ${count} \xE9tiquettes.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Trouv\xE9 ${count} \xE9tiquettes au total.`, "totalTags")
     }
   }
 };
@@ -473,10 +473,10 @@ var it_IT_default = {
     },
     recentNotes: {
       title: "Note recenti",
-      seeRemainingMore: ({ remaining }) => `Vedi ${remaining} altro \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Vedi ${remaining} altro \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclusione di ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transclusione di ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Link all'originale"
     },
     search: {
@@ -487,13 +487,13 @@ var it_IT_default = {
       title: "Tabella dei contenuti"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} minuti`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} minuti`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Note recenti",
-      lastFewNotes: ({ count }) => `Ultime ${count} note`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Ultime ${count} note`, "lastFewNotes")
     },
     error: {
       title: "Non trovato",
@@ -502,14 +502,14 @@ var it_IT_default = {
     },
     folderContent: {
       folder: "Cartella",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 oggetto in questa cartella." : `${count} oggetti in questa cartella.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 oggetto in questa cartella." : `${count} oggetti in questa cartella.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Etichetta",
       tagIndex: "Indice etichette",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 oggetto con questa etichetta." : `${count} oggetti con questa etichetta.`,
-      showingFirst: ({ count }) => `Prime ${count} etichette.`,
-      totalTags: ({ count }) => `Trovate ${count} etichette totali.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 oggetto con questa etichetta." : `${count} oggetti con questa etichetta.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Prime ${count} etichette.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Trovate ${count} etichette totali.`, "totalTags")
     }
   }
 };
@@ -555,10 +555,10 @@ var ja_JP_default = {
     },
     recentNotes: {
       title: "\u6700\u8FD1\u306E\u8A18\u4E8B",
-      seeRemainingMore: ({ remaining }) => `\u3055\u3089\u306B${remaining}\u4EF6 \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `\u3055\u3089\u306B${remaining}\u4EF6 \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `${targetSlug}\u306E\u307E\u3068\u3081`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `${targetSlug}\u306E\u307E\u3068\u3081`, "transcludeOf"),
       linkToOriginal: "\u5143\u8A18\u4E8B\u3078\u306E\u30EA\u30F3\u30AF"
     },
     search: {
@@ -569,13 +569,13 @@ var ja_JP_default = {
       title: "\u76EE\u6B21"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min read`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\u6700\u8FD1\u306E\u8A18\u4E8B",
-      lastFewNotes: ({ count }) => `\u6700\u65B0\u306E${count}\u4EF6`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\u6700\u65B0\u306E${count}\u4EF6`, "lastFewNotes")
     },
     error: {
       title: "Not Found",
@@ -584,14 +584,14 @@ var ja_JP_default = {
     },
     folderContent: {
       folder: "\u30D5\u30A9\u30EB\u30C0",
-      itemsUnderFolder: ({ count }) => `${count}\u4EF6\u306E\u30DA\u30FC\u30B8`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => `${count}\u4EF6\u306E\u30DA\u30FC\u30B8`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\u30BF\u30B0",
       tagIndex: "\u30BF\u30B0\u4E00\u89A7",
-      itemsUnderTag: ({ count }) => `${count}\u4EF6\u306E\u30DA\u30FC\u30B8`,
-      showingFirst: ({ count }) => `\u306E\u3046\u3061\u6700\u521D\u306E${count}\u4EF6\u3092\u8868\u793A\u3057\u3066\u3044\u307E\u3059`,
-      totalTags: ({ count }) => `\u5168${count}\u500B\u306E\u30BF\u30B0\u3092\u8868\u793A\u4E2D`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => `${count}\u4EF6\u306E\u30DA\u30FC\u30B8`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u306E\u3046\u3061\u6700\u521D\u306E${count}\u4EF6\u3092\u8868\u793A\u3057\u3066\u3044\u307E\u3059`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\u5168${count}\u500B\u306E\u30BF\u30B0\u3092\u8868\u793A\u4E2D`, "totalTags")
     }
   }
 };
@@ -637,10 +637,10 @@ var de_DE_default = {
     },
     recentNotes: {
       title: "Zuletzt bearbeitete Seiten",
-      seeRemainingMore: ({ remaining }) => `${remaining} weitere ansehen \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `${remaining} weitere ansehen \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transklusion von ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transklusion von ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Link zum Original"
     },
     search: {
@@ -651,13 +651,13 @@ var de_DE_default = {
       title: "Inhaltsverzeichnis"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min read`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Zuletzt bearbeitete Seiten",
-      lastFewNotes: ({ count }) => `Letzte ${count} Seiten`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Letzte ${count} Seiten`, "lastFewNotes")
     },
     error: {
       title: "Nicht gefunden",
@@ -666,14 +666,14 @@ var de_DE_default = {
     },
     folderContent: {
       folder: "Ordner",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 Datei in diesem Ordner." : `${count} Dateien in diesem Ordner.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 Datei in diesem Ordner." : `${count} Dateien in diesem Ordner.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Tag-\xDCbersicht",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 Datei mit diesem Tag." : `${count} Dateien mit diesem Tag.`,
-      showingFirst: ({ count }) => `Die ersten ${count} Tags werden angezeigt.`,
-      totalTags: ({ count }) => `${count} Tags insgesamt.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 Datei mit diesem Tag." : `${count} Dateien mit diesem Tag.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Die ersten ${count} Tags werden angezeigt.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `${count} Tags insgesamt.`, "totalTags")
     }
   }
 };
@@ -719,10 +719,10 @@ var nl_NL_default = {
     },
     recentNotes: {
       title: "Recente notities",
-      seeRemainingMore: ({ remaining }) => `Zie ${remaining} meer \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Zie ${remaining} meer \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Invoeging van ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Invoeging van ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Link naar origineel"
     },
     search: {
@@ -733,13 +733,13 @@ var nl_NL_default = {
       title: "Inhoudsopgave"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => minutes === 1 ? "1 minuut leestijd" : `${minutes} minuten leestijd`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => minutes === 1 ? "1 minuut leestijd" : `${minutes} minuten leestijd`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Recente notities",
-      lastFewNotes: ({ count }) => `Laatste ${count} notities`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Laatste ${count} notities`, "lastFewNotes")
     },
     error: {
       title: "Niet gevonden",
@@ -748,14 +748,14 @@ var nl_NL_default = {
     },
     folderContent: {
       folder: "Map",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 item in deze map." : `${count} items in deze map.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item in deze map." : `${count} items in deze map.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Label",
       tagIndex: "Label-index",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 item met dit label." : `${count} items met dit label.`,
-      showingFirst: ({ count }) => count === 1 ? "Eerste label tonen." : `Eerste ${count} labels tonen.`,
-      totalTags: ({ count }) => `${count} labels gevonden.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item met dit label." : `${count} items met dit label.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => count === 1 ? "Eerste label tonen." : `Eerste ${count} labels tonen.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `${count} labels gevonden.`, "totalTags")
     }
   }
 };
@@ -801,10 +801,10 @@ var ro_RO_default = {
     },
     recentNotes: {
       title: "Noti\u021Be recente",
-      seeRemainingMore: ({ remaining }) => `Vezi \xEEnc\u0103 ${remaining} \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Vezi \xEEnc\u0103 ${remaining} \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Extras din ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Extras din ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Leg\u0103tur\u0103 c\u0103tre original"
     },
     search: {
@@ -815,13 +815,13 @@ var ro_RO_default = {
       title: "Cuprins"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => minutes == 1 ? `lectur\u0103 de 1 minut` : `lectur\u0103 de ${minutes} minute`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => minutes == 1 ? `lectur\u0103 de 1 minut` : `lectur\u0103 de ${minutes} minute`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Noti\u021Be recente",
-      lastFewNotes: ({ count }) => `Ultimele ${count} noti\u021Be`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Ultimele ${count} noti\u021Be`, "lastFewNotes")
     },
     error: {
       title: "Pagina nu a fost g\u0103sit\u0103",
@@ -830,14 +830,14 @@ var ro_RO_default = {
     },
     folderContent: {
       folder: "Dosar",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 articol \xEEn acest dosar." : `${count} elemente \xEEn acest dosar.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 articol \xEEn acest dosar." : `${count} elemente \xEEn acest dosar.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Etichet\u0103",
       tagIndex: "Indexul etichetelor",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 articol cu aceast\u0103 etichet\u0103." : `${count} articole cu aceast\u0103 etichet\u0103.`,
-      showingFirst: ({ count }) => `Se afi\u0219eaz\u0103 primele ${count} etichete.`,
-      totalTags: ({ count }) => `Au fost g\u0103site ${count} etichete \xEEn total.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 articol cu aceast\u0103 etichet\u0103." : `${count} articole cu aceast\u0103 etichet\u0103.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Se afi\u0219eaz\u0103 primele ${count} etichete.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Au fost g\u0103site ${count} etichete \xEEn total.`, "totalTags")
     }
   }
 };
@@ -883,10 +883,10 @@ var ca_ES_default = {
     },
     recentNotes: {
       title: "Notes Recents",
-      seeRemainingMore: ({ remaining }) => `Vegi ${remaining} m\xE9s \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Vegi ${remaining} m\xE9s \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transcluit de ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transcluit de ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Enlla\xE7 a l'original"
     },
     search: {
@@ -897,13 +897,13 @@ var ca_ES_default = {
       title: "Taula de Continguts"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Es llegeix en ${minutes} min`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `Es llegeix en ${minutes} min`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Notes recents",
-      lastFewNotes: ({ count }) => `\xDAltimes ${count} notes`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\xDAltimes ${count} notes`, "lastFewNotes")
     },
     error: {
       title: "No s'ha trobat.",
@@ -912,14 +912,14 @@ var ca_ES_default = {
     },
     folderContent: {
       folder: "Carpeta",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 article en aquesta carpeta." : `${count} articles en esta carpeta.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 article en aquesta carpeta." : `${count} articles en esta carpeta.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Etiqueta",
       tagIndex: "\xEDndex d'Etiquetes",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 article amb aquesta etiqueta." : `${count} article amb aquesta etiqueta.`,
-      showingFirst: ({ count }) => `Mostrant les primeres ${count} etiquetes.`,
-      totalTags: ({ count }) => `S'han trobat ${count} etiquetes en total.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 article amb aquesta etiqueta." : `${count} article amb aquesta etiqueta.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Mostrant les primeres ${count} etiquetes.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `S'han trobat ${count} etiquetes en total.`, "totalTags")
     }
   }
 };
@@ -965,10 +965,10 @@ var es_ES_default = {
     },
     recentNotes: {
       title: "Notas Recientes",
-      seeRemainingMore: ({ remaining }) => `Vea ${remaining} m\xE1s \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Vea ${remaining} m\xE1s \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transcluido de ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transcluido de ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Enlace al original"
     },
     search: {
@@ -979,13 +979,13 @@ var es_ES_default = {
       title: "Tabla de Contenidos"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Se lee en ${minutes} min`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `Se lee en ${minutes} min`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Notas recientes",
-      lastFewNotes: ({ count }) => `\xDAltimas ${count} notas`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\xDAltimas ${count} notas`, "lastFewNotes")
     },
     error: {
       title: "No se ha encontrado.",
@@ -994,14 +994,14 @@ var es_ES_default = {
     },
     folderContent: {
       folder: "Carpeta",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 art\xEDculo en esta carpeta." : `${count} art\xEDculos en esta carpeta.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 art\xEDculo en esta carpeta." : `${count} art\xEDculos en esta carpeta.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Etiqueta",
       tagIndex: "\xCDndice de Etiquetas",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 art\xEDculo con esta etiqueta." : `${count} art\xEDculos con esta etiqueta.`,
-      showingFirst: ({ count }) => `Mostrando las primeras ${count} etiquetas.`,
-      totalTags: ({ count }) => `Se han encontrado ${count} etiquetas en total.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 art\xEDculo con esta etiqueta." : `${count} art\xEDculos con esta etiqueta.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Mostrando las primeras ${count} etiquetas.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Se han encontrado ${count} etiquetas en total.`, "totalTags")
     }
   }
 };
@@ -1047,10 +1047,10 @@ var ar_SA_default = {
     },
     recentNotes: {
       title: "\u0622\u062E\u0631 \u0627\u0644\u0645\u0644\u0627\u062D\u0638\u0627\u062A",
-      seeRemainingMore: ({ remaining }) => `\u062A\u0635\u0641\u062D ${remaining} \u0623\u0643\u062B\u0631 \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `\u062A\u0635\u0641\u062D ${remaining} \u0623\u0643\u062B\u0631 \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `\u0645\u0642\u062A\u0628\u0633 \u0645\u0646 ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `\u0645\u0642\u062A\u0628\u0633 \u0645\u0646 ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "\u0648\u0635\u0644\u0629 \u0644\u0644\u0645\u0644\u0627\u062D\u0638\u0629 \u0627\u0644\u0631\u0626\u064A\u0633\u0629"
     },
     search: {
@@ -1061,13 +1061,13 @@ var ar_SA_default = {
       title: "\u0641\u0647\u0631\u0633 \u0627\u0644\u0645\u062D\u062A\u0648\u064A\u0627\u062A"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => minutes == 1 ? `\u062F\u0642\u064A\u0642\u0629 \u0623\u0648 \u0623\u0642\u0644 \u0644\u0644\u0642\u0631\u0627\u0621\u0629` : minutes == 2 ? `\u062F\u0642\u064A\u0642\u062A\u0627\u0646 \u0644\u0644\u0642\u0631\u0627\u0621\u0629` : `${minutes} \u062F\u0642\u0627\u0626\u0642 \u0644\u0644\u0642\u0631\u0627\u0621\u0629`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => minutes == 1 ? `\u062F\u0642\u064A\u0642\u0629 \u0623\u0648 \u0623\u0642\u0644 \u0644\u0644\u0642\u0631\u0627\u0621\u0629` : minutes == 2 ? `\u062F\u0642\u064A\u0642\u062A\u0627\u0646 \u0644\u0644\u0642\u0631\u0627\u0621\u0629` : `${minutes} \u062F\u0642\u0627\u0626\u0642 \u0644\u0644\u0642\u0631\u0627\u0621\u0629`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\u0622\u062E\u0631 \u0627\u0644\u0645\u0644\u0627\u062D\u0638\u0627\u062A",
-      lastFewNotes: ({ count }) => `\u0622\u062E\u0631 ${count} \u0645\u0644\u0627\u062D\u0638\u0629`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\u0622\u062E\u0631 ${count} \u0645\u0644\u0627\u062D\u0638\u0629`, "lastFewNotes")
     },
     error: {
       title: "\u063A\u064A\u0631 \u0645\u0648\u062C\u0648\u062F",
@@ -1076,14 +1076,14 @@ var ar_SA_default = {
     },
     folderContent: {
       folder: "\u0645\u062C\u0644\u062F",
-      itemsUnderFolder: ({ count }) => count === 1 ? "\u064A\u0648\u062C\u062F \u0639\u0646\u0635\u0631 \u0648\u0627\u062D\u062F \u0641\u0642\u0637 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0645\u062C\u0644\u062F" : `\u064A\u0648\u062C\u062F ${count} \u0639\u0646\u0627\u0635\u0631 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0645\u062C\u0644\u062F.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "\u064A\u0648\u062C\u062F \u0639\u0646\u0635\u0631 \u0648\u0627\u062D\u062F \u0641\u0642\u0637 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0645\u062C\u0644\u062F" : `\u064A\u0648\u062C\u062F ${count} \u0639\u0646\u0627\u0635\u0631 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0645\u062C\u0644\u062F.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\u0627\u0644\u0648\u0633\u0645",
       tagIndex: "\u0645\u0624\u0634\u0631 \u0627\u0644\u0648\u0633\u0645",
-      itemsUnderTag: ({ count }) => count === 1 ? "\u064A\u0648\u062C\u062F \u0639\u0646\u0635\u0631 \u0648\u0627\u062D\u062F \u0641\u0642\u0637 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0648\u0633\u0645" : `\u064A\u0648\u062C\u062F ${count} \u0639\u0646\u0627\u0635\u0631 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0648\u0633\u0645.`,
-      showingFirst: ({ count }) => `\u0625\u0638\u0647\u0627\u0631 \u0623\u0648\u0644 ${count} \u0623\u0648\u0633\u0645\u0629.`,
-      totalTags: ({ count }) => `\u064A\u0648\u062C\u062F ${count} \u0623\u0648\u0633\u0645\u0629.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "\u064A\u0648\u062C\u062F \u0639\u0646\u0635\u0631 \u0648\u0627\u062D\u062F \u0641\u0642\u0637 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0648\u0633\u0645" : `\u064A\u0648\u062C\u062F ${count} \u0639\u0646\u0627\u0635\u0631 \u062A\u062D\u062A \u0647\u0630\u0627 \u0627\u0644\u0648\u0633\u0645.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u0625\u0638\u0647\u0627\u0631 \u0623\u0648\u0644 ${count} \u0623\u0648\u0633\u0645\u0629.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\u064A\u0648\u062C\u062F ${count} \u0623\u0648\u0633\u0645\u0629.`, "totalTags")
     }
   }
 };
@@ -1129,10 +1129,10 @@ var uk_UA_default = {
     },
     recentNotes: {
       title: "\u041E\u0441\u0442\u0430\u043D\u043D\u0456 \u043D\u043E\u0442\u0430\u0442\u043A\u0438",
-      seeRemainingMore: ({ remaining }) => `\u041F\u0435\u0440\u0435\u0433\u043B\u044F\u043D\u0443\u0442\u0438 \u0449\u0435 ${remaining} \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `\u041F\u0435\u0440\u0435\u0433\u043B\u044F\u043D\u0443\u0442\u0438 \u0449\u0435 ${remaining} \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `\u0412\u0438\u0434\u043E\u0431\u0443\u0442\u043E \u0437 ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `\u0412\u0438\u0434\u043E\u0431\u0443\u0442\u043E \u0437 ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "\u041F\u043E\u0441\u0438\u043B\u0430\u043D\u043D\u044F \u043D\u0430 \u043E\u0440\u0438\u0433\u0456\u043D\u0430\u043B"
     },
     search: {
@@ -1143,13 +1143,13 @@ var uk_UA_default = {
       title: "\u0417\u043C\u0456\u0441\u0442"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} \u0445\u0432 \u0447\u0438\u0442\u0430\u043D\u043D\u044F`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} \u0445\u0432 \u0447\u0438\u0442\u0430\u043D\u043D\u044F`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\u041E\u0441\u0442\u0430\u043D\u043D\u0456 \u043D\u043E\u0442\u0430\u0442\u043A\u0438",
-      lastFewNotes: ({ count }) => `\u041E\u0441\u0442\u0430\u043D\u043D\u0456 \u043D\u043E\u0442\u0430\u0442\u043A\u0438: ${count}`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\u041E\u0441\u0442\u0430\u043D\u043D\u0456 \u043D\u043E\u0442\u0430\u0442\u043A\u0438: ${count}`, "lastFewNotes")
     },
     error: {
       title: "\u041D\u0435 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E",
@@ -1158,14 +1158,14 @@ var uk_UA_default = {
     },
     folderContent: {
       folder: "\u0422\u0435\u043A\u0430",
-      itemsUnderFolder: ({ count }) => count === 1 ? "\u0423 \u0446\u0456\u0439 \u0442\u0435\u0446\u0456 1 \u0435\u043B\u0435\u043C\u0435\u043D\u0442." : `\u0415\u043B\u0435\u043C\u0435\u043D\u0442\u0456\u0432 \u0443 \u0446\u0456\u0439 \u0442\u0435\u0446\u0456: ${count}.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "\u0423 \u0446\u0456\u0439 \u0442\u0435\u0446\u0456 1 \u0435\u043B\u0435\u043C\u0435\u043D\u0442." : `\u0415\u043B\u0435\u043C\u0435\u043D\u0442\u0456\u0432 \u0443 \u0446\u0456\u0439 \u0442\u0435\u0446\u0456: ${count}.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\u041C\u0456\u0442\u043A\u0430",
       tagIndex: "\u0406\u043D\u0434\u0435\u043A\u0441 \u043C\u0456\u0442\u043A\u0438",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 \u0435\u043B\u0435\u043C\u0435\u043D\u0442 \u0437 \u0446\u0456\u0454\u044E \u043C\u0456\u0442\u043A\u043E\u044E." : `\u0415\u043B\u0435\u043C\u0435\u043D\u0442\u0456\u0432 \u0437 \u0446\u0456\u0454\u044E \u043C\u0456\u0442\u043A\u043E\u044E: ${count}.`,
-      showingFirst: ({ count }) => `\u041F\u043E\u043A\u0430\u0437 \u043F\u0435\u0440\u0448\u0438\u0445 ${count} \u043C\u0456\u0442\u043E\u043A.`,
-      totalTags: ({ count }) => `\u0412\u0441\u044C\u043E\u0433\u043E \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E \u043C\u0456\u0442\u043E\u043A: ${count}.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 \u0435\u043B\u0435\u043C\u0435\u043D\u0442 \u0437 \u0446\u0456\u0454\u044E \u043C\u0456\u0442\u043A\u043E\u044E." : `\u0415\u043B\u0435\u043C\u0435\u043D\u0442\u0456\u0432 \u0437 \u0446\u0456\u0454\u044E \u043C\u0456\u0442\u043A\u043E\u044E: ${count}.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u041F\u043E\u043A\u0430\u0437 \u043F\u0435\u0440\u0448\u0438\u0445 ${count} \u043C\u0456\u0442\u043E\u043A.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\u0412\u0441\u044C\u043E\u0433\u043E \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E \u043C\u0456\u0442\u043E\u043A: ${count}.`, "totalTags")
     }
   }
 };
@@ -1211,10 +1211,10 @@ var ru_RU_default = {
     },
     recentNotes: {
       title: "\u041D\u0435\u0434\u0430\u0432\u043D\u0438\u0435 \u0437\u0430\u043C\u0435\u0442\u043A\u0438",
-      seeRemainingMore: ({ remaining }) => `\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0441\u0442\u0430\u0432\u0448${getForm(remaining, "\u0443\u044E\u0441\u044F", "\u0438\u0435\u0441\u044F", "\u0438\u0435\u0441\u044F")} ${remaining} \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0441\u0442\u0430\u0432\u0448${getForm(remaining, "\u0443\u044E\u0441\u044F", "\u0438\u0435\u0441\u044F", "\u0438\u0435\u0441\u044F")} ${remaining} \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `\u041F\u0435\u0440\u0435\u0445\u043E\u0434 \u0438\u0437 ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `\u041F\u0435\u0440\u0435\u0445\u043E\u0434 \u0438\u0437 ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "\u0421\u0441\u044B\u043B\u043A\u0430 \u043D\u0430 \u043E\u0440\u0438\u0433\u0438\u043D\u0430\u043B"
     },
     search: {
@@ -1225,13 +1225,13 @@ var ru_RU_default = {
       title: "\u041E\u0433\u043B\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `\u0432\u0440\u0435\u043C\u044F \u0447\u0442\u0435\u043D\u0438\u044F ~${minutes} \u043C\u0438\u043D.`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `\u0432\u0440\u0435\u043C\u044F \u0447\u0442\u0435\u043D\u0438\u044F ~${minutes} \u043C\u0438\u043D.`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\u041D\u0435\u0434\u0430\u0432\u043D\u0438\u0435 \u0437\u0430\u043C\u0435\u0442\u043A\u0438",
-      lastFewNotes: ({ count }) => `\u041F\u043E\u0441\u043B\u0435\u0434\u043D${getForm(count, "\u044F\u044F", "\u0438\u0435", "\u0438\u0435")} ${count} \u0437\u0430\u043C\u0435\u0442${getForm(count, "\u043A\u0430", "\u043A\u0438", "\u043E\u043A")}`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\u041F\u043E\u0441\u043B\u0435\u0434\u043D${getForm(count, "\u044F\u044F", "\u0438\u0435", "\u0438\u0435")} ${count} \u0437\u0430\u043C\u0435\u0442${getForm(count, "\u043A\u0430", "\u043A\u0438", "\u043E\u043A")}`, "lastFewNotes")
     },
     error: {
       title: "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u0430 \u043D\u0435 \u043D\u0430\u0439\u0434\u0435\u043D\u0430",
@@ -1240,26 +1240,23 @@ var ru_RU_default = {
     },
     folderContent: {
       folder: "\u041F\u0430\u043F\u043A\u0430",
-      itemsUnderFolder: ({ count }) => `\u0432 \u044D\u0442\u043E\u0439 \u043F\u0430\u043F\u043A\u0435 ${count} \u044D\u043B\u0435\u043C\u0435\u043D\u0442${getForm(count, "", "\u0430", "\u043E\u0432")}`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => `\u0432 \u044D\u0442\u043E\u0439 \u043F\u0430\u043F\u043A\u0435 ${count} \u044D\u043B\u0435\u043C\u0435\u043D\u0442${getForm(count, "", "\u0430", "\u043E\u0432")}`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\u0422\u0435\u0433",
       tagIndex: "\u0418\u043D\u0434\u0435\u043A\u0441 \u0442\u0435\u0433\u043E\u0432",
-      itemsUnderTag: ({ count }) => `\u0441 \u044D\u0442\u0438\u043C \u0442\u0435\u0433\u043E\u043C ${count} \u044D\u043B\u0435\u043C\u0435\u043D\u0442${getForm(count, "", "\u0430", "\u043E\u0432")}`,
-      showingFirst: ({ count }) => `\u041F\u043E\u043A\u0430\u0437\u044B\u0432\u0430${getForm(count, "\u0435\u0442\u0441\u044F", "\u044E\u0442\u0441\u044F", "\u044E\u0442\u0441\u044F")} ${count} \u0442\u0435\u0433${getForm(count, "", "\u0430", "\u043E\u0432")}`,
-      totalTags: ({ count }) => `\u0412\u0441\u0435\u0433\u043E ${count} \u0442\u0435\u0433${getForm(count, "", "\u0430", "\u043E\u0432")}`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => `\u0441 \u044D\u0442\u0438\u043C \u0442\u0435\u0433\u043E\u043C ${count} \u044D\u043B\u0435\u043C\u0435\u043D\u0442${getForm(count, "", "\u0430", "\u043E\u0432")}`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u041F\u043E\u043A\u0430\u0437\u044B\u0432\u0430${getForm(count, "\u0435\u0442\u0441\u044F", "\u044E\u0442\u0441\u044F", "\u044E\u0442\u0441\u044F")} ${count} \u0442\u0435\u0433${getForm(count, "", "\u0430", "\u043E\u0432")}`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\u0412\u0441\u0435\u0433\u043E ${count} \u0442\u0435\u0433${getForm(count, "", "\u0430", "\u043E\u0432")}`, "totalTags")
     }
   }
 };
 function getForm(number, form1, form2, form5) {
   const remainder100 = number % 100;
   const remainder10 = remainder100 % 10;
-  if (remainder100 >= 10 && remainder100 <= 20)
-    return form5;
-  if (remainder10 > 1 && remainder10 < 5)
-    return form2;
-  if (remainder10 == 1)
-    return form1;
+  if (remainder100 >= 10 && remainder100 <= 20) return form5;
+  if (remainder10 > 1 && remainder10 < 5) return form2;
+  if (remainder10 == 1) return form1;
   return form5;
 }
 __name(getForm, "getForm");
@@ -1305,10 +1302,10 @@ var ko_KR_default = {
     },
     recentNotes: {
       title: "\uCD5C\uADFC \uAC8C\uC2DC\uAE00",
-      seeRemainingMore: ({ remaining }) => `${remaining}\uAC74 \uB354\uBCF4\uAE30 \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `${remaining}\uAC74 \uB354\uBCF4\uAE30 \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `${targetSlug}\uC758 \uD3EC\uD568`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `${targetSlug}\uC758 \uD3EC\uD568`, "transcludeOf"),
       linkToOriginal: "\uC6D0\uBCF8 \uB9C1\uD06C"
     },
     search: {
@@ -1319,13 +1316,13 @@ var ko_KR_default = {
       title: "\uBAA9\uCC28"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min read`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\uCD5C\uADFC \uAC8C\uC2DC\uAE00",
-      lastFewNotes: ({ count }) => `\uCD5C\uADFC ${count} \uAC74`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\uCD5C\uADFC ${count} \uAC74`, "lastFewNotes")
     },
     error: {
       title: "Not Found",
@@ -1334,14 +1331,14 @@ var ko_KR_default = {
     },
     folderContent: {
       folder: "\uD3F4\uB354",
-      itemsUnderFolder: ({ count }) => `${count}\uAC74\uC758 \uD56D\uBAA9`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => `${count}\uAC74\uC758 \uD56D\uBAA9`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\uD0DC\uADF8",
       tagIndex: "\uD0DC\uADF8 \uBAA9\uB85D",
-      itemsUnderTag: ({ count }) => `${count}\uAC74\uC758 \uD56D\uBAA9`,
-      showingFirst: ({ count }) => `\uCC98\uC74C ${count}\uAC1C\uC758 \uD0DC\uADF8`,
-      totalTags: ({ count }) => `\uCD1D ${count}\uAC1C\uC758 \uD0DC\uADF8\uB97C \uCC3E\uC558\uC2B5\uB2C8\uB2E4.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => `${count}\uAC74\uC758 \uD56D\uBAA9`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\uCC98\uC74C ${count}\uAC1C\uC758 \uD0DC\uADF8`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\uCD1D ${count}\uAC1C\uC758 \uD0DC\uADF8\uB97C \uCC3E\uC558\uC2B5\uB2C8\uB2E4.`, "totalTags")
     }
   }
 };
@@ -1387,10 +1384,10 @@ var zh_CN_default = {
     },
     recentNotes: {
       title: "\u6700\u8FD1\u7684\u7B14\u8BB0",
-      seeRemainingMore: ({ remaining }) => `\u67E5\u770B\u66F4\u591A${remaining}\u7BC7\u7B14\u8BB0 \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `\u67E5\u770B\u66F4\u591A${remaining}\u7BC7\u7B14\u8BB0 \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `\u5305\u542B${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `\u5305\u542B${targetSlug}`, "transcludeOf"),
       linkToOriginal: "\u6307\u5411\u539F\u59CB\u7B14\u8BB0\u7684\u94FE\u63A5"
     },
     search: {
@@ -1401,13 +1398,13 @@ var zh_CN_default = {
       title: "\u76EE\u5F55"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes}\u5206\u949F\u9605\u8BFB`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes}\u5206\u949F\u9605\u8BFB`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\u6700\u8FD1\u7684\u7B14\u8BB0",
-      lastFewNotes: ({ count }) => `\u6700\u8FD1\u7684${count}\u6761\u7B14\u8BB0`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\u6700\u8FD1\u7684${count}\u6761\u7B14\u8BB0`, "lastFewNotes")
     },
     error: {
       title: "\u65E0\u6CD5\u627E\u5230",
@@ -1416,14 +1413,96 @@ var zh_CN_default = {
     },
     folderContent: {
       folder: "\u6587\u4EF6\u5939",
-      itemsUnderFolder: ({ count }) => `\u6B64\u6587\u4EF6\u5939\u4E0B\u6709${count}\u6761\u7B14\u8BB0\u3002`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => `\u6B64\u6587\u4EF6\u5939\u4E0B\u6709${count}\u6761\u7B14\u8BB0\u3002`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\u6807\u7B7E",
       tagIndex: "\u6807\u7B7E\u7D22\u5F15",
-      itemsUnderTag: ({ count }) => `\u6B64\u6807\u7B7E\u4E0B\u6709${count}\u6761\u7B14\u8BB0\u3002`,
-      showingFirst: ({ count }) => `\u663E\u793A\u524D${count}\u4E2A\u6807\u7B7E\u3002`,
-      totalTags: ({ count }) => `\u603B\u5171\u6709${count}\u4E2A\u6807\u7B7E\u3002`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => `\u6B64\u6807\u7B7E\u4E0B\u6709${count}\u6761\u7B14\u8BB0\u3002`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u663E\u793A\u524D${count}\u4E2A\u6807\u7B7E\u3002`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\u603B\u5171\u6709${count}\u4E2A\u6807\u7B7E\u3002`, "totalTags")
+    }
+  }
+};
+
+// quartz/i18n/locales/zh-TW.ts
+var zh_TW_default = {
+  propertyDefaults: {
+    title: "\u7121\u984C",
+    description: "\u7121\u63CF\u8FF0"
+  },
+  components: {
+    callout: {
+      note: "\u7B46\u8A18",
+      abstract: "\u6458\u8981",
+      info: "\u63D0\u793A",
+      todo: "\u5F85\u8FA6",
+      tip: "\u63D0\u793A",
+      success: "\u6210\u529F",
+      question: "\u554F\u984C",
+      warning: "\u8B66\u544A",
+      failure: "\u5931\u6557",
+      danger: "\u5371\u96AA",
+      bug: "\u932F\u8AA4",
+      example: "\u7BC4\u4F8B",
+      quote: "\u5F15\u7528"
+    },
+    backlinks: {
+      title: "\u53CD\u5411\u9023\u7D50",
+      noBacklinksFound: "\u7121\u6CD5\u627E\u5230\u53CD\u5411\u9023\u7D50"
+    },
+    themeToggle: {
+      lightMode: "\u4EAE\u8272\u6A21\u5F0F",
+      darkMode: "\u6697\u8272\u6A21\u5F0F"
+    },
+    explorer: {
+      title: "\u63A2\u7D22"
+    },
+    footer: {
+      createdWith: "Created with"
+    },
+    graph: {
+      title: "\u95DC\u4FC2\u5716\u8B5C"
+    },
+    recentNotes: {
+      title: "\u6700\u8FD1\u7684\u7B46\u8A18",
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `\u67E5\u770B\u66F4\u591A ${remaining} \u7BC7\u7B46\u8A18 \u2192`, "seeRemainingMore")
+    },
+    transcludes: {
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `\u5305\u542B ${targetSlug}`, "transcludeOf"),
+      linkToOriginal: "\u6307\u5411\u539F\u59CB\u7B46\u8A18\u7684\u9023\u7D50"
+    },
+    search: {
+      title: "\u641C\u5C0B",
+      searchBarPlaceholder: "\u641C\u5C0B\u4E9B\u4EC0\u9EBC"
+    },
+    tableOfContents: {
+      title: "\u76EE\u9304"
+    },
+    contentMeta: {
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `\u95B1\u8B80\u6642\u9593\u7D04 ${minutes} \u5206\u9418`, "readingTime")
+    }
+  },
+  pages: {
+    rss: {
+      recentNotes: "\u6700\u8FD1\u7684\u7B46\u8A18",
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\u6700\u8FD1\u7684 ${count} \u689D\u7B46\u8A18`, "lastFewNotes")
+    },
+    error: {
+      title: "\u7121\u6CD5\u627E\u5230",
+      notFound: "\u79C1\u4EBA\u7B46\u8A18\u6216\u7B46\u8A18\u4E0D\u5B58\u5728\u3002",
+      home: "\u8FD4\u56DE\u9996\u9801"
+    },
+    folderContent: {
+      folder: "\u8CC7\u6599\u593E",
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => `\u6B64\u8CC7\u6599\u593E\u4E0B\u6709 ${count} \u689D\u7B46\u8A18\u3002`, "itemsUnderFolder")
+    },
+    tagContent: {
+      tag: "\u6A19\u7C64",
+      tagIndex: "\u6A19\u7C64\u7D22\u5F15",
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => `\u6B64\u6A19\u7C64\u4E0B\u6709 ${count} \u689D\u7B46\u8A18\u3002`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u986F\u793A\u524D ${count} \u500B\u6A19\u7C64\u3002`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\u7E3D\u5171\u6709 ${count} \u500B\u6A19\u7C64\u3002`, "totalTags")
     }
   }
 };
@@ -1469,10 +1548,10 @@ var vi_VN_default = {
     },
     recentNotes: {
       title: "B\xE0i vi\u1EBFt g\u1EA7n \u0111\xE2y",
-      seeRemainingMore: ({ remaining }) => `Xem ${remaining} th\xEAm \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Xem ${remaining} th\xEAm \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Bao g\u1ED3m ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Bao g\u1ED3m ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Li\xEAn K\u1EBFt G\u1ED1c"
     },
     search: {
@@ -1483,13 +1562,13 @@ var vi_VN_default = {
       title: "B\u1EA3ng N\u1ED9i Dung"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `\u0111\u1ECDc ${minutes} ph\xFAt`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `\u0111\u1ECDc ${minutes} ph\xFAt`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Nh\u1EEFng b\xE0i g\u1EA7n \u0111\xE2y",
-      lastFewNotes: ({ count }) => `${count} B\xE0i g\u1EA7n \u0111\xE2y`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `${count} B\xE0i g\u1EA7n \u0111\xE2y`, "lastFewNotes")
     },
     error: {
       title: "Kh\xF4ng T\xECm Th\u1EA5y",
@@ -1498,14 +1577,14 @@ var vi_VN_default = {
     },
     folderContent: {
       folder: "Th\u01B0 M\u1EE5c",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 m\u1EE5c trong th\u01B0 m\u1EE5c n\xE0y." : `${count} m\u1EE5c trong th\u01B0 m\u1EE5c n\xE0y.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 m\u1EE5c trong th\u01B0 m\u1EE5c n\xE0y." : `${count} m\u1EE5c trong th\u01B0 m\u1EE5c n\xE0y.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Th\u1EBB",
       tagIndex: "Th\u1EBB M\u1EE5c L\u1EE5c",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 m\u1EE5c g\u1EAFn th\u1EBB n\xE0y." : `${count} m\u1EE5c g\u1EAFn th\u1EBB n\xE0y.`,
-      showingFirst: ({ count }) => `Hi\u1EC3n th\u1ECB tr\u01B0\u1EDBc ${count} th\u1EBB.`,
-      totalTags: ({ count }) => `T\xECm th\u1EA5y ${count} th\u1EBB t\u1ED5ng c\u1ED9ng.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 m\u1EE5c g\u1EAFn th\u1EBB n\xE0y." : `${count} m\u1EE5c g\u1EAFn th\u1EBB n\xE0y.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Hi\u1EC3n th\u1ECB tr\u01B0\u1EDBc ${count} th\u1EBB.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `T\xECm th\u1EA5y ${count} th\u1EBB t\u1ED5ng c\u1ED9ng.`, "totalTags")
     }
   }
 };
@@ -1551,10 +1630,10 @@ var pt_BR_default = {
     },
     recentNotes: {
       title: "Notas recentes",
-      seeRemainingMore: ({ remaining }) => `Veja mais ${remaining} \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Veja mais ${remaining} \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transcrever de ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Transcrever de ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "Link ao original"
     },
     search: {
@@ -1565,13 +1644,13 @@ var pt_BR_default = {
       title: "Sum\xE1rio"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Leitura de ${minutes} min`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `Leitura de ${minutes} min`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Notas recentes",
-      lastFewNotes: ({ count }) => `\xDAltimas ${count} notas`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `\xDAltimas ${count} notas`, "lastFewNotes")
     },
     error: {
       title: "N\xE3o encontrado",
@@ -1580,14 +1659,14 @@ var pt_BR_default = {
     },
     folderContent: {
       folder: "Arquivo",
-      itemsUnderFolder: ({ count }) => count === 1 ? "1 item neste arquivo." : `${count} items neste arquivo.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item neste arquivo." : `${count} items neste arquivo.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Sum\xE1rio de Tags",
-      itemsUnderTag: ({ count }) => count === 1 ? "1 item com esta tag." : `${count} items com esta tag.`,
-      showingFirst: ({ count }) => `Mostrando as ${count} primeiras tags.`,
-      totalTags: ({ count }) => `Encontradas ${count} tags.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 item com esta tag." : `${count} items com esta tag.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Mostrando as ${count} primeiras tags.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Encontradas ${count} tags.`, "totalTags")
     }
   }
 };
@@ -1633,10 +1712,10 @@ var hu_HU_default = {
     },
     recentNotes: {
       title: "Legut\xF3bbi jegyzetek",
-      seeRemainingMore: ({ remaining }) => `${remaining} tov\xE1bbi megtekint\xE9se \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `${remaining} tov\xE1bbi megtekint\xE9se \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `${targetSlug} \xE1thivatkoz\xE1sa`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `${targetSlug} \xE1thivatkoz\xE1sa`, "transcludeOf"),
       linkToOriginal: "Hivatkoz\xE1s az eredetire"
     },
     search: {
@@ -1647,13 +1726,13 @@ var hu_HU_default = {
       title: "Tartalomjegyz\xE9k"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} perces olvas\xE1s`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} perces olvas\xE1s`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Legut\xF3bbi jegyzetek",
-      lastFewNotes: ({ count }) => `Legut\xF3bbi ${count} jegyzet`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Legut\xF3bbi ${count} jegyzet`, "lastFewNotes")
     },
     error: {
       title: "Nem tal\xE1lhat\xF3",
@@ -1662,14 +1741,14 @@ var hu_HU_default = {
     },
     folderContent: {
       folder: "Mappa",
-      itemsUnderFolder: ({ count }) => `Ebben a mapp\xE1ban ${count} elem tal\xE1lhat\xF3.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => `Ebben a mapp\xE1ban ${count} elem tal\xE1lhat\xF3.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "C\xEDmke",
       tagIndex: "C\xEDmke index",
-      itemsUnderTag: ({ count }) => `${count} elem tal\xE1lhat\xF3 ezzel a c\xEDmk\xE9vel.`,
-      showingFirst: ({ count }) => `Els\u0151 ${count} c\xEDmke megjelen\xEDtve.`,
-      totalTags: ({ count }) => `\xD6sszesen ${count} c\xEDmke tal\xE1lhat\xF3.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => `${count} elem tal\xE1lhat\xF3 ezzel a c\xEDmk\xE9vel.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Els\u0151 ${count} c\xEDmke megjelen\xEDtve.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `\xD6sszesen ${count} c\xEDmke tal\xE1lhat\xF3.`, "totalTags")
     }
   }
 };
@@ -1715,10 +1794,10 @@ var fa_IR_default = {
     },
     recentNotes: {
       title: "\u06CC\u0627\u062F\u062F\u0627\u0634\u062A\u200C\u0647\u0627\u06CC \u0627\u062E\u06CC\u0631",
-      seeRemainingMore: ({ remaining }) => `${remaining} \u06CC\u0627\u062F\u062F\u0627\u0634\u062A \u062F\u06CC\u06AF\u0631 \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `${remaining} \u06CC\u0627\u062F\u062F\u0627\u0634\u062A \u062F\u06CC\u06AF\u0631 \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `\u0627\u0632 ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `\u0627\u0632 ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "\u067E\u06CC\u0648\u0646\u062F \u0628\u0647 \u0627\u0635\u0644\u06CC"
     },
     search: {
@@ -1729,13 +1808,13 @@ var fa_IR_default = {
       title: "\u0641\u0647\u0631\u0633\u062A"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `\u0632\u0645\u0627\u0646 \u062A\u0642\u0631\u06CC\u0628\u06CC \u0645\u0637\u0627\u0644\u0639\u0647: ${minutes} \u062F\u0642\u06CC\u0642\u0647`
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `\u0632\u0645\u0627\u0646 \u062A\u0642\u0631\u06CC\u0628\u06CC \u0645\u0637\u0627\u0644\u0639\u0647: ${minutes} \u062F\u0642\u06CC\u0642\u0647`, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "\u06CC\u0627\u062F\u062F\u0627\u0634\u062A\u200C\u0647\u0627\u06CC \u0627\u062E\u06CC\u0631",
-      lastFewNotes: ({ count }) => `${count} \u06CC\u0627\u062F\u062F\u0627\u0634\u062A \u0627\u062E\u06CC\u0631`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `${count} \u06CC\u0627\u062F\u062F\u0627\u0634\u062A \u0627\u062E\u06CC\u0631`, "lastFewNotes")
     },
     error: {
       title: "\u06CC\u0627\u0641\u062A \u0646\u0634\u062F",
@@ -1744,14 +1823,14 @@ var fa_IR_default = {
     },
     folderContent: {
       folder: "\u067E\u0648\u0634\u0647",
-      itemsUnderFolder: ({ count }) => count === 1 ? ".\u06CC\u06A9 \u0645\u0637\u0644\u0628 \u062F\u0631 \u0627\u06CC\u0646 \u067E\u0648\u0634\u0647 \u0627\u0633\u062A" : `${count} \u0645\u0637\u0644\u0628 \u062F\u0631 \u0627\u06CC\u0646 \u067E\u0648\u0634\u0647 \u0627\u0633\u062A.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? ".\u06CC\u06A9 \u0645\u0637\u0644\u0628 \u062F\u0631 \u0627\u06CC\u0646 \u067E\u0648\u0634\u0647 \u0627\u0633\u062A" : `${count} \u0645\u0637\u0644\u0628 \u062F\u0631 \u0627\u06CC\u0646 \u067E\u0648\u0634\u0647 \u0627\u0633\u062A.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "\u0628\u0631\u0686\u0633\u0628",
       tagIndex: "\u0641\u0647\u0631\u0633\u062A \u0628\u0631\u0686\u0633\u0628\u200C\u0647\u0627",
-      itemsUnderTag: ({ count }) => count === 1 ? "\u06CC\u06A9 \u0645\u0637\u0644\u0628 \u0628\u0627 \u0627\u06CC\u0646 \u0628\u0631\u0686\u0633\u0628" : `${count} \u0645\u0637\u0644\u0628 \u0628\u0627 \u0627\u06CC\u0646 \u0628\u0631\u0686\u0633\u0628.`,
-      showingFirst: ({ count }) => `\u062F\u0631 \u062D\u0627\u0644 \u0646\u0645\u0627\u06CC\u0634 ${count} \u0628\u0631\u0686\u0633\u0628.`,
-      totalTags: ({ count }) => `${count} \u0628\u0631\u0686\u0633\u0628 \u06CC\u0627\u0641\u062A \u0634\u062F.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "\u06CC\u06A9 \u0645\u0637\u0644\u0628 \u0628\u0627 \u0627\u06CC\u0646 \u0628\u0631\u0686\u0633\u0628" : `${count} \u0645\u0637\u0644\u0628 \u0628\u0627 \u0627\u06CC\u0646 \u0628\u0631\u0686\u0633\u0628.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u062F\u0631 \u062D\u0627\u0644 \u0646\u0645\u0627\u06CC\u0634 ${count} \u0628\u0631\u0686\u0633\u0628.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `${count} \u0628\u0631\u0686\u0633\u0628 \u06CC\u0627\u0641\u062A \u0634\u062F.`, "totalTags")
     }
   }
 };
@@ -1797,10 +1876,10 @@ var pl_PL_default = {
     },
     recentNotes: {
       title: "Najnowsze notatki",
-      seeRemainingMore: ({ remaining }) => `Zobacz ${remaining} nastepnych \u2192`
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Zobacz ${remaining} nastepnych \u2192`, "seeRemainingMore")
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Osadzone ${targetSlug}`,
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Osadzone ${targetSlug}`, "transcludeOf"),
       linkToOriginal: "\u0141\u0105cze do orygina\u0142u"
     },
     search: {
@@ -1811,13 +1890,13 @@ var pl_PL_default = {
       title: "Spis tre\u015Bci"
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min. czytania `
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min. czytania `, "readingTime")
     }
   },
   pages: {
     rss: {
       recentNotes: "Najnowsze notatki",
-      lastFewNotes: ({ count }) => `Ostatnie ${count} notatek`
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Ostatnie ${count} notatek`, "lastFewNotes")
     },
     error: {
       title: "Nie znaleziono",
@@ -1826,14 +1905,178 @@ var pl_PL_default = {
     },
     folderContent: {
       folder: "Folder",
-      itemsUnderFolder: ({ count }) => count === 1 ? "W tym folderze jest 1 element." : `Element\xF3w w folderze: ${count}.`
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "W tym folderze jest 1 element." : `Element\xF3w w folderze: ${count}.`, "itemsUnderFolder")
     },
     tagContent: {
       tag: "Znacznik",
       tagIndex: "Spis znacznik\xF3w",
-      itemsUnderTag: ({ count }) => count === 1 ? "Oznaczony 1 element." : `Element\xF3w z tym znacznikiem: ${count}.`,
-      showingFirst: ({ count }) => `Pokazuje ${count} pierwszych znacznik\xF3w.`,
-      totalTags: ({ count }) => `Znalezionych wszystkich znacznik\xF3w: ${count}.`
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "Oznaczony 1 element." : `Element\xF3w z tym znacznikiem: ${count}.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Pokazuje ${count} pierwszych znacznik\xF3w.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Znalezionych wszystkich znacznik\xF3w: ${count}.`, "totalTags")
+    }
+  }
+};
+
+// quartz/i18n/locales/cs-CZ.ts
+var cs_CZ_default = {
+  propertyDefaults: {
+    title: "Bez n\xE1zvu",
+    description: "Nebyl uveden \u017E\xE1dn\xFD popis"
+  },
+  components: {
+    callout: {
+      note: "Pozn\xE1mka",
+      abstract: "Abstract",
+      info: "Info",
+      todo: "Todo",
+      tip: "Tip",
+      success: "\xDAsp\u011Bch",
+      question: "Ot\xE1zka",
+      warning: "Upozorn\u011Bn\xED",
+      failure: "Chyba",
+      danger: "Nebezpe\u010D\xED",
+      bug: "Bug",
+      example: "P\u0159\xEDklad",
+      quote: "Citace"
+    },
+    backlinks: {
+      title: "P\u0159\xEDchoz\xED odkazy",
+      noBacklinksFound: "Nenalezeny \u017E\xE1dn\xE9 p\u0159\xEDchoz\xED odkazy"
+    },
+    themeToggle: {
+      lightMode: "Sv\u011Btl\xFD re\u017Eim",
+      darkMode: "Tmav\xFD re\u017Eim"
+    },
+    explorer: {
+      title: "Proch\xE1zet"
+    },
+    footer: {
+      createdWith: "Vytvo\u0159eno pomoc\xED"
+    },
+    graph: {
+      title: "Graf"
+    },
+    recentNotes: {
+      title: "Nejnov\u011Bj\u0161\xED pozn\xE1mky",
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `Zobraz ${remaining} dal\u0161\xEDch \u2192`, "seeRemainingMore")
+    },
+    transcludes: {
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `Zobrazen\xED ${targetSlug}`, "transcludeOf"),
+      linkToOriginal: "Odkaz na p\u016Fvodn\xED dokument"
+    },
+    search: {
+      title: "Hledat",
+      searchBarPlaceholder: "Hledejte n\u011Bco"
+    },
+    tableOfContents: {
+      title: "Obsah"
+    },
+    contentMeta: {
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} min \u010Dten\xED`, "readingTime")
+    }
+  },
+  pages: {
+    rss: {
+      recentNotes: "Nejnov\u011Bj\u0161\xED pozn\xE1mky",
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Posledn\xEDch ${count} pozn\xE1mek`, "lastFewNotes")
+    },
+    error: {
+      title: "Nenalezeno",
+      notFound: "Tato str\xE1nka je bu\u010F soukrom\xE1, nebo neexistuje.",
+      home: "N\xE1vrat na domovskou str\xE1nku"
+    },
+    folderContent: {
+      folder: "Slo\u017Eka",
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 polo\u017Eka v t\xE9to slo\u017Ece." : `${count} polo\u017Eek v t\xE9to slo\u017Ece.`, "itemsUnderFolder")
+    },
+    tagContent: {
+      tag: "Tag",
+      tagIndex: "Rejst\u0159\xEDk tag\u016F",
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "1 polo\u017Eka s t\xEDmto tagem." : `${count} polo\u017Eek s t\xEDmto tagem.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `Zobrazuj\xED se prvn\xED ${count} tagy.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Nalezeno celkem ${count} tag\u016F.`, "totalTags")
+    }
+  }
+};
+
+// quartz/i18n/locales/tr-TR.ts
+var tr_TR_default = {
+  propertyDefaults: {
+    title: "\u0130simsiz",
+    description: "Herhangi bir a\xE7\u0131klama eklenmedi"
+  },
+  components: {
+    callout: {
+      note: "Not",
+      abstract: "\xD6zet",
+      info: "Bilgi",
+      todo: "Yap\u0131lacaklar",
+      tip: "\u0130pucu",
+      success: "Ba\u015Far\u0131l\u0131",
+      question: "Soru",
+      warning: "Uyar\u0131",
+      failure: "Ba\u015Far\u0131s\u0131z",
+      danger: "Tehlike",
+      bug: "Hata",
+      example: "\xD6rnek",
+      quote: "Al\u0131nt\u0131"
+    },
+    backlinks: {
+      title: "Backlinkler",
+      noBacklinksFound: "Backlink bulunamad\u0131"
+    },
+    themeToggle: {
+      lightMode: "A\xE7\u0131k mod",
+      darkMode: "Koyu mod"
+    },
+    explorer: {
+      title: "Gezgin"
+    },
+    footer: {
+      createdWith: "\u015Eununla olu\u015Fturuldu"
+    },
+    graph: {
+      title: "Grafik G\xF6r\xFCn\xFCm\xFC"
+    },
+    recentNotes: {
+      title: "Son Notlar",
+      seeRemainingMore: /* @__PURE__ */ __name(({ remaining }) => `${remaining} tane daha g\xF6r \u2192`, "seeRemainingMore")
+    },
+    transcludes: {
+      transcludeOf: /* @__PURE__ */ __name(({ targetSlug }) => `${targetSlug} sayfas\u0131ndan al\u0131nt\u0131`, "transcludeOf"),
+      linkToOriginal: "Orijinal ba\u011Flant\u0131"
+    },
+    search: {
+      title: "Arama",
+      searchBarPlaceholder: "Bir \u015Fey aray\u0131n"
+    },
+    tableOfContents: {
+      title: "\u0130\xE7indekiler"
+    },
+    contentMeta: {
+      readingTime: /* @__PURE__ */ __name(({ minutes }) => `${minutes} dakika okuma s\xFCresi`, "readingTime")
+    }
+  },
+  pages: {
+    rss: {
+      recentNotes: "Son notlar",
+      lastFewNotes: /* @__PURE__ */ __name(({ count }) => `Son ${count} not`, "lastFewNotes")
+    },
+    error: {
+      title: "Bulunamad\u0131",
+      notFound: "Bu sayfa ya \xF6zel ya da mevcut de\u011Fil.",
+      home: "Anasayfaya geri d\xF6n"
+    },
+    folderContent: {
+      folder: "Klas\xF6r",
+      itemsUnderFolder: /* @__PURE__ */ __name(({ count }) => count === 1 ? "Bu klas\xF6r alt\u0131nda 1 \xF6\u011Fe." : `Bu klas\xF6r alt\u0131ndaki ${count} \xF6\u011Fe.`, "itemsUnderFolder")
+    },
+    tagContent: {
+      tag: "Etiket",
+      tagIndex: "Etiket S\u0131ras\u0131",
+      itemsUnderTag: /* @__PURE__ */ __name(({ count }) => count === 1 ? "Bu etikete sahip 1 \xF6\u011Fe." : `Bu etiket alt\u0131ndaki ${count} \xF6\u011Fe.`, "itemsUnderTag"),
+      showingFirst: /* @__PURE__ */ __name(({ count }) => `\u0130lk ${count} etiket g\xF6steriliyor.`, "showingFirst"),
+      totalTags: /* @__PURE__ */ __name(({ count }) => `Toplam ${count} adet etiket bulundu.`, "totalTags")
     }
   }
 };
@@ -1876,11 +2119,14 @@ var TRANSLATIONS = {
   "ru-RU": ru_RU_default,
   "ko-KR": ko_KR_default,
   "zh-CN": zh_CN_default,
+  "zh-TW": zh_TW_default,
   "vi-VN": vi_VN_default,
   "pt-BR": pt_BR_default,
   "hu-HU": hu_HU_default,
   "fa-IR": fa_IR_default,
-  "pl-PL": pl_PL_default
+  "pl-PL": pl_PL_default,
+  "cs-CZ": cs_CZ_default,
+  "tr-TR": tr_TR_default
 };
 var defaultTranslation = "en-US";
 var i18n = /* @__PURE__ */ __name((locale) => TRANSLATIONS[locale ?? defaultTranslation], "i18n");
@@ -1892,14 +2138,12 @@ var defaultOptions = {
 };
 function coalesceAliases(data, aliases) {
   for (const alias of aliases) {
-    if (data[alias] !== void 0 && data[alias] !== null)
-      return data[alias];
+    if (data[alias] !== void 0 && data[alias] !== null) return data[alias];
   }
 }
 __name(coalesceAliases, "coalesceAliases");
 function coerceToArray(input) {
-  if (input === void 0 || input === null)
-    return void 0;
+  if (input === void 0 || input === null) return void 0;
   if (!Array.isArray(input)) {
     input = input.toString().split(",").map((tag) => tag.trim());
   }
@@ -1918,8 +2162,8 @@ var FrontMatter = /* @__PURE__ */ __name((userOpts) => {
             const { data } = matter(Buffer.from(file.value), {
               ...opts,
               engines: {
-                yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }),
-                toml: (s) => toml.parse(s)
+                yaml: /* @__PURE__ */ __name((s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }), "yaml"),
+                toml: /* @__PURE__ */ __name((s) => toml.parse(s), "toml")
               }
             });
             if (data.title != null && data.title.toString() !== "") {
@@ -1928,14 +2172,13 @@ var FrontMatter = /* @__PURE__ */ __name((userOpts) => {
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title;
             }
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]));
-            if (tags)
-              data.tags = [...new Set(tags.map((tag) => slugTag(tag)))];
+            if (tags) data.tags = [...new Set(tags.map((tag) => slugTag(tag)))];
             const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]));
-            if (aliases)
-              data.aliases = aliases;
+            if (aliases) data.aliases = aliases;
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]));
-            if (cssclasses)
-              data.cssclasses = cssclasses;
+            if (cssclasses) data.cssclasses = cssclasses;
+            const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"]);
+            if (socialImage) data.socialImage = socialImage;
             file.data.frontmatter = data;
           };
         }
@@ -2099,6 +2342,7 @@ Warning: ${file.data.filePath} isn't yet tracked by git, last modification date 
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import rehypeMathjax from "rehype-mathjax/svg";
+import rehypeTypst from "@myriaddreamin/rehype-typst";
 
 // quartz/plugins/transformers/description.ts
 import { toString } from "hast-util-to-string";
@@ -2107,6 +2351,9 @@ import { toString } from "hast-util-to-string";
 var escapeHTML = /* @__PURE__ */ __name((unsafe) => {
   return unsafe.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#039;");
 }, "escapeHTML");
+var unescapeHTML = /* @__PURE__ */ __name((html) => {
+  return html.replaceAll("&amp;", "&").replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("&quot;", '"').replaceAll("&#039;", "'");
+}, "unescapeHTML");
 
 // quartz/plugins/transformers/description.ts
 var defaultOptions4 = {
@@ -2144,8 +2391,7 @@ var Description = /* @__PURE__ */ __name((userOpts) => {
               const firstSentence = sentences[0].split(" ");
               while (currentDescriptionLength < len) {
                 const sentence = firstSentence[sentenceIdx];
-                if (!sentence)
-                  break;
+                if (!sentence) break;
                 finalDesc.push(sentence);
                 currentDescriptionLength += sentence.length;
                 sentenceIdx++;
@@ -2154,8 +2400,7 @@ var Description = /* @__PURE__ */ __name((userOpts) => {
             } else {
               while (currentDescriptionLength < len) {
                 const sentence = sentences[sentenceIdx];
-                if (!sentence)
-                  break;
+                if (!sentence) break;
                 const currentSentence = sentence.endsWith(".") ? sentence : sentence + ".";
                 finalDesc.push(currentSentence);
                 currentDescriptionLength += currentSentence.length;
@@ -2207,7 +2452,9 @@ var CrawlLinks = /* @__PURE__ */ __name((userOpts) => {
                     type: "element",
                     tagName: "svg",
                     properties: {
+                      "aria-hidden": "true",
                       class: "external-icon",
+                      style: "max-width:0.8em;max-height:0.8em",
                       viewBox: "0 0 512 512"
                     },
                     children: [
@@ -2285,6 +2532,12 @@ var callout_inline_default = "";
 
 // quartz/components/scripts/checkbox.inline.ts
 var checkbox_inline_default = "";
+
+// quartz/components/scripts/mermaid.inline.ts
+var mermaid_inline_default = "";
+
+// quartz/components/styles/mermaid.inline.scss
+var mermaid_inline_default2 = "";
 
 // quartz/plugins/transformers/ofm.ts
 import { toHast } from "mdast-util-to-hast";
@@ -2368,10 +2621,10 @@ var wikilinkRegex = new RegExp(
   /!?\[\[([^\[\]\|\#\\]+)?(#+[^\[\]\|\#\\]+)?(\\?\|[^\[\]\#]+)?\]\]/g
 );
 var tableRegex = new RegExp(/^\|([^\n])+\|\n(\|)( ?:?-{3,}:? ?\|)+\n(\|([^\n])+\|\n?)+/gm);
-var tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\])/g);
+var tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/g);
 var highlightRegex = new RegExp(/==([^=]+)==/g);
 var commentRegex = new RegExp(/%%[\s\S]*?%%/g);
-var calloutRegex = new RegExp(/^\[\!(\w+)\|?(.+?)?\]([+-]?)/);
+var calloutRegex = new RegExp(/^\[\!([\w-]+)\|?(.+?)?\]([+-]?)/);
 var calloutLineRegex = new RegExp(/^> *\[\!\w+\|?.*?\][+-]?.*$/gm);
 var tagRegex = new RegExp(
   /(?:^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gu
@@ -2521,8 +2774,7 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
               arrowRegex,
               (value, ..._capture) => {
                 const maybeArrow = arrowMapping[value];
-                if (maybeArrow === void 0)
-                  return SKIP;
+                if (maybeArrow === void 0) return SKIP;
                 return {
                   type: "html",
                   value: `<span>${maybeArrow}</span>`
@@ -2534,7 +2786,7 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
             replacements.push([
               tagRegex,
               (_value, tag) => {
-                if (/^\d+$/.test(tag)) {
+                if (/^[\/\d]+$/.test(tag)) {
                   return false;
                 }
                 tag = slugTag(tag);
@@ -2629,7 +2881,7 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
                   children: [
                     {
                       type: "text",
-                      value: useDefaultTitle ? capitalize(typeString) : titleContent + " "
+                      value: useDefaultTitle ? capitalize(typeString).replace(/-/g, " ") : titleContent + " "
                     },
                     ...restOfTitle
                   ]
@@ -2700,7 +2952,8 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
               if (node.lang === "mermaid") {
                 node.data = {
                   hProperties: {
-                    className: ["mermaid"]
+                    className: ["mermaid"],
+                    "data-clipboard": JSON.stringify(node.value)
                   }
                 };
               }
@@ -2749,8 +3002,7 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
                       let idx = (index ?? 1) - 1;
                       while (idx >= 0) {
                         const element = parent?.children.at(idx);
-                        if (!element)
-                          break;
+                        if (!element) break;
                         if (element.type !== "element") {
                           idx -= 1;
                         } else {
@@ -2830,10 +3082,134 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
           };
         });
       }
+      if (opts.mermaid) {
+        plugins.push(() => {
+          return (tree, _file) => {
+            visit3(tree, "element", (node, _idx, parent) => {
+              if (node.tagName === "code" && (node.properties?.className ?? [])?.includes("mermaid")) {
+                parent.children = [
+                  {
+                    type: "element",
+                    tagName: "button",
+                    properties: {
+                      className: ["expand-button"],
+                      "aria-label": "Expand mermaid diagram",
+                      "aria-hidden": "true",
+                      "data-view-component": true
+                    },
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "svg",
+                        properties: {
+                          width: 16,
+                          height: 16,
+                          viewBox: "0 0 16 16",
+                          fill: "currentColor"
+                        },
+                        children: [
+                          {
+                            type: "element",
+                            tagName: "path",
+                            properties: {
+                              fillRule: "evenodd",
+                              d: "M3.72 3.72a.75.75 0 011.06 1.06L2.56 7h10.88l-2.22-2.22a.75.75 0 011.06-1.06l3.5 3.5a.75.75 0 010 1.06l-3.5 3.5a.75.75 0 11-1.06-1.06l2.22-2.22H2.56l2.22 2.22a.75.75 0 11-1.06 1.06l-3.5-3.5a.75.75 0 010-1.06l3.5-3.5z"
+                            },
+                            children: []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  node,
+                  {
+                    type: "element",
+                    tagName: "div",
+                    properties: { id: "mermaid-container" },
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "div",
+                        properties: { id: "mermaid-space" },
+                        children: [
+                          {
+                            type: "element",
+                            tagName: "div",
+                            properties: { className: ["mermaid-header"] },
+                            children: [
+                              {
+                                type: "element",
+                                tagName: "button",
+                                properties: {
+                                  className: ["close-button"],
+                                  "aria-label": "close button"
+                                },
+                                children: [
+                                  {
+                                    type: "element",
+                                    tagName: "svg",
+                                    properties: {
+                                      "aria-hidden": "true",
+                                      xmlns: "http://www.w3.org/2000/svg",
+                                      width: 24,
+                                      height: 24,
+                                      viewBox: "0 0 24 24",
+                                      fill: "none",
+                                      stroke: "currentColor",
+                                      "stroke-width": "2",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round"
+                                    },
+                                    children: [
+                                      {
+                                        type: "element",
+                                        tagName: "line",
+                                        properties: {
+                                          x1: 18,
+                                          y1: 6,
+                                          x2: 6,
+                                          y2: 18
+                                        },
+                                        children: []
+                                      },
+                                      {
+                                        type: "element",
+                                        tagName: "line",
+                                        properties: {
+                                          x1: 6,
+                                          y1: 6,
+                                          x2: 18,
+                                          y2: 18
+                                        },
+                                        children: []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            type: "element",
+                            tagName: "div",
+                            properties: { className: ["mermaid-content"] },
+                            children: []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ];
+              }
+            });
+          };
+        });
+      }
       return plugins;
     },
     externalResources() {
       const js = [];
+      const css = [];
       if (opts.enableCheckbox) {
         js.push({
           script: checkbox_inline_default,
@@ -2850,31 +3226,17 @@ var ObsidianFlavoredMarkdown = /* @__PURE__ */ __name((userOpts) => {
       }
       if (opts.mermaid) {
         js.push({
-          script: `
-          let mermaidImport = undefined
-          document.addEventListener('nav', async () => {
-            if (document.querySelector("code.mermaid")) {
-              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
-              const mermaid = mermaidImport.default
-              const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
-              mermaid.initialize({
-                startOnLoad: false,
-                securityLevel: 'loose',
-                theme: darkMode ? 'dark' : 'default'
-              })
-
-              await mermaid.run({
-                querySelector: '.mermaid'
-              })
-            }
-          });
-          `,
+          script: mermaid_inline_default,
           loadTime: "afterDOMReady",
           moduleType: "module",
           contentType: "inline"
         });
+        css.push({
+          content: mermaid_inline_default2,
+          inline: true
+        });
       }
-      return { js };
+      return { js, css };
     }
   };
 }, "ObsidianFlavoredMarkdown");
@@ -2963,17 +3325,36 @@ var TableOfContents = /* @__PURE__ */ __name((userOpts) => {
 // quartz/plugins/transformers/linebreaks.ts
 import remarkBreaks from "remark-breaks";
 
+// quartz/plugins/transformers/roam.ts
+import { visit as visit5 } from "unist-util-visit";
+import { findAndReplace as mdastFindReplace2 } from "mdast-util-find-and-replace";
+var orRegex = new RegExp(/{{or:(.*?)}}/, "g");
+var TODORegex = new RegExp(/{{.*?\bTODO\b.*?}}/, "g");
+var DONERegex = new RegExp(/{{.*?\bDONE\b.*?}}/, "g");
+var videoRegex = new RegExp(/{{.*?\[\[video\]\].*?\:(.*?)}}/, "g");
+var youtubeRegex = new RegExp(
+  /{{.*?\[\[video\]\].*?(https?:\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?=]*)?)}}/,
+  "g"
+);
+var audioRegex = new RegExp(/{{.*?\[\[audio\]\].*?\:(.*?)}}/, "g");
+var pdfRegex = new RegExp(/{{.*?\[\[pdf\]\].*?\:(.*?)}}/, "g");
+var blockquoteRegex = new RegExp(/(\[\[>\]\])\s*(.*)/, "g");
+var roamHighlightRegex = new RegExp(/\^\^(.+)\^\^/, "g");
+var roamItalicRegex = new RegExp(/__(.+)__/, "g");
+var tableRegex2 = new RegExp(/- {{.*?\btable\b.*?}}/, "g");
+var attributeRegex = new RegExp(/\b\w+(?:\s+\w+)*::/, "g");
+
 // quartz/plugins/filters/explicit.ts
 var ExplicitPublish = /* @__PURE__ */ __name(() => ({
   name: "ExplicitPublish",
   shouldPublish(_ctx, [_tree, vfile]) {
-    return vfile.data?.frontmatter?.publish ?? false;
+    return vfile.data?.frontmatter?.publish === true || vfile.data?.frontmatter?.publish === "true";
   }
 }), "ExplicitPublish");
 
 // quartz/plugins/emitters/contentPage.tsx
 import path6 from "path";
-import { visit as visit6 } from "unist-util-visit";
+import { visit as visit7 } from "unist-util-visit";
 
 // quartz/components/Header.tsx
 import { jsx } from "preact/jsx-runtime";
@@ -3036,16 +3417,39 @@ function JSResourceToScriptElement(resource, preserve) {
   }
 }
 __name(JSResourceToScriptElement, "JSResourceToScriptElement");
+function CSSResourceToStyleElement(resource, preserve) {
+  const spaPreserve = preserve ?? resource.spaPreserve;
+  if (resource.inline ?? false) {
+    return /* @__PURE__ */ jsx3("style", { children: resource.content });
+  } else {
+    return /* @__PURE__ */ jsx3(
+      "link",
+      {
+        href: resource.content,
+        rel: "stylesheet",
+        type: "text/css",
+        "spa-preserve": spaPreserve
+      },
+      resource.content
+    );
+  }
+}
+__name(CSSResourceToStyleElement, "CSSResourceToStyleElement");
 
 // quartz/components/renderPage.tsx
-import { visit as visit5 } from "unist-util-visit";
+import { visit as visit6 } from "unist-util-visit";
 import { jsx as jsx4, jsxs } from "preact/jsx-runtime";
 var headerRegex = new RegExp(/h[1-6]/);
 function pageResources(baseDir, staticResources) {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json");
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`;
   return {
-    css: [joinSegments(baseDir, "index.css"), ...staticResources.css],
+    css: [
+      {
+        content: joinSegments(baseDir, "index.css")
+      },
+      ...staticResources.css
+    ],
     js: [
       {
         src: joinSegments(baseDir, "prescript.js"),
@@ -3071,7 +3475,7 @@ function pageResources(baseDir, staticResources) {
 __name(pageResources, "pageResources");
 function renderPage(cfg, slug, componentData, components, pageResources2) {
   const root = clone(componentData.tree);
-  visit5(root, "element", (node, _index, _parent) => {
+  visit6(root, "element", (node, _index, _parent) => {
     if (node.tagName === "blockquote") {
       const classNames2 = node.properties?.className ?? [];
       if (classNames2.includes("transclude")) {
@@ -3112,8 +3516,7 @@ function renderPage(cfg, slug, componentData, components, pageResources2) {
           let startDepth = void 0;
           let endIdx = void 0;
           for (const [i, el] of page.htmlAst.children.entries()) {
-            if (!(el.type === "element" && el.tagName.match(headerRegex)))
-              continue;
+            if (!(el.type === "element" && el.tagName.match(headerRegex))) continue;
             const depth = Number(el.tagName.substring(1));
             if (startIdx === void 0 || startDepth === void 0) {
               if (el.properties?.id === blockRef) {
@@ -3190,22 +3593,20 @@ function renderPage(cfg, slug, componentData, components, pageResources2) {
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en";
   const doc = /* @__PURE__ */ jsxs("html", { lang, children: [
     /* @__PURE__ */ jsx4(Head, { ...componentData }),
-    /* @__PURE__ */ jsx4("body", { "data-slug": slug, children: /* @__PURE__ */ jsxs("div", { id: "quartz-root", class: "page", children: [
-      /* @__PURE__ */ jsxs(Body2, { ...componentData, children: [
-        LeftComponent,
-        /* @__PURE__ */ jsxs("div", { class: "center", children: [
-          /* @__PURE__ */ jsxs("div", { class: "page-header", children: [
-            /* @__PURE__ */ jsx4(Header2, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx4(HeaderComponent, { ...componentData })) }),
-            /* @__PURE__ */ jsx4("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) })
-          ] }),
-          /* @__PURE__ */ jsx4(Content2, { ...componentData }),
-          /* @__PURE__ */ jsx4("hr", {}),
-          /* @__PURE__ */ jsx4("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) })
+    /* @__PURE__ */ jsx4("body", { "data-slug": slug, children: /* @__PURE__ */ jsx4("div", { id: "quartz-root", class: "page", children: /* @__PURE__ */ jsxs(Body2, { ...componentData, children: [
+      LeftComponent,
+      /* @__PURE__ */ jsxs("div", { class: "center", children: [
+        /* @__PURE__ */ jsxs("div", { class: "page-header", children: [
+          /* @__PURE__ */ jsx4(Header2, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx4(HeaderComponent, { ...componentData })) }),
+          /* @__PURE__ */ jsx4("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) })
         ] }),
-        RightComponent
+        /* @__PURE__ */ jsx4(Content2, { ...componentData }),
+        /* @__PURE__ */ jsx4("hr", {}),
+        /* @__PURE__ */ jsx4("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) })
       ] }),
+      RightComponent,
       /* @__PURE__ */ jsx4(Footer, { ...componentData })
-    ] }) }),
+    ] }) }) }),
     pageResources2.js.filter((resource) => resource.loadTime === "afterDOMReady").map((res) => JSResourceToScriptElement(res))
   ] });
   return "<!DOCTYPE html>\n" + render(doc);
@@ -3253,7 +3654,7 @@ __name(trace, "trace");
 // quartz/util/jsx.tsx
 import { jsx as jsx6 } from "preact/jsx-runtime";
 var customComponents = {
-  table: (props) => /* @__PURE__ */ jsx6("div", { class: "table-container", children: /* @__PURE__ */ jsx6("table", { ...props }) })
+  table: /* @__PURE__ */ __name((props) => /* @__PURE__ */ jsx6("div", { class: "table-container", children: /* @__PURE__ */ jsx6("table", { ...props }) }), "table")
 };
 function htmlToJsx(fp, tree) {
   try {
@@ -3284,7 +3685,7 @@ var Content_default = /* @__PURE__ */ __name(() => Content, "default");
 var listPage_default = "";
 
 // quartz/components/Date.tsx
-import { Fragment as Fragment2, jsx as jsx8 } from "preact/jsx-runtime";
+import { jsx as jsx8 } from "preact/jsx-runtime";
 function getDate(cfg, data) {
   if (!cfg.defaultDateType) {
     throw new Error(
@@ -3303,7 +3704,7 @@ function formatDate(d, locale = "en-US") {
 }
 __name(formatDate, "formatDate");
 function Date2({ date, locale }) {
-  return /* @__PURE__ */ jsx8(Fragment2, { children: formatDate(date, locale) });
+  return /* @__PURE__ */ jsx8("time", { datetime: date.toISOString(), children: formatDate(date, locale) });
 }
 __name(Date2, "Date");
 
@@ -3334,7 +3735,7 @@ var PageList = /* @__PURE__ */ __name(({ cfg, fileData, allFiles, limit, sort })
     const title = page.frontmatter?.title;
     const tags = page.frontmatter?.tags ?? [];
     return /* @__PURE__ */ jsx9("li", { class: "section-li", children: /* @__PURE__ */ jsxs3("div", { class: "section", children: [
-      page.dates && /* @__PURE__ */ jsx9("p", { class: "meta", children: /* @__PURE__ */ jsx9(Date2, { date: getDate(cfg, page), locale: cfg.locale }) }),
+      /* @__PURE__ */ jsx9("p", { class: "meta", children: page.dates && /* @__PURE__ */ jsx9(Date2, { date: getDate(cfg, page), locale: cfg.locale }) }),
       /* @__PURE__ */ jsx9("div", { class: "desc", children: /* @__PURE__ */ jsx9("h3", { children: /* @__PURE__ */ jsx9("a", { href: resolveRelative(fileData.slug, page.slug), class: "internal", children: title }) }) }),
       /* @__PURE__ */ jsx9("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ jsx9("li", { children: /* @__PURE__ */ jsx9(
         "a",
@@ -3358,7 +3759,7 @@ PageList.css = `
 `;
 
 // quartz/components/pages/TagContent.tsx
-import { Fragment as Fragment3, jsx as jsx10, jsxs as jsxs4 } from "preact/jsx-runtime";
+import { Fragment as Fragment2, jsx as jsx10, jsxs as jsxs4 } from "preact/jsx-runtime";
 var defaultOptions9 = {
   numPages: 10
 };
@@ -3405,7 +3806,7 @@ var TagContent_default = /* @__PURE__ */ __name((opts) => {
             /* @__PURE__ */ jsxs4("div", { class: "page-listing", children: [
               /* @__PURE__ */ jsxs4("p", { children: [
                 i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length }),
-                pages.length > options2.numPages && /* @__PURE__ */ jsxs4(Fragment3, { children: [
+                pages.length > options2.numPages && /* @__PURE__ */ jsxs4(Fragment2, { children: [
                   " ",
                   /* @__PURE__ */ jsx10("span", { children: i18n(cfg.locale).pages.tagContent.showingFirst({
                     count: options2.numPages
@@ -3440,20 +3841,48 @@ var TagContent_default = /* @__PURE__ */ __name((opts) => {
 import path4 from "path";
 import { jsx as jsx11, jsxs as jsxs5 } from "preact/jsx-runtime";
 var defaultOptions10 = {
-  showFolderCount: true
+  showFolderCount: true,
+  showSubfolders: true
 };
 var FolderContent_default = /* @__PURE__ */ __name((opts) => {
   const options2 = { ...defaultOptions10, ...opts };
   const FolderContent = /* @__PURE__ */ __name((props) => {
     const { tree, fileData, allFiles, cfg } = props;
     const folderSlug = stripSlashes(simplifySlug(fileData.slug));
-    const allPagesInFolder = allFiles.filter((file) => {
+    const folderParts = folderSlug.split(path4.posix.sep);
+    const allPagesInFolder = [];
+    const allPagesInSubfolders = /* @__PURE__ */ new Map();
+    allFiles.forEach((file) => {
       const fileSlug = stripSlashes(simplifySlug(file.slug));
       const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug;
-      const folderParts = folderSlug.split(path4.posix.sep);
       const fileParts = fileSlug.split(path4.posix.sep);
       const isDirectChild = fileParts.length === folderParts.length + 1;
-      return prefixed && isDirectChild;
+      if (!prefixed) {
+        return;
+      }
+      if (isDirectChild) {
+        allPagesInFolder.push(file);
+      } else if (options2.showSubfolders) {
+        const subfolderSlug = joinSegments(
+          ...fileParts.slice(0, folderParts.length + 1)
+        );
+        const pagesInFolder = allPagesInSubfolders.get(subfolderSlug) || [];
+        allPagesInSubfolders.set(subfolderSlug, [...pagesInFolder, file]);
+      }
+    });
+    allPagesInSubfolders.forEach((files, subfolderSlug) => {
+      const hasIndex = allPagesInFolder.some(
+        (file) => subfolderSlug === stripSlashes(simplifySlug(file.slug))
+      );
+      if (!hasIndex) {
+        const subfolderDates = files.sort(byDateAndAlphabetical(cfg))[0].dates;
+        const subfolderTitle = subfolderSlug.split(path4.posix.sep).at(-1);
+        allPagesInFolder.push({
+          slug: subfolderSlug,
+          dates: subfolderDates,
+          frontmatter: { title: subfolderTitle, tags: ["folder"] }
+        });
+      }
     });
     const cssClasses = fileData.frontmatter?.cssclasses ?? [];
     const classes = ["popover-hint", ...cssClasses].join(" ");
@@ -3516,9 +3945,8 @@ var darkmode_default = "";
 // quartz/components/Darkmode.tsx
 import { jsx as jsx14, jsxs as jsxs7 } from "preact/jsx-runtime";
 var Darkmode = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-  return /* @__PURE__ */ jsxs7("div", { class: classNames(displayClass, "darkmode"), children: [
-    /* @__PURE__ */ jsx14("input", { class: "toggle", id: "darkmode-toggle", type: "checkbox", tabIndex: -1 }),
-    /* @__PURE__ */ jsx14("label", { id: "toggle-label-light", for: "darkmode-toggle", tabIndex: -1, children: /* @__PURE__ */ jsxs7(
+  return /* @__PURE__ */ jsxs7("button", { class: classNames(displayClass, "darkmode"), id: "darkmode", children: [
+    /* @__PURE__ */ jsxs7(
       "svg",
       {
         xmlns: "http://www.w3.org/2000/svg",
@@ -3530,13 +3958,14 @@ var Darkmode = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
         viewBox: "0 0 35 35",
         style: "enable-background:new 0 0 35 35",
         xmlSpace: "preserve",
+        "aria-label": i18n(cfg.locale).components.themeToggle.darkMode,
         children: [
           /* @__PURE__ */ jsx14("title", { children: i18n(cfg.locale).components.themeToggle.darkMode }),
           /* @__PURE__ */ jsx14("path", { d: "M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z" })
         ]
       }
-    ) }),
-    /* @__PURE__ */ jsx14("label", { id: "toggle-label-dark", for: "darkmode-toggle", tabIndex: -1, children: /* @__PURE__ */ jsxs7(
+    ),
+    /* @__PURE__ */ jsxs7(
       "svg",
       {
         xmlns: "http://www.w3.org/2000/svg",
@@ -3548,12 +3977,13 @@ var Darkmode = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
         viewBox: "0 0 100 100",
         style: "enable-background:new 0 0 100 100",
         xmlSpace: "preserve",
+        "aria-label": i18n(cfg.locale).components.themeToggle.lightMode,
         children: [
           /* @__PURE__ */ jsx14("title", { children: i18n(cfg.locale).components.themeToggle.lightMode }),
           /* @__PURE__ */ jsx14("path", { d: "M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z" })
         ]
       }
-    ) })
+    )
   ] });
 }, "Darkmode");
 Darkmode.beforeDOMLoaded = darkmode_inline_default;
@@ -3604,35 +4034,236 @@ ${stylesheet.join("\n\n")}
 __name(joinStyles, "joinStyles");
 
 // quartz/components/Head.tsx
-import { Fragment as Fragment4, jsx as jsx15, jsxs as jsxs8 } from "preact/jsx-runtime";
+import satori from "satori";
+import fs2 from "fs";
+import sharp from "sharp";
+
+// quartz/util/og.tsx
+import { jsx as jsx15, jsxs as jsxs8 } from "preact/jsx-runtime";
+async function getSatoriFont(headerFontName, bodyFontName) {
+  const headerWeight = 700;
+  const bodyWeight = 400;
+  const headerFont = await fetchTtf(headerFontName, headerWeight);
+  const bodyFont = await fetchTtf(bodyFontName, bodyWeight);
+  const fonts = [
+    { name: headerFontName, data: headerFont, weight: headerWeight, style: "normal" },
+    { name: bodyFontName, data: bodyFont, weight: bodyWeight, style: "normal" }
+  ];
+  return fonts;
+}
+__name(getSatoriFont, "getSatoriFont");
+async function fetchTtf(fontName, weight) {
+  try {
+    const cssResponse = await fetch(`https://fonts.googleapis.com/css?family=${fontName}:${weight}`);
+    const css = await cssResponse.text();
+    const urlRegex2 = /url\((https:\/\/fonts.gstatic.com\/s\/.*?.ttf)\)/g;
+    const match = urlRegex2.exec(css);
+    if (!match) {
+      throw new Error("Could not fetch font");
+    }
+    const fontResponse = await fetch(match[1]);
+    const fontData = await fontResponse.arrayBuffer();
+    return fontData;
+  } catch (error) {
+    throw new Error(`Error fetching font: ${error}`);
+  }
+}
+__name(fetchTtf, "fetchTtf");
+var defaultImage = /* @__PURE__ */ __name((cfg, { colorScheme }, title, description, fonts, _fileData) => {
+  const fontBreakPoint = 22;
+  const useSmallerFont = title.length > fontBreakPoint;
+  const iconPath = `https://${cfg.baseUrl}/static/icon.png`;
+  return /* @__PURE__ */ jsxs8(
+    "div",
+    {
+      style: {
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
+        height: "100%",
+        width: "100%",
+        backgroundColor: cfg.theme.colors[colorScheme].light,
+        gap: "2rem",
+        paddingTop: "1.5rem",
+        paddingBottom: "1.5rem",
+        paddingLeft: "5rem",
+        paddingRight: "5rem"
+      },
+      children: [
+        /* @__PURE__ */ jsxs8(
+          "div",
+          {
+            style: {
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "flex-start",
+              width: "100%",
+              flexDirection: "row",
+              gap: "2.5rem"
+            },
+            children: [
+              /* @__PURE__ */ jsx15("img", { src: iconPath, width: 135, height: 135 }),
+              /* @__PURE__ */ jsx15(
+                "p",
+                {
+                  style: {
+                    color: cfg.theme.colors[colorScheme].dark,
+                    fontSize: useSmallerFont ? 70 : 82,
+                    fontFamily: fonts[0].name
+                  },
+                  children: title
+                }
+              )
+            ]
+          }
+        ),
+        /* @__PURE__ */ jsx15(
+          "p",
+          {
+            style: {
+              color: cfg.theme.colors[colorScheme].dark,
+              fontSize: 44,
+              lineClamp: 3,
+              fontFamily: fonts[1].name
+            },
+            children: description
+          }
+        )
+      ]
+    }
+  );
+}, "defaultImage");
+
+// quartz/components/Head.tsx
+import { Fragment as Fragment3, jsx as jsx16, jsxs as jsxs9 } from "preact/jsx-runtime";
+async function generateSocialImage({ cfg, description, fileName, fontsPromise, title, fileData }, userOpts, imageDir) {
+  const fonts = await fontsPromise;
+  const { width, height } = userOpts;
+  const imageComponent = userOpts.imageStructure(cfg, userOpts, title, description, fonts, fileData);
+  const svg = await satori(imageComponent, { width, height, fonts });
+  const compressed = await sharp(Buffer.from(svg)).webp({ quality: 40 }).toBuffer();
+  const filePath = joinSegments(imageDir, `${fileName}.${extension}`);
+  fs2.writeFileSync(filePath, compressed);
+}
+__name(generateSocialImage, "generateSocialImage");
+var extension = "webp";
+var defaultOptions11 = {
+  colorScheme: "lightMode",
+  width: 1200,
+  height: 630,
+  imageStructure: defaultImage,
+  excludeRoot: false
+};
 var Head_default = /* @__PURE__ */ __name(() => {
-  const Head = /* @__PURE__ */ __name(({ cfg, fileData, externalResources }) => {
-    const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title;
-    const description = fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description;
+  let fontsPromise;
+  let fullOptions;
+  const Head = /* @__PURE__ */ __name(({
+    cfg,
+    fileData,
+    externalResources,
+    ctx
+  }) => {
+    if (!fullOptions) {
+      if (typeof cfg.generateSocialImages !== "boolean") {
+        fullOptions = { ...defaultOptions11, ...cfg.generateSocialImages };
+      } else {
+        fullOptions = defaultOptions11;
+      }
+    }
+    if (!fontsPromise && cfg.generateSocialImages) {
+      fontsPromise = getSatoriFont(cfg.theme.typography.header, cfg.theme.typography.body);
+    }
+    const slug = fileData.filePath;
+    const fileName = slug?.replaceAll("/", "-");
+    const fdDescription = fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description;
+    const titleSuffix = cfg.pageTitleSuffix ?? "";
+    const title = (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix;
+    let description = "";
+    if (fdDescription) {
+      description = unescapeHTML(fdDescription);
+    }
+    if (fileData.frontmatter?.socialDescription) {
+      description = fileData.frontmatter?.socialDescription;
+    } else if (fileData.frontmatter?.description) {
+      description = fileData.frontmatter?.description;
+    }
+    const fileDir = joinSegments(ctx.argv.output, "static", "social-images");
+    if (cfg.generateSocialImages) {
+      if (!fs2.existsSync(fileDir)) {
+        fs2.mkdirSync(fileDir, { recursive: true });
+      }
+      if (fileName) {
+        generateSocialImage(
+          {
+            title,
+            description,
+            fileName,
+            fileDir,
+            fileExt: extension,
+            fontsPromise,
+            cfg,
+            fileData
+          },
+          fullOptions,
+          fileDir
+        );
+      }
+    }
     const { css, js } = externalResources;
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`);
     const path12 = url.pathname;
     const baseDir = fileData.slug === "404" ? path12 : pathToRoot(fileData.slug);
     const iconPath = joinSegments(baseDir, "static/icon.png");
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`;
-    return /* @__PURE__ */ jsxs8("head", { children: [
-      /* @__PURE__ */ jsx15("title", { children: title }),
-      /* @__PURE__ */ jsx15("meta", { charSet: "utf-8" }),
-      cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && /* @__PURE__ */ jsxs8(Fragment4, { children: [
-        /* @__PURE__ */ jsx15("link", { rel: "preconnect", href: "https://fonts.googleapis.com" }),
-        /* @__PURE__ */ jsx15("link", { rel: "preconnect", href: "https://fonts.gstatic.com" }),
-        /* @__PURE__ */ jsx15("link", { rel: "stylesheet", href: googleFontHref(cfg.theme) })
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`;
+    const ogImageGeneratedPath = `https://${cfg.baseUrl}/${fileDir.replace(
+      `${ctx.argv.output}/`,
+      ""
+    )}/${fileName}.${extension}`;
+    const useDefaultOgImage = fileName === void 0 || !cfg.generateSocialImages;
+    let ogImagePath = useDefaultOgImage ? ogImageDefaultPath : ogImageGeneratedPath;
+    const frontmatterImgUrl = fileData.frontmatter?.socialImage;
+    if (fileData.slug === "index") {
+      ogImagePath = ogImageDefaultPath;
+    }
+    if (frontmatterImgUrl) {
+      ogImagePath = `https://${cfg.baseUrl}/static/${frontmatterImgUrl}`;
+    }
+    const socialUrl = fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug);
+    return /* @__PURE__ */ jsxs9("head", { children: [
+      /* @__PURE__ */ jsx16("title", { children: title }),
+      /* @__PURE__ */ jsx16("meta", { charSet: "utf-8" }),
+      cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && /* @__PURE__ */ jsxs9(Fragment3, { children: [
+        /* @__PURE__ */ jsx16("link", { rel: "preconnect", href: "https://fonts.googleapis.com" }),
+        /* @__PURE__ */ jsx16("link", { rel: "preconnect", href: "https://fonts.gstatic.com" }),
+        /* @__PURE__ */ jsx16("link", { rel: "stylesheet", href: googleFontHref(cfg.theme) })
       ] }),
-      /* @__PURE__ */ jsx15("meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }),
-      /* @__PURE__ */ jsx15("meta", { property: "og:title", content: title }),
-      /* @__PURE__ */ jsx15("meta", { property: "og:description", content: description }),
-      cfg.baseUrl && /* @__PURE__ */ jsx15("meta", { property: "og:image", content: ogImagePath }),
-      /* @__PURE__ */ jsx15("meta", { property: "og:width", content: "1200" }),
-      /* @__PURE__ */ jsx15("meta", { property: "og:height", content: "675" }),
-      /* @__PURE__ */ jsx15("link", { rel: "icon", href: iconPath }),
-      /* @__PURE__ */ jsx15("meta", { name: "description", content: description }),
-      /* @__PURE__ */ jsx15("meta", { name: "generator", content: "Quartz" }),
-      css.map((href) => /* @__PURE__ */ jsx15("link", { href, rel: "stylesheet", type: "text/css", "spa-preserve": true }, href)),
+      /* @__PURE__ */ jsx16("meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }),
+      /* @__PURE__ */ jsx16("meta", { name: "og:site_name", content: cfg.pageTitle }),
+      /* @__PURE__ */ jsx16("meta", { property: "og:title", content: title }),
+      /* @__PURE__ */ jsx16("meta", { property: "og:type", content: "website" }),
+      /* @__PURE__ */ jsx16("meta", { name: "twitter:card", content: "summary_large_image" }),
+      /* @__PURE__ */ jsx16("meta", { name: "twitter:title", content: title }),
+      /* @__PURE__ */ jsx16("meta", { name: "twitter:description", content: description }),
+      /* @__PURE__ */ jsx16("meta", { property: "og:description", content: description }),
+      /* @__PURE__ */ jsx16("meta", { property: "og:image:type", content: `image/${extension}` }),
+      /* @__PURE__ */ jsx16("meta", { property: "og:image:alt", content: description }),
+      !frontmatterImgUrl && /* @__PURE__ */ jsxs9(Fragment3, { children: [
+        /* @__PURE__ */ jsx16("meta", { property: "og:image:width", content: fullOptions.width.toString() }),
+        /* @__PURE__ */ jsx16("meta", { property: "og:image:height", content: fullOptions.height.toString() })
+      ] }),
+      /* @__PURE__ */ jsx16("meta", { property: "og:image:url", content: ogImagePath }),
+      cfg.baseUrl && /* @__PURE__ */ jsxs9(Fragment3, { children: [
+        /* @__PURE__ */ jsx16("meta", { name: "twitter:image", content: ogImagePath }),
+        /* @__PURE__ */ jsx16("meta", { property: "og:image", content: ogImagePath }),
+        /* @__PURE__ */ jsx16("meta", { property: "twitter:domain", content: cfg.baseUrl }),
+        /* @__PURE__ */ jsx16("meta", { property: "og:url", content: socialUrl }),
+        /* @__PURE__ */ jsx16("meta", { property: "twitter:url", content: socialUrl })
+      ] }),
+      /* @__PURE__ */ jsx16("link", { rel: "icon", href: iconPath }),
+      /* @__PURE__ */ jsx16("meta", { name: "description", content: description }),
+      /* @__PURE__ */ jsx16("meta", { name: "generator", content: "Quartz" }),
+      css.map((resource) => CSSResourceToStyleElement(resource, true)),
       js.filter((resource) => resource.loadTime === "beforeDOMReady").map((res) => JSResourceToScriptElement(res, true))
     ] });
   }, "Head");
@@ -3640,11 +4271,11 @@ var Head_default = /* @__PURE__ */ __name(() => {
 }, "default");
 
 // quartz/components/PageTitle.tsx
-import { jsx as jsx16 } from "preact/jsx-runtime";
+import { jsx as jsx17 } from "preact/jsx-runtime";
 var PageTitle = /* @__PURE__ */ __name(({ fileData, cfg, displayClass }) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title;
   const baseDir = pathToRoot(fileData.slug);
-  return /* @__PURE__ */ jsx16("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ jsx16("a", { href: baseDir, children: title }) });
+  return /* @__PURE__ */ jsx17("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ jsx17("a", { href: baseDir, children: title }) });
 }, "PageTitle");
 PageTitle.css = `
 .page-title {
@@ -3661,29 +4292,28 @@ import readingTime from "reading-time";
 var contentMeta_default = "";
 
 // quartz/components/ContentMeta.tsx
-import { jsx as jsx17 } from "preact/jsx-runtime";
-var defaultOptions11 = {
+import { jsx as jsx18 } from "preact/jsx-runtime";
+var defaultOptions12 = {
   showReadingTime: true,
   showComma: true
 };
 var ContentMeta_default = /* @__PURE__ */ __name((opts) => {
-  const options2 = { ...defaultOptions11, ...opts };
+  const options2 = { ...defaultOptions12, ...opts };
   function ContentMetadata({ cfg, fileData, displayClass }) {
     const text = fileData.text;
     if (text) {
       const segments = [];
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData), cfg.locale));
+        segments.push(/* @__PURE__ */ jsx18(Date2, { date: getDate(cfg, fileData), locale: cfg.locale }));
       }
       if (options2.showReadingTime) {
         const { minutes, words: _words } = readingTime(text);
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes)
         });
-        segments.push(displayedTime);
+        segments.push(/* @__PURE__ */ jsx18("span", { children: displayedTime }));
       }
-      const segmentsElements = segments.map((segment) => /* @__PURE__ */ jsx17("span", { children: segment }));
-      return /* @__PURE__ */ jsx17("p", { "show-comma": options2.showComma, class: classNames(displayClass, "content-meta"), children: segmentsElements });
+      return /* @__PURE__ */ jsx18("p", { "show-comma": options2.showComma, class: classNames(displayClass, "content-meta"), children: segments });
     } else {
       return null;
     }
@@ -3694,9 +4324,9 @@ var ContentMeta_default = /* @__PURE__ */ __name((opts) => {
 }, "default");
 
 // quartz/components/Spacer.tsx
-import { jsx as jsx18 } from "preact/jsx-runtime";
+import { jsx as jsx19 } from "preact/jsx-runtime";
 function Spacer({ displayClass }) {
-  return /* @__PURE__ */ jsx18("div", { class: classNames(displayClass, "spacer") });
+  return /* @__PURE__ */ jsx19("div", { class: classNames(displayClass, "spacer") });
 }
 __name(Spacer, "Spacer");
 var Spacer_default = /* @__PURE__ */ __name(() => Spacer, "default");
@@ -3711,8 +4341,8 @@ var toc_default = "";
 var toc_inline_default = "";
 
 // quartz/components/TableOfContents.tsx
-import { jsx as jsx19, jsxs as jsxs9 } from "preact/jsx-runtime";
-var defaultOptions12 = {
+import { jsx as jsx20, jsxs as jsxs10 } from "preact/jsx-runtime";
+var defaultOptions13 = {
   layout: "modern"
 };
 var TableOfContents2 = /* @__PURE__ */ __name(({
@@ -3723,8 +4353,8 @@ var TableOfContents2 = /* @__PURE__ */ __name(({
   if (!fileData.toc) {
     return null;
   }
-  return /* @__PURE__ */ jsxs9("div", { class: classNames(displayClass, "toc"), children: [
-    /* @__PURE__ */ jsxs9(
+  return /* @__PURE__ */ jsxs10("div", { class: classNames(displayClass, "toc"), children: [
+    /* @__PURE__ */ jsxs10(
       "button",
       {
         type: "button",
@@ -3733,8 +4363,8 @@ var TableOfContents2 = /* @__PURE__ */ __name(({
         "aria-controls": "toc-content",
         "aria-expanded": !fileData.collapseToc,
         children: [
-          /* @__PURE__ */ jsx19("h3", { children: i18n(cfg.locale).components.tableOfContents.title }),
-          /* @__PURE__ */ jsx19(
+          /* @__PURE__ */ jsx20("h3", { children: i18n(cfg.locale).components.tableOfContents.title }),
+          /* @__PURE__ */ jsx20(
             "svg",
             {
               xmlns: "http://www.w3.org/2000/svg",
@@ -3747,13 +4377,13 @@ var TableOfContents2 = /* @__PURE__ */ __name(({
               "stroke-linecap": "round",
               "stroke-linejoin": "round",
               class: "fold",
-              children: /* @__PURE__ */ jsx19("polyline", { points: "6 9 12 15 18 9" })
+              children: /* @__PURE__ */ jsx20("polyline", { points: "6 9 12 15 18 9" })
             }
           )
         ]
       }
     ),
-    /* @__PURE__ */ jsx19("div", { id: "toc-content", children: /* @__PURE__ */ jsx19("ul", { class: "overflow", children: fileData.toc.map((tocEntry) => /* @__PURE__ */ jsx19("li", { class: `depth-${tocEntry.depth}`, children: /* @__PURE__ */ jsx19("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug, children: tocEntry.text }) }, tocEntry.slug)) }) })
+    /* @__PURE__ */ jsx20("div", { id: "toc-content", class: fileData.collapseToc ? "collapsed" : "", children: /* @__PURE__ */ jsx20("ul", { class: "overflow", children: fileData.toc.map((tocEntry) => /* @__PURE__ */ jsx20("li", { class: `depth-${tocEntry.depth}`, children: /* @__PURE__ */ jsx20("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug, children: tocEntry.text }) }, tocEntry.slug)) }) })
   ] });
 }, "TableOfContents");
 TableOfContents2.css = toc_default;
@@ -3762,14 +4392,14 @@ var LegacyTableOfContents = /* @__PURE__ */ __name(({ fileData, cfg }) => {
   if (!fileData.toc) {
     return null;
   }
-  return /* @__PURE__ */ jsxs9("details", { id: "toc", open: !fileData.collapseToc, children: [
-    /* @__PURE__ */ jsx19("summary", { children: /* @__PURE__ */ jsx19("h3", { children: i18n(cfg.locale).components.tableOfContents.title }) }),
-    /* @__PURE__ */ jsx19("ul", { children: fileData.toc.map((tocEntry) => /* @__PURE__ */ jsx19("li", { class: `depth-${tocEntry.depth}`, children: /* @__PURE__ */ jsx19("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug, children: tocEntry.text }) }, tocEntry.slug)) })
+  return /* @__PURE__ */ jsxs10("details", { id: "toc", open: !fileData.collapseToc, children: [
+    /* @__PURE__ */ jsx20("summary", { children: /* @__PURE__ */ jsx20("h3", { children: i18n(cfg.locale).components.tableOfContents.title }) }),
+    /* @__PURE__ */ jsx20("ul", { children: fileData.toc.map((tocEntry) => /* @__PURE__ */ jsx20("li", { class: `depth-${tocEntry.depth}`, children: /* @__PURE__ */ jsx20("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug, children: tocEntry.text }) }, tocEntry.slug)) })
   ] });
 }, "LegacyTableOfContents");
 LegacyTableOfContents.css = legacyToc_default;
 var TableOfContents_default = /* @__PURE__ */ __name((opts) => {
-  const layout = opts?.layout ?? defaultOptions12.layout;
+  const layout = opts?.layout ?? defaultOptions13.layout;
   return layout === "modern" ? TableOfContents2 : LegacyTableOfContents;
 }, "default");
 
@@ -3780,7 +4410,7 @@ var explorer_default = "";
 var explorer_inline_default = "";
 
 // quartz/components/ExplorerNode.tsx
-import { Fragment as Fragment5, jsx as jsx20, jsxs as jsxs10 } from "preact/jsx-runtime";
+import { Fragment as Fragment4, jsx as jsx21, jsxs as jsxs11 } from "preact/jsx-runtime";
 function getPathSegment(fp, idx) {
   if (!fp) {
     return void 0;
@@ -3891,14 +4521,14 @@ function ExplorerNode({ node, opts, fullPath, fileData }) {
   const isDefaultOpen = opts.folderDefaultState === "open";
   const folderPath = node.name !== "" ? joinSegments(fullPath ?? "", node.name) : "";
   const href = resolveRelative(fileData.slug, folderPath) + "/";
-  return /* @__PURE__ */ jsx20(Fragment5, { children: node.file ? (
+  return /* @__PURE__ */ jsx21(Fragment4, { children: node.file ? (
     // Single file node
-    /* @__PURE__ */ jsx20("li", { children: /* @__PURE__ */ jsx20("a", { href: resolveRelative(fileData.slug, node.file.slug), "data-for": node.file.slug, children: node.displayName }) }, node.file.slug)
-  ) : /* @__PURE__ */ jsxs10("li", { children: [
+    /* @__PURE__ */ jsx21("li", { children: /* @__PURE__ */ jsx21("a", { href: resolveRelative(fileData.slug, node.file.slug), "data-for": node.file.slug, children: node.displayName }) }, node.file.slug)
+  ) : /* @__PURE__ */ jsxs11("li", { children: [
     node.name !== "" && // Node with entire folder
     // Render svg button + folder name, then children
-    /* @__PURE__ */ jsxs10("div", { class: "folder-container", children: [
-      /* @__PURE__ */ jsx20(
+    /* @__PURE__ */ jsxs11("div", { class: "folder-container", children: [
+      /* @__PURE__ */ jsx21(
         "svg",
         {
           xmlns: "http://www.w3.org/2000/svg",
@@ -3911,12 +4541,12 @@ function ExplorerNode({ node, opts, fullPath, fileData }) {
           "stroke-linecap": "round",
           "stroke-linejoin": "round",
           class: "folder-icon",
-          children: /* @__PURE__ */ jsx20("polyline", { points: "6 9 12 15 18 9" })
+          children: /* @__PURE__ */ jsx21("polyline", { points: "6 9 12 15 18 9" })
         }
       ),
-      /* @__PURE__ */ jsx20("div", { "data-folderpath": folderPath, children: folderBehavior === "link" ? /* @__PURE__ */ jsx20("a", { href, "data-for": node.name, class: "folder-title", children: node.displayName }) : /* @__PURE__ */ jsx20("button", { class: "folder-button", children: /* @__PURE__ */ jsx20("span", { class: "folder-title", children: node.displayName }) }) }, node.name)
+      /* @__PURE__ */ jsx21("div", { "data-folderpath": folderPath, children: folderBehavior === "link" ? /* @__PURE__ */ jsx21("a", { href, "data-for": node.name, class: "folder-title", children: node.displayName }) : /* @__PURE__ */ jsx21("button", { class: "folder-button", children: /* @__PURE__ */ jsx21("span", { class: "folder-title", children: node.displayName }) }) }, node.name)
     ] }),
-    /* @__PURE__ */ jsx20("div", { class: `folder-outer ${node.depth === 0 || isDefaultOpen ? "open" : ""}`, children: /* @__PURE__ */ jsx20(
+    /* @__PURE__ */ jsx21("div", { class: `folder-outer ${node.depth === 0 || isDefaultOpen ? "open" : ""}`, children: /* @__PURE__ */ jsx21(
       "ul",
       {
         style: {
@@ -3924,7 +4554,7 @@ function ExplorerNode({ node, opts, fullPath, fileData }) {
         },
         class: "content",
         "data-folderul": folderPath,
-        children: node.children.map((childNode, i) => /* @__PURE__ */ jsx20(
+        children: node.children.map((childNode, i) => /* @__PURE__ */ jsx21(
           ExplorerNode,
           {
             node: childNode,
@@ -3941,15 +4571,15 @@ function ExplorerNode({ node, opts, fullPath, fileData }) {
 __name(ExplorerNode, "ExplorerNode");
 
 // quartz/components/Explorer.tsx
-import { jsx as jsx21, jsxs as jsxs11 } from "preact/jsx-runtime";
-var defaultOptions13 = {
+import { jsx as jsx22, jsxs as jsxs12 } from "preact/jsx-runtime";
+var defaultOptions14 = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
-  mapFn: (node) => {
+  mapFn: /* @__PURE__ */ __name((node) => {
     return node;
-  },
-  sortFn: (a, b) => {
+  }, "mapFn"),
+  sortFn: /* @__PURE__ */ __name((a, b) => {
     if (!a.file && !b.file || a.file && b.file) {
       return a.displayName.localeCompare(b.displayName, void 0, {
         numeric: true,
@@ -3961,12 +4591,12 @@ var defaultOptions13 = {
     } else {
       return -1;
     }
-  },
-  filterFn: (node) => node.name !== "tags",
+  }, "sortFn"),
+  filterFn: /* @__PURE__ */ __name((node) => node.name !== "tags", "filterFn"),
   order: ["filter", "map", "sort"]
 };
 var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
-  const opts = { ...defaultOptions13, ...userOpts };
+  const opts = { ...defaultOptions14, ...userOpts };
   let fileTree;
   let jsonTree;
   function constructFileTree(allFiles) {
@@ -3998,8 +4628,8 @@ var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
     fileData
   }) => {
     constructFileTree(allFiles);
-    return /* @__PURE__ */ jsxs11("div", { class: classNames(displayClass, "explorer"), children: [
-      /* @__PURE__ */ jsxs11(
+    return /* @__PURE__ */ jsxs12("div", { class: classNames(displayClass, "explorer"), children: [
+      /* @__PURE__ */ jsxs12(
         "button",
         {
           type: "button",
@@ -4011,8 +4641,8 @@ var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
           "aria-controls": "explorer-content",
           "aria-expanded": opts.folderDefaultState === "open",
           children: [
-            /* @__PURE__ */ jsx21("h2", { children: opts.title ?? i18n(cfg.locale).components.explorer.title }),
-            /* @__PURE__ */ jsx21(
+            /* @__PURE__ */ jsx22("h2", { children: opts.title ?? i18n(cfg.locale).components.explorer.title }),
+            /* @__PURE__ */ jsx22(
               "svg",
               {
                 xmlns: "http://www.w3.org/2000/svg",
@@ -4025,15 +4655,15 @@ var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
                 "stroke-linecap": "round",
                 "stroke-linejoin": "round",
                 class: "fold",
-                children: /* @__PURE__ */ jsx21("polyline", { points: "6 9 12 15 18 9" })
+                children: /* @__PURE__ */ jsx22("polyline", { points: "6 9 12 15 18 9" })
               }
             )
           ]
         }
       ),
-      /* @__PURE__ */ jsx21("div", { id: "explorer-content", children: /* @__PURE__ */ jsxs11("ul", { class: "overflow", id: "explorer-ul", children: [
-        /* @__PURE__ */ jsx21(ExplorerNode, { node: fileTree, opts, fileData }),
-        /* @__PURE__ */ jsx21("li", { id: "explorer-end" })
+      /* @__PURE__ */ jsx22("div", { id: "explorer-content", children: /* @__PURE__ */ jsxs12("ul", { class: "overflow", id: "explorer-ul", children: [
+        /* @__PURE__ */ jsx22(ExplorerNode, { node: fileTree, opts, fileData }),
+        /* @__PURE__ */ jsx22("li", { id: "explorer-end" })
       ] }) })
     ] });
   }, "Explorer");
@@ -4043,14 +4673,14 @@ var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
 }, "default");
 
 // quartz/components/TagList.tsx
-import { jsx as jsx22 } from "preact/jsx-runtime";
+import { jsx as jsx23 } from "preact/jsx-runtime";
 var TagList = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
   const tags = fileData.frontmatter?.tags;
   const baseDir = pathToRoot(fileData.slug);
   if (tags && tags.length > 0) {
-    return /* @__PURE__ */ jsx22("ul", { class: classNames(displayClass, "tags"), children: tags.map((tag) => {
+    return /* @__PURE__ */ jsx23("ul", { class: classNames(displayClass, "tags"), children: tags.map((tag) => {
       const linkDest = baseDir + `/tags/${slugTag(tag)}`;
-      return /* @__PURE__ */ jsx22("li", { children: /* @__PURE__ */ jsx22("a", { href: linkDest, class: "internal tag-link", children: tag }) });
+      return /* @__PURE__ */ jsx23("li", { children: /* @__PURE__ */ jsx23("a", { href: linkDest, class: "internal tag-link", children: tag }) });
     }) });
   } else {
     return null;
@@ -4064,7 +4694,6 @@ TagList.css = `
   gap: 0.4rem;
   margin: 1rem 0;
   flex-wrap: wrap;
-  justify-self: end;
 }
 
 .section-li > .section > .tags {
@@ -4094,8 +4723,8 @@ var graph_inline_default = "";
 var graph_default = "";
 
 // quartz/components/Graph.tsx
-import { jsx as jsx23, jsxs as jsxs12 } from "preact/jsx-runtime";
-var defaultOptions14 = {
+import { jsx as jsx24, jsxs as jsxs13 } from "preact/jsx-runtime";
+var defaultOptions15 = {
   localGraph: {
     drag: true,
     zoom: true,
@@ -4127,17 +4756,16 @@ var defaultOptions14 = {
 };
 var Graph_default = /* @__PURE__ */ __name((opts) => {
   const Graph = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-    const localGraph = { ...defaultOptions14.localGraph, ...opts?.localGraph };
-    const globalGraph = { ...defaultOptions14.globalGraph, ...opts?.globalGraph };
-    return /* @__PURE__ */ jsxs12("div", { class: classNames(displayClass, "graph"), children: [
-      /* @__PURE__ */ jsx23("h3", { children: i18n(cfg.locale).components.graph.title }),
-      /* @__PURE__ */ jsxs12("div", { class: "graph-outer", children: [
-        /* @__PURE__ */ jsx23("div", { id: "graph-container", "data-cfg": JSON.stringify(localGraph) }),
-        /* @__PURE__ */ jsx23(
+    const localGraph = { ...defaultOptions15.localGraph, ...opts?.localGraph };
+    const globalGraph = { ...defaultOptions15.globalGraph, ...opts?.globalGraph };
+    return /* @__PURE__ */ jsxs13("div", { class: classNames(displayClass, "graph"), children: [
+      /* @__PURE__ */ jsx24("h3", { children: i18n(cfg.locale).components.graph.title }),
+      /* @__PURE__ */ jsxs13("div", { class: "graph-outer", children: [
+        /* @__PURE__ */ jsx24("div", { id: "graph-container", "data-cfg": JSON.stringify(localGraph) }),
+        /* @__PURE__ */ jsx24("button", { id: "global-graph-icon", "aria-label": "Global Graph", children: /* @__PURE__ */ jsx24(
           "svg",
           {
             version: "1.1",
-            id: "global-graph-icon",
             xmlns: "http://www.w3.org/2000/svg",
             xmlnsXlink: "http://www.w3.org/1999/xlink",
             x: "0px",
@@ -4145,16 +4773,16 @@ var Graph_default = /* @__PURE__ */ __name((opts) => {
             viewBox: "0 0 55 55",
             fill: "currentColor",
             xmlSpace: "preserve",
-            children: /* @__PURE__ */ jsx23(
+            children: /* @__PURE__ */ jsx24(
               "path",
               {
-                d: "M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17\n	s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4\n	c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562\n	C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829\n	c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91\n	v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4\n	s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665\n	C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2\n	S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4\n	s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2\n	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
+                d: "M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17\n                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4\n                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562\n                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829\n                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91\n                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4\n                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665\n                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2\n                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4\n                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2\n                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
               }
             )
           }
-        )
+        ) })
       ] }),
-      /* @__PURE__ */ jsx23("div", { id: "global-graph-outer", children: /* @__PURE__ */ jsx23("div", { id: "global-graph-container", "data-cfg": JSON.stringify(globalGraph) }) })
+      /* @__PURE__ */ jsx24("div", { id: "global-graph-outer", children: /* @__PURE__ */ jsx24("div", { id: "global-graph-container", "data-cfg": JSON.stringify(globalGraph) }) })
     ] });
   }, "Graph");
   Graph.css = graph_default;
@@ -4166,7 +4794,7 @@ var Graph_default = /* @__PURE__ */ __name((opts) => {
 var backlinks_default = "";
 
 // quartz/components/Backlinks.tsx
-import { jsx as jsx24, jsxs as jsxs13 } from "preact/jsx-runtime";
+import { jsx as jsx25, jsxs as jsxs14 } from "preact/jsx-runtime";
 var Backlinks = /* @__PURE__ */ __name(({
   fileData,
   allFiles,
@@ -4175,9 +4803,9 @@ var Backlinks = /* @__PURE__ */ __name(({
 }) => {
   const slug = simplifySlug(fileData.slug);
   const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug));
-  return /* @__PURE__ */ jsxs13("div", { class: classNames(displayClass, "backlinks"), children: [
-    /* @__PURE__ */ jsx24("h3", { children: i18n(cfg.locale).components.backlinks.title }),
-    /* @__PURE__ */ jsx24("ul", { class: "overflow", children: backlinkFiles.length > 0 ? backlinkFiles.map((f) => /* @__PURE__ */ jsx24("li", { children: /* @__PURE__ */ jsx24("a", { href: resolveRelative(fileData.slug, f.slug), class: "internal", children: f.frontmatter?.title }) })) : /* @__PURE__ */ jsx24("li", { children: i18n(cfg.locale).components.backlinks.noBacklinksFound }) })
+  return /* @__PURE__ */ jsxs14("div", { class: classNames(displayClass, "backlinks"), children: [
+    /* @__PURE__ */ jsx25("h3", { children: i18n(cfg.locale).components.backlinks.title }),
+    /* @__PURE__ */ jsx25("ul", { class: "overflow", children: backlinkFiles.length > 0 ? backlinkFiles.map((f) => /* @__PURE__ */ jsx25("li", { children: /* @__PURE__ */ jsx25("a", { href: resolveRelative(fileData.slug, f.slug), class: "internal", children: f.frontmatter?.title }) })) : /* @__PURE__ */ jsx25("li", { children: i18n(cfg.locale).components.backlinks.noBacklinksFound }) })
   ] });
 }, "Backlinks");
 Backlinks.css = backlinks_default;
@@ -4190,39 +4818,27 @@ var search_default = "";
 var search_inline_default = "";
 
 // quartz/components/Search.tsx
-import { jsx as jsx25, jsxs as jsxs14 } from "preact/jsx-runtime";
-var defaultOptions15 = {
+import { jsx as jsx26, jsxs as jsxs15 } from "preact/jsx-runtime";
+var defaultOptions16 = {
   enablePreview: true
 };
 var Search_default = /* @__PURE__ */ __name((userOpts) => {
   const Search = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-    const opts = { ...defaultOptions15, ...userOpts };
+    const opts = { ...defaultOptions16, ...userOpts };
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder;
-    return /* @__PURE__ */ jsxs14("div", { class: classNames(displayClass, "search"), children: [
-      /* @__PURE__ */ jsxs14("div", { id: "search-icon", children: [
-        /* @__PURE__ */ jsx25("p", { children: i18n(cfg.locale).components.search.title }),
-        /* @__PURE__ */ jsx25("div", {}),
-        /* @__PURE__ */ jsxs14(
-          "svg",
-          {
-            tabIndex: 0,
-            "aria-labelledby": "title desc",
-            role: "img",
-            xmlns: "http://www.w3.org/2000/svg",
-            viewBox: "0 0 19.9 19.7",
-            children: [
-              /* @__PURE__ */ jsx25("title", { id: "title", children: "Search" }),
-              /* @__PURE__ */ jsx25("desc", { id: "desc", children: "Search" }),
-              /* @__PURE__ */ jsxs14("g", { class: "search-path", fill: "none", children: [
-                /* @__PURE__ */ jsx25("path", { "stroke-linecap": "square", d: "M18.5 18.3l-5.4-5.4" }),
-                /* @__PURE__ */ jsx25("circle", { cx: "8", cy: "8", r: "7" })
-              ] })
-            ]
-          }
-        )
+    return /* @__PURE__ */ jsxs15("div", { class: classNames(displayClass, "search"), children: [
+      /* @__PURE__ */ jsxs15("button", { class: "search-button", id: "search-button", children: [
+        /* @__PURE__ */ jsx26("p", { children: i18n(cfg.locale).components.search.title }),
+        /* @__PURE__ */ jsxs15("svg", { role: "img", xmlns: "http://www.w3.org/2000/svg", viewBox: "0 0 19.9 19.7", children: [
+          /* @__PURE__ */ jsx26("title", { children: "Search" }),
+          /* @__PURE__ */ jsxs15("g", { class: "search-path", fill: "none", children: [
+            /* @__PURE__ */ jsx26("path", { "stroke-linecap": "square", d: "M18.5 18.3l-5.4-5.4" }),
+            /* @__PURE__ */ jsx26("circle", { cx: "8", cy: "8", r: "7" })
+          ] })
+        ] })
       ] }),
-      /* @__PURE__ */ jsx25("div", { id: "search-container", children: /* @__PURE__ */ jsxs14("div", { id: "search-space", children: [
-        /* @__PURE__ */ jsx25(
+      /* @__PURE__ */ jsx26("div", { id: "search-container", children: /* @__PURE__ */ jsxs15("div", { id: "search-space", children: [
+        /* @__PURE__ */ jsx26(
           "input",
           {
             autocomplete: "off",
@@ -4233,7 +4849,7 @@ var Search_default = /* @__PURE__ */ __name((userOpts) => {
             placeholder: searchPlaceholder
           }
         ),
-        /* @__PURE__ */ jsx25("div", { id: "search-layout", "data-preview": opts.enablePreview })
+        /* @__PURE__ */ jsx26("div", { id: "search-layout", "data-preview": opts.enablePreview })
       ] }) })
     ] });
   }, "Search");
@@ -4246,26 +4862,26 @@ var Search_default = /* @__PURE__ */ __name((userOpts) => {
 var footer_default = "";
 
 // package.json
-var version = "4.3.0";
+var version = "4.4.0";
 
 // quartz/components/Footer.tsx
-import { jsx as jsx26, jsxs as jsxs15 } from "preact/jsx-runtime";
+import { jsx as jsx27, jsxs as jsxs16 } from "preact/jsx-runtime";
 var Footer_default = /* @__PURE__ */ __name((opts) => {
   const Footer = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
     const year = (/* @__PURE__ */ new Date()).getFullYear();
     const links = opts?.links ?? [];
-    return /* @__PURE__ */ jsxs15("footer", { class: `${displayClass ?? ""}`, children: [
-      /* @__PURE__ */ jsxs15("p", { children: [
+    return /* @__PURE__ */ jsxs16("footer", { class: `${displayClass ?? ""}`, children: [
+      /* @__PURE__ */ jsxs16("p", { children: [
         i18n(cfg.locale).components.footer.createdWith,
         " ",
-        /* @__PURE__ */ jsxs15("a", { href: "https://quartz.jzhao.xyz/", children: [
+        /* @__PURE__ */ jsxs16("a", { href: "https://quartz.jzhao.xyz/", children: [
           "Quartz v",
           version
         ] }),
         " \xA9 ",
         year
       ] }),
-      /* @__PURE__ */ jsx26("ul", { children: Object.entries(links).map(([text, link]) => /* @__PURE__ */ jsx26("li", { children: /* @__PURE__ */ jsx26("a", { href: link, children: text }) })) })
+      /* @__PURE__ */ jsx27("ul", { children: Object.entries(links).map(([text, link]) => /* @__PURE__ */ jsx27("li", { children: /* @__PURE__ */ jsx27("a", { href: link, children: text }) })) })
     ] });
   }, "Footer");
   Footer.css = footer_default;
@@ -4273,12 +4889,12 @@ var Footer_default = /* @__PURE__ */ __name((opts) => {
 }, "default");
 
 // quartz/components/DesktopOnly.tsx
-import { Fragment as Fragment6, jsx as jsx27 } from "preact/jsx-runtime";
+import { Fragment as Fragment5, jsx as jsx28 } from "preact/jsx-runtime";
 var DesktopOnly_default = /* @__PURE__ */ __name((component) => {
   if (component) {
     const Component = component;
     const DesktopOnly = /* @__PURE__ */ __name((props) => {
-      return /* @__PURE__ */ jsx27(Component, { displayClass: "desktop-only", ...props });
+      return /* @__PURE__ */ jsx28(Component, { displayClass: "desktop-only", ...props });
     }, "DesktopOnly");
     DesktopOnly.displayName = component.displayName;
     DesktopOnly.afterDOMLoaded = component?.afterDOMLoaded;
@@ -4286,17 +4902,17 @@ var DesktopOnly_default = /* @__PURE__ */ __name((component) => {
     DesktopOnly.css = component?.css;
     return DesktopOnly;
   } else {
-    return () => /* @__PURE__ */ jsx27(Fragment6, {});
+    return () => /* @__PURE__ */ jsx28(Fragment5, {});
   }
 }, "default");
 
 // quartz/components/MobileOnly.tsx
-import { Fragment as Fragment7, jsx as jsx28 } from "preact/jsx-runtime";
+import { Fragment as Fragment6, jsx as jsx29 } from "preact/jsx-runtime";
 var MobileOnly_default = /* @__PURE__ */ __name((component) => {
   if (component) {
     const Component = component;
     const MobileOnly = /* @__PURE__ */ __name((props) => {
-      return /* @__PURE__ */ jsx28(Component, { displayClass: "mobile-only", ...props });
+      return /* @__PURE__ */ jsx29(Component, { displayClass: "mobile-only", ...props });
     }, "MobileOnly");
     MobileOnly.displayName = component.displayName;
     MobileOnly.afterDOMLoaded = component?.afterDOMLoaded;
@@ -4304,19 +4920,19 @@ var MobileOnly_default = /* @__PURE__ */ __name((component) => {
     MobileOnly.css = component?.css;
     return MobileOnly;
   } else {
-    return () => /* @__PURE__ */ jsx28(Fragment7, {});
+    return () => /* @__PURE__ */ jsx29(Fragment6, {});
   }
 }, "default");
 
 // quartz/components/RecentNotes.tsx
-import { jsx as jsx29, jsxs as jsxs16 } from "preact/jsx-runtime";
+import { jsx as jsx30, jsxs as jsxs17 } from "preact/jsx-runtime";
 
 // quartz/components/styles/breadcrumbs.scss
 var breadcrumbs_default = "";
 
 // quartz/components/Breadcrumbs.tsx
-import { Fragment as Fragment8, jsx as jsx30, jsxs as jsxs17 } from "preact/jsx-runtime";
-var defaultOptions16 = {
+import { Fragment as Fragment7, jsx as jsx31, jsxs as jsxs18 } from "preact/jsx-runtime";
+var defaultOptions17 = {
   spacerSymbol: "\u276F",
   rootName: "Home",
   resolveFrontmatterTitle: true,
@@ -4331,7 +4947,7 @@ function formatCrumb(displayName, baseSlug, currentSlug) {
 }
 __name(formatCrumb, "formatCrumb");
 var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
-  const options2 = { ...defaultOptions16, ...opts };
+  const options2 = { ...defaultOptions17, ...opts };
   let folderIndex;
   const Breadcrumbs = /* @__PURE__ */ __name(({
     fileData,
@@ -4339,7 +4955,7 @@ var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
     displayClass
   }) => {
     if (options2.hideOnRoot && fileData.slug === "index") {
-      return /* @__PURE__ */ jsx30(Fragment8, {});
+      return /* @__PURE__ */ jsx31(Fragment7, {});
     }
     const firstEntry = formatCrumb(options2.rootName, fileData.slug, "/");
     const crumbs = [firstEntry];
@@ -4381,9 +4997,9 @@ var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
         });
       }
     }
-    return /* @__PURE__ */ jsx30("nav", { class: classNames(displayClass, "breadcrumb-container"), "aria-label": "breadcrumbs", children: crumbs.map((crumb, index) => /* @__PURE__ */ jsxs17("div", { class: "breadcrumb-element", children: [
-      /* @__PURE__ */ jsx30("a", { href: crumb.path, children: crumb.displayName }),
-      index !== crumbs.length - 1 && /* @__PURE__ */ jsx30("p", { children: ` ${options2.spacerSymbol} ` })
+    return /* @__PURE__ */ jsx31("nav", { class: classNames(displayClass, "breadcrumb-container"), "aria-label": "breadcrumbs", children: crumbs.map((crumb, index) => /* @__PURE__ */ jsxs18("div", { class: "breadcrumb-element", children: [
+      /* @__PURE__ */ jsx31("a", { href: crumb.path, children: crumb.displayName }),
+      index !== crumbs.length - 1 && /* @__PURE__ */ jsx31("p", { children: ` ${options2.spacerSymbol} ` })
     ] })) });
   }, "Breadcrumbs");
   Breadcrumbs.css = breadcrumbs_default;
@@ -4391,7 +5007,7 @@ var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
 }, "default");
 
 // quartz/components/Comments.tsx
-import { jsx as jsx31 } from "preact/jsx-runtime";
+import { Fragment as Fragment8, jsx as jsx32 } from "preact/jsx-runtime";
 
 // quartz.layout.ts
 var MyExplorer = Explorer_default({
@@ -4402,7 +5018,7 @@ var MyExplorer = Explorer_default({
   // sortFn: (a, b) => {
   // implement sortFn here
   // },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: /* @__PURE__ */ __name((node) => node.name !== "tags", "filterFn"),
   //filter out "tags" folder
   // mapFn: undefined,
   order: ["filter", "map", "sort"]
@@ -4456,12 +5072,12 @@ import chalk3 from "chalk";
 
 // quartz/plugins/emitters/helpers.ts
 import path5 from "path";
-import fs2 from "fs";
+import fs3 from "fs";
 var write = /* @__PURE__ */ __name(async ({ ctx, slug, ext, content }) => {
   const pathToPage = joinSegments(ctx.argv.output, slug + ext);
   const dir = path5.dirname(pathToPage);
-  await fs2.promises.mkdir(dir, { recursive: true });
-  await fs2.promises.writeFile(pathToPage, content);
+  await fs3.promises.mkdir(dir, { recursive: true });
+  await fs3.promises.writeFile(pathToPage, content);
   return pathToPage;
 }, "write");
 
@@ -4650,7 +5266,7 @@ var DepGraph = class {
 // quartz/plugins/emitters/contentPage.tsx
 var parseDependencies = /* @__PURE__ */ __name((argv, hast, file) => {
   const dependencies = [];
-  visit6(hast, "element", (elem) => {
+  visit7(hast, "element", (elem) => {
     let ref = null;
     if (["script", "img", "audio", "video", "source", "iframe"].includes(elem.tagName) && elem?.properties?.src) {
       ref = elem.properties.src.toString();
@@ -4903,12 +5519,9 @@ var FolderPage = /* @__PURE__ */ __name((userOpts) => {
       const cfg = ctx.cfg.configuration;
       const folders = new Set(
         allFiles.flatMap((data) => {
-          const slug = data.slug;
-          const folderName = path7.dirname(slug ?? "");
-          if (slug && folderName !== "." && folderName !== "tags") {
-            return [folderName];
-          }
-          return [];
+          return data.slug ? _getFolders(data.slug).filter(
+            (folderName) => folderName !== "." && folderName !== "tags"
+          ) : [];
         })
       );
       const folderDescriptions = Object.fromEntries(
@@ -4955,10 +5568,20 @@ var FolderPage = /* @__PURE__ */ __name((userOpts) => {
     }
   };
 }, "FolderPage");
+function _getFolders(slug) {
+  var folderName = path7.dirname(slug ?? "");
+  const parentFolderNames = [folderName];
+  while (folderName !== ".") {
+    folderName = path7.dirname(folderName ?? "");
+    parentFolderNames.push(folderName);
+  }
+  return parentFolderNames;
+}
+__name(_getFolders, "_getFolders");
 
 // quartz/plugins/emitters/contentIndex.ts
 import { toHtml as toHtml2 } from "hast-util-to-html";
-var defaultOptions17 = {
+var defaultOptions18 = {
   enableSiteMap: true,
   enableRSS: true,
   rssLimit: 10,
@@ -5009,7 +5632,7 @@ function generateRSSFeed(cfg, idx, limit) {
 }
 __name(generateRSSFeed, "generateRSSFeed");
 var ContentIndex = /* @__PURE__ */ __name((opts) => {
-  opts = { ...defaultOptions17, ...opts };
+  opts = { ...defaultOptions18, ...opts };
   return {
     name: "ContentIndex",
     async getDependencyGraph(ctx, content, _resources) {
@@ -5086,7 +5709,7 @@ var ContentIndex = /* @__PURE__ */ __name((opts) => {
       );
       return emitted;
     },
-    getQuartzComponents: () => []
+    getQuartzComponents: /* @__PURE__ */ __name(() => [], "getQuartzComponents")
   };
 }, "ContentIndex");
 
@@ -5160,7 +5783,7 @@ var AliasRedirects = /* @__PURE__ */ __name(() => ({
 
 // quartz/plugins/emitters/assets.ts
 import path10 from "path";
-import fs3 from "fs";
+import fs4 from "fs";
 
 // quartz/util/glob.ts
 import path9 from "path";
@@ -5212,8 +5835,8 @@ var Assets = /* @__PURE__ */ __name(() => {
         const name = slugifyFilePath(fp, true) + ext;
         const dest = joinSegments(assetsPath, name);
         const dir = path10.dirname(dest);
-        await fs3.promises.mkdir(dir, { recursive: true });
-        await fs3.promises.copyFile(src, dest);
+        await fs4.promises.mkdir(dir, { recursive: true });
+        await fs4.promises.copyFile(src, dest);
         res.push(dest);
       }
       return res;
@@ -5222,7 +5845,7 @@ var Assets = /* @__PURE__ */ __name(() => {
 }, "Assets");
 
 // quartz/plugins/emitters/static.ts
-import fs4 from "fs";
+import fs5 from "fs";
 var Static = /* @__PURE__ */ __name(() => ({
   name: "Static",
   getQuartzComponents() {
@@ -5243,7 +5866,7 @@ var Static = /* @__PURE__ */ __name(() => ({
   async emit({ argv, cfg }, _content, _resources) {
     const staticPath = joinSegments(QUARTZ, "static");
     const fps = await glob("**", staticPath, cfg.configuration.ignorePatterns);
-    await fs4.promises.cp(staticPath, joinSegments(argv.output, "static"), {
+    await fs5.promises.cp(staticPath, joinSegments(argv.output, "static"), {
       recursive: true,
       dereference: true
     });
@@ -5382,10 +6005,19 @@ function addGlobalPageResources(ctx, componentResources) {
   } else if (cfg.analytics?.provider === "cabin") {
     componentResources.afterDOMLoaded.push(`
       const cabinScript = document.createElement("script")
-      cabinScript.src = "${cfg.analytics.host ?? "https://scripts.cabin.dev"}/cabin.js"
+      cabinScript.src = "${cfg.analytics.host ?? "https://scripts.withcabin.com"}/hello.js"
       cabinScript.defer = true
       cabinScript.async = true
       document.head.appendChild(cabinScript)
+    `);
+  } else if (cfg.analytics?.provider === "clarity") {
+    componentResources.afterDOMLoaded.push(`
+      const clarityScript = document.createElement("script")
+      clarityScript.innerHTML= \`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "${cfg.analytics.projectId}");\`
+      document.head.appendChild(clarityScript)
     `);
   }
   if (cfg.enableSPA) {
@@ -5562,6 +6194,7 @@ var config = {
     baseUrl: "dandylyons.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -5711,7 +6344,7 @@ Failed to process \`${fp}\``, err);
 __name(createFileParser, "createFileParser");
 
 // quartz/util/sourcemap.ts
-import fs5 from "fs";
+import fs6 from "fs";
 import { fileURLToPath } from "url";
 var options = {
   // source map hack to get around query param
@@ -5720,7 +6353,7 @@ var options = {
     if (source.includes(".quartz-cache")) {
       let realSource = fileURLToPath(source.split("?", 2)[0] + ".map");
       return {
-        map: fs5.readFileSync(realSource, "utf8")
+        map: fs6.readFileSync(realSource, "utf8")
       };
     } else {
       return null;

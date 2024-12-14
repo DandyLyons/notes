@@ -34,10 +34,10 @@ GDC talks cover a range of developmental topics including game design, programmi
 
 ### Our Narrative Philosophy
 - [03:10](https://www.youtube.com/watch?t=190&v=c2YRVWZupwo) 
-
+- [05:32](https://www.youtube.com/watch?t=332&v=c2YRVWZupwo): "Story" story must never intrud on "Gameplay" story
+- [[#Playtesting]] is crucial in determining the quality of humor. Because funny content is only funny once. You need to get first reactions from playtesters. 
 ### Playtesting
 - [07:59](https://www.youtube.com/watch?t=479&v=c2YRVWZupwo) 
-
 ### The Boss Battle
 - [20:12](https://www.youtube.com/watch?t=1212&v=c2YRVWZupwo)
 - Problem: We needed a satisfying ending so we created a boss battle with puzzles. 

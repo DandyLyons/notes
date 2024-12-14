@@ -1,12 +1,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://dandylyons.github.io/About/Daniel-Lyons</loc>
-    <lastmod>2024-08-10T05:20:54.012Z</lastmod>
+    <lastmod>2024-12-08T20:35:52.674Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/About/Why-is-this-site-called-%22Dream.-Build.-Ship!%22</loc>
-    <lastmod>2024-08-10T05:20:54.013Z</lastmod>
+    <lastmod>2024-12-08T20:35:52.674Z</lastmod>
   </url><url>
-    <loc>https://dandylyons.github.io/Dev-Diary/</loc>
-    <lastmod>2024-08-10T03:23:10.647Z</lastmod>
+    <loc>https://dandylyons.github.io/Chess/</loc>
+    <lastmod>2024-12-12T20:44:47.539Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/14-Harsh-Truths-You-Find-Out-When-You-Start-Blogging</loc>
+    <lastmod>2024-12-12T00:31:45.131Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/2024-11-11-WEB-Guide-to-the-Obsidian-Web-Clipper</loc>
+    <lastmod>2024-12-09T21:20:07.039Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/A-Step-by-Step-Guide-Deploying-A-Static-Site-or-Single-page-App-on-Netlify</loc>
+    <lastmod>2024-12-07T21:22:04.536Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Build-Your-Own-Fan-Club-How-to-Use-Your-Email-List</loc>
+    <lastmod>2024-12-12T01:45:27.082Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Cursed-Problems-in-Game-Design</loc>
+    <lastmod>2024-12-12T14:44:32.237Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Developing-a-Shader-Inspired-by-Vaporwave-Art</loc>
+    <lastmod>2024-12-09T22:59:33.019Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Good-Design,-Bad-Design-Vol.-11---Tetris,-Hyper-Light-Drifter,-and-Great-Game-Animation</loc>
+    <lastmod>2024-12-09T00:12:23.190Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/How-To-Grow-A-Blog-From-0-Readers-(Basic-Beginner's-Guide)</loc>
+    <lastmod>2024-12-12T01:05:13.638Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/How-To-Make-Your-Game-Just-Completely-Hilarious-The-Stanley-Parable</loc>
+    <lastmod>2024-12-09T06:07:01.825Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/How-To-Think-Like-A-Game-Designer</loc>
+    <lastmod>2024-12-13T05:27:06.944Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/How-to-Deploy--and--Migrating-from-GitHub-Pages-to-Netlify-2024</loc>
+    <lastmod>2024-12-07T21:59:04.479Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/How-to-Keep-Players-Engaged-(Without-Being-Evil)</loc>
+    <lastmod>2024-12-12T01:47:40.743Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/How-to-Make-and-Self-Publish-a-Game-in-12-Months</loc>
+    <lastmod>2024-12-09T06:07:53.536Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Integrating-Narrative-into-Game-Design-A-Portal-Post-Mortem</loc>
+    <lastmod>2024-12-14T16:52:06.348Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Leaderboards-Real-Time-Rankings-and-Gamification-Solutions---Godot---Quiver</loc>
+    <lastmod>2024-12-01T19:33:08.180Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Making-Fluid-and-Powerful-Animations-For-'Skullgirls'</loc>
+    <lastmod>2024-12-13T05:23:46.148Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Programmers-That-Don't-Blog-Should-Start-Right-Now</loc>
+    <lastmod>2024-12-12T01:10:40.683Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/ReadItLater---Obsidian-Plugin</loc>
+    <lastmod>2024-12-09T21:19:13.605Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/RollerCoaster-Tycoon-A-Timeless-Design-~-Design-Doc</loc>
+    <lastmod>2024-12-09T00:14:01.744Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Should-you-be-blogging-as-a-software-developer-(and-how-much-I-earn-from-mine)</loc>
+    <lastmod>2024-12-12T00:30:39.638Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/The-Evolution-of-Roguelike-Design---How-Rogue-led-to-FTL,-Spelunky,-and-So-Many-More-~-Design-Doc</loc>
+    <lastmod>2024-12-11T06:36:07.226Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/The-Fascinating-History-of-Rust</loc>
+    <lastmod>2024-12-09T19:43:29.288Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/The-Implementation-of-Rewind-in-Braid</loc>
+    <lastmod>2024-12-10T06:45:13.657Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/The-Making-of-Spelunky---Documentary</loc>
+    <lastmod>2024-12-09T23:55:29.483Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/The-Marketing-Money-Talk-How-to-Budget-Your-Indie-Game's-Promotion-Campaign</loc>
+    <lastmod>2024-12-13T15:45:40.904Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Unbroken-Bones-and-a-Pierced-Side---Ligonier.org</loc>
+    <lastmod>2024-11-10T16:24:52.595Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/Using-Obsidian-DATAVIEW-to-Build-Folder-Indexes-and-Maps-of-Content</loc>
+    <lastmod>2024-12-09T19:53:29.881Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/What-Makes-a-Game-Cozy-~-Design-Doc</loc>
+    <lastmod>2024-12-13T15:44:29.878Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/%CC%B6B%CC%B6a%CC%B6d%CC%B6-Good-Game-Design---Clicker-Games-(Idle-Games,-Incremental-Games)</loc>
+    <lastmod>2024-12-09T05:14:34.466Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Clippings/%F0%9F%93%82%EF%B8%8F-How-I-Use-The-Obsidian-Database-Folder-Plugin-%F0%9F%94%8C%EF%B8%8F</loc>
+    <lastmod>2024-12-09T19:57:59.400Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Devotions/2024/July/Devotions-2024-07-01</loc>
     <lastmod>2024-08-09T03:12:51.726Z</lastmod>
@@ -15,13 +105,34 @@
     <lastmod>2024-08-09T03:12:51.726Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Journals-Plugin</loc>
-    <lastmod>2024-08-10T05:20:54.019Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.072Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/%22two-or-three-witnesses%22</loc>
+    <lastmod>2024-12-08T18:15:13.341Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/Baptism/</loc>
+    <lastmod>2024-09-22T18:29:56.973Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/Gehenna</loc>
+    <lastmod>2024-12-08T19:34:54.249Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/The-Lord%E2%80%99s-Supper</loc>
-    <lastmod>2024-08-09T03:12:51.869Z</lastmod>
+    <lastmod>2024-11-24T18:51:06.546Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/keys-in-the-Bible</loc>
+    <lastmod>2024-12-08T18:31:16.726Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/leaven</loc>
     <lastmod>2024-08-09T03:12:51.729Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/leviathan</loc>
+    <lastmod>2024-10-14T01:00:55.279Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/principalities-in-the-Bible</loc>
+    <lastmod>2024-09-10T18:41:32.973Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Subjects-in-the-Bible/signs</loc>
+    <lastmod>2024-10-13T17:03:38.516Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/00---About/Teachings-about-the-Bible/cessationism</loc>
     <lastmod>2024-08-09T03:12:51.729Z</lastmod>
@@ -30,10 +141,10 @@
     <lastmod>2024-08-09T03:12:51.730Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/01---Genesis/Gen-02</loc>
-    <lastmod>2024-08-09T03:12:51.730Z</lastmod>
+    <lastmod>2024-09-16T01:09:34.496Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/01---Genesis/Gen-03</loc>
-    <lastmod>2024-08-09T03:12:51.730Z</lastmod>
+    <lastmod>2024-09-16T01:24:53.515Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/01---Genesis/Gen-04</loc>
     <lastmod>2024-08-09T03:12:51.730Z</lastmod>
@@ -231,7 +342,7 @@
     <lastmod>2024-08-09T03:12:51.736Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-19</loc>
-    <lastmod>2024-08-09T03:12:51.736Z</lastmod>
+    <lastmod>2024-12-02T02:14:55.151Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-20</loc>
     <lastmod>2024-08-09T03:12:51.736Z</lastmod>
@@ -273,10 +384,10 @@
     <lastmod>2024-08-09T03:12:51.737Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-33</loc>
-    <lastmod>2024-08-09T03:12:51.737Z</lastmod>
+    <lastmod>2024-11-18T02:15:02.549Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-34</loc>
-    <lastmod>2024-08-09T03:12:51.737Z</lastmod>
+    <lastmod>2024-11-18T02:17:15.061Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-35</loc>
     <lastmod>2024-08-09T03:12:51.737Z</lastmod>
@@ -498,7 +609,7 @@
     <lastmod>2024-08-09T03:12:51.744Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/05---Deuteronomy/Deut-05</loc>
-    <lastmod>2024-08-09T03:12:51.744Z</lastmod>
+    <lastmod>2024-12-05T02:40:23.609Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/05---Deuteronomy/Deut-06</loc>
     <lastmod>2024-08-09T03:12:51.744Z</lastmod>
@@ -540,13 +651,13 @@
     <lastmod>2024-08-09T03:12:51.746Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/05---Deuteronomy/Deut-19</loc>
-    <lastmod>2024-08-09T03:12:51.746Z</lastmod>
+    <lastmod>2024-12-08T18:09:56.181Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/05---Deuteronomy/Deut-20</loc>
     <lastmod>2024-08-09T03:12:51.746Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/05---Deuteronomy/Deut-21</loc>
-    <lastmod>2024-08-09T03:12:51.746Z</lastmod>
+    <lastmod>2024-08-25T17:13:13.177Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/05---Deuteronomy/Deut-22</loc>
     <lastmod>2024-08-09T03:12:51.746Z</lastmod>
@@ -783,7 +894,7 @@
     <lastmod>2024-08-09T03:12:51.753Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/09---1-Samuel/1-Sam-17</loc>
-    <lastmod>2024-08-09T03:12:51.753Z</lastmod>
+    <lastmod>2024-10-06T17:38:58.082Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/09---1-Samuel/1-Sam-18</loc>
     <lastmod>2024-08-09T03:12:51.753Z</lastmod>
@@ -1056,7 +1167,7 @@
     <lastmod>2024-08-09T03:12:51.760Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/13---1-Chronicles/1-Chron-06</loc>
-    <lastmod>2024-08-09T03:12:51.762Z</lastmod>
+    <lastmod>2024-11-03T18:31:23.868Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/13---1-Chronicles/1-Chron-07</loc>
     <lastmod>2024-08-09T03:12:51.762Z</lastmod>
@@ -1146,7 +1257,7 @@
     <lastmod>2024-08-09T03:12:51.763Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/14---2-Chronicles/2-Chron-07</loc>
-    <lastmod>2024-08-09T03:12:51.763Z</lastmod>
+    <lastmod>2024-12-02T02:20:42.759Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/14---2-Chronicles/2-Chron-08</loc>
     <lastmod>2024-08-09T03:12:51.763Z</lastmod>
@@ -1221,7 +1332,7 @@
     <lastmod>2024-08-09T03:12:51.766Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/14---2-Chronicles/2-Chron-32</loc>
-    <lastmod>2024-08-09T03:12:51.766Z</lastmod>
+    <lastmod>2024-10-06T17:43:05.710Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/14---2-Chronicles/2-Chron-33</loc>
     <lastmod>2024-08-09T03:12:51.766Z</lastmod>
@@ -1341,7 +1452,7 @@
     <lastmod>2024-08-09T03:12:51.769Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/18---Job/Job-03</loc>
-    <lastmod>2024-08-09T03:12:51.769Z</lastmod>
+    <lastmod>2024-10-07T01:09:48.398Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/18---Job/Job-04</loc>
     <lastmod>2024-08-09T03:12:51.769Z</lastmod>
@@ -1455,7 +1566,7 @@
     <lastmod>2024-08-09T03:12:51.773Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/18---Job/Job-41</loc>
-    <lastmod>2024-08-09T03:12:51.773Z</lastmod>
+    <lastmod>2024-10-07T01:09:51.638Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/18---Job/Job-42</loc>
     <lastmod>2024-08-09T03:12:51.773Z</lastmod>
@@ -1503,7 +1614,7 @@
     <lastmod>2024-08-09T03:12:51.776Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-104</loc>
-    <lastmod>2024-08-09T03:12:51.776Z</lastmod>
+    <lastmod>2024-12-02T02:15:58.332Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-105</loc>
     <lastmod>2024-08-09T03:12:51.776Z</lastmod>
@@ -1635,7 +1746,7 @@
     <lastmod>2024-08-09T03:12:51.780Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-144</loc>
-    <lastmod>2024-08-09T03:12:51.780Z</lastmod>
+    <lastmod>2024-12-02T01:25:38.349Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-145</loc>
     <lastmod>2024-08-09T03:12:51.782Z</lastmod>
@@ -1713,7 +1824,7 @@
     <lastmod>2024-08-09T03:12:51.782Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-34</loc>
-    <lastmod>2024-08-09T03:12:51.782Z</lastmod>
+    <lastmod>2024-11-10T16:23:56.160Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-35</loc>
     <lastmod>2024-08-09T03:12:51.782Z</lastmod>
@@ -1830,10 +1941,10 @@
     <lastmod>2024-08-09T03:12:51.786Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-73</loc>
-    <lastmod>2024-08-09T03:12:51.786Z</lastmod>
+    <lastmod>2024-11-23T03:13:48.904Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-74</loc>
-    <lastmod>2024-08-09T03:12:51.786Z</lastmod>
+    <lastmod>2024-10-07T01:09:54.529Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/19---Psalm/Ps-75</loc>
     <lastmod>2024-08-09T03:12:51.786Z</lastmod>
@@ -1917,7 +2028,7 @@
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-03</loc>
-    <lastmod>2024-08-09T03:12:51.789Z</lastmod>
+    <lastmod>2024-08-19T01:07:38.572Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-04</loc>
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
@@ -1932,7 +2043,7 @@
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-08</loc>
-    <lastmod>2024-08-09T03:12:51.789Z</lastmod>
+    <lastmod>2024-10-06T17:43:27.776Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-09</loc>
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
@@ -1941,13 +2052,13 @@
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-11</loc>
-    <lastmod>2024-08-09T03:12:51.789Z</lastmod>
+    <lastmod>2024-10-06T17:43:18.153Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-12</loc>
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-13</loc>
-    <lastmod>2024-08-09T03:12:51.789Z</lastmod>
+    <lastmod>2024-10-06T17:43:38.094Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-14</loc>
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
@@ -1956,7 +2067,7 @@
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-16</loc>
-    <lastmod>2024-08-09T03:12:51.789Z</lastmod>
+    <lastmod>2024-10-06T17:43:32.484Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-17</loc>
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
@@ -1971,7 +2082,7 @@
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-21</loc>
-    <lastmod>2024-08-09T03:12:51.789Z</lastmod>
+    <lastmod>2024-10-06T17:43:44.052Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-22</loc>
     <lastmod>2024-08-09T03:12:51.789Z</lastmod>
@@ -1995,7 +2106,7 @@
     <lastmod>2024-08-09T03:12:51.790Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-29</loc>
-    <lastmod>2024-08-09T03:12:51.790Z</lastmod>
+    <lastmod>2024-10-06T17:43:50.934Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-30</loc>
     <lastmod>2024-08-09T03:12:51.790Z</lastmod>
@@ -2013,7 +2124,7 @@
     <lastmod>2024-08-09T03:12:51.790Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/21---Ecclesiastes/Eccles-04</loc>
-    <lastmod>2024-08-09T03:12:51.792Z</lastmod>
+    <lastmod>2024-10-06T17:22:19.352Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/21---Ecclesiastes/Eccles-05</loc>
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
@@ -2028,7 +2139,7 @@
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/21---Ecclesiastes/Eccles-09</loc>
-    <lastmod>2024-08-09T03:12:51.792Z</lastmod>
+    <lastmod>2024-10-06T17:22:26.487Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/21---Ecclesiastes/Eccles-10</loc>
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
@@ -2037,7 +2148,7 @@
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/21---Ecclesiastes/Eccles-12</loc>
-    <lastmod>2024-08-09T03:12:51.792Z</lastmod>
+    <lastmod>2024-11-11T02:07:48.740Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/21---Ecclesiastes/</loc>
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
@@ -2082,7 +2193,7 @@
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-06</loc>
-    <lastmod>2024-08-09T03:12:51.792Z</lastmod>
+    <lastmod>2024-12-02T02:28:13.553Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-07</loc>
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
@@ -2091,7 +2202,7 @@
     <lastmod>2024-08-09T03:12:51.792Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-09</loc>
-    <lastmod>2024-08-09T03:12:51.793Z</lastmod>
+    <lastmod>2024-10-06T17:40:26.979Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-10</loc>
     <lastmod>2024-08-09T03:12:51.793Z</lastmod>
@@ -2103,7 +2214,7 @@
     <lastmod>2024-08-09T03:12:51.793Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-13</loc>
-    <lastmod>2024-08-09T03:12:51.793Z</lastmod>
+    <lastmod>2024-10-06T17:40:36.028Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-14</loc>
     <lastmod>2024-08-09T03:12:51.793Z</lastmod>
@@ -2145,7 +2256,7 @@
     <lastmod>2024-08-09T03:12:51.795Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-27</loc>
-    <lastmod>2024-08-09T03:12:51.795Z</lastmod>
+    <lastmod>2024-10-07T01:09:44.384Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/23---Isaiah/Isa-28</loc>
     <lastmod>2024-08-09T03:12:51.795Z</lastmod>
@@ -2589,7 +2700,7 @@
     <lastmod>2024-08-09T03:12:51.808Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/27---Daniel/Dan-04</loc>
-    <lastmod>2024-08-09T03:12:51.808Z</lastmod>
+    <lastmod>2024-10-06T17:39:10.276Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/27---Daniel/Dan-05</loc>
     <lastmod>2024-08-09T03:12:51.808Z</lastmod>
@@ -2682,13 +2793,13 @@
     <lastmod>2024-08-09T03:12:51.811Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/30---Amos/Am-06</loc>
-    <lastmod>2024-08-09T03:12:51.811Z</lastmod>
+    <lastmod>2024-10-06T17:40:03.690Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/30---Amos/Am-07</loc>
     <lastmod>2024-08-09T03:12:51.811Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/30---Amos/Am-08</loc>
-    <lastmod>2024-08-09T03:12:51.811Z</lastmod>
+    <lastmod>2024-10-06T17:40:18.226Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/30---Amos/Am-09</loc>
     <lastmod>2024-08-09T03:12:51.811Z</lastmod>
@@ -2697,7 +2808,7 @@
     <lastmod>2024-08-09T03:12:51.811Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/31---Obadiah/Obadiah</loc>
-    <lastmod>2024-08-09T20:16:32.174Z</lastmod>
+    <lastmod>2024-12-07T21:26:29.433Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/32---Jonah/Jonah-01</loc>
     <lastmod>2024-08-09T20:15:59.770Z</lastmod>
@@ -2712,7 +2823,7 @@
     <lastmod>2024-08-09T20:15:59.766Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/32---Jonah/Jonah</loc>
-    <lastmod>2024-08-09T20:15:59.769Z</lastmod>
+    <lastmod>2024-12-07T21:26:29.094Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/33---Micah/Micah-01</loc>
     <lastmod>2024-08-09T03:12:51.812Z</lastmod>
@@ -2877,7 +2988,7 @@
     <lastmod>2024-08-09T03:12:51.816Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/40---Matthew/Matt-18</loc>
-    <lastmod>2024-08-09T03:12:51.816Z</lastmod>
+    <lastmod>2024-12-08T19:35:26.262Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/40---Matthew/Matt-19</loc>
     <lastmod>2024-08-09T03:12:51.816Z</lastmod>
@@ -2901,10 +3012,10 @@
     <lastmod>2024-08-09T03:12:51.816Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/40---Matthew/Matt-26</loc>
-    <lastmod>2024-08-09T03:12:51.816Z</lastmod>
+    <lastmod>2024-09-29T17:48:48.410Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/40---Matthew/Matt-27</loc>
-    <lastmod>2024-08-09T03:12:51.818Z</lastmod>
+    <lastmod>2024-10-06T17:22:51.188Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/40---Matthew/Matt-28</loc>
     <lastmod>2024-08-09T03:12:51.818Z</lastmod>
@@ -2931,7 +3042,7 @@
     <lastmod>2024-08-09T03:12:51.818Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/41---Mark/Mark-07</loc>
-    <lastmod>2024-08-09T03:12:51.818Z</lastmod>
+    <lastmod>2024-10-06T17:40:45.036Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/41---Mark/Mark-08</loc>
     <lastmod>2024-08-09T03:12:51.819Z</lastmod>
@@ -2955,13 +3066,13 @@
     <lastmod>2024-08-09T03:12:51.819Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/41---Mark/Mark-15</loc>
-    <lastmod>2024-08-09T03:12:51.819Z</lastmod>
+    <lastmod>2024-10-06T17:22:59.477Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/41---Mark/Mark-16</loc>
     <lastmod>2024-08-09T03:12:51.819Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-01</loc>
-    <lastmod>2024-08-09T03:12:51.819Z</lastmod>
+    <lastmod>2024-12-09T01:07:28.263Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-02</loc>
     <lastmod>2024-08-09T03:12:51.819Z</lastmod>
@@ -3003,16 +3114,16 @@
     <lastmod>2024-08-09T03:12:51.821Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-15</loc>
-    <lastmod>2024-08-09T03:12:51.821Z</lastmod>
+    <lastmod>2024-11-25T01:25:56.407Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-16</loc>
-    <lastmod>2024-08-09T03:12:51.821Z</lastmod>
+    <lastmod>2024-11-28T18:04:17.857Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-17</loc>
     <lastmod>2024-08-09T03:12:51.821Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-18</loc>
-    <lastmod>2024-08-09T03:12:51.821Z</lastmod>
+    <lastmod>2024-09-22T17:09:46.352Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-19</loc>
     <lastmod>2024-08-09T03:12:51.821Z</lastmod>
@@ -3024,10 +3135,10 @@
     <lastmod>2024-08-09T03:12:51.821Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-22</loc>
-    <lastmod>2024-08-09T03:12:51.821Z</lastmod>
+    <lastmod>2024-11-24T18:45:14.104Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-23</loc>
-    <lastmod>2024-08-09T03:12:51.822Z</lastmod>
+    <lastmod>2024-08-18T17:03:17.755Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/42---Luke/Luke-24</loc>
     <lastmod>2024-08-09T03:12:51.822Z</lastmod>
@@ -3108,7 +3219,7 @@
     <lastmod>2024-08-09T03:12:51.823Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/44---Acts/Acts-05</loc>
-    <lastmod>2024-08-09T03:12:51.823Z</lastmod>
+    <lastmod>2024-11-03T18:27:58.036Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/44---Acts/Acts-06</loc>
     <lastmod>2024-08-09T03:12:51.823Z</lastmod>
@@ -3120,7 +3231,7 @@
     <lastmod>2024-08-09T03:12:51.823Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/44---Acts/Acts-09</loc>
-    <lastmod>2024-08-09T03:12:51.823Z</lastmod>
+    <lastmod>2024-10-13T16:32:29.048Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/44---Acts/Acts-10</loc>
     <lastmod>2024-08-09T03:12:51.823Z</lastmod>
@@ -3171,7 +3282,7 @@
     <lastmod>2024-08-09T03:12:51.825Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/44---Acts/Acts-26</loc>
-    <lastmod>2024-08-09T03:12:51.825Z</lastmod>
+    <lastmod>2024-10-13T16:59:21.234Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/44---Acts/Acts-27</loc>
     <lastmod>2024-08-09T03:12:51.825Z</lastmod>
@@ -3204,7 +3315,7 @@
     <lastmod>2024-08-09T03:12:51.826Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/45---Romans/Rom-09</loc>
-    <lastmod>2024-08-09T03:12:51.826Z</lastmod>
+    <lastmod>2024-08-25T17:05:47.707Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/45---Romans/Rom-10</loc>
     <lastmod>2024-08-09T03:12:51.826Z</lastmod>
@@ -3255,7 +3366,7 @@
     <lastmod>2024-08-09T03:12:51.828Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/46---1-Corinthians/1-Cor-10</loc>
-    <lastmod>2024-08-09T03:12:51.828Z</lastmod>
+    <lastmod>2024-11-18T02:22:31.871Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/46---1-Corinthians/1-Cor-11</loc>
     <lastmod>2024-08-09T03:12:51.828Z</lastmod>
@@ -3264,7 +3375,7 @@
     <lastmod>2024-08-09T03:12:51.828Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/46---1-Corinthians/1-Cor-13</loc>
-    <lastmod>2024-08-09T03:12:51.828Z</lastmod>
+    <lastmod>2024-10-06T17:21:29.963Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/46---1-Corinthians/1-Cor-14</loc>
     <lastmod>2024-08-09T03:12:51.828Z</lastmod>
@@ -3303,16 +3414,16 @@
     <lastmod>2024-08-09T03:12:51.828Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/47---2-Corinthians/2-Cor-10</loc>
-    <lastmod>2024-08-09T03:12:51.828Z</lastmod>
+    <lastmod>2024-10-06T17:11:35.480Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/47---2-Corinthians/2-Cor-11</loc>
-    <lastmod>2024-08-09T03:12:51.828Z</lastmod>
+    <lastmod>2024-10-06T17:32:56.651Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/47---2-Corinthians/2-Cor-12</loc>
-    <lastmod>2024-08-09T03:12:51.829Z</lastmod>
+    <lastmod>2024-11-24T18:32:48.582Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/47---2-Corinthians/2-Cor-13</loc>
-    <lastmod>2024-08-09T03:12:51.829Z</lastmod>
+    <lastmod>2024-12-08T17:34:39.760Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/48---Galatians/Gal-01</loc>
     <lastmod>2024-08-09T03:12:51.829Z</lastmod>
@@ -3327,7 +3438,7 @@
     <lastmod>2024-08-09T03:12:51.829Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/48---Galatians/Gal-05</loc>
-    <lastmod>2024-08-09T03:12:51.829Z</lastmod>
+    <lastmod>2024-11-24T17:36:48.815Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/48---Galatians/Gal-06</loc>
     <lastmod>2024-08-09T03:12:51.829Z</lastmod>
@@ -3336,19 +3447,19 @@
     <lastmod>2024-08-09T03:12:51.829Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/49---Ephesians/Ephes-02</loc>
-    <lastmod>2024-08-09T03:12:51.829Z</lastmod>
+    <lastmod>2024-09-08T17:10:25.625Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/49---Ephesians/Ephes-03</loc>
     <lastmod>2024-08-09T03:12:51.829Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/49---Ephesians/Ephes-04</loc>
-    <lastmod>2024-08-09T03:12:51.829Z</lastmod>
+    <lastmod>2024-11-24T18:03:44.326Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/49---Ephesians/Ephes-05</loc>
     <lastmod>2024-08-09T03:12:51.831Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/49---Ephesians/Ephes-06</loc>
-    <lastmod>2024-08-09T03:12:51.831Z</lastmod>
+    <lastmod>2024-09-16T01:34:39.489Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/50---Philippians/Phil-01</loc>
     <lastmod>2024-08-09T03:12:51.831Z</lastmod>
@@ -3387,7 +3498,7 @@
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/52---1-Thessalonians/1-Thess-05</loc>
-    <lastmod>2024-08-09T03:12:51.832Z</lastmod>
+    <lastmod>2024-11-04T16:28:10.549Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/53---2-Thessalonians/2-Thess-01</loc>
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
@@ -3399,7 +3510,7 @@
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/54---1-Timothy/1-Tim-01</loc>
-    <lastmod>2024-08-09T03:12:51.832Z</lastmod>
+    <lastmod>2024-10-27T16:33:50.565Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/54---1-Timothy/1-Tim-02</loc>
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
@@ -3414,7 +3525,7 @@
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/54---1-Timothy/1-Tim-06</loc>
-    <lastmod>2024-08-09T03:12:51.832Z</lastmod>
+    <lastmod>2024-10-06T17:21:38.377Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/55---2-Timothy/2-Tim-01</loc>
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
@@ -3435,7 +3546,7 @@
     <lastmod>2024-08-09T03:12:51.832Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/56---Titus/Titus-03</loc>
-    <lastmod>2024-08-09T03:12:51.832Z</lastmod>
+    <lastmod>2024-10-06T17:21:57.039Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/57---Philemon/Philem-01</loc>
     <lastmod>2024-08-09T03:12:51.834Z</lastmod>
@@ -3471,10 +3582,10 @@
     <lastmod>2024-08-09T03:12:51.834Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-11</loc>
-    <lastmod>2024-08-11T18:32:33.638Z</lastmod>
+    <lastmod>2024-09-30T00:24:30.688Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-12</loc>
-    <lastmod>2024-08-09T03:12:51.835Z</lastmod>
+    <lastmod>2024-09-30T01:11:47.342Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-13</loc>
     <lastmod>2024-08-09T03:12:51.835Z</lastmod>
@@ -3522,7 +3633,7 @@
     <lastmod>2024-08-09T03:12:51.835Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/62---1-John/1-John-02</loc>
-    <lastmod>2024-08-09T03:12:51.835Z</lastmod>
+    <lastmod>2024-10-06T17:38:49.013Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/62---1-John/1-John-03</loc>
     <lastmod>2024-08-09T03:12:51.835Z</lastmod>
@@ -3546,7 +3657,7 @@
     <lastmod>2024-08-09T03:12:51.836Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/66---Revelation/Rev-02</loc>
-    <lastmod>2024-08-09T03:12:51.836Z</lastmod>
+    <lastmod>2024-08-18T17:03:21.473Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/66---Revelation/Rev-03</loc>
     <lastmod>2024-08-09T03:12:51.836Z</lastmod>
@@ -3606,7 +3717,13 @@
     <lastmod>2024-08-09T03:12:51.838Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/66---Revelation/Rev-22</loc>
-    <lastmod>2024-08-09T03:12:51.838Z</lastmod>
+    <lastmod>2024-09-09T01:24:30.621Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Fulfilled-Prophesies/the-pierced-servant</loc>
+    <lastmod>2024-11-10T16:34:36.759Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Fulfilled-Prophesies/the-unbroken-bones</loc>
+    <lastmod>2024-11-10T16:22:31.630Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-04-28-Sermon</loc>
     <lastmod>2024-04-28T00:00:00.000Z</lastmod>
@@ -3617,6 +3734,33 @@
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-06-23-Sermon-Notes1</loc>
     <lastmod>2024-06-23T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-08-25-Sermon-Notes</loc>
+    <lastmod>2024-08-25T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-08-25-Sermon-Notes1</loc>
+    <lastmod>2024-08-25T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-09-01-Sermon-Notes</loc>
+    <lastmod>2024-09-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-09-15-Sermon-Notes</loc>
+    <lastmod>2024-09-15T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-10-06-Sermon-Notes</loc>
+    <lastmod>2024-10-06T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-10-20-Sermon-Notes</loc>
+    <lastmod>2024-10-20T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-11-03-Sermon-Notes</loc>
+    <lastmod>2024-11-03T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-11-17-Sermon-Notes1</loc>
+    <lastmod>2024-11-17T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/My-Notes/Sermon-Notes/2024-11-24-Sermon-Notes1</loc>
+    <lastmod>2024-11-24T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Library/The-Bible-(WEB)/WEB-translation</loc>
     <lastmod>2024-08-09T03:12:51.841Z</lastmod>
   </url><url>
@@ -3624,10 +3768,13 @@
     <lastmod>2024-08-09T03:12:51.842Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/Westminster-Confession/Westminster-Confession</loc>
-    <lastmod>2024-08-09T03:12:51.842Z</lastmod>
+    <lastmod>2024-09-22T18:32:25.194Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Library/</loc>
-    <lastmod>2024-08-09T21:49:23.536Z</lastmod>
+    <lastmod>2024-12-08T20:35:52.671Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Media-Notes/Videos/VIDEO---Robin-Heinze---Sweetening-React-Native-Development-With-Ignite-(Chain-React-2024)</loc>
+    <lastmod>2024-11-11T19:44:32.128Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/My-Releases/Software/Experiments/UI-Design/Dark-Mode-in-the-Browser</loc>
     <lastmod>2024-08-09T20:50:01.578Z</lastmod>
@@ -3638,53 +3785,128 @@
     <loc>https://dandylyons.github.io/My-Releases/Software/Experiments/</loc>
     <lastmod>2024-08-09T03:12:51.842Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/My-Releases/Web-Development/Personal-Site/dandylyons.github.io</loc>
+    <lastmod>2024-08-31T15:24:10.719Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/15-Ways-to-Navigate-Obsidian-(From-Basic-to-Advance)</loc>
+    <lastmod>2024-12-06T22:09:46.451Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/Data-models---using-data-to-create-extensible,-maintainable-games-in-Godot</loc>
+    <lastmod>2024-12-01T00:35:33.980Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/Godot-4-and-GDScript---Part-3-(the-lifecycle)</loc>
+    <lastmod>2024-12-04T20:09:33.118Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/Godot-Control-Node-(UI)-Masterclass</loc>
+    <lastmod>2024-11-21T04:31:27.618Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/How-He-Sold-Over-960,000-Copies-Of-His-Games-w-@JonasTyroller--%E2%80%94-Full-Time-Game-Dev-Podcast-Ep.-027</loc>
+    <lastmod>2024-12-03T06:14:15.709Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/How-to-Add-the-Bible-to-Obsidian</loc>
+    <lastmod>2024-12-06T22:09:20.516Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/How-to-Save-and-Load-in-Godot</loc>
+    <lastmod>2024-12-06T05:26:21.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/Logos-Bible-Software-vs-Obsidian-Which-is-best-for-connected-Bible-notes</loc>
+    <lastmod>2024-12-08T06:19:45.178Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/MODERN-WARFARE-How-Call-of-Duty-4-Changed-a-Genre-Forever</loc>
+    <lastmod>2024-12-07T05:49:40.647Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/My-Godot-Toolbox!-Assets,-Shaders,-Music,-SFX,-Models--and--More!</loc>
+    <lastmod>2024-11-25T00:00:39.055Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/Obsidian-Bible-Link-Plugin-Link-Multiple-Bible-Verses-With-Ease--biblestudy-biblekasten</loc>
+    <lastmod>2024-12-09T15:49:47.247Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/Using-Obsidian-Canvas-to-Create-Custom-Dashboards</loc>
+    <lastmod>2024-12-02T22:53:28.413Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/What-in-the-world-is-call_deferred</loc>
+    <lastmod>2024-12-04T20:21:59.460Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/What-it's-like-to-release-a-game-on-Steam</loc>
+    <lastmod>2024-12-06T16:50:19.477Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Read-Later/Clippings/</loc>
+    <lastmod>2024-12-09T06:05:04.647Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/AI/AI-Disruption/Will-AI-obsolete-all-software-engineering-jobs</loc>
     <lastmod>2024-08-09T03:12:51.869Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/AI/AI-Tools-I-Like</loc>
-    <lastmod>2024-08-09T21:49:23.592Z</lastmod>
+    <lastmod>2024-12-08T20:34:34.605Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/AI/Agents/</loc>
     <lastmod>2024-08-09T03:12:51.871Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Creativity</loc>
-    <lastmod>2024-08-10T05:20:54.025Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.908Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Design/Design-Philosophies/Progressive-Disclosure-of-Information</loc>
     <lastmod>2024-08-09T03:12:51.871Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Design/</loc>
-    <lastmod>2024-08-09T03:12:51.871Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.778Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Dreams/Responsive-Text</loc>
-    <lastmod>2024-08-10T05:20:54.059Z</lastmod>
+    <lastmod>2024-12-08T20:34:34.608Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Dreams/</loc>
     <lastmod>2024-04-11T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Email/</loc>
-    <lastmod>2024-08-09T21:49:23.618Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.805Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Failure/Spectacular-Failures</loc>
-    <lastmod>2024-08-09T21:49:23.592Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.785Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Feelings/Loneliness/Index</loc>
     <lastmod>2024-08-09T03:12:51.871Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Focus</loc>
-    <lastmod>2024-08-10T05:20:54.025Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.910Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/GraphViz</loc>
+    <lastmod>2024-12-12T23:49:42.911Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/1984</loc>
+    <lastmod>2024-08-17T01:55:17.979Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/Audiobooks/Owning-Audiobooks</loc>
+    <lastmod>2024-11-30T16:21:48.282Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/Audiobooks/</loc>
+    <lastmod>2024-11-30T16:14:46.905Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Books/Cracking-the-Coding-Interview</loc>
-    <lastmod>2024-08-15T15:21:45.775Z</lastmod>
+    <lastmod>2024-08-15T15:56:30.990Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/Elon-Musk-(Book)</loc>
+    <lastmod>2024-08-17T01:56:01.858Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/The-Church-by-Jeffrey-Johnson</loc>
+    <lastmod>2024-08-17T02:54:20.894Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Books/The-Code-Book</loc>
-    <lastmod>2024-08-09T03:12:51.872Z</lastmod>
+    <lastmod>2024-08-15T15:12:12.058Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Books/The-Laws-of-Creativity</loc>
-    <lastmod>2024-08-09T03:12:51.872Z</lastmod>
+    <lastmod>2024-12-04T15:26:16.211Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/The-Righteous-Mind</loc>
+    <lastmod>2024-12-12T20:44:48.059Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Books/The-Sunlit-Man</loc>
-    <lastmod>2024-08-09T03:12:51.872Z</lastmod>
+    <lastmod>2024-11-06T00:49:38.595Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/The-Unseen-Realm</loc>
+    <lastmod>2024-08-17T01:56:33.210Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Books/What-about-Evil</loc>
+    <lastmod>2024-11-23T03:22:58.062Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Courses/</loc>
     <lastmod>2024-08-09T03:12:51.874Z</lastmod>
@@ -3695,11 +3917,23 @@
     <loc>https://dandylyons.github.io/Topics/Inputs/Movies/</loc>
     <lastmod>2024-04-05T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Music/Paul-Zach/God-is-the-Friend-of-Silence/</loc>
+    <lastmod>2024-12-08T23:27:39.648Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Music/Paul-Zach/</loc>
+    <lastmod>2024-12-08T23:25:02.226Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Podcasts/Acquired/Acquired-podcast---Microsoft</loc>
     <lastmod>2024-04-22T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Podcasts/Acquired/</loc>
     <lastmod>2024-08-09T03:12:51.875Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Podcasts/Answer-the-Call/172---How-to-Land-Interviews-WITHOUT-Applying-Online</loc>
+    <lastmod>2024-08-27T15:13:20.505Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Podcasts/Answer-the-Call/175---What-to-do-INSTEAD-of-Applying-to-Jobs-Online</loc>
+    <lastmod>2024-08-27T15:26:12.134Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/Podcasts/AppStories/Are-We-Entering-a-Post-App-World</loc>
     <lastmod>2024-08-09T03:12:51.875Z</lastmod>
@@ -3734,11 +3968,17 @@
     <loc>https://dandylyons.github.io/Topics/Inputs/Shows/Battlestar-Galactica/</loc>
     <lastmod>2024-08-09T03:12:51.875Z</lastmod>
   </url><url>
-    <loc>https://dandylyons.github.io/Topics/Inputs/Videogames/Tears-of-the-Kingdom</loc>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Video-Games/Spelunky</loc>
+    <lastmod>2024-12-10T18:54:47.234Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Video-Games/Tears-of-the-Kingdom</loc>
     <lastmod>2024-08-09T03:12:51.875Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Inputs/Video-Games/</loc>
+    <lastmod>2024-12-03T21:10:16.394Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Inputs/</loc>
-    <lastmod>2024-08-10T05:20:54.062Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.809Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Language/Greek/Biblical/Vocab/%CE%9C%CE%B1%CE%BA%CE%AC%CF%81%CE%B9%CE%BF%CE%B9</loc>
     <lastmod>2024-08-09T03:12:51.875Z</lastmod>
@@ -3759,31 +3999,49 @@
     <lastmod>2024-08-09T03:12:51.877Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Learning/Digital-Garden</loc>
-    <lastmod>2024-08-09T20:21:54.792Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.779Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Learning/Learn-in-Public</loc>
-    <lastmod>2024-08-09T03:12:51.877Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.779Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Learning/Second-Brain</loc>
-    <lastmod>2024-08-09T03:12:51.877Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.779Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Marketing/Brand-Names</loc>
     <lastmod>2024-04-11T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Marketing/My-Views-on-Branding</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.799Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Music-Business/Music-Publishing-Identifiers</loc>
+    <lastmod>2024-12-08T00:43:28.786Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Music-Business/Music-Publishing/Common-Works-Registration</loc>
+    <lastmod>2024-12-13T00:04:14.293Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Music-Business/Music-Publishing/Royalty-Collection/Mechanical-Licenses/TheMLC/Catalog-Transfer-Process-at-TheMLC</loc>
+    <lastmod>2024-12-13T00:02:32.142Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Music-Business/Music-Publishing/Royalty-Collection/Mechanical-Licenses/TheMLC/bulk-registration-in-TheMLC</loc>
+    <lastmod>2024-12-09T17:15:54.053Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Music-Business/Music-Publishing/Royalty-Collection/Mechanical-Licenses/TheMLC/</loc>
+    <lastmod>2024-12-13T00:06:30.326Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Music-Business/Music-Publishing/</loc>
+    <lastmod>2024-12-06T18:34:27.308Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/Charlie-Munger</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/Elon-Musk</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.793Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/James-Baldwin</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.789Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/James-Clear</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.788Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/Johnny-Harris/</loc>
     <lastmod>2024-08-09T03:12:51.878Z</lastmod>
@@ -3792,22 +4050,64 @@
     <lastmod>2024-04-05T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/Steve-Jobs</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.788Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/People/</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.795Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Philosophy/secularism</loc>
+    <lastmod>2024-12-08T00:43:28.786Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/2024-HireReady/2024-09-05-5-Resume-Improvements-in-Less-Than-5-Minutes</loc>
+    <lastmod>2024-10-06T16:34:04.296Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/2024-HireReady/2024-09-05-HireReady-Keynote---1-Million-Job-Applications</loc>
+    <lastmod>2024-09-05T16:00:27.197Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/2024-HireReady/2024-09-05-HireReady-LinkedIn-Profile-Workshop---Make-Your-Branding-Sing</loc>
+    <lastmod>2024-09-18T01:02:53.625Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/2024-HireReady/2024-09-05-HireReady-Workshop</loc>
+    <lastmod>2024-09-07T21:42:00.680Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/2024-HireReady/2024-09-05-Ignite-Your-Network---Sparking-Connections-for-Career-Success-Using-Design-Thinking</loc>
+    <lastmod>2024-09-05T19:45:21.947Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/2024-HireReady/2024-09-05-Interview-Prep-Workshop</loc>
+    <lastmod>2024-09-05T18:48:16.936Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Job-Search/</loc>
+    <lastmod>2024-09-07T23:04:36.335Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/LinkedIn/Video---Top-5-LinkedIn-Profile-Tips!</loc>
+    <lastmod>2024-09-07T23:41:05.091Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/LinkedIn/</loc>
+    <lastmod>2024-09-18T01:00:18.780Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Resumes/Video---Jeff-Su---Finding-Metrics-for-Your-Resume</loc>
+    <lastmod>2024-09-07T23:50:01.046Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Professional-Development/Resumes/</loc>
+    <lastmod>2024-09-05T15:39:56.914Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Professional-Development/</loc>
     <lastmod>2024-08-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Releasing/Why-release</loc>
-    <lastmod>2024-08-09T03:12:51.878Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.805Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Releasing/</loc>
-    <lastmod>2024-08-09T20:21:54.838Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.805Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Algorithms/Big-O</loc>
-    <lastmod>2024-08-15T15:25:01.604Z</lastmod>
+    <lastmod>2024-09-15T00:29:14.553Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Algorithms/Binary-Search</loc>
+    <lastmod>2024-09-15T04:01:13.398Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Algorithms/</loc>
+    <lastmod>2024-09-24T03:26:18.855Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/App-Extensions-on-Apple-Platforms</loc>
     <lastmod>2024-08-09T03:12:51.880Z</lastmod>
@@ -3825,7 +4125,7 @@
     <lastmod>2024-08-09T03:12:51.880Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/App-Store/Releasing-Apps-in-the-App-Store</loc>
-    <lastmod>2024-08-09T03:12:51.880Z</lastmod>
+    <lastmod>2024-09-01T14:09:40.282Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/App-Store/RevenueCat/Checking-Subscription-Status-in-RevenueCat</loc>
     <lastmod>2024-08-09T03:12:51.880Z</lastmod>
@@ -3864,7 +4164,7 @@
     <lastmod>2024-08-09T03:12:51.881Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/SwiftUI/Layout-protocol-in-SwiftUI</loc>
-    <lastmod>2024-08-09T03:12:51.881Z</lastmod>
+    <lastmod>2024-10-04T21:59:02.424Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/SwiftUI/List-in-SwiftUI</loc>
     <lastmod>2024-08-09T03:12:51.881Z</lastmod>
@@ -3881,6 +4181,9 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/SwiftUI/SwiftUI-%3C-%3E-UIKit</loc>
     <lastmod>2024-08-09T03:12:51.869Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/SwiftUI/animation/</loc>
+    <lastmod>2024-08-24T16:55:45.224Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/SwiftUI/</loc>
     <lastmod>2024-08-09T03:12:51.881Z</lastmod>
   </url><url>
@@ -3891,12 +4194,9 @@
     <lastmod>2024-08-09T03:12:51.881Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/Tech/SwiftData/</loc>
-    <lastmod>2024-08-09T03:12:51.881Z</lastmod>
+    <lastmod>2024-08-27T13:42:06.950Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/Tech/</loc>
-    <lastmod>2024-08-09T03:12:51.881Z</lastmod>
-  </url><url>
-    <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/TipKit</loc>
     <lastmod>2024-08-09T03:12:51.881Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/UIKit/AutoLayout-in-UIKit</loc>
@@ -3962,20 +4262,44 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/ads-in-iOS-Development</loc>
     <lastmod>2024-08-09T03:12:51.884Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/</loc>
+    <lastmod>2024-08-26T14:55:19.305Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/macOS-App-Development</loc>
     <lastmod>2024-08-09T03:12:51.884Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Apple-Platforms/modularization-in-Apple-Development</loc>
     <lastmod>2024-08-09T03:12:51.884Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Benchmarking/blackholes-in-Benchmarking</loc>
+    <lastmod>2024-09-10T02:47:07.338Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Bootstrapping</loc>
-    <lastmod>2024-08-09T03:12:51.884Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.171Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Bug-Reporting</loc>
-    <lastmod>2024-08-09T03:12:51.884Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.171Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Configuration-Languages/Pkl</loc>
+    <lastmod>2024-11-13T23:56:32.696Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Configuration-Languages/TOML</loc>
+    <lastmod>2024-11-14T16:57:06.132Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Configuration-Languages/</loc>
+    <lastmod>2024-11-13T23:55:48.898Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Cross-Platform/React-Native/Ignite-in-React-Native</loc>
+    <lastmod>2024-09-11T01:12:34.691Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Cross-Platform/React-Native/MobX-State-Tree</loc>
+    <lastmod>2024-09-11T02:35:34.688Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Cross-Platform/React-Native/SwiftUI-in-React-Native</loc>
+    <lastmod>2024-09-10T19:29:43.706Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Cross-Platform/React-Native/</loc>
-    <lastmod>2024-08-09T03:12:51.884Z</lastmod>
+    <lastmod>2024-09-18T03:44:49.805Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Cryptography/Ciphers/The-One-Time-Pad</loc>
     <lastmod>2024-08-09T03:12:51.884Z</lastmod>
@@ -4007,8 +4331,17 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Cryptography/</loc>
     <lastmod>2024-08-09T03:12:51.885Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/DSA/Leetcode</loc>
+    <lastmod>2024-09-15T00:26:19.747Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/DSA/</loc>
+    <lastmod>2024-09-14T23:47:13.710Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Data-Structures/Hashtable</loc>
+    <lastmod>2024-09-15T00:17:18.983Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Data-Structures/</loc>
-    <lastmod>2024-08-09T03:12:51.885Z</lastmod>
+    <lastmod>2024-09-14T23:39:01.017Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Databases/Relational-Databases/SQL/</loc>
     <lastmod>2024-08-09T03:12:51.887Z</lastmod>
@@ -4055,20 +4388,209 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/GUI/</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Digital-Distribution-Platforms/Steam/</loc>
+    <lastmod>2024-11-19T18:34:28.921Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Digital-Distribution-Platforms/</loc>
+    <lastmod>2024-12-01T17:58:30.904Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/2D-coordinate-system-in-Godot</loc>
+    <lastmod>2024-11-29T20:28:20.994Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Animation-in-Godot</loc>
+    <lastmod>2024-11-19T17:56:06.851Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Asset-Library/controller-icons-in-Godot</loc>
+    <lastmod>2024-12-06T17:02:30.526Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Dictionary-in-Godot</loc>
+    <lastmod>2024-11-30T00:44:37.056Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Feature-Tags</loc>
+    <lastmod>2024-11-14T18:10:26.880Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/GDExtension/The-.gdextension-file</loc>
+    <lastmod>2024-11-14T18:08:44.993Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/GDExtension/</loc>
+    <lastmod>2024-11-14T17:34:20.207Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Godot-Shading-Language</loc>
+    <lastmod>2024-11-19T18:00:12.451Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Hot-Reloading-in-Godot</loc>
+    <lastmod>2024-11-14T00:40:55.181Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Input-mapping-in-Godot</loc>
+    <lastmod>2024-11-20T23:18:00.773Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Keyboard-Shortcuts-in-Godot</loc>
+    <lastmod>2024-11-08T15:29:40.592Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Nodes/Area2D-in-Godot</loc>
+    <lastmod>2024-11-29T19:28:56.947Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Nodes/Node-Lifecycle-in-Godot</loc>
+    <lastmod>2024-12-10T02:14:42.818Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Nodes/</loc>
+    <lastmod>2024-12-05T01:11:54.759Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Nodes/ready-in-Godot</loc>
+    <lastmod>2024-12-05T01:11:21.615Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Scene-Tree</loc>
+    <lastmod>2024-11-19T20:19:48.009Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Tutorials/Create-Your-Own-Wordle-Game-in-Godot-4-with-GDScript---Step-by-Step-Complete-Tutorial</loc>
+    <lastmod>2024-11-11T01:22:50.368Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Tutorials/How-to-read-(and-write)-Godot's-Documentation</loc>
+    <lastmod>2024-11-10T15:51:47.786Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Tutorials/Input-Mapping-in-Godot---Godot-4-Tutorial</loc>
+    <lastmod>2024-11-09T22:46:43.526Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Tutorials/</loc>
+    <lastmod>2024-11-11T20:38:48.091Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/Variant</loc>
+    <lastmod>2024-11-19T16:54:09.446Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/%60call_deferred()%60-in-Godot</loc>
+    <lastmod>2024-12-05T01:30:30.571Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/anchors-in-Godot</loc>
+    <lastmod>2024-11-21T17:24:50.653Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/callables-in-Godot</loc>
+    <lastmod>2024-12-05T21:48:34.875Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/classes-in-Godot</loc>
+    <lastmod>2024-12-04T17:13:11.549Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/custom-2D-drawing-in-Godot</loc>
+    <lastmod>2024-11-21T18:47:00.769Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/documentation</loc>
+    <lastmod>2024-11-10T15:48:46.147Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/finite-state-machine-in-Godot</loc>
+    <lastmod>2024-11-27T04:01:25.519Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/</loc>
+    <lastmod>2024-12-04T17:06:11.766Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/layout-in-Godot</loc>
+    <lastmod>2024-11-11T21:50:13.937Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/resources-in-Godot</loc>
+    <lastmod>2024-11-30T21:35:36.503Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/scenes-in-Godot</loc>
+    <lastmod>2024-11-26T17:39:06.877Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/scripts-in-Godot</loc>
+    <lastmod>2024-11-05T19:13:45.288Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/shaders-in-Godot</loc>
+    <lastmod>2024-11-21T20:34:52.161Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/signals-in-Godot</loc>
+    <lastmod>2024-11-19T16:26:42.680Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/styleboxes-in-Godot</loc>
+    <lastmod>2024-11-11T19:50:16.707Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Game-Engines/Godot/tweens-in-Godot</loc>
+    <lastmod>2024-11-25T19:24:32.627Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Leaderboards/Quiver</loc>
+    <lastmod>2024-12-01T20:02:40.572Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Leaderboards/SilentWolf</loc>
+    <lastmod>2024-12-01T20:03:32.934Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Leaderboards/</loc>
+    <lastmod>2024-12-01T19:56:01.137Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/Word-Games</loc>
+    <lastmod>2024-11-27T16:37:47.839Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/dev-logs</loc>
+    <lastmod>2024-11-30T06:25:40.921Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Game-Development/</loc>
+    <lastmod>2024-11-23T15:52:53.482Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/IDEs/VS-Code/Debugging-in-VS-Code</loc>
+    <lastmod>2024-11-23T01:26:53.805Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/IDEs/</loc>
+    <lastmod>2024-11-23T01:17:25.581Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Indie-Development/</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Job-Search/</loc>
-    <lastmod>2024-08-15T15:43:37.697Z</lastmod>
+    <lastmod>2024-08-15T15:46:29.676Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Bourne-Shell</loc>
+    <lastmod>2024-11-26T16:19:16.211Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/@export-in-GDScript</loc>
+    <lastmod>2024-12-05T01:26:25.851Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/@tool-in-GDScript</loc>
+    <lastmod>2024-11-21T18:00:10.542Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/Array-in-GDScript</loc>
+    <lastmod>2024-11-30T18:45:43.453Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/NodePath</loc>
+    <lastmod>2024-11-19T18:48:36.010Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/Object-in-GDScript</loc>
+    <lastmod>2024-11-19T17:20:56.141Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/String-Interpolation-in-GDScript</loc>
+    <lastmod>2024-11-08T15:48:33.992Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/String-in-GDScript</loc>
+    <lastmod>2024-11-19T17:10:18.046Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/StringName</loc>
+    <lastmod>2024-11-19T17:14:37.930Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/</loc>
+    <lastmod>2024-11-08T15:42:25.831Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/match-in-GDScript</loc>
+    <lastmod>2024-12-04T20:51:41.634Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/naming-conventions-in-GDScript</loc>
+    <lastmod>2024-11-19T23:50:01.865Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/GDScript/primitive-types-in-GDScript</loc>
+    <lastmod>2024-11-19T17:01:34.321Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Mojo/</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Python/</loc>
+    <lastmod>2024-09-20T15:00:55.796Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Actors/</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/CLI-apps-in-Swift</loc>
+    <lastmod>2024-10-17T16:31:07.104Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/CharacterSet</loc>
+    <lastmod>2024-08-28T16:03:36.687Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Codable</loc>
-    <lastmod>2024-08-09T03:12:51.888Z</lastmod>
+    <lastmod>2024-08-29T17:49:45.109Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Concurrency/</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
@@ -4077,13 +4599,16 @@
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/DocC</loc>
-    <lastmod>2024-08-09T03:12:51.888Z</lastmod>
+    <lastmod>2024-08-22T13:17:49.466Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Foundation/AttributedString</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Foundation/Date</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Foundation/NSDataDetector</loc>
+    <lastmod>2024-09-02T16:46:02.908Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Helpful-Resources/Pointfree.co/2024-05-09-Point-Free-livestream</loc>
     <lastmod>2024-08-09T03:12:51.888Z</lastmod>
@@ -4100,6 +4625,9 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Helpful-Resources/Pointfree.co/TCA/</loc>
     <lastmod>2024-08-09T03:12:51.890Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Helpful-Resources/Pointfree.co/TCA/navigation-in-TCA</loc>
+    <lastmod>2024-08-28T16:05:04.221Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Helpful-Resources/Pointfree.co/</loc>
     <lastmod>2024-08-09T03:12:51.890Z</lastmod>
   </url><url>
@@ -4109,29 +4637,128 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Hot-Reloading-in-Swift</loc>
     <lastmod>2024-08-09T03:12:51.890Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/KeyPaths-in-Swift</loc>
+    <lastmod>2024-12-13T18:53:28.322Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Learn-Swift</loc>
     <lastmod>2024-08-09T03:12:51.890Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Numbers/</loc>
     <lastmod>2024-08-09T03:12:51.890Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Ownership-in-Swift</loc>
+    <lastmod>2024-11-17T01:46:32.907Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Regex/Regex-literals-in-Swift</loc>
+    <lastmod>2024-08-30T20:43:00.989Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Regex/</loc>
+    <lastmod>2024-09-01T02:31:08.519Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Regex/runtime-construction-in-Swift-Regex</loc>
+    <lastmod>2024-08-30T20:38:45.217Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Regex/string-processing-algorithms-in-Swift-Regex</loc>
+    <lastmod>2024-08-29T23:21:22.049Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Sendable</loc>
-    <lastmod>2024-08-09T03:12:51.890Z</lastmod>
+    <lastmod>2024-09-01T22:31:18.467Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Sequences-in-Swift</loc>
+    <lastmod>2024-09-17T00:59:33.931Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/String-in-Swift</loc>
     <lastmod>2024-08-09T03:12:51.890Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-6/Migrating-from-Swift-5-to-6</loc>
+    <lastmod>2024-11-18T18:35:16.706Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-6/</loc>
-    <lastmod>2024-08-09T03:12:51.891Z</lastmod>
+    <lastmod>2024-08-27T13:53:48.507Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-Cloud</loc>
+    <lastmod>2024-09-17T03:29:00.428Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-Package-Manager</loc>
-    <lastmod>2024-08-09T03:12:51.891Z</lastmod>
+    <lastmod>2024-08-28T16:15:12.664Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-Playgrounds-(app)</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-on-Linux/</loc>
+    <lastmod>2024-10-22T18:49:30.822Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-on-Windows</loc>
+    <lastmod>2024-11-08T16:22:42.213Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Swift-toolchain/swift-demangle</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/SwiftGodotKit</loc>
+    <lastmod>2024-11-13T22:53:38.426Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Debugging/Debugging-SwiftGodot-Using-Xcode</loc>
+    <lastmod>2024-11-14T23:30:03.755Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Debugging/</loc>
+    <lastmod>2024-11-14T23:26:10.736Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Hot-Reloading-in-SwiftGodot</loc>
+    <lastmod>2024-11-14T00:41:12.112Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Referencing-Nodes-from-your-Scene</loc>
+    <lastmod>2024-11-16T19:51:30.834Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Running-Godot-Engine-From-within-Swift-Code</loc>
+    <lastmod>2024-11-13T22:54:58.795Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Running-Swift-Code-in-the-Godot-Editor</loc>
+    <lastmod>2024-11-16T01:24:38.059Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Setting-up-your-SwiftGodot-GDExtension</loc>
+    <lastmod>2024-11-14T16:57:52.624Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Using-Custom-Swift-Types-within-Godot-Engine</loc>
+    <lastmod>2024-11-14T23:15:14.332Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Using-SwiftGodot-with-Swift-6-compiler</loc>
+    <lastmod>2024-11-18T19:26:04.368Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Use-Cases/Using-SwiftGodot-with-Xcode</loc>
+    <lastmod>2024-11-13T23:51:43.066Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/Variants-in-SwiftGodot</loc>
+    <lastmod>2024-11-20T16:06:51.108Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/classes/SceneTree-class</loc>
+    <lastmod>2024-11-19T20:16:33.694Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/</loc>
+    <lastmod>2024-11-16T19:39:51.539Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/macros/@Callable-macro</loc>
+    <lastmod>2024-12-05T19:09:30.703Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/macros/@SceneTree-macro</loc>
+    <lastmod>2024-11-16T20:01:35.295Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/macros/</loc>
+    <lastmod>2024-11-16T19:47:16.818Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/property-wrappers/@BindNode-property-wrapper</loc>
+    <lastmod>2024-11-16T19:51:27.242Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftGodot/property-wrappers/</loc>
+    <lastmod>2024-11-16T19:48:28.200Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/SwiftWasm/</loc>
+    <lastmod>2024-08-21T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Types/Video---Type-Driven-Design-with-Swift</loc>
+    <lastmod>2024-09-17T04:30:28.026Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Types/</loc>
+    <lastmod>2024-09-17T03:36:48.572Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-JavaScript-in-Swift/JavaScriptCore</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
@@ -4139,17 +4766,47 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-JavaScript-in-Swift/</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
   </url><url>
-    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-Swift-in-VS-Code</loc>
-    <lastmod>2024-08-09T03:12:51.891Z</lastmod>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-Swift-in-VS-Code/Expanding-Swift-macros-in-VS-Code</loc>
+    <lastmod>2024-11-20T16:00:20.255Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-Swift-in-VS-Code/Swift-intellisense-in-VS-Code</loc>
+    <lastmod>2024-11-20T17:08:38.362Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-Swift-in-VS-Code/</loc>
+    <lastmod>2024-11-23T01:17:25.549Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Using-Swift-in-vim</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/Video---Building-Swift-Packages-in-VSCode---Tim-Condon---Swift-Heroes-2022</loc>
+    <lastmod>2024-10-04T18:40:43.321Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/async-await-in-Swift</loc>
+    <lastmod>2024-08-28T16:03:20.575Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/compile-times-in-Swift</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/copy-on-write-in-Swift</loc>
+    <lastmod>2024-10-26T19:02:31.690Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/formatting/swift-format</loc>
+    <lastmod>2024-11-09T22:00:00.453Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/jobs-in-Swift</loc>
+    <lastmod>2024-08-31T14:08:04.726Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/macros-in-Swift</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/multiplatform-in-Swift</loc>
+    <lastmod>2024-08-17T14:27:35.260Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/property-accessors-in-Swift/</loc>
+    <lastmod>2024-12-13T18:13:15.015Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/property-wrappers-in-Swift</loc>
+    <lastmod>2024-12-13T18:48:24.657Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/protocols-in-Swift</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
@@ -4157,8 +4814,32 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/ranges-in-swift</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/Video---Swift-Server-Side-Meetup-03</loc>
+    <lastmod>2024-10-03T19:06:38.823Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/Video---Swift-Server-Side-Meetup</loc>
+    <lastmod>2024-10-03T16:50:02.519Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/Video---The-Success-Story-of-Server-Side-Swift-at-Cultured-Code---Vojtech-Rylko</loc>
+    <lastmod>2024-10-03T18:16:03.161Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/</loc>
-    <lastmod>2024-08-09T03:12:51.891Z</lastmod>
+    <lastmod>2024-10-03T16:40:53.007Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/serverless/Swift-On-AWS-Lambda/</loc>
+    <lastmod>2024-10-04T23:36:03.746Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/serverless/Video---AWS-Lambda-VS-Code-Extension-Demo---2024-08</loc>
+    <lastmod>2024-10-04T21:27:58.520Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/serverless/Video---Swift,-Server-Side,-Serverless---S%C3%A9bastien-Stormacq</loc>
+    <lastmod>2024-10-05T01:03:03.020Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/server-side-Swift/serverless/</loc>
+    <lastmod>2024-10-04T21:27:09.924Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/subscripts-in-Swift</loc>
+    <lastmod>2024-12-13T18:50:42.673Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/templating-in-Swift/Stencil</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
@@ -4166,8 +4847,23 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/templating-in-Swift/</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/testing-in-Swift/</loc>
+    <lastmod>2024-08-30T16:28:18.441Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/testing-in-Swift/swift-testing</loc>
+    <lastmod>2024-09-17T01:34:41.742Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/bash</loc>
+    <lastmod>2024-11-26T16:16:51.867Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/</loc>
+    <lastmod>2024-11-16T16:05:07.923Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Regular-Expressions/</loc>
+    <lastmod>2024-08-30T17:18:57.198Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Shaders</loc>
-    <lastmod>2024-08-09T03:12:51.869Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.171Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Steganography/Image-embedded-steganography</loc>
     <lastmod>2024-08-09T03:12:51.891Z</lastmod>
@@ -4182,7 +4878,13 @@
     <lastmod>2024-08-09T03:12:51.892Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Telemetry-in-Software-Development</loc>
-    <lastmod>2024-08-09T03:12:51.892Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.171Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Web-Development/Hosting/Amazon-AWS/AWS-Lambda</loc>
+    <lastmod>2024-10-04T23:00:43.263Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Web-Development/Hosting/Netlify/</loc>
+    <lastmod>2024-12-07T21:34:13.079Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software-Development/Web-Development/Markdown</loc>
     <lastmod>2024-08-09T03:12:51.892Z</lastmod>
@@ -4196,71 +4898,137 @@
     <loc>https://dandylyons.github.io/Topics/Software-Development/Web-Development/Static-Site-Generation/Static-Site-Generation</loc>
     <lastmod>2024-03-15T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/Web-Development/Wasm/</loc>
+    <lastmod>2024-08-21T21:19:46.875Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/animation/Lottie</loc>
+    <lastmod>2024-08-24T16:52:30.207Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/animation/Rive</loc>
+    <lastmod>2024-08-24T16:52:34.427Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software-Development/vim/</loc>
+    <lastmod>2024-10-13T15:58:42.601Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Advanced-Canvas-Plugin</loc>
+    <lastmod>2024-12-02T22:53:24.217Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Advanced-URI</loc>
     <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/BRAT</loc>
+    <lastmod>2024-12-08T15:50:08.545Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Bible-Linker-plugin</loc>
+    <lastmod>2024-12-08T16:34:36.147Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Breadcrumbs</loc>
+    <lastmod>2024-12-08T15:53:06.539Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Canvas-Candy</loc>
+    <lastmod>2024-12-02T22:49:09.101Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Dataview</loc>
     <lastmod>2024-08-09T03:12:51.894Z</lastmod>
   </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Media-Notes</loc>
+    <lastmod>2024-09-07T23:44:06.967Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Permalink-Opener</loc>
+    <lastmod>2024-12-08T20:36:55.638Z</lastmod>
+  </url><url>
     <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Run</loc>
     <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Community/Semantic-Canvas</loc>
+    <lastmod>2024-12-08T20:23:34.006Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Core/Obsidian-Canvas-plugin</loc>
+    <lastmod>2024-12-02T22:54:40.371Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/Topics/Software/Obsidian/Plugins/Core/Obsidian-Web-Clipper</loc>
+    <lastmod>2024-12-07T21:10:01.496Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software/Obsidian/</loc>
     <lastmod>2024-04-05T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software/ffmpeg</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.785Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Software/</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.783Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Space/Cool-Rocket-Stuff-I-Found</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.803Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Success/Late-Successes</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.165Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Success/Success-is-not-a-straight-line</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.167Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Success/</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-11-11T19:44:32.167Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Web-Development/HTML/</loc>
     <lastmod>2024-08-09T03:12:51.894Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Web-Development/Hugo/</loc>
-    <lastmod>2024-08-09T03:12:51.726Z</lastmod>
+    <lastmod>2024-08-31T15:20:52.598Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Web-Development/metatags</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.799Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/Writing/McGuire-Brannon's-Writing-Process</loc>
-    <lastmod>2024-08-09T03:12:51.894Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.822Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/Topics/copium</loc>
-    <lastmod>2024-08-10T05:20:54.052Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.911Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/TypeScript</loc>
-    <lastmod>2024-08-10T05:20:54.023Z</lastmod>
+    <lastmod>2024-12-08T20:35:52.763Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/debugging-in-React-Native/Reactotron</loc>
+    <lastmod>2024-09-11T02:02:44.836Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/@dynamicMemberLookup-in-Swift</loc>
+    <lastmod>2024-12-13T18:46:27.861Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/ADHD</loc>
+    <lastmod>2024-12-08T20:34:34.694Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/App-Store-Small-Business-Program</loc>
-    <lastmod>2024-08-10T05:20:54.025Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.894Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/Displaying-Products-in-RevenueCat</loc>
-    <lastmod>2024-08-09T21:49:23.582Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.907Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/Dynamic-Programming</loc>
+    <lastmod>2024-12-08T20:34:34.701Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/Golang</loc>
+    <lastmod>2024-12-08T20:34:34.632Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/Google-Search-Console</loc>
+    <lastmod>2024-12-13T19:48:11.217Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/Matthew-Massicotte---The-Bleeding-Edge-of-Swift-Concurrency</loc>
-    <lastmod>2024-08-09T22:10:50.049Z</lastmod>
+    <lastmod>2024-12-08T20:34:34.688Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/Paul,-the-Apostle</loc>
+    <lastmod>2024-12-08T20:34:34.698Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/Paywalls-in-RevenueCat</loc>
-    <lastmod>2024-08-09T21:49:23.566Z</lastmod>
+    <lastmod>2024-12-08T20:34:34.697Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/Scripting-Languages</loc>
+    <lastmod>2024-12-04T20:10:23.528Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/StoreKit-configuration-files</loc>
-    <lastmod>2024-08-09T21:49:23.582Z</lastmod>
+    <lastmod>2024-12-12T23:49:42.907Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</loc>
-    <lastmod>2024-08-12T18:12:55.937Z</lastmod>
+    <lastmod>2024-12-04T20:10:23.496Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/TEMPLATES/Hebrew-Words-TEMPLATE</loc>
     <lastmod>2024-05-31T15:02:42.480Z</lastmod>
@@ -4298,12 +5066,30 @@
     <loc>https://dandylyons.github.io/gitignore/UNORGANIZED/</loc>
     <lastmod>2024-08-09T03:12:51.897Z</lastmod>
   </url><url>
-    <loc>https://dandylyons.github.io/gitignore/UNORGANIZED/vim</loc>
-    <lastmod>2024-08-09T03:12:51.898Z</lastmod>
+    <loc>https://dandylyons.github.io/gitignore/Video---Neetcode---Top-5-Dynamic-Programming-Patterns-for-Coding-Interviews---For-Beginners</loc>
+    <lastmod>2024-12-04T20:10:23.615Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/Video---Swift-Tools-for-Software-Crafting-2024</loc>
+    <lastmod>2024-12-08T00:43:28.759Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/gitignore/WWDC-Video-Notes-TEMPLATE</loc>
-    <lastmod>2024-08-09T02:32:43.203Z</lastmod>
+    <lastmod>2024-12-08T00:43:28.759Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/addiction</loc>
+    <lastmod>2024-12-08T00:43:28.769Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/dynamic-Swift</loc>
+    <lastmod>2024-12-13T18:44:09.638Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/preload-in-GDScript</loc>
+    <lastmod>2024-12-12T14:35:11.819Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/shebang</loc>
+    <lastmod>2024-12-08T00:43:28.769Z</lastmod>
+  </url><url>
+    <loc>https://dandylyons.github.io/gitignore/theodicy</loc>
+    <lastmod>2024-12-08T00:43:28.769Z</lastmod>
   </url><url>
     <loc>https://dandylyons.github.io/</loc>
-    <lastmod>2024-08-10T05:20:54.019Z</lastmod>
+    <lastmod>2024-12-08T20:35:52.753Z</lastmod>
   </url></urlset>

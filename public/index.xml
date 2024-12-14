@@ -6,65 +6,65 @@
       <description>Last 10 notes on Daniel&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Job Search in Software Development</title>
-    <link>https://dandylyons.github.io/Topics/Software-Development/Job-Search/</link>
-    <guid>https://dandylyons.github.io/Topics/Software-Development/Job-Search/</guid>
-    <description> Scope This section is dedicated to details about the job search endeavor that are unique to the field of software development.</description>
-    <pubDate>Thu, 15 Aug 2024 15:43:37 GMT</pubDate>
+    <title>Integrating Narrative into Game Design: A Portal Post-Mortem</title>
+    <link>https://dandylyons.github.io/Clippings/Integrating-Narrative-into-Game-Design-A-Portal-Post-Mortem</link>
+    <guid>https://dandylyons.github.io/Clippings/Integrating-Narrative-into-Game-Design-A-Portal-Post-Mortem</guid>
+    <description>In this 2008 GDC talk, Valve's Kim Swift and Erik Wolpaw expound upon the topic of integrating narrative into the game design of 2007's smash hit Portal ...</description>
+    <pubDate>Sat, 14 Dec 2024 16:52:06 GMT</pubDate>
   </item><item>
-    <title>Big O</title>
-    <link>https://dandylyons.github.io/Topics/Software-Development/Algorithms/Big-O</link>
-    <guid>https://dandylyons.github.io/Topics/Software-Development/Algorithms/Big-O</guid>
-    <description> Sources Cracking the Coding Interview .</description>
-    <pubDate>Thu, 15 Aug 2024 15:25:01 GMT</pubDate>
+    <title>Google Search Console</title>
+    <link>https://dandylyons.github.io/gitignore/Google-Search-Console</link>
+    <guid>https://dandylyons.github.io/gitignore/Google-Search-Console</guid>
+    <description>Why Aren’t My Pages Being Indexed? Page Indexing report - Search Console Help Index coverage status in Search Console - Google Search Console Training - YouTube ...</description>
+    <pubDate>Fri, 13 Dec 2024 19:48:11 GMT</pubDate>
   </item><item>
-    <title>Cracking the Coding Interview</title>
-    <link>https://dandylyons.github.io/Topics/Inputs/Books/Cracking-the-Coding-Interview</link>
-    <guid>https://dandylyons.github.io/Topics/Inputs/Books/Cracking-the-Coding-Interview</guid>
-    <description> Cracking the Coding Interview Notable Quotables Takeaways Big O .</description>
-    <pubDate>Thu, 15 Aug 2024 15:21:45 GMT</pubDate>
+    <title>KeyPaths in Swift</title>
+    <link>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/KeyPaths-in-Swift</link>
+    <guid>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/KeyPaths-in-Swift</guid>
+    <description>Sources The power of key paths in Swift | Swift by Sundell Using key paths to create convenience APIs | Swift by Sundell .</description>
+    <pubDate>Fri, 13 Dec 2024 18:53:28 GMT</pubDate>
   </item><item>
-    <title>Swift Concurrency Cheat Sheet</title>
-    <link>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</link>
-    <guid>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</guid>
-    <description>This page is intended to be a quick, glanceable view of Swift’s broad concurrency features. It holds a list of Code: language level keywords, protocols, attributes, types and methods.</description>
-    <pubDate>Mon, 12 Aug 2024 18:12:55 GMT</pubDate>
+    <title>subscripts in Swift</title>
+    <link>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/subscripts-in-Swift</link>
+    <guid>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/subscripts-in-Swift</guid>
+    <description>Sources The power of subscripts in Swift | Swift by Sundell .</description>
+    <pubDate>Fri, 13 Dec 2024 18:50:42 GMT</pubDate>
   </item><item>
-    <title>Proverbs 1</title>
-    <link>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-01</link>
-    <guid>https://dandylyons.github.io/Library/The-Bible-(WEB)/20---Proverbs/Prov-01</guid>
-    <description>Proverbs | Proverbs 02 → v1 The proverbs of Solomon, the son of David, king of Israel: v2 to know wisdom and instruction; to discern the words of understanding; v3 to receive instruction ...</description>
-    <pubDate>Mon, 12 Aug 2024 00:45:32 GMT</pubDate>
+    <title>property wrappers in Swift</title>
+    <link>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/property-wrappers-in-Swift</link>
+    <guid>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/property-wrappers-in-Swift</guid>
+    <description>Usage Declaration @propertyWrapper struct UserDefaultsBacked&lt;Value&gt; { let key: String var storage: UserDefaults = .standard var wrappedValue: Value? { get { storage.value(forKey: ...</description>
+    <pubDate>Fri, 13 Dec 2024 18:48:24 GMT</pubDate>
   </item><item>
-    <title>Using AI Effectively in your Job Hunt</title>
-    <link>https://dandylyons.github.io/Topics/Inputs/Presentations/Using-AI-Effectively-in-your-Job-Hunt</link>
-    <guid>https://dandylyons.github.io/Topics/Inputs/Presentations/Using-AI-Effectively-in-your-Job-Hunt</guid>
-    <description>Handout: Unique Value Proposition (UVP) You need to describe your unique value in many forms, the first being a very concise sentence that makes it crystal clear to whomever you are ...</description>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+    <title>@dynamicMemberLookup in Swift</title>
+    <link>https://dandylyons.github.io/gitignore/@dynamicMemberLookup-in-Swift</link>
+    <guid>https://dandylyons.github.io/gitignore/@dynamicMemberLookup-in-Swift</guid>
+    <description>Using KeyPaths Combining dynamic member lookup with key paths | Swift by Sundell See KeyPaths in Swift @dynamicMemberLookup class Reference&lt;Value&gt; { fileprivate(set) ...</description>
+    <pubDate>Fri, 13 Dec 2024 18:46:27 GMT</pubDate>
   </item><item>
-    <title>Professional Development</title>
-    <link>https://dandylyons.github.io/Topics/Professional-Development/</link>
-    <guid>https://dandylyons.github.io/Topics/Professional-Development/</guid>
-    <description>“Professional Development” refers to the process of gaining new skills and knowledge to improve job performance and career prospects. Sources Handout Unique Value Proposition (UVP) .</description>
-    <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+    <title>dynamic Swift</title>
+    <link>https://dandylyons.github.io/gitignore/dynamic-Swift</link>
+    <guid>https://dandylyons.github.io/gitignore/dynamic-Swift</guid>
+    <description> @dynamicMemberLookup in Swift .</description>
+    <pubDate>Fri, 13 Dec 2024 18:44:09 GMT</pubDate>
   </item><item>
-    <title>Hebrews 11</title>
-    <link>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-11</link>
-    <guid>https://dandylyons.github.io/Library/The-Bible-(WEB)/58---Hebrews/Heb-11</guid>
-    <description>← Hebrews 10 | Hebrews | Hebrews 12 → The Hall of Faith v1 Now faith is assurance of things hoped for, proof of things not seen. v2 For by this, the elders obtained testimony.</description>
-    <pubDate>Sun, 11 Aug 2024 18:32:33 GMT</pubDate>
+    <title>property accessors in Swift</title>
+    <link>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/property-accessors-in-Swift/</link>
+    <guid>https://dandylyons.github.io/Topics/Software-Development/Programming-Languages/Swift/property-accessors-in-Swift/</guid>
+    <description>get and set didSet and willSet The docs call these property observers. _read and _modify Yielding accessors in Swift See Ownership in Swift Modify Accessors - Evolution / Pitches - Swift Forums init accessor swift-evolution/proposals/0400-init-accessors.md at main struct Angle { var degrees: Double var radians: Double { @storageRestrictions(initializes: degrees) // 👈🏼 init(initialValue) { degrees = initialValue * 180 / .pi } get { degrees * .pi / 180 } set { degrees = newValue * 180 / .pi } } init(degrees: Double) { self.degrees = degrees // initializes &#039;self.degrees&#039; directly } init(radiansParam: Double) { self.radians = radiansParam // calls init accessor for &#039;self.radians&#039;, passing &#039;radiansParam&#039; as the argument } }.</description>
+    <pubDate>Fri, 13 Dec 2024 18:13:15 GMT</pubDate>
   </item><item>
-    <title>Exodus 2</title>
-    <link>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-02</link>
-    <guid>https://dandylyons.github.io/Library/The-Bible-(WEB)/02---Exodus/Exod-02</guid>
-    <description>← Exodus 01 | Exodus | Exodus 03 → v1 A man of the house of Levi went and took a daughter of Levi as his wife. v2 The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months.</description>
-    <pubDate>Sun, 11 Aug 2024 16:31:33 GMT</pubDate>
+    <title>The Marketing Money Talk: How to Budget Your Indie Game&#039;s Promotion Campaign</title>
+    <link>https://dandylyons.github.io/Clippings/The-Marketing-Money-Talk-How-to-Budget-Your-Indie-Game's-Promotion-Campaign</link>
+    <guid>https://dandylyons.github.io/Clippings/The-Marketing-Money-Talk-How-to-Budget-Your-Indie-Game's-Promotion-Campaign</guid>
+    <description>A lot of indie devs have to work with small budgets to promote their game, so it's key to spend every penny wisely! This GDC 2024 talk is all about how to wisely spend pennies on your promotional ...</description>
+    <pubDate>Fri, 13 Dec 2024 15:45:40 GMT</pubDate>
   </item><item>
-    <title>Inputs</title>
-    <link>https://dandylyons.github.io/Topics/Inputs/</link>
-    <guid>https://dandylyons.github.io/Topics/Inputs/</guid>
-    <description> It’s not the outcomes. It&#039;s the inputs. The person who consumes from better sources, gets better thoughts. The person who asks better questions, gets better answers.</description>
-    <pubDate>Sat, 10 Aug 2024 05:20:54 GMT</pubDate>
+    <title>What Makes a Game Cozy? ~ Design Doc</title>
+    <link>https://dandylyons.github.io/Clippings/What-Makes-a-Game-Cozy-~-Design-Doc</link>
+    <guid>https://dandylyons.github.io/Clippings/What-Makes-a-Game-Cozy-~-Design-Doc</guid>
+    <description>The first 1,000 people to use this link will get a 1 month free trial of Skillshare: skl.sh/designdoc06211Sometimes we all need a chill game to relax... ...</description>
+    <pubDate>Fri, 13 Dec 2024 15:44:29 GMT</pubDate>
   </item>
     </channel>
   </rss>
