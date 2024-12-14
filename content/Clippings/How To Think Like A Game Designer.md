@@ -29,40 +29,6 @@ Content warning: Combat, Blood, Fear
 
 === Sources and Resources ===
 
-- Sources
-
-[1] Game Design Deep Dive: The save system of Alien: Isolation | Game Developer
-https://www.gamedeveloper.com/design/game-design-deep-dive-the-save-system-of-i-alien-isolation-i-
-
-[2] MDA: A Formal Approach To Game Design And Game Research | Research Gate
-https://www.researchgate.net/publication/228884866_MDA_A_Formal_Approach_to_Game_Design_and_Game_Research
-
-[3] Dreams And Journeys: An Interview With Jenova Chen | CGMagazine
-https://www.cgmagonline.com/interviews/journeys-interview-with-jenova-chen/
-
-[4] The Design of Subnautica | GDC on YouTube
-https://www.youtube.com/watch?v=7R-x9NSBS2Y
-
-[5] Making of Resident Evil Village - The Internal Struggle | Resident Evil on YouTube
-https://www.youtube.com/watch?v=EIS-TW1XeNg
-
-[6] FTL Questions Answered | FTL Fandom
-https://ftl.fandom.com/wiki/User_blog:JAlbor/FTL_Questions_Answered
-
-[7] Dead Space 2: Jason Graves interview | The Telegraph
-https://www.telegraph.co.uk/technology/video-games/8264378/Dead-Space-2-Jason-Graves-interview.html
-
-[8] Blank Canvas Designing A New Era of Emotional Storytelling Through Games | Games for Change on YouTube
-https://www.youtube.com/watch?app=desktop&v=n_RKKuKvAvA
-
-[9] Embracing Push Forward Combat in DOOM | GDC
-https://www.youtube.com/watch?v=2KQNpQD8Ayo
-
-[10] Game Design Deep Dive: Rocket jumping in Rocket League | Game Developer
-https://www.gamedeveloper.com/design/game-design-deep-dive-rocket-jumping-in-i-rocket-league-i-
-
-[11] Checkpoint Design | Yacht Club Blog
-https://www.yachtclubgames.com/blog/check-point-design
 
 === Chapters ===
 
@@ -144,25 +110,57 @@ Hi-Fi Rush (2023)
 DOOM Eternal (2020)
 Shovel Knight (2014)
 
-=== Credits ===
-
-Music provided by Epidemic Sound - https://www.epidemicsound.com/referral/vtdu5y (Referral Link)
-
-Music by Lee Rosevere - https://leerosevere.bandcamp.com
-
-Music from DOOM OST, by Mick Gordon
-
-How To MASTER Air Roll Control In Rocket League | Thanovic
-https://www.youtube.com/watch?v=0_x2UQqQ2mY
-
-Rambo: First Blood Part II © Tri-Star Pictures
-
 === Subtitles ===
 
 Contribute translated subtitles - https://amara.org/videos/q564TTJbh8w1/
 
 ## My Notes
 
+- 00:00 - Intro
+- [01:25](https://www.youtube.com/watch?t=85&v=iIOIT3dCy5w) - What is MDA?
+	- Mechanics, dynamics and Aesthetics
+- 03:37 - Analysing with MDA
+- 05:04 - Fitting Your Vision
+- 08:28 - Other Considerations
+- 10:58 - Conclusion
+- 12:26 - Patreon Credits
+
 
 ## Transcript
 
+
+## Sources
+- Sources
+
+[1] Game Design Deep Dive: The save system of Alien: Isolation | Game Developer
+https://www.gamedeveloper.com/design/game-design-deep-dive-the-save-system-of-i-alien-isolation-i-
+
+[2] MDA: A Formal Approach To Game Design And Game Research | Research Gate
+https://www.researchgate.net/publication/228884866_MDA_A_Formal_Approach_to_Game_Design_and_Game_Research
+
+[3] Dreams And Journeys: An Interview With Jenova Chen | CGMagazine
+https://www.cgmagonline.com/interviews/journeys-interview-with-jenova-chen/
+
+[4] The Design of Subnautica | GDC on YouTube
+https://www.youtube.com/watch?v=7R-x9NSBS2Y
+
+[5] Making of Resident Evil Village - The Internal Struggle | Resident Evil on YouTube
+https://www.youtube.com/watch?v=EIS-TW1XeNg
+
+[6] FTL Questions Answered | FTL Fandom
+https://ftl.fandom.com/wiki/User_blog:JAlbor/FTL_Questions_Answered
+
+[7] Dead Space 2: Jason Graves interview | The Telegraph
+https://www.telegraph.co.uk/technology/video-games/8264378/Dead-Space-2-Jason-Graves-interview.html
+
+[8] Blank Canvas Designing A New Era of Emotional Storytelling Through Games | Games for Change on YouTube
+https://www.youtube.com/watch?app=desktop&v=n_RKKuKvAvA
+
+[9] Embracing Push Forward Combat in DOOM | GDC
+https://www.youtube.com/watch?v=2KQNpQD8Ayo
+
+[10] Game Design Deep Dive: Rocket jumping in Rocket League | Game Developer
+https://www.gamedeveloper.com/design/game-design-deep-dive-rocket-jumping-in-i-rocket-league-i-
+
+[11] Checkpoint Design | Yacht Club Blog
+https://www.yachtclubgames.com/blog/check-point-design
