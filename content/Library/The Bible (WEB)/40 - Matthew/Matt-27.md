@@ -107,6 +107,8 @@ They spat on him, and took the reed and struck him on the head.
 ###### v31 
 When they had mocked him, they took the robe off him, and put his clothes on him, and led him away to crucify him. 
 
+### The Crucifixion of Christ
+[[The Crucifixion of Christ]]
 ###### v32 
 As they came out, they found a man of Cyrene, Simon by name, and they compelled him to go with them, that he might carry his cross. 
 

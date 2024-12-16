@@ -70,6 +70,8 @@ They struck his head with a reed, and spat on him, and bowing their knees, did h
 ###### v20 
 When they had mocked him, they took the purple off him, and put his own garments on him. They led him out to crucify him. 
 
+### The Crucifixion of Christ
+[[The Crucifixion of Christ]]
 ###### v21 
 They compelled one passing by, coming from the country, Simon of Cyrene, the father of Alexander and Rufus, to go with them, that he might bear his cross. 
 

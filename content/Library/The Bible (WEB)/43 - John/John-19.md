@@ -58,6 +58,8 @@ They cried out, "Away with him! Away with him! Crucify him!" Pilate said to them
 ###### v16 
 So then he delivered him to them to be crucified. So they took Jesus and led him away. 
 
+### The Crucifixion of Christ 
+[[The Crucifixion of Christ]]
 ###### v17 
 He went out, bearing his cross, to the place called "The Place of a Skull", which is called in Hebrew, "Golgotha", 
 

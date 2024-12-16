@@ -84,7 +84,8 @@ Pilate decreed that what they asked for should be done.
 
 ###### v25 
 He released him who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus up to their will. 
-
+### The Crucifixion of Christ 
+[[The Crucifixion of Christ]]
 ###### v26 
 When they led him away, they grabbed one Simon of Cyrene, coming from the country, and laid on him the cross, to carry it after Jesus. 
 
