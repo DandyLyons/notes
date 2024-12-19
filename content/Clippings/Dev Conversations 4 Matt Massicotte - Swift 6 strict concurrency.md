@@ -56,7 +56,9 @@ You can find the full post at https://swifttoolkit.dev/posts/dc-matt-massicotte
 		- if your are **vending** an API: 
 			- e.g. annotating your API with `@preconcurrency`
 ### 16:35 Foundation Types and Apple's APIs
+- 20:00 : [[Combine]] was not annotated for the new concurrency system
 ### 24:58 Opting in to Strict Concurrency
+- 25:23 Swift 6 language mode vs co
 ### 26:13 More Resources
 
 

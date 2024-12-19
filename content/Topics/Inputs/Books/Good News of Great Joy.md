@@ -13,8 +13,6 @@ Status: 👀 Reading
 publish: true
 subjects:
   - "[[the advent of Christ]]"
-subjects:
-  - "[[the advent of Christ]]"
 ---
 %% 
 PDF: [[good-news-of-great-joy-en.pdf]] 

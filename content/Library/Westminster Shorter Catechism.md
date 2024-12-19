@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
+
 ## The text
+**Read for free at:** [Shorter Catechism: The Orthodox Presbyterian Church](https://www.opc.org/sc.html)
 ### Q: 1 _What is the chief end of man?_  
 **A:** Man’s chief end is to glorify God, and to enjoy him forever.
 
