@@ -4,12 +4,12 @@ title: 1 Kings 17
 aliases:
   - 1 Kings 17
 ---
-
+[[#My Notes]], [[#Commentary]]
 [[1 Kings-16|← 1 Kings 16]] | [[1 Kings]] | [[1 Kings-18|1 Kings 18 →]]
 ***
 
 
-
+### The Prophet Elijah 
 ###### v1 
 Elijah the Tishbite, who was one of the settlers of Gilead, said to Ahab, "As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word." 
 
@@ -87,6 +87,9 @@ The woman said to Elijah, "Now I know that you are a man of God, and that Yahweh
 
 ---
 ## My Notes
+
+## Commentary
+- [[Why Elijah Could No Longer Hear God]]
 
 ---
 ## Footnotes

@@ -4,7 +4,7 @@ title: 1 Kings 19
 aliases:
   - 1 Kings 19
 ---
-
+[[#My Notes]], [[#Commentary]]
 [[1 Kings-18|← 1 Kings 18]] | [[1 Kings]] | [[1 Kings-20|1 Kings 20 →]]
 ***
 
@@ -78,6 +78,9 @@ He returned from following him, and took the yoke of oxen, and killed them, and 
 
 ---
 ## My Notes
+
+## Commentary
+- [[Why Elijah Could No Longer Hear God]]
 
 ---
 ## Footnotes

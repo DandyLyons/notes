@@ -13,6 +13,8 @@ Status: 👀 Reading
 publish: true
 subjects:
   - "[[the advent of Christ]]"
+subjects:
+  - "[[the advent of Christ]]"
 ---
 %% 
 PDF: [[good-news-of-great-joy-en.pdf]] 
@@ -64,3 +66,13 @@ PDF: [[good-news-of-great-joy-en.pdf]]
 			- [[1 Cor-01#v18|1 Cor 1:18-21]][[1 Cor-01#v19|]][[1 Cor-01#v20|]][[1 Cor-01#v21|]] 
 	- humbled Himself, coming to earth as a man in order to make His work of salvation all the more apparent and great. 
 - The point that I'm trying to make 
+
+### Day 17: The Greatest Salvation Imaginable
+> [[Jer-31#v31|Jer 31.31]] "Behold, the days come," says Yahweh, "that ==I will make a new covenant== with the house of Israel, and with the house of Judah. 
+
+> This is our main problem at Christmas—and every other season. How shall we get right with a just and holy God? Nevertheless, God is merciful - [[good-news-of-great-joy-en.pdf#page=90&selection=8,0,10,28|good-news-of-great-joy-en, page 90]]
+
+>*How shall a holy and just God treat us sinners with so much kindness as to give us the greatest reality in the universe...?* ... The answer is that God put our sins on his Son, and judged them there, so that he could put them out of his mind and deal with us mercifully and remain just and holy at the same time. - [[good-news-of-great-joy-en.pdf#page=91&selection=10,0,13,17|good-news-of-great-joy-en, page 91]]
+
+#### My Prayer
+LORD, I confess, that your advent is certainly not the first thing I think of in Christmas season. My selfishness and sin cause me to hesitate to meditate on you. Deep down, I know that you are a just and holy God, and I feel the tension. How do I get right with you? I know full-well that I cannot get right with you on my own. I also know that I don't need to. I know that You have already done that work for me. And yet the habit of sin is so strong. I keep trying to bear my own sins and the weight is beyond me. I need reminder, yet again of your advent. I need the joy of knowing that You bear my weight. But that requires the disappointment of me admitting yet again, that I cannot bear this weight. Please humble me to see my inability, and lift me up to thank You for the promises that you have already offered, and fulfilled, and given! 

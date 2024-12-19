@@ -4,12 +4,9 @@ title: 1 Kings 16
 aliases:
   - 1 Kings 16
 ---
-
+[[#My Notes]], [[#Commentary]]
 [[1 Kings-15|← 1 Kings 15]] | [[1 Kings]] | [[1 Kings-17|1 Kings 17 →]]
 ***
-
-
-
 ###### v1 
 Yahweh's word came to Jehu the son of Hanani against Baasha, saying, 
 
@@ -91,8 +88,9 @@ For he walked in all the way of Jeroboam the son of Nebat, and in his sins with 
 ###### v27 
 Now the rest of the acts of Omri which he did, and his might that he showed, aren't they written in the book of the chronicles of the kings of Israel? 
 
+### King Ahab's Rule Starts
 ###### v28 
-So Omri slept with his fathers, and was buried in Samaria; and Ahab his son reigned in his place. 
+So Omri slept with his fathers, and was buried in Samaria; and [[Ahab]] his son reigned in his place. 
 
 ###### v29 
 In the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to reign over Israel. Ahab the son of Omri reigned over Israel in Samaria twenty-two years. 
@@ -101,7 +99,7 @@ In the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to re
 Ahab the son of Omri did that which was evil in Yahweh's sight above all that were before him. 
 
 ###### v31 
-As if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, he took as wife Jezebel the daughter of Ethbaal king of the Sidonians, and went and served Baal, and worshiped him. 
+As if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, he took as wife [[Jezebel]] the daughter of Ethbaal king of the Sidonians, and went and served Baal, and worshiped him. 
 
 ###### v32 
 He raised up an altar for Baal in the house of Baal, which he had built in Samaria. 
@@ -118,5 +116,7 @@ In his days Hiel the Bethelite built Jericho. He laid its foundation with the lo
 ---
 ## My Notes
 
+## Commentary
+- [[Why Elijah Could No Longer Hear God]]
 ---
-## Footnotes
+# Footnotes

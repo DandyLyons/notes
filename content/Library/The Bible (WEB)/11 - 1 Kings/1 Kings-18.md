@@ -4,7 +4,7 @@ title: 1 Kings 18
 aliases:
   - 1 Kings 18
 ---
-
+[[#My Notes]], [[#Commentary]]
 [[1 Kings-17|← 1 Kings 17]] | [[1 Kings]] | [[1 Kings-19|1 Kings 19 →]]
 ***
 
@@ -67,6 +67,7 @@ He answered, "I have not troubled Israel; but you, and your father's house, in t
 ###### v19 
 Now therefore send, and gather to me all Israel to Mount Carmel, and four hundred fifty of the prophets of Baal, and four hundred of the prophets of the Asherah, who eat at Jezebel's table." 
 
+### Elijah Challenges Baal on Mount Carmel 
 ###### v20 
 So Ahab sent to all the children of Israel, and gathered the prophets together to Mount Carmel. 
 
@@ -153,6 +154,7 @@ Yahweh's hand was on Elijah; and he tucked his cloak into his belt and ran befor
 
 ---
 ## My Notes
-
+## Commentary
+- [[Why Elijah Could No Longer Hear God]]
 ---
 ## Footnotes
