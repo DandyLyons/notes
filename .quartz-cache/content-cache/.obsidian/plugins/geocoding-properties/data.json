@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "address": {
+      "frontmatterKey": "address",
+      "enabled": true
+    },
+    "lat": {
+      "frontmatterKey": "lat.",
+      "enabled": false
+    },
+    "lng": {
+      "frontmatterKey": "long.",
+      "enabled": false
+    },
+    "location": {
+      "frontmatterKey": "coordinates",
+      "enabled": true
+    },
+    "map_link": {
+      "frontmatterKey": "map_url",
+      "enabled": true
+    }
+  },
+  "overrideExistingProperties": false,
+  "mapLinkProvider": "apple",
+  "apiProvider": "free-geocoding-api",
+  "apiKey": "659daaa3313c5182905224euj99f663"
+}

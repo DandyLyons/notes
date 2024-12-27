@@ -1,0 +1,1 @@
+[How to localize plurals with Localizable.stringsdict files in iOS](https://tanaschita.com/ios-plurals-localization-strictdict/) 

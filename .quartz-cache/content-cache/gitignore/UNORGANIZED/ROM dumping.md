@@ -1,0 +1,2 @@
+- https://dumping.guide/tools/hardware
+- https://dumping.guide/carts/nintendo/n64

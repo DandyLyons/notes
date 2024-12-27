@@ -1,0 +1,61 @@
+{
+  "callouts": {
+    "custom": [
+      "disambiguation"
+    ],
+    "settings": {
+      "disambiguation-callout": [
+        {
+          "changes": {
+            "icon": "lucide-circle-dot"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "92, 168, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "92, 168, 255"
+          }
+        }
+      ],
+      "disambiguation": [
+        {
+          "changes": {
+            "icon": "lucide-circle-dot",
+            "color": "147, 195, 251"
+          }
+        }
+      ],
+      "attention": [
+        {
+          "changes": {
+            "icon": "lucide-eye",
+            "color": "240, 232, 0"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "color": "244, 135, 11"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

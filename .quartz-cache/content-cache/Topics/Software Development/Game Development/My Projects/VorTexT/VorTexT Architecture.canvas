@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "200faefdf3a004c5",
+      "type": "text",
+      "text": "<u>Key: </u>\n🟧: Swift\n🟦: GDScript\n🟣→: signal",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 0,
+      "y": -80,
+      "width": 500,
+      "height": 140
+    },
+    {
+      "id": "6f05ea7dd3674180",
+      "type": "text",
+      "text": "# `ParentOfGDGridBoard` extends [[Node2D]] ",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 280,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "1dfe96f2d6a957fc",
+      "type": "text",
+      "text": "# `XYGridResource`: [[resources in Godot|Resource]] \n\n- key: Coordinate\n- value: ❓❓❓",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 630,
+      "width": 260,
+      "height": 180,
+      "color": "2"
+    },
+    {
+      "id": "935eba5e00771c4d",
+      "type": "text",
+      "text": "# `LetterModelResource`: [[resources in Godot|Resource]] \n\n- `character` ",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -660,
+      "y": 1040,
+      "width": 260,
+      "height": 160,
+      "color": "2"
+    },
+    {
+      "id": "5d893a568a39e154",
+      "type": "text",
+      "text": "# `GDGridBoard` extends [[Node2D]] \n\n## Responsible for\n1. styling the cells\n2. laying out the cells\n",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 0,
+      "y": 490,
+      "width": 240,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "1830dd162f2fcdbc",
+      "type": "text",
+      "text": "# GDGridBoardCell extends [[Node2D]] ",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 1160,
+      "width": 260,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "d4831e14be06dd73",
+      "type": "text",
+      "text": "# `SpecialTilesMap`: [[resources in Godot|Resource]]\n\nResponsible for keeping track of the XY coords for the special tiles (e.g. \"Double Letter\", \"Triple Word\" etc.)",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -880,
+      "y": 300,
+      "width": 360,
+      "height": 160
+    },
+    {
+      "id": "470e9c3caffaeb47",
+      "type": "text",
+      "text": "❓: Should the XY grid hold: \n1. ❌: the Godot nodes directly\n2. a unique id pointing to:\n\t1. the Godot node\n\t2. the model data of the cell\n3. ❌ the XY Coordinate",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": 700,
+      "width": 420,
+      "height": 220,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "45f9bb060a87511c",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "5d893a568a39e154",
+      "fromSide": "bottom",
+      "toNode": "1830dd162f2fcdbc",
+      "toSide": "top",
+      "label": "child"
+    },
+    {
+      "id": "74a9ae9e8d992c0a",
+      "styleAttributes": {},
+      "fromNode": "5d893a568a39e154",
+      "fromSide": "top",
+      "toNode": "6f05ea7dd3674180",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cf5d4c01e43f8278",
+      "styleAttributes": {},
+      "fromNode": "5d893a568a39e154",
+      "fromSide": "left",
+      "toNode": "1dfe96f2d6a957fc",
+      "toSide": "top",
+      "label": "model"
+    },
+    {
+      "id": "a17c2bbc0e9ac7d3",
+      "styleAttributes": {},
+      "fromNode": "1830dd162f2fcdbc",
+      "fromSide": "left",
+      "toNode": "935eba5e00771c4d",
+      "toSide": "top",
+      "label": "model"
+    },
+    {
+      "id": "09c7c2f0cc97058a",
+      "styleAttributes": {},
+      "fromNode": "1dfe96f2d6a957fc",
+      "fromSide": "right",
+      "toNode": "5d893a568a39e154",
+      "toSide": "left",
+      "color": "6",
+      "label": "\"didChange\""
+    },
+    {
+      "id": "6cc660286b17da9a",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "1830dd162f2fcdbc",
+      "fromSide": "right",
+      "toNode": "5d893a568a39e154",
+      "toSide": "left",
+      "color": "6",
+      "label": "\"wasClicked\""
+    },
+    {
+      "id": "30b2711b18ffa218",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "5d893a568a39e154",
+      "fromSide": "left",
+      "toNode": "d4831e14be06dd73",
+      "toSide": "right",
+      "label": "model"
+    },
+    {
+      "id": "7349d03e14cdc572",
+      "styleAttributes": {},
+      "fromNode": "1dfe96f2d6a957fc",
+      "fromSide": "left",
+      "toNode": "470e9c3caffaeb47",
+      "toSide": "right",
+      "color": "1",
+      "label": "❓"
+    }
+  ],
+  "metadata": {}
+}

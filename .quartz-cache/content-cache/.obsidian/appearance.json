@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "translucency": true,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "ObsidianCanvas"
+  ],
+  "showViewHeader": true
+}

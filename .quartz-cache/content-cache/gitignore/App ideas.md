@@ -1,0 +1,5 @@
+- "Key Notes": turn any keynote talk audio into auto generated notes
+- a natural language image editor: 
+	- an LLM designed to only output actions into an app. 
+	- The app then exerts those actions onto an image
+	- Optionally, the app could also output a photoshop file so that the user can make finetuned adjustments afterwards
