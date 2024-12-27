@@ -35,7 +35,7 @@ rooted and built up in him, and established in the faith, even as you were taugh
 Be careful that you don't let anyone rob you through his philosophy and vain deceit, after the tradition of men, after the elements of the world, and not after Christ. 
 
 ###### v9 
-For in him all the fullness of the Deity dwells bodily, 
+For in him all the fullness of the Deity[^1] dwells bodily, 
 
 ###### v10 
 and in him you are made full, who is the head of all principality and power. 
@@ -86,4 +86,6 @@ These things indeed appear like wisdom in self-imposed worship, humility, and se
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Jesus is fully God and fully man. 

@@ -27,6 +27,12 @@ Recorded at SwiftLeeds 2024 by Max Desiatov
 
 ## My Notes
 
+- [[Topics/Software Development/Programming Languages/Swift/SwiftWasm/index|SwiftWasm]] 
 
+### Introduction to Wasm
+- [04:12](https://www.youtube.com/watch?t=252&v=mfrGe4e_fSs): Wasm is a stack machine
+
+### Wasm text format
+- [11:15](https://www.youtube.com/watch?t=675&v=mfrGe4e_fSs): 
 ## Transcript
 

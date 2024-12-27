@@ -20,7 +20,7 @@ By this you know the Spirit of God: every spirit who confesses that Jesus Christ
 and every spirit who doesn't confess that Jesus Christ has come in the flesh is not of God, and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already. 
 
 ###### v4 
-You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world. 
+You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world[^1]. 
 
 ###### v5 
 They are of the world. Therefore they speak of the world, and the world hears them. 
@@ -81,3 +81,5 @@ This commandment we have from him, that he who loves God should also love his br
 
 ---
 ## Footnotes
+
+[^1]: In context, it's quite clear that **"he who is in you"** is Jesus, and **"he who is in the world"** is the devil. 

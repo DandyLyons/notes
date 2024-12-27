@@ -9,3 +9,6 @@ aliases:
 
 ## Steam Keys
 - See [[Make Video Games#Keep 100% revenue with Steam Keys]] 
+
+## Further Reading
+- [ ] [Steam EXPERT teaches you Game Marketing for SUCCESS! - YouTube](https://www.youtube.com/watch?v=uPOSZ_jhCaw) 

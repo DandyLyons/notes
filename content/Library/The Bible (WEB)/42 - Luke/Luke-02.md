@@ -38,7 +38,7 @@ There were shepherds in the same country staying in the field, and keeping watch
 Behold, an angel of the Lord stood by them, and the glory of the Lord shone around them, and they were terrified. 
 
 ###### v10 
-The angel said to them, "Don't be afraid, for behold, I bring you good news of great joy which will be to all the people. 
+The angel said to them, "Don't be afraid, for behold, I bring you good news of great joy[^1] which will be to all the people. 
 
 ###### v11 
 For there is born to you today, in David's city, a Savior, who is Christ the Lord. 
@@ -173,4 +173,6 @@ And Jesus increased in wisdom and stature, and in favor with God and men.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: - see devotional [[Good News of Great Joy]]

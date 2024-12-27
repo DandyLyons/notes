@@ -13,6 +13,7 @@ Status: 👀 Reading
 publish: true
 subjects:
   - "[[the advent of Christ]]"
+PDF: "[[good-news-of-great-joy-en.pdf]]"
 ---
 %% 
 PDF: [[good-news-of-great-joy-en.pdf]] 
@@ -74,3 +75,41 @@ PDF: [[good-news-of-great-joy-en.pdf]]
 
 #### My Prayer
 LORD, I confess, that your advent is certainly not the first thing I think of in Christmas season. My selfishness and sin cause me to hesitate to meditate on you. Deep down, I know that you are a just and holy God, and I feel the tension. How do I get right with you? I know full-well that I cannot get right with you on my own. I also know that I don't need to. I know that You have already done that work for me. And yet the habit of sin is so strong. I keep trying to bear my own sins and the weight is beyond me. I need reminder, yet again of your advent. I need the joy of knowing that You bear my weight. But that requires the disappointment of me admitting yet again, that I cannot bear this weight. Please humble me to see my inability, and lift me up to thank You for the promises that you have already offered, and fulfilled, and given! 
+
+## Day 22: That You May Believe
+
+> [[John-20#v30|John 20:30-31]] Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;  but these are written, that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name. [[John-20#v31|]]
+
+Why did Christ come to Earth? Why did God become man? Why not stay up in Heaven, away from sin, and pain, and death? Thankfully, we do not have to guess or speculate. He said in His Word precisely why: so that we may believe that Jesus is  is the Christ, and that believing in Him, we would have **life** in His name. 
+
+He came so that we would believe, and so that we would have life. 
+
+This implies that we don't believe, or rather that we **wouldn't** believe, unless He came. 
+
+It also implies that we don't have life. Of course, we do have life. But is this thing that we call life really living? We are doomed to inevitable death. We cheat and steal from our neighbors. What kind of life is that? 
+
+We desperately need life. True life. Everlasting life. And in order to have life, we need to believe in the One who gives us that life, Jesus Christ, the Son of God. 
+
+### Day 25: Three Gifts
+
+> [!NOTE] [[1 John-02#v1|1 John 2:1-2]]; [[1 John-03#v7|7-8]]
+>My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous.  And <u>he is the atoning sacrifice[^1] for our sins</u>, and not for ours only, but also for the whole world.  [[1 John-02#v2|]] ...
+> Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous.  He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed: <u>so that he might destroy the works of the devil</u>[^2].  [[1 John-03#v8|]]
+
+#### Gift 1: A Clear Purpose For Living
+- What is our <u>purpose</u>? What is [[The Meaning of Life]]? Our purpose can be summarized: 
+	- **in the negative**: *do not sin*
+	- **in the positive**: believe in His Son **and** love one anoher
+		- [[1 John-03#v23|1 John 3.23]] This is his commandment, that <u>we should believe in the name of his Son, Jesus Christ, and love one another</u>, even as he commanded.  
+		- Notice that <u>two</u> things (believe in His name, and love one another) are started as <u>one</u> commandment. They are inseperable. You can't do one without the other. 
+
+
+#### Gift 2: Hope That Other Failures Will Be Forgiven
+- >**We make progress in overcoming our sin when we have [[Hope]] that our failures will be forgiven. If you don't have hope that God will forgive your failures, when you start fighting sin, you give up.** 
+
+#### Gift 3: Christ Will Help Us
+- >Christ will really *help* us in our fight. He really will help you. He is on your side, He didn't come to destroy sin because sin is fun. He came to destroy sin becaus it is fatal. 
+- [[1 John-04#v4|1 John 4.4]] You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world.  
+
+[^1]: i.e. He is the propitiation for our sins
+[^2]: i.e. Jesus was revealed as the Son of God <u>so that He would destroy the works of the devil</u> 
