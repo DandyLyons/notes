@@ -1,5 +1,0 @@
----
-publish: true
-aliases:
-  - humble
----

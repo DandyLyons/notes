@@ -1,6 +1,0 @@
-
-```calendar-nav
-```
-
-```calendar-timeline
-```

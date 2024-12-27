@@ -1,5 +1,0 @@
----
-publish: true
----
-- The deep means the sea:
-	- [[2 Cor-11#v25]] 

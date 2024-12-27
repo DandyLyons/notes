@@ -1,2 +1,0 @@
-- Excellence as a form of gratitude 
-	- Also rejecting excellence as a measure of inherent human worth 

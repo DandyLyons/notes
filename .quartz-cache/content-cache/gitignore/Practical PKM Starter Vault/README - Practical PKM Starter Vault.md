@@ -1,1 +1,0 @@
-This vault comes from [[Mike Schmitz]]. 

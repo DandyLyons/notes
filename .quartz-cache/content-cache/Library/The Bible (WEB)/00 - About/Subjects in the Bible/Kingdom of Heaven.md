@@ -1,1 +1,0 @@
-The *Kingdom of Heaven* is a phrase that is used throughout the Gospel of [[Matthew]]. 

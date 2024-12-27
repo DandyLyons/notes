@@ -1,4 +1,0 @@
----
-publish: true
----
-Use [[SwiftGodotKit]]. 
