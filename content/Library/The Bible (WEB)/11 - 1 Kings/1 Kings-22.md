@@ -26,7 +26,7 @@ He said to Jehoshaphat, "Will you go with me to battle to Ramoth Gilead?" Jehosh
 Jehoshaphat said to the king of Israel, "Please inquire first for Yahweh's word." 
 
 ###### v6 
-Then the king of Israel gathered the prophets together, about four hundred men, and said to them, "Should I go against Ramoth Gilead to battle, or should I refrain?" They said, "Go up; for the Lord will deliver it into the hand of the king." 
+Then the king of Israel gathered the prophets together, about four hundred men[^1], and said to them, "Should I go against Ramoth Gilead to battle, or should I refrain?" They said, "Go up; for the Lord will deliver it into the hand of the king." 
 
 ###### v7 
 But Jehoshaphat said, "Isn't there here a prophet of Yahweh, that we may inquire of him?" 
@@ -176,4 +176,5 @@ He served Baal and worshiped him, and provoked Yahweh, the God of Israel, to ang
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+[^1]: Jehoshaphat specifically asked for prophets of Yahweh. Ahab inquires of non-Yahweh prophets, probably Baal prophets. 

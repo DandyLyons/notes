@@ -11,7 +11,7 @@ aliases:
 
 ### The Prophet Elijah 
 ###### v1 
-Elijah the Tishbite, who was one of the settlers of Gilead, said to Ahab, "As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word." 
+[[Elijah ]] the Tishbite, who was one of the settlers of Gilead, said to Ahab, "As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word." 
 
 ###### v2 
 Then Yahweh's word came to him, saying, 

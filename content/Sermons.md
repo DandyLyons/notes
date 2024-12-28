@@ -1,0 +1,1 @@
+This note is DEPRECATED, and should be replaced with [[Library/The Bible (WEB)/My Notes/Sermon Notes/index|Sermon Notes]] 

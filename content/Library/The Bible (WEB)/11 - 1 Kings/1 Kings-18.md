@@ -54,7 +54,7 @@ Now you say, 'Go, tell your lord, "Behold, Elijah is here".' He will kill me."
 
 ###### v15 
 Elijah said, "As Yahweh of Armies lives, before whom I stand, I will surely show myself to him today." 
-
+## Elijah on Mount Carmel
 ###### v16 
 So Obadiah went to meet Ahab, and told him; and Ahab went to meet Elijah. 
 

@@ -12,6 +12,7 @@ Obsidian is probably one of my favorite apps ever. It's difficult to explain wha
 [[Second Brain]]. 
 [[Digital Autonomy]]. 
 [[Future Proofing]]. 
+[[File over app]]. 
 ### Linked Thinking
 [[Notion]]. 
 
