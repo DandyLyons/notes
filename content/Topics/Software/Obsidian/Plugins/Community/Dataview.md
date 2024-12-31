@@ -13,12 +13,6 @@ publish: true
 
 ![Beginner tutorial for Obsidian Dataview - YouTube](https://www.youtube.com/watch?v=G8eOF61wmzI)
 
-## Incoming Links
-Syntax for incoming links: 
-```
-LIST
-FROM [[#]]
-```
 
 ## Tutorials
 - [Beginner tutorial for Obsidian Dataview - YouTube](https://www.youtube.com/watch?v=G8eOF61wmzI)
@@ -46,3 +40,30 @@ A more restricted Query might look like this:
 ` ```dataview LIST FROM #poems WHERE author = "Edgar Allan Poe" ``` `
 
 which lists all files in your vault that have the tag `#poems` and a [field](https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/) named `author` with the value `Edgar Allan Poe`. This query would find our example page from above
+
+## Recipes
+### Incoming Links
+Syntax for incoming links: 
+```
+LIST
+FROM [[#]]
+```
+### Displaying Frontmatter From The Same File
+Scenario: We would like to display frontmatter from the same file. For example, suppose you are in a file with the following frontmatter: 
+
+```
+title: Romeo & Juliet
+author: William Shakespeare
+```
+
+Then add this to your dataview query: 
+```
+WHERE file.path = this.file.path
+```
+
+By default, Dataview will use the source `FROM ""`  so this will filter out everything except the current note. So the whole query should look like this: 
+
+```
+TABLE title, author
+WHERE file.path = this.file.path
+```

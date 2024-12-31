@@ -32,11 +32,27 @@ PDF: [[good-news-of-great-joy-en.pdf]]
 ## Notable Quotables
 > So the meaning of Christmas is not only that God replaces shadows with reality, but also that he takes the reality and makes it real to his people. He writes it on our hearts. He does not lay his Christmas gift of salvation and transformation under the tree, so to speak, for you to pick up in your own strength. He picks it up and puts it in your heart and in your mind and gives you the seal of assurance that you are a child of God - [[good-news-of-great-joy-en.pdf#page=79&selection=18,0,25,37|good-news-of-great-joy-en, page 79]]
 
+- The English word advent is from the Latin *adventus*, which means “coming.” The advent primarily in view each December is the **<u>first coming</u>** of Jesus two mil- lennia ago. But Jesus’s second coming gets drawn in as well, as the popular Christmas carol “Joy to the World” makes plain
+
 ## Takeaways
-- 
+- > Advent is for adoring Jesus. At least that’s our angle on it at Desiring God. - [[good-news-of-great-joy-en.pdf#page=10&selection=3,0,6,18|good-news-of-great-joy-en, page 10]]
+
 
 ---
 ## My Notes
+
+### Preface
+- > There’s no biblical mandate to observe Advent. It is optional—a tradition that devel- oped over the course of the church’s history as a time of preparation for Christmas Day. Many of us find observ- ing Advent to be spiritually challenging, enjoyable, and beneficial- [[good-news-of-great-joy-en.pdf#page=10&selection=10,27,15,10|good-news-of-great-joy-en, page 10]]
+
+### Introduction 
+[[John-17#v24|John 17.24]] Father, I desire that they also whom you have given me be with me where I am, that they may see my glory, which you have given me, for you loved me before the foundation of the world.  
+
+- **Jesus wants His people to be with Him** so that we can see and savor His glory 
+	- Why? Not because He’s lonely (He’s not). **It’s for our benefit**. 
+	- Don’t just see His glory. Savor it. Adore Him. 
+	- > [Jesus] doesn’t mean that we merely imitate the love of the Father for the Son. He means **the Father’s very love becomes our love for the Son** - [[good-news-of-great-joy-en.pdf#page=18&selection=22,32,28,51|good-news-of-great-joy-en, page 18]]
+
+
 ### Day 14: Making It Real For His People
 - [[good-news-of-great-joy-en.pdf#page=78&selection=1,0,1,6|good-news-of-great-joy-en, page 78]] 
 - [[Heb-08#v6|Hebrews 8:6]]: Christ is the mediator of the new covenant. *What does that mean?*

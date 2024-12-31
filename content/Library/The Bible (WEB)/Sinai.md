@@ -22,7 +22,7 @@ Mountain of God is also mentioned in:
 
 ## Horeb
 Here is evidence that Horeb and Sinai are probably the same thing: 
-- In [[Acts 7.30]] Moses is described as seeing Yahweh in the [[moses and the burning bush|burning bush]], at **Mount Sinai** yet [[Exodus 3.1]] describes Moses seeing the burning bush at **Horeb**. Which makes me think that **Horeb might be another name for Sinai.** 
+- In [[Acts-07#v30|Acts 7.30]] Moses is described as seeing Yahweh in the [[moses and the burning bush|burning bush]], at **Mount Sinai** yet [[Exodus 3.1]] describes Moses seeing the burning bush at **Horeb**. Which makes me think that **Horeb might be another name for Sinai.** 
 - [[Exodus 3.12]]: God says that you (the people of Israel) shall worship God at this mountain (Horeb). God fulfills this when He takes them to Sinai and they worship Him at Sinai. 
 - [[Exodus]] describes God giving the [[Ten Commandments]] to [[Moses]] at **Mount Sinai**, while [[Deuteronomy]] describes the same event as happening at **Mount Horeb**. 
 

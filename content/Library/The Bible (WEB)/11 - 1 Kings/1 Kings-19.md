@@ -31,6 +31,7 @@ He looked, and behold, there was at his head a cake baked on the coals, and a ja
 ###### v7 
 Yahweh's angel came again the second time, and touched him, and said, "Arise and eat, because the journey is too great for you." 
 
+### Elijah on Mount Sinai 
 ###### v8 
 He arose, and ate and drank, and went in the strength of that food forty days and forty nights to [[Sinai|Horeb]], God's Mountain. 
 
@@ -44,8 +45,7 @@ He said, "I have been very jealous for Yahweh, the God of Armies; for the childr
 He said, "Go out, and stand on the mountain before Yahweh." Behold, Yahweh passed by, and a great and strong wind tore the mountains, and broke in pieces the rocks before Yahweh; but Yahweh was not in the wind. After the wind there was an earthquake; but Yahweh was not in the earthquake. 
 
 ###### v12 
-After the earthquake a fire passed; but Yahweh was not in the fire. After the fire, there was a still small voice. 
-
+After the earthquake a fire passed; but Yahweh was not in the fire. After the fire, there was a [[#“still small voice”]]. 
 ###### v13 
 When Elijah heard it, he wrapped his face in his mantle, went out, and stood in the entrance of the cave. Behold, a voice came to him, and said, "What are you doing here, Elijah?" 
 
@@ -56,19 +56,19 @@ He said, "I have been very jealous for Yahweh, the God of Armies; for the childr
 Yahweh said to him, "Go, return on your way to the wilderness of Damascus. When you arrive, anoint Hazael to be king over Syria. 
 
 ###### v16 
-Anoint Jehu the son of Nimshi to be king over Israel; and anoint Elisha the son of Shaphat of Abel Meholah to be prophet in your place. 
+Anoint Jehu[^2] the son of Nimshi to be king over Israel; and anoint Elisha the son of Shaphat of Abel Meholah to be prophet in your place. 
 
 ###### v17 
 He who escapes from the sword of Hazael, Jehu will kill; and he who escapes from the sword of Jehu, Elisha will kill. 
 
 ###### v18 
 Yet I reserved seven thousand in Israel, all the knees of which have not bowed to Baal, and every mouth which has not kissed him." 
-
+### The anointing of Elisha
 ###### v19 
 So he departed from there, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth. Elijah went over to him, and put his mantle on him. 
 
 ###### v20 
-Elisha left the oxen, and ran after Elijah, and said, "Let me please kiss my father and my mother, and then I will follow you." He said to him, "Go back again; for what have I done to you?" 
+Elisha left the oxen, and ran after Elijah, and said, "Let me please kiss my father and my mother, and then I will follow you." He said to him, "Go back again; for what have I done to you?"[^3]
 
 ###### v21 
 He returned from following him, and took the yoke of oxen, and killed them, and boiled their meat with the instruments of the oxen, and gave to the people, and they ate. Then he arose, and went after Elijah, and served him.
@@ -79,6 +79,17 @@ He returned from following him, and took the yoke of oxen, and killed them, and 
 ---
 ## My Notes
 
+
+### “still small voice”
+The KJV translates [[1 Kings-19#v12|1 Kings 19.12]] as *still, small, voice*. Many translations have traditionally followed this translation. 
+
+Tim Mackie argues (see [[Why Elijah Could No Longer Hear God]] at 44:46) that it is not quite right. Rather this Hebrew phrase is describing that feeling when it is so silent that you can “hear” the silence. In English we have the phrase *the silence is deafening* which is similar. We also have a phrase *the sound of silence*. 
+
+### Why Does Elijah Become Afraid?
+
+### Elijah’s Parallel To Moses on Sinai
+The account of [[#Elijah on Mount Sinai]] is a pretty clear parallel to [[Exod-34]]. 
+
 ## Commentary
 - [[Why Elijah Could No Longer Hear God]]
 
@@ -86,3 +97,5 @@ He returned from following him, and took the yoke of oxen, and killed them, and 
 # Footnotes
 
 [^1]: Just like Jonah, Elijah is a prophet who sits under a tree and wishes that he might die. See [[Jonah-04|Jonah 4]]
+[^2]: It’s very interesting and surprising that God commands Elijah to anoint Jehu as king. Jehu doesn’t actually become king until several years later, and another son of Ahab becomes king first. That said, I am curious of the timeline. It would have taken Elijah quite a long time to journey to Mount Sinai. Perhaps this chapter is concurrent to the following chapters. 
+[^3]: Luke’s Gospel seems to clearly parallel this in [[Luke-09#v16|Luke 9.16]] but with a jarring inversion. 

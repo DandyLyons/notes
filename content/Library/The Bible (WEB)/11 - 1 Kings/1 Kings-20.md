@@ -92,7 +92,7 @@ At the return of the year, Ben Hadad mustered the Syrians, and went up to Aphek,
 The children of Israel were mustered and given provisions, and went against them. The children of Israel encamped before them like two little flocks of young goats; but the Syrians filled the country. 
 
 ###### v28 
-A man of God came near and spoke to the king of Israel, and said, "Yahweh says, 'Because the Syrians have said, "Yahweh is a god of the hills, but he is not a god of the valleys;" therefore I will deliver all this great multitude into your hand, and you shall know that I am Yahweh.'" 
+A man of God[^1] came near and spoke to the king of Israel, and said, "Yahweh says, 'Because the Syrians have said, "Yahweh is a god of the hills, but he is not a god of the valleys;" therefore I will deliver all this great multitude into your hand, and you shall know that I am Yahweh.'" 
 
 ###### v29 
 They encamped opposite each other for seven days. So it was, that in the seventh day the battle was joined; and the children of Israel killed one hundred thousand footmen of the Syrians in one day. 
@@ -146,4 +146,6 @@ The king of Israel went to his house sullen and angry, and came to Samaria.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: who is this man of God? We don’t know. Presumably another prophet of Yahweh. Elijah is notably absent in this and the next few chapters. Which makes sense since he made a distant journey to Mount Sinai. 
