@@ -11,7 +11,7 @@ This is so true! There is such a difficult loop that comes from writing, realizi
 ---
 ## The term “reentrancy”
 
-> ==This is just a plain old race condition. But, it isn’t a **data** race. We do not have multiple threads reading/writing the same spots in memory. I prefer to call these kinds of things “logical” races.== (If there is a more correct term, however, please do let me know!)
+> **This is just a plain old race condition. But, it isn’t a data race. We do not have multiple threads reading/writing the same spots in memory. I prefer to call these kinds of things “logical” races.** (If there is a more correct term, however, please do let me know!)
 > 
 > Interestingly, you do not even need to have multiple threads to have logical races. You just need some way for multiple things to happen at the same time. A single threaded-program with a runloop is enough. As soon as you can have non-synchronous execution, you can have logical races.
 
@@ -139,8 +139,11 @@ actor RemoteSystem {
 This adds a little bit of complexity to the example because we must now implement two buttons, but hopefully it demonstrates how if the Executor orders execution in a non-deterministic order, that it can create non-deterministic state changes. Here, if the user taps increment and decrement, rapidly in various order, then the non-deterministic `Executor` order will create non-deterministic change in the `state` variable. (The final result will be the same after all of the Tasks have executed, but the intermediate state values will be different depending on the order that they are executed.)
 
 ## Conclusion
-It's problematic to spin up a new Task every single time we want to perform work because we are not able to deterministically determine the order that those Tasks are executed. 
+It's problematic to spin up a new Task every single time we want to perform work because we are not able to deterministically determine the order that those Tasks are executed[^1]. 
 
 Another approach worth exploring is to create an ongoing async context using something like a long-living AsyncStream. In SwiftUI such an AsyncStream could be subscribed to inside of a `.task {}` using a `for await` loop. 
 
 Or better yet, as you noted at the end, it would be better to not use an actor at all. 
+# Footnotes
+
+[^1]: I'm not sure if this is still true (as of 2025-01). See: [Matt Massicotte: "@dandylyons However I do want …" - Mastodon](https://mastodon.social/@mattiem/113753596260314955). The Swift devs say that [Task order is now deterministic](https://arc.net/l/quote/zkropfmj), and of course, I don't have any reason, not to believe them. But I am hesitant. This deterministic behavior was added with [SE-0431](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.md), which was a relatively late addition to Swift's concurrency model. Yet it is a non-trivial behavior change. There are more non-trivial proposals currently in work to change Swift's concurrency model. These will probably be improvements, but it's difficult to feel assured when someone says that something is deterministic when the core model is ever-shifting. 

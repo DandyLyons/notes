@@ -7,5 +7,5 @@ title:
 
 - Perplexity.ai
 - ChatGPT
-- Udio.com
+- Cursor
 - GitHub Copilot

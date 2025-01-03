@@ -58,7 +58,10 @@ takeaways:
 ## Application
 - Have you come unto the Lord for salvation and hope? 
 - Do you daily continue to come unto Jesus feeding on His Word? 
-- 
+- Are you seeking God daily in prayer? 
+	- The Christian life is daily seeking Him. 
+	- It’s not perfection. It’s direction. 
+- Is your greatest joy knowing God in His Word? 
 
 ---
 ## Further Study
