@@ -34,11 +34,17 @@ Links:
 
 ### 00:00 Introduction
 ### 00:30 Installation of Godot State Charts
+- Download "Godot State Charts" addon
+- then activate in in Project Settings
 
 ### 01:21 Scene Setup
 ### 04:26 Adding the state chart 
-- 
+- [04:24](https://www.youtube.com/watch?t=264&v=E9h9VnbPGuw): Add the StateChart node
+- [04:56](https://www.youtube.com/watch?t=296&v=E9h9VnbPGuw): Add CompoundState child
 ### 07:02 Switching States with Transitions
+- [06:53](https://www.youtube.com/watch?t=413&v=E9h9VnbPGuw): Add a transition to a state
+- 
+
 ### 08:24 Using the state charts debugger
 ### 11:12 Running code during a state
 ### 13:44 Running code when entering a state
