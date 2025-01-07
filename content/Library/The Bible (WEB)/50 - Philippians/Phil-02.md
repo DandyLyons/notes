@@ -11,7 +11,7 @@ aliases:
 
 
 ###### v1 
-If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion, 
+If, therefore, there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion, 
 
 ###### v2 
 make my joy full by being like-minded, having the same love, being of one accord, of one mind; 

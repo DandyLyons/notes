@@ -57,7 +57,7 @@ God spoke to Noah, saying,
 "Go out of the ship, you, your wife, your sons, and your sons' wives with you.
 
 ###### v17
-Bring out with you every living thing that is with you of all flesh, including birds, livestock, and every creeping thing that creeps on the earth, that they may breed abundantly in the earth, and be fruitful, and multiply on the earth."
+Bring out with you every living thing that is with you of all flesh, including birds, livestock, and every creeping thing that creeps on the earth, that they may breed abundantly in the earth, and [[Be fruitful, and multiply]] on the earth."
 
 ###### v18
 Noah went out, with his sons, his wife, and his sons' wives with him.

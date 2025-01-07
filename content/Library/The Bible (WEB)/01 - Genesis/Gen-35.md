@@ -41,7 +41,7 @@ God appeared to Jacob again, when he came from Paddan Aram, and blessed him.
 God said to him, "Your name is Jacob. Your name shall not be Jacob any more, but your name will be Israel." He named him Israel. 
 
 ###### v11 
-God said to him, "I am God Almighty. Be fruitful and multiply. A nation and a company of nations will be from you, and kings will come out of your body. 
+God said to him, "I am God Almighty. [[Be fruitful, and multiply]]. A nation and a company of nations will be from you, and kings will come out of your body. 
 
 ###### v12 
 The land which I gave to Abraham and Isaac, I will give it to you, and to your offspring after you I will give the land." 

@@ -79,7 +79,7 @@ God said, "Let the waters abound with living creatures, and let birds fly above 
 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.
 
 ###### v22
-God blessed them, saying, "Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth."
+God blessed them, saying, "[[Be fruitful, and multiply]], and fill the waters in the seas, and let birds multiply on the earth."
 
 ###### v23
 There was evening and there was morning, a fifth day.
@@ -98,7 +98,7 @@ God said, "Let's make man in our image, after our likeness. Let them have domini
 God created man in his own image. In God's image he created him; male and female he created them.
 
 ###### v28
-God blessed them. God said to them, "Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth."
+God blessed them. God said to them, "[[Be fruitful, and multiply|Be fruitful, multiply]], fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth."
 
 ###### v29
 God said, "Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.
@@ -114,7 +114,21 @@ God saw everything that he had made, and, behold, it was very good. There was ev
 
 ---
 ## My Notes
+### Structure of Genesis 1
+>"*The earth was **formless** and **empty**.*"
 
+
+|               | God creates form    | God fills it        |
+| ------------- | ------------------- | ------------------- |
+| **The Sky**   | [[#The First Day]]  | [[#The Fourth Day]] |
+| **The Sea**   | [[#The Second Day]] | [[#The Fifth Day]]  |
+| **The Earth** | [[#The Third Day]]  | [[#The Sixth Day]]  |
+
+#### Notes on the Seventh Day
+[[Gen-02#The Seventh Day|The Seventh Day]] is unique among all the days of creation: 
+- It's the only one not found in Genesis 1. 
+- It's the only day where God did no work. 
+- Each day is summed up with the same phrase: *There was evening and there was morning, the _________ day.* Interestingly, this pattern is **broken** for the seventh day. 
 ### Chronological Or Not
 It is worth noting that there is some debate[^1] on the timing of the first verse of the Bible. I have seen 2 views expressed so far: 
 - The Chronological View: This view holds that [[#v1]] takes place before the rest of the text and that the order of events flows smoothly from beginning to end. 

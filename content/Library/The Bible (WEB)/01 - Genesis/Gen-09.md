@@ -11,7 +11,7 @@ aliases:
 
 
 ###### v1 
-God blessed Noah and his sons, and said to them, "Be fruitful, multiply, and replenish the earth. 
+God blessed Noah and his sons, and said to them, "[[Be fruitful, and multiply|Be fruitful, multiply]], and replenish the earth. 
 
 ###### v2 
 The fear of you and the dread of you will be on every animal of the earth, and on every bird of the sky. Everything that moves along the ground, and all the fish of the sea, are delivered into your hand. 

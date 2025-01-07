@@ -32,7 +32,7 @@ All we like sheep have gone astray. Everyone has turned to his own way; and Yahw
 He was oppressed, yet when he was afflicted he didn't open his mouth. As a lamb that is led to the slaughter, and as a sheep that before its shearers is silent, so he didn't open his mouth. 
 
 ###### v8 
-He was taken away by oppression and judgment. As for his generation, who considered that he was cut off out of the land of the living and stricken for the disobedience of my people? 
+He was taken away by oppreassion and judgment. As for his generation, who considered that he was cut off out of the land of the living and stricken for the disobedience of my people? 
 
 ###### v9 
 They made his grave with the wicked, and with a rich man in his death, although he had done no violence, nor was any deceit in his mouth. 

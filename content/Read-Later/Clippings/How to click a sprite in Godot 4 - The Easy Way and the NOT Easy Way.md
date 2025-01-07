@@ -39,12 +39,36 @@ func _input(event):
 It's better not to hard code your inputs. Instead use the [[action system in Godot]]. 
 ### [01:20](https://www.youtube.com/watch?v=zeYtjYPjCkg&t=80s) Area2D and CollisionShape method 
 - [[Area2D]]
-- [[CollisionShape]] 
+- [[CollisionShape2D]]  
 
 > [!NOTE] Assessing this strategy
 > **Con:** [02:21](https://www.youtube.com/watch?t=141&v=zeYtjYPjCkg) Doesn't handle strange shapes very well. 
 
 ### [02:27](https://www.youtube.com/watch?v=zeYtjYPjCkg&t=147s) Making Polygon Colliders in the Editor
+- NOTE: You have to **left-click** to see the drop down menu. 
+
+#### Adjusting the CollisionPolygon2D
+
+1. Select your Sprite2D node in the scene tree.
+2. Click on the Sprite2D menu at the top of the 2D viewport.
+3. Choose "Create CollisionPolygon2D Sibling" from the dropdown menu
+In the preview window that appears, you can adjust three main settings:
+1. **Simplification:** Lower this value to create a more detailed collision shape that better matches your pixel art sprite. ([Docs](https://docs.godotengine.org/en/stable/tutorials/physics/collision_shapes_2d.html))
+2. **Shrink (Pixels):** Adjust this if you want the collision shape to be slightly smaller than the visible sprite.
+3. **Grow (Pixels):** Increase this if you want the collision shape to extend beyond the sprite's edges.
+
+**For small pixel art sprites, try the following:**
+
+- Set Simplification to 0 or a very low value for maximum accuracy.
+- Keep Shrink and Grow at 0 initially.
+- Click "Update Preview" to see the changes in real-time
+
+If the generated shape still doesn't match your sprite perfectly, you can manually edit the CollisionPolygon2D after creation:
+
+1. Select the generated CollisionPolygon2D node.
+2. In the 2D viewport, you'll see editable points on the polygon.
+3. Click and drag these points to adjust the shape manually.
+4. Right-click to add new points if needed.
 
 
 ### [03:22](https://www.youtube.com/watch?v=zeYtjYPjCkg&t=202s) Making Polygon Colliders programmatically

@@ -17,7 +17,7 @@ aliases:
 Therefore Yahweh, the God of Israel, says against the shepherds who feed my people: "You have scattered my flock, driven them away, and have not visited them. Behold, I will visit on you the evil of your doings," says Yahweh. 
 
 ###### v3 
-"I will gather the remnant of my flock out of all the countries where I have driven them, and will bring them again to their folds; and they will be fruitful and multiply. 
+"I will gather the remnant of my flock out of all the countries where I have driven them, and will bring them again to their folds; and they will [[Be fruitful, and multiply|be fruitful and multiply]]. 
 
 ###### v4 
 I will set up shepherds over them, who will feed them. They will no longer be afraid or dismayed, neither will any be lacking," says Yahweh. 

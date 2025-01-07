@@ -2,6 +2,7 @@
 publish: true
 title: 
 aliases:
+  - Animations in Godot
 ---
 ## See Also
 ### Tweens
@@ -27,6 +28,6 @@ For 3D character animations:
 
 The core animation system in Godot includes:
 
-- **AnimationPlayer**: The primary node for creating and managing keyframe animations.
+- [[AnimationPlayer]]: The primary node for creating and managing keyframe animations.
 - **Animation Tracks**: Components within AnimationPlayer that define specific properties being animated over time.
 - **AnimationTree**: An advanced node for complex animation blending and state management, working in conjunction with AnimationPlayer.
