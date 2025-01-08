@@ -28,5 +28,6 @@ https://www.youtube.com/watch?v=vsKxB66_ngw&t=44s
 - [01:45](https://www.youtube.com/watch?t=105&v=JEQR4ALlwVU): `Engine.time_scale = 0` is explicitly discouraged in the [docs](https://docs.godotengine.org/en/4.3/classes/class_engine.html#class-engine-property-time-scale). 
 	- >Note: It's recommended to keep this property above 0.0, as the game may behave unexpectedly otherwise.
 	- See [[Pausing in Godot]] 
+- 
 ## Transcript
 
