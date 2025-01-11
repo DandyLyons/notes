@@ -1,0 +1,4 @@
+---
+publish: true
+---
+- [[Strange Scaffold]]

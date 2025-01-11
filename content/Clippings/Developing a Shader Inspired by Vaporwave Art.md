@@ -85,7 +85,6 @@ https://www.behance.net/florenciamn
 Nati Mendez
 https://www.behance.net/natimendez
 
-#Shaders #GameDev​ #Devlog #Vaporwave #Unity #ShaderGraph #IndieDev #VideoGames
 
 ## My Notes
 

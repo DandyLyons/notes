@@ -3,13 +3,14 @@ publish: true
 title: Genesis 11
 aliases:
   - Genesis 11
+  - The Account of the Tower of Babel
 ---
 
 [[Gen-10|← Genesis 10]] | [[Genesis]] | [[Gen-12|Genesis 12 →]]
 ***
 
 
-
+## The Tower of Babel
 ###### v1
 The whole earth was of one language and of one speech.
 
@@ -20,7 +21,7 @@ As they traveled east, they found a plain in the land of Shinar, and they lived 
 They said to one another, "Come, let's make bricks, and burn them thoroughly." They had brick for stone, and they used tar for mortar.
 
 ###### v4
-They said, "Come, let's build ourselves a city, and a tower whose top reaches to the sky, and let's make a name for ourselves, lest we be scattered abroad on the surface of the whole earth."
+They said, "Come, let's build ourselves a city, and a tower whose top reaches to the sky, and let's make a name for ourselves, lest we be [[Gen-01#v28|scattered abroad]] on the surface of the whole earth[^1]."
 
 ###### v5
 Yahweh came down to see the city and the tower, which the children of men built.
@@ -37,6 +38,7 @@ So Yahweh scattered them abroad from there on the surface of all the earth. They
 ###### v9
 Therefore its name was called Babel, because there Yahweh confused the language of all the earth. From there, Yahweh scattered them abroad on the surface of all the earth.
 
+## Geneology of Shem
 ###### v10
 This is the history of the generations of Shem: Shem was one hundred years old when he became the father of Arpachshad two years after the flood.
 
@@ -88,8 +90,9 @@ Nahor lived one hundred nineteen years after he became the father of Terah, and 
 ###### v26
 Terah lived seventy years, and became the father of Abram, Nahor, and Haran.
 
+## Geneology of Terah
 ###### v27
-Now this is the history of the generations of Terah. Terah became the father of Abram, Nahor, and Haran. Haran became the father of Lot.
+Now this is the history of the generations of Terah. Terah became the father of [[Abraham|Abram]], Nahor, and Haran. Haran became the father of Lot.
 
 ###### v28
 Haran died in the land of his birth, in Ur of the Chaldees, while his father Terah was still alive.
@@ -113,4 +116,6 @@ The days of Terah were two hundred five years. Terah died in Haran.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Notice that the people are explicitly trying to avoid *filling the earth* as they were commanded to do in [[Gen-01#v28|Gen 1.28]] 

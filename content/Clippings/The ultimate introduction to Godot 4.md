@@ -4,8 +4,8 @@ source: "https://www.youtube.com/watch?v=nAh_Kx5Zh5Q"
 media_link: "https://www.youtube.com/watch?v=nAh_Kx5Zh5Q"
 author:
   - "[[Clear Code]]"
-contentPublished: 2023-06-28
-noteCreated: 2025-01-08
+contentPublished: "2023-06-28"
+noteCreated: "2025-01-08"
 description: "This video is sponsored by NordPass Business: An amazing password manager that allows you to securely store and access unlimited passwords, including wifi credentials and credit card information. You"
 tags:
   - "clippings"
@@ -20,10 +20,6 @@ Youtube_Duration: "11:32:40"
 
 ## Description
 This video is sponsored by NordPass Business: An amazing password manager that allows you to securely store and access unlimited passwords, including wifi credentials and credit card information. You can use it for yourself or for entire teams or share your own passwords easily. 
-
-You can get a 3 month trial at:
-https://nordpass.com/clearcode/
-
 
 A complete guide to Godot 4! This video will cover every aspect of the gaming engine and will teach you all the basics. 
 

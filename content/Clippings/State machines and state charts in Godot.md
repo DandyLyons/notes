@@ -1,21 +1,21 @@
 ---
-title: State machines and state charts in Godot
-source: https://www.youtube.com/watch?v=E9h9VnbPGuw
-media_link: https://www.youtube.com/watch?v=E9h9VnbPGuw
+title: "State machines and state charts in Godot"
+source: "https://www.youtube.com/watch?v=E9h9VnbPGuw"
+media_link: "https://www.youtube.com/watch?v=E9h9VnbPGuw"
 author:
   - "[[Godotneers]]"
-contentPublished: \\\"2023-08-21\\\"
-noteCreated: 2024-12-18
-description: Hello Godotneers! With the Godot State Charts library you can easily create complex behaviour in your game with very little code. In this video I'm giving you an overview on the features and how to us
+contentPublished: "2023-08-21"
+noteCreated: "2024-12-18"
+description: "Hello Godotneers! With the Godot State Charts library you can easily create complex behaviour in your game with very little code. In this video I'm giving you an overview on the features and how to us"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[finite state machine in Godot]]"
-Status: 🙏🏼 Want To Read
+Status: "🙏🏼 Want To Read"
 publish: true
-Youtube_Duration: 24:10
+Youtube_Duration: "24:10"
 ---
 ![](https://www.youtube.com/watch?v=E9h9VnbPGuw)
 

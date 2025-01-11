@@ -1,0 +1,3 @@
+---
+noteCreated: {{date}}
+---

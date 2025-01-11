@@ -38,7 +38,7 @@ neither did we eat bread from anyone's hand without paying for it, but in labor 
 not because we don't have the right, but to make ourselves an example to you, that you should imitate us. 
 
 ###### v10 
-For even when we were with you, we commanded you this: "If anyone is not willing to work, don't let him eat." 
+For even when we were with you, we commanded you this: "If anyone is not willing to [[Topics/Work/index|work]], don't let him eat." 
 
 ###### v11 
 For we hear of some who walk among you in rebellion, who don't work at all, but are busybodies. 

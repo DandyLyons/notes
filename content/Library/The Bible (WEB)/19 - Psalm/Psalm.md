@@ -3,6 +3,12 @@ links: [[Library/The Bible (WEB)/index|The Bible (WEB)]]
 
 [[Ps-01|Start Reading →]]
 
+1. Book 1  ( [1:1⁠–⁠41:13](https://biblehub.com/bsb/psalms/1.htm#1) )
+2. Book 2  ( [42:1⁠–⁠72:20](https://biblehub.com/bsb/psalms/42.htm#1) )
+3. Book 3  ( [73:1⁠–⁠89:52](https://biblehub.com/bsb/psalms/73.htm#1) )
+4. Book 4  ( [90:1⁠–⁠106:48](https://biblehub.com/bsb/psalms/90.htm#1) )
+5. Book 5  ( [107:1⁠–⁠150:6](https://biblehub.com/bsb/psalms/107.htm#1) )
+
 ---
 ## My Notes
 

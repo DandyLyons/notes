@@ -2,16 +2,16 @@
 type:
   - "[[Library/The Bible (WEB)/My Notes/Sermon Notes/index|Sermon Notes]]"
 speaker: "[[Archibald Allison]]"
-date: 2025-01-05
+date: "2025-01-05"
 location: "[[Emmaus Orthodox Presbyterian Church]]"
-passage: 2 Corinthians 13:4
-sermon series: Allison on 2 Corinthians
-sermon link: 
+sermon series: "Allison on 2 Corinthians"
+sermon link:
 subjects:
   - "[[humility]]"
-title: Christ's Strength Through Our Weakness
+title: "Christ's Strength Through Our Weakness"
 takeaways:
-  - Christ was weak, yet found power in God. In the same way, we must be weak so that we may find power in Christ.
+  - "Christ was weak, yet found power in God. In the same way, we must be weak so that we may find power in Christ."
+passage: "2 Corinthians 13:4"
 ---
 
 # Christ's Strength Through Our Weakness
