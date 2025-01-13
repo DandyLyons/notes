@@ -50,7 +50,7 @@ As for the rest of the animals, their dominion was taken away; yet their lives w
 "I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the ancient of days, and they brought him near before him. 
 
 ###### v14 
-Dominion was given him, and glory, and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom one that which will not be destroyed. 
+Dominion was given[^1] him, and glory, and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom one that which will not be destroyed. 
 
 ###### v15 
 "As for me, Daniel, my spirit was grieved within my body, and the visions of my head troubled me. 
@@ -101,4 +101,6 @@ The kingdom and the dominion, and the greatness of the kingdoms under the whole 
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: This prophecy is fulfilled in [[Matt-28#v18|Matt 28.18]]: *Jesus came to them and spoke to them, saying, "All authority has been given to me in heaven and on earth.*  

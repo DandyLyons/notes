@@ -26,7 +26,7 @@ The twenty-four elders and the four living creatures fell down and worshiped God
 A voice came from the throne, saying, "Give praise to our God, all you his servants[^1], you who fear him, the small and the great!" 
 
 ###### v6 
-I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, "Hallelujah! For the Lord our God, the Almighty, reigns! 
+I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, "[[Hallelujah]]! For the Lord our God, the Almighty, reigns! 
 
 ###### v7 
 Let's rejoice and be exceedingly glad, and let's give the glory to him. For the wedding of the Lamb has come, and his wife has made herself ready." 

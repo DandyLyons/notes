@@ -62,7 +62,7 @@ But the eleven disciples went into Galilee, to the mountain where Jesus had sent
 When they saw him, they bowed down to him; but some doubted. 
 
 ###### v18 
-Jesus came to them and spoke to them, saying, "All authority has been given to me in heaven and on earth. 
+Jesus came to them and spoke to them, saying, "All authority has been given[^1] to me in heaven and on earth. 
 
 ###### v19 
 Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 
@@ -70,11 +70,13 @@ Go and make disciples of all nations, baptizing them in the name of the Father a
 ###### v20 
 teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age." Amen.
 
-***
+---
 [[Matt-27|← Matthew 27]] | [[Matthew]]
 
 ---
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: This fulfills the prophecy in [[Dan-07#v14|Dan 7.14]]. 

@@ -5,6 +5,7 @@ date: 2024-07-31
 aliases:
   - Sermon Notes
 ---
+
 %%
 ```dataview
 TABLE title, date 

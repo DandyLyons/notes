@@ -11,6 +11,7 @@ publish: true
 speaker: "[[Strange Scaffold]]"
 Youtube_Duration: 12:27
 ---
+![How To Start Making Games (The RIGHT Way) - YouTube](https://www.youtube.com/watch?v=2cUoaWMw4cQ) 
 ## My Notes
 - [01:59](https://www.youtube.com/watch?t=119&v=2cUoaWMw4cQ) **Embrace artificial constraints** 
 	- >We will not pick a solution that takes longer than 3 days to implement. 

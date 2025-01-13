@@ -9,7 +9,6 @@ It is important to remember that Markdown is a non-standard file format. As such
 - Vanilla Markdown
 - CommonMark
 - GitHub Flavored Markdown
-- 
 - LaTeX
 ## Features
 

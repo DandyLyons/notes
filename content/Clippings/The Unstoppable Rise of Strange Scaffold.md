@@ -13,6 +13,7 @@ Status: 👀 Reading
 url: https://www.pushtotalk.gg/p/the-unstoppable-rise-of-strange-scaffold
 subjects:
   - "[[Strange Scaffold]]"
+publish: true
 ---
 ## Highlights
 This week’s issue digs deeply into Strange Scaffold, the ambitious and prolific indie studio founded by 26-year-old creative auteur Xalavier Nelson Jr.

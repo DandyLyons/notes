@@ -1,1 +1,0 @@
-Arrogance = confidence - competence 

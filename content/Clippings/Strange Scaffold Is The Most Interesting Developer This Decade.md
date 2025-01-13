@@ -11,6 +11,7 @@ Status: 🙏🏼 Want To Read
 url: https://www.thegamer.com/strange-scaffold-most-interesting-developer/
 author:
   - "[[Ben Sledge]]"
+publish: true
 ---
 URL: [Strange Scaffold Is The Most Interesting Developer This Decade](https://www.thegamer.com/strange-scaffold-most-interesting-developer/) 
 ## Highlights

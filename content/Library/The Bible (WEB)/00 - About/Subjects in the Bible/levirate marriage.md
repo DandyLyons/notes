@@ -1,4 +1,4 @@
 ---
+aliases: 
 publish: true
 ---
-- [[Strange Scaffold]]

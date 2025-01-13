@@ -1,14 +1,13 @@
 ---
-type:
-  - "[[Library/The Bible (WEB)/My Notes/Sermon Notes/index|Sermon Notes]]"
-speaker: Pat Clarey
-date: 2024-12-29
-location: Country Christian Evangelical Free Church
-passage: Isaiah 55:1-13
-sermon series: 
-sermon link: 
-subjects: 
-title: Come and Seek the LORD in His WORD
+type: []
+speaker: "Pat Clarey"
+date: "2024-12-29"
+location: "Country Christian Evangelical Free Church"
+passage: "Isaiah 55:1-13"
+sermon series:
+sermon link:
+subjects:
+title: "Come and Seek the LORD in His WORD"
 takeaways:
 ---
 

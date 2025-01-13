@@ -28,8 +28,8 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| File                                                                | title       | releaseDate                               | Developer         | Publisher | genres                                  | gamingPlatforms                            |
-| ------------------------------------------------------------------- | ----------- | ----------------------------------------- | ----------------- | --------- | --------------------------------------- | ------------------------------------------ |
-| [[gitignore/TEMPLATES/Video Game TEMPLATE.md\|Video Game TEMPLATE]] | Garry's Mod | <ul><li><b>{ released }</b>: \-</li></ul> | Facepunch Studios | Valve     | <ul><li><b>{ genres }</b>: \-</li></ul> | <ul><li><b>{ platforms }</b>: \-</li></ul> |
+| File                                                              | title           | releaseDate       | Developer.name | Publisher.name | genres                                                | gamingPlatforms         |
+| ----------------------------------------------------------------- | --------------- | ----------------- | -------------- | -------------- | ----------------------------------------------------- | ----------------------- |
+| [[Topics/Inputs/Video Games/Game Dev Tycoon.md\|Game Dev Tycoon]] | Game Dev Tycoon | December 10, 2012 | \-             | \-             | <ul><li>Strategy, Simulation, Casual, Indie</li></ul> | <ul><li>macOS</li></ul> |
 
 %% DATAVIEW_PUBLISHER: end %%

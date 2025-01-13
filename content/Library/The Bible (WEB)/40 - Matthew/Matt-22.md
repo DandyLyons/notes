@@ -80,7 +80,7 @@ When they heard it, they marveled, and left him and went away.
 On that day Sadducees (those who say that there is no resurrection) came to him. They asked him, 
 
 ###### v24 
-saying, "Teacher, Moses said, 'If a man dies, having no children, his brother shall marry his wife and raise up offspring for his brother.' 
+saying, "Teacher, Moses said, 'If a man dies, having no children, [[levirate marriage|shall marry his brother's wife]] and raise up offspring for his brother.' 
 
 ###### v25 
 Now there were with us seven brothers. The first married and died, and having no offspring left his wife to his brother. 

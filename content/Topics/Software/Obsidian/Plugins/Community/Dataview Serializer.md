@@ -34,4 +34,6 @@ As you can see above, the result of the query gets added as Markdown below the q
 
 Whenever you update that note, the query will be executed and serialized, replacing the previous serialized version.
 
-WARNING: For now, the queries can only be put on a single line. Take a look at [this issue](https://github.com/dsebastien/obsidian-dataview-serializer/issues/12) for details/updates.
+## Limitations
+- WARNING: For now, the queries can only be put on a single line. Take a look at [this issue](https://github.com/dsebastien/obsidian-dataview-serializer/issues/12) for details/updates.
+- It seems only [[syntaxes in Dataview#DQL - Dataview Query Language|regular DQL queries]] are supported. Not  [[syntaxes in Dataview#Inline Syntax|Inline Dataview queries]], nor Dataview JS or Inline Dataview JS. 
