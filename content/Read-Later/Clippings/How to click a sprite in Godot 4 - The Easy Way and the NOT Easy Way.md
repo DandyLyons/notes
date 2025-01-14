@@ -10,7 +10,9 @@ description: Just a quick one I wanted to cover, hopefully there's still a few p
 tags:
   - clippings
   - video
-takeaways:
+takeaways: 
+subjects:
+  - "[[click detection in Godot]]"
 ---
 ![](https://www.youtube.com/watch?v=zeYtjYPjCkg&t=320s)
 

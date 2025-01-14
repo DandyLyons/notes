@@ -2,16 +2,16 @@
 type:
   - "[[Library/The Bible (WEB)/My Notes/Sermon Notes/index|Sermon Notes]]"
 speaker: "[[Archibald Allison]]"
-date: 2025-01-12
+date: "2025-01-12"
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[Ps-104#v35|Ps 104.35]]"
 sermon series: "[[Allison on the Psalms]]"
-sermon link: 
+sermon link: "https://www.sermonaudio.com/sermons/114251915177044"
 subjects:
   - "[[wickedness]]"
-title: Sinners Shall Be Consu
-takeaways: 
-publish: false
+title: "Sinners Shall Be Consu"
+takeaways:
+publish: true
 ---
 
 %% DATAVIEW_PUBLISHER: start

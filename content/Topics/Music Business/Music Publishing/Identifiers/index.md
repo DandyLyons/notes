@@ -10,14 +10,15 @@ aliases:
 
 # At A Glance
 
-|                    | Assigned to                    | Assigned by                                                                                    |
-| ------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------- |
-| [[#IPI]]           | Songwriters, Publishers etc.   | PRO                                                                                            |
-| [[#ISRC]]          | Recordings                     | Labels or Distributors                                                                         |
-| [[#ISWC]]          | Compositions                   | PRO                                                                                            |
-| [[#IPN]]           | Artists/Musicians etc.         | PRO                                                                                            |
-| [[#ISNI]]          | Contributors to creative works | ISNI Registration Agencies                                                                     |
-| [[#MLC Song Code]] | Compositions                   | [[Topics/Music Business/Music Publishing/Royalty Collection/Mechanical Licenses/TheMLC/index]] |
+|                    | Assigned to                                    | Assigned by                                                                                    |
+| ------------------ | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [[#IPI]]           | Songwriters, Publishers etc.                   | PRO                                                                                            |
+| [[#ISRC]]          | Recordings                                     | Labels or Distributors                                                                         |
+| [[#ISWC]]          | Compositions                                   | PRO                                                                                            |
+| [[#IPN]]           | Artists/Musicians etc.                         | PRO                                                                                            |
+| [[#ISNI]]          | Contributors to creative works                 | ISNI Registration Agencies                                                                     |
+| [[#MLC Song Code]] | Compositions                                   | [[Topics/Music Business/Music Publishing/Royalty Collection/Mechanical Licenses/TheMLC/index]] |
+| [[#ICPN]]          | Physical and Digital Music Products (Releases) |                                                                                                |
 
 ## IPI
 **_Stands for:_** Interested Party Information  
@@ -59,6 +60,16 @@ Public identities of contributors to creative works and those active in their di
 - [[Topics/Music Business/Music Publishing/Royalty Collection/Mechanical Licenses/TheMLC/index|TheMLC]]. 
 - [MLC Public Search](https://portal.themlc.com/search#work) 
 
+## ICPN
+- **See also**:
+	- [Quote from “ISRC, ICPN, ISNI: External IDs and product codes”](https://arc.net/l/quote/exhjrsdz)
+	- [Support - luminatedata.com](https://support.luminatedata.com/portal/en/kb/articles/isrc-icpn-isni-external-ids-and-product-codes) 
+
+ICPN is an umbrella term for any of the standard barcodes that distinguish entities at the Product level. Every version of a Release—digital or physical—sold separately as a unique Product is identified by ICPN. Release Group and Release Dashboards list every ICPN contained within that entity; Product Dashboards have just one.
+
+Release Groups and Releases appear in CONNECT once component entities have been registered at the Product level; our logic automatically groups Products into those higher-level entities. 
+
+Valid ICPNs include UPC (Universal Product Code, 12 digits), EAN (European Article Number, 13 digits), JAN (Japanese Article Number) and GTIN (Global Trade Item Number).
 
 ---
 

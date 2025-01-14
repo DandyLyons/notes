@@ -11,6 +11,7 @@ title: "Christ's Strength Through Our Weakness"
 takeaways:
   - "Christ was weak, yet found power in God. In the same way, we must be weak so that we may find power in Christ."
 passage: "[[2 Cor-13#v4|2 Cor 13.4]]"
+publish: true
 ---
 
 | Speaker     | `= this.speaker`        |

@@ -30,6 +30,7 @@ Obsidian takes a very similar design approach to [[Topics/Software Development/I
 - [Discord](https://discord.com/invite/veuWUTm)
 
 ## Learning Resources
+- Use [ChatGPT - Obsidian Oracle](https://chatgpt.com/g/g-b107MFpsV-obsidian-oracle) to help you generate Dataview queries and answer questions.  
 - [Mike Schmitz - YouTube](https://www.youtube.com/@MikeSchmitz)
 - [FromSergio - YouTube](https://www.youtube.com/@FromSergio)
 - [Nicole van der Hoeven - YouTube](https://www.youtube.com/@nicolevdh)

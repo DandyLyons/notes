@@ -57,3 +57,47 @@ func animate():
 ### Don't Re-use Tweens
 See: [Quote from “Tween — Godot Engine (stable) documentation in English”](https://arc.net/l/quote/gnbugeoh) 
 **Note:** Tweens are not designed to be re-used and trying to do so results in an undefined behavior. Create a new Tween for each animation and every time you replay an animation from start. Keep in mind that Tweens start immediately, so only create a Tween when you want to start animating.
+
+## `get_tree().create_tween()` vs. `create_tween()`
+
+There are three ways to create a Tween but only two are valid: 
+1. `Tween.new()`: **This method is invalid**. 
+2. `get_tree().create_tween()`: This is calling the `create_tween()` method on [[SceneTree class|SceneTree]]. 
+3. `create_tween()`: When you see this in code, it is usually within a script of a [[Topics/Software Development/Game Development/Game Engines/Godot/Nodes/index|Node]] subclass. Therefore you are calling the `create_tween()` method from Node (implicitly you are calling `self.create_tween()` )
+
+
+> [!star] How to decide
+> The general rule of thumb is:
+> 
+> - Use `create_tween()` when the animation is specific to a node and should stop if the node is removed
+> - Use `get_tree().create_tween()` when you need the animation to persist independently of node lifecycle or when managing animations globally
+
+
+### 2. `get_tree().create_tween()` 
+Remember this is a method on `SceneTree`. See [docs](https://docs.godotengine.org/en/stable/classes/class_scenetree.html#class-scenetree-method-create-tween). 
+
+- This will create and return a new Tween. 
+- This will **not** automatically kill the Tween when the animation is finished or the Node is freed. 
+	- If you want the [Tween](https://docs.godotengine.org/en/stable/classes/class_tween.html#class-tween) to be automatically killed when the [Node](https://docs.godotengine.org/en/stable/classes/class_node.html#class-node) is freed, use [Node.create_tween](https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-method-create-tween) or [Tween.bind_node](https://docs.godotengine.org/en/stable/classes/class_tween.html#class-tween-method-bind-node).
+
+### 3. `create_tween()`
+Remember this is a method on Node. See [docs](`get_tree().create_tween()` vs. `create_tween()`). 
+
+- This will create and return a new Tween
+- This will **also** bind the tween to this node (`self`)
+	- This means that **the Tween will automatically be freed when the Node is freed**. 
+	- See [[#Binding Tweens to Nodes]] for more info
+- The Tween will **start automatically** on the next process frame or physics frame (depending on [TweenProcessMode](https://docs.godotengine.org/en/stable/classes/class_tween.html#enum-tween-tweenprocessmode)).
+
+## Binding Tweens to Nodes
+- See [Tween.bind_node](https://docs.godotengine.org/en/stable/classes/class_tween.html#class-tween-method-bind-node) for more info on Tweens bound to nodes.
+
+## Tween Process Modes (Order of Operations)
+See [docs](https://docs.godotengine.org/en/stable/classes/class_tween.html#enum-tween-tweenprocessmode). 
+
+1. TWEEN_PROCESS_PHYSICS
+	- The **Tween** updates after each physics frame (see [Node._physics_process](https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-private-method-physics-process)).
+2. TWEEN_PROCESS_IDLE
+	- The **Tween** updates after each process frame (see [Node._process](https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-private-method-process)).
+
+

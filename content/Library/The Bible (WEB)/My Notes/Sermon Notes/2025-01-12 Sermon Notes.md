@@ -1,18 +1,19 @@
 ---
-type: []
+type: 
 speaker: "[[Archibald Allison]]"
-date: "2025-01-12"
+date: 2025-01-12
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[2 Cor-13#v5|2 Cor 13.5]]"
-sermon series: "Allison on 2 Corinthians"
-sermon link:
+sermon series: Allison on 2 Corinthians
+sermon link: https://www.sermonaudio.com/sermons/114251839101625
 subjects:
   - "[[self-examination]]"
-title: "Examine and Test Yourself"
+title: Examine and Test Yourself
 takeaways:
-  - "God commands us to examine ourselves, and that is a good thing."
+  - God commands us to examine ourselves, and that is a good thing.
 publish: true
 ---
+<div style="position:relative;width:100%;height:0;padding-bottom:56.25%"><iframe tabindex="-1" width="100%" height="100%" src="https://embed.sermonaudio.com/player/v/114251839101625/" style="position:absolute;left:0;top:0" allowfullscreen frameborder="0" scrolling="no"></iframe></div>
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -29,10 +30,8 @@ TABLE WITHOUT ID location AS "Location", subjects AS "Subjects", takeaways AS "T
 
 
 ## 💡Big Idea
->- 
-
+>- God commands us to examine ourselves, and that is a good thing.
 ### Takeaways and Next Steps
-- 
 
 
 ## 📖Bible Passage
