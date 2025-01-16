@@ -12,7 +12,7 @@ tags:
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "👀 Reading"
 publish: true
 Youtube_Duration: "11:32:40"
 ---
@@ -77,6 +77,7 @@ Project stages: https://drive.google.com/drive/folders/10hvwjuEB1V8o0dlnQerM0nin
 ### [07:27:09](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=26829s) - Adding a level transition  
 - See [[scenes in Godot#Changing Scenes]] 
 ### [07:33:26](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=27206s) - Getting started with user interfaces  
+- [[layout in Godot]] 
 ### [08:02:31](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=28951s) - Adding the health bar to the UI  
 ### [08:08:46](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=29326s) - Making the UI interactive  
 ### [08:25:52](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=30352s) - Adding color to the UI  

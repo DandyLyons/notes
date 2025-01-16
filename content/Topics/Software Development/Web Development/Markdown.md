@@ -16,7 +16,7 @@ Here are many of the popular features available in various forms of Markdown. Ag
 
 
 > [!NOTE] Sources
-> The majority of the content on this page was taken from the [[Obsidian]] [help site](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax). Please support them, and buy their fantastic software! :D  
+> The majority of the content on this page was taken from the [[Topics/Software/Obsidian/index|Obsidian]] [help site](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax). Please support them, and buy their fantastic software! :D  
 
 ### Paragraphs
 

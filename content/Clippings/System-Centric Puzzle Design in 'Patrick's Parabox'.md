@@ -1,20 +1,20 @@
 ---
-title: System-Centric Puzzle Design in 'Patrick's Parabox'
-source: https://www.youtube.com/watch?v=HAvS-RwkjdA
-media_link: https://www.youtube.com/watch?v=HAvS-RwkjdA
+title: "System-Centric Puzzle Design in 'Patrick's Parabox'"
+source: "https://www.youtube.com/watch?v=HAvS-RwkjdA"
+media_link: "https://www.youtube.com/watch?v=HAvS-RwkjdA"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2024-08-14\\\"
-noteCreated: 2024-12-16
+contentPublished: "\\\\\\\"2024-08-14\\\\\\\""
+noteCreated: "2024-12-16"
 description: "In this GDC 2024 talk, the designer of the IGF award-winning puzzle game Patrick's Parabox shares a collection of puzzle game design techniques used and learned during its development. These include:"
 tags:
-  - clippings
-  - video
-takeaways: 
-subjects: 
-Status: 👀 Reading
+  - "clippings"
+  - "video"
+takeaways:
+subjects:
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 27:49
+Youtube_Duration: "27:49"
 ---
 ![](https://www.youtube.com/watch?v=HAvS-RwkjdA)
 

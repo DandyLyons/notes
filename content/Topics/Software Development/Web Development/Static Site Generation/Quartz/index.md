@@ -16,6 +16,9 @@ aliases:
 > - ☑️: I have not tried this yet. 
 
 
+> [!idea] Alternative
+> Another option is to use the [Webpage HTML Export](obsidian://show-plugin?id=webpage-html-export) Obsidian plugin. 
+
 ### ☑️ How to add commenting on your website? 
 - [Discord thread: Comments - Remark42](https://discord.com/channels/927628110009098281/1150498860666466354) 
 
@@ -85,7 +88,7 @@ title: MyNote
 ### No Dataview support
 [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] is an immensely popular plugin for Obsidian that enables a ton of killer features.
 
-Unfortunately, Quartz does not render [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] queries or content rendered by other [[Obsidian]] plugins. I believe this is also a problem for other Obsidian static site generators, such as Obsidian Publish. 
+Unfortunately, Quartz does not render [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] queries or content rendered by other [[Topics/Software/Obsidian/index|Obsidian]] plugins. I believe this is also a problem for other Obsidian static site generators, such as Obsidian Publish. 
 
 #### Workarounds
 - There is an `obsidian-run` plugin which you can download on GitHub. It executes the dataview queries and then outputs actual markdown. I believe this could potentially "pre-render" dataview, thus eliminating the problem. 

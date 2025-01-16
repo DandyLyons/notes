@@ -16,7 +16,7 @@ publish: true
 - By default it will assume every single markdown checkbox is a task. So instead, you should set a filter. 
 	- Recommend using `#task` as your filter
 	- Recommend hiding the filter from your task title
-- [/] ✏️ Learn how to use Tasks plugin ⏳ 2025-01-13 📅 2025-01-13
+- [x] ✏️ Learn how to use Tasks plugin ⏳ 2025-01-13 📅 2025-01-13 ✅ 2025-01-15
 ### [06:49](https://www.youtube.com/watch?v=t6OLlwekVI0&t=409s) Creating and Managing Tasks
 
 ### [15:33](https://www.youtube.com/watch?v=t6OLlwekVI0&t=933s) Advanced Task Queries

@@ -1,15 +1,15 @@
 ---
-title: My Neighbor Won’t Stop Praying for Me. What Should I Do?
-author: 
-contentPublished: 2024-12-18
-noteCreated: 2024-12-19
+title: "My Neighbor Won’t Stop Praying for Me. What Should I Do?"
+author:
+contentPublished: "2024-12-18"
+noteCreated: "2024-12-19"
 tags:
-  - clippings
-  - article
-description: The magazine’s Ethicist columnist on how to navigate religious differences with someone you care for.
-takeaways: 
-Status: 🙏🏼 Want To Read
-url: https://www.nytimes.com/2024/12/18/magazine/neighbor-prayer-ethics.html
+  - "clippings"
+  - "article"
+description: "The magazine’s Ethicist columnist on how to navigate religious differences with someone you care for."
+takeaways:
+Status: "✅ Read"
+url: "https://www.nytimes.com/2024/12/18/magazine/neighbor-prayer-ethics.html"
 publish: true
 ---
 

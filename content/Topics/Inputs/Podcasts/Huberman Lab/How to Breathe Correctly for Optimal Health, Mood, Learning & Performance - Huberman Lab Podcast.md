@@ -13,6 +13,7 @@ tags:
   - video
 takeaways:
 ---
+**Podcast**: [[Topics/Inputs/Podcasts/Huberman Lab/index|Huberman Lab Podcast]] 
 **URL**: [How to Breathe Correctly for Optimal Health, Mood, Learning & Performance | Huberman Lab Podcast - YouTube](https://www.youtube.com/watch?v=x4m_PdFbu-s) 
 
 ## Description

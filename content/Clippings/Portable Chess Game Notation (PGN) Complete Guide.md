@@ -1,16 +1,16 @@
 ---
 title: "Portable Chess Game Notation (PGN): Complete Guide"
 author:
-  - Zaur Tekeyev
-contentPublished: 2022-06-18
-noteCreated: 2025-01-11
+  - "Zaur Tekeyev"
+contentPublished: "2022-06-18"
+noteCreated: "2025-01-11"
 tags:
-  - clippings
-  - article
+  - "clippings"
+  - "article"
 description: "Portable Chess Game Notation (PGN): Have you ever heard of Steven James Edwards? His name is not so famous in the chess world, but his..."
-takeaways: 
-Status: ✅ Read
-url: https://thechessworld.com/articles/general-information/portable-chess-game-notation-pgn-complete-guide/
+takeaways:
+Status: "✅ Read"
+url: "https://thechessworld.com/articles/general-information/portable-chess-game-notation-pgn-complete-guide/"
 ---
 **Original URL**: [Portable Chess Game Notation (PGN): Complete Guide - TheChessWorld](https://thechessworld.com/articles/general-information/portable-chess-game-notation-pgn-complete-guide/)
 Explanation of [[PGN]]. 

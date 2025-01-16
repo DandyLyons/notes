@@ -1,15 +1,15 @@
 ---
 title: "Mindfulness: A Christian Approach"
-author: 
-contentPublished: 2019-09-18
-noteCreated: 2025-01-08
+author:
+contentPublished: "2019-09-18"
+noteCreated: "2025-01-08"
 tags:
-  - clippings
-  - article
-description: Like anything, mindfulness can be misused. But it can be a healthy way to manage stress when it's rooted in the Bible and focused on connecting with God.
-takeaways: 
-Status: 🙏🏼 Want To Read
-url: https://www.focusonthefamily.com/family-qa/mindfulness-a-christian-approach/
+  - "clippings"
+  - "article"
+description: "Like anything, mindfulness can be misused. But it can be a healthy way to manage stress when it's rooted in the Bible and focused on connecting with God."
+takeaways:
+Status: "✅ Read"
+url: "https://www.focusonthefamily.com/family-qa/mindfulness-a-christian-approach/"
 publish: true
 ---
 **Original Article**: [Mindfulness: A Christian Approach - Focus on the Family](https://www.focusonthefamily.com/family-qa/mindfulness-a-christian-approach/) 

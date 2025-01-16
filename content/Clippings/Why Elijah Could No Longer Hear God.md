@@ -1,24 +1,24 @@
 ---
-title: Why Elijah Could No Longer Hear God
-source: https://www.youtube.com/watch?v=UMKI7QJuqGI
-media_link: https://www.youtube.com/watch?v=UMKI7QJuqGI
+title: "Why Elijah Could No Longer Hear God"
+source: "https://www.youtube.com/watch?v=UMKI7QJuqGI"
+media_link: "https://www.youtube.com/watch?v=UMKI7QJuqGI"
 author:
   - "[[Topics/Inputs/Podcasts/The Bible Project Podcast/index|The Bible Project Podcast]]"
-contentPublished: \\\"2024-12-16\\\"
-noteCreated: 2024-12-16
-description: The Mountain E8 — On two different mountains, we witness mountain tests with two very different Elijahs. On Mount Carmel, he partners with God in challenging the false prophets of Baal, leading to the
+contentPublished: "\\\\\\\"2024-12-16\\\\\\\""
+noteCreated: "2024-12-16"
+description: "The Mountain E8 — On two different mountains, we witness mountain tests with two very different Elijahs. On Mount Carmel, he partners with God in challenging the false prophets of Baal, leading to the"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[1 Kings-16]]"
   - "[[1 Kings-17|1 Kings 17]]"
   - "[[1 Kings-18]]"
   - "[[1 Kings-19]]"
-Status: 🙏🏼 Want To Read
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 55:03
+Youtube_Duration: "55:03"
 ---
 ![](https://www.youtube.com/watch?v=UMKI7QJuqGI)
 

@@ -14,3 +14,10 @@ aliases:
 	- [[QuickAdd plugin]] 
 - [[Arc]] browser 
 - [[Snipd]] 
+
+## Perspective
+- `^D`: Open Today's Note
+- `^W`: Open This Week's Note
+- `^M`: Open This Month's Note
+- `^Q`: Open This Quarter's Note
+- `^Y`: Open This Year's Note

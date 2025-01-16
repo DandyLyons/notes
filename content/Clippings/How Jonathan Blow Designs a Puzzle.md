@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=2zK8ItePe3Y"
 media_link: "https://www.youtube.com/watch?v=2zK8ItePe3Y"
 author:
   - "[[Game Maker's Toolkit]]"
-contentPublished: \\\"2016-03-09\\\"
-noteCreated: 2024-12-15
+contentPublished: "\\\\\\\"2016-03-09\\\\\\\""
+noteCreated: "2024-12-15"
 description: "🔴 Get bonus content by supporting Game Maker’s Toolkit - https://gamemakerstoolkit.com/support/ 🔴For Jonathan Blow, a puzzle is never just a puzzle - it's a communication from the designer to the"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "8:34"
 ---

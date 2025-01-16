@@ -1,20 +1,20 @@
 ---
 title: "Dev Conversations #4: Matt Massicotte - Swift 6 strict concurrency"
-source: https://www.youtube.com/watch?v=oMg2OjO3LLI
-media_link: https://www.youtube.com/watch?v=oMg2OjO3LLI
+source: "https://www.youtube.com/watch?v=oMg2OjO3LLI"
+media_link: "https://www.youtube.com/watch?v=oMg2OjO3LLI"
 author:
   - "[[Swift Toolkit]]"
-contentPublished: 2024-11-27
-noteCreated: 2024-12-19
-description: The adoption of strict concurrency in Swift is not an easy process in some projects. Implicit assumptions we usually make are often challenged by the compiler, and we don't know how to solve them in m
+contentPublished: "2024-11-27"
+noteCreated: "2024-12-19"
+description: "The adoption of strict concurrency in Swift is not an easy process in some projects. Implicit assumptions we usually make are often challenged by the compiler, and we don't know how to solve them in m"
 tags:
-  - clippings
-  - video
-takeaways: 
-subjects: 
-Status: 🙏🏼 Want To Read
+  - "clippings"
+  - "video"
+takeaways:
+subjects:
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 29:09
+Youtube_Duration: "29:09"
 people:
   - "[[Matt Massicote]]"
 ---

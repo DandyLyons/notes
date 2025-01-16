@@ -2,15 +2,15 @@
 type:
   - "[[Library/The Bible (WEB)/My Notes/Sermon Notes/index|Sermon Notes]]"
 speaker: "[[Archibald Allison]]"
-date: "2025-01-12"
+date: 2025-01-12
 location: "[[Emmaus Orthodox Presbyterian Church]]"
 passage: "[[Ps-104#v35|Ps 104.35]]"
 sermon series: "[[Allison on the Psalms]]"
-sermon link: "https://www.sermonaudio.com/sermons/114251915177044"
+sermon link: https://www.sermonaudio.com/sermons/114251915177044
 subjects:
   - "[[wickedness]]"
-title: "Sinners Shall Be Consu"
-takeaways:
+title: Sinners Shall Be Consumed
+takeaways: 
 publish: true
 ---
 
@@ -25,9 +25,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Location                                                                     | Subjects                                      | Takeaways | Sermon Link |
-| ---------------------------------------------------------------------------- | --------------------------------------------- | --------- | ----------- |
-| [[Emmaus Orthodox Presbyterian Church\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[wickedness\|wickedness]]</li></ul> | \-        | \-          |
+| Location                                                                     | Subjects                                                                                                  | Takeaways | Sermon Link                                         |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
+| [[Emmaus Orthodox Presbyterian Church\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/wickedness.md\|wickedness]]</li></ul> | \-        | https://www.sermonaudio.com/sermons/114251915177044 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

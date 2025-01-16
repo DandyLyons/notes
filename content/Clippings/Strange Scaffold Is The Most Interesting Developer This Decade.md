@@ -1,14 +1,14 @@
 ---
-title: Strange Scaffold Is The Most Interesting Developer This Decade
-contentPublished: 2024-07-21
-noteCreated: 2025-01-11
+title: "Strange Scaffold Is The Most Interesting Developer This Decade"
+contentPublished: "2024-07-21"
+noteCreated: "2025-01-11"
 tags:
-  - clippings
-  - article
-description: The variety, quality, and sheer number of games that Strange Scaffold produces makes it a force of nature in the games industry
-takeaways: 
-Status: 🙏🏼 Want To Read
-url: https://www.thegamer.com/strange-scaffold-most-interesting-developer/
+  - "clippings"
+  - "article"
+description: "The variety, quality, and sheer number of games that Strange Scaffold produces makes it a force of nature in the games industry"
+takeaways:
+Status: "✅ Read"
+url: "https://www.thegamer.com/strange-scaffold-most-interesting-developer/"
 author:
   - "[[Ben Sledge]]"
 publish: true

@@ -1,7 +1,7 @@
 ---
 publish: true
 subjects:
-  - "[[productivity]]"
+  - "[[Topics/productivity/index|productivity]]"
 ---
 **Parkinson's law** can refer to either of two observations, published in 1955 by the naval historian [C. Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson "C. Northcote Parkinson") as an essay in _[The Economist](https://en.wikipedia.org/wiki/The_Economist "The Economist")_:[[1]](https://en.wikipedia.org/wiki/Parkinson%27s_law#cite_note-original-1)
 

@@ -1,21 +1,22 @@
 ---
-title: "How to Add the Bible to Obsidian"
-source: "https://www.youtube.com/watch?v=4mlmRpK8pDs"
-media_link: "https://www.youtube.com/watch?v=4mlmRpK8pDs"
+title: How to Add the Bible to Obsidian
+source: https://www.youtube.com/watch?v=4mlmRpK8pDs
+media_link: https://www.youtube.com/watch?v=4mlmRpK8pDs
 author:
   - "[[Chris J Wilson]]"
-contentPublished:
+contentPublished: 
 noteCreated: 2024-12-06
-description: "There are many ways to take digital Bible notes but the Biblekasten system helps to connect ideas and themes across verses and books of the Bible. In this vi..."
+description: There are many ways to take digital Bible notes but the Biblekasten system helps to connect ideas and themes across verses and books of the Bible. In this vi...
 tags:
-  - "clippings"
-  - "video"
-takeaways:
-subjects: "[[Obsidian]]"
-Status: "🙏🏼 Want To Read"
+  - clippings
+  - video
+takeaways: 
+subjects:
+  - "[[Topics/Software/Obsidian/index|Obsidian]]"
+Status: 🙏🏼 Want To Read
 publish: true
 ---
-![](https://www.youtube.com/watch?v=4mlmRpK8pDs)
+[[Topics/Software/Obsidian/index|Obsidian]]![](https://www.youtube.com/watch?v=4mlmRpK8pDs)
 
 ## Description
 There are many ways to take digital Bible notes but the Biblekasten system helps to connect ideas and themes across verses and books of the Bible. In this vi...

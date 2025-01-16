@@ -1,16 +1,16 @@
 ---
-title: The Unstoppable Rise of Strange Scaffold
+title: "The Unstoppable Rise of Strange Scaffold"
 author:
   - "[[Ryan K. Rigney]]"
-contentPublished: 2024-02-09
-noteCreated: 2025-01-11
+contentPublished: "2024-02-09"
+noteCreated: "2025-01-11"
 tags:
-  - clippings
-  - article
-description: How Strange Scaffold uses healthy practices to ship better games faster, while keeping a healthy workplace.
-takeaways: 
-Status: 👀 Reading
-url: https://www.pushtotalk.gg/p/the-unstoppable-rise-of-strange-scaffold
+  - "clippings"
+  - "article"
+description: "How Strange Scaffold uses healthy practices to ship better games faster, while keeping a healthy workplace."
+takeaways:
+Status: "👀 Reading"
+url: "https://www.pushtotalk.gg/p/the-unstoppable-rise-of-strange-scaffold"
 subjects:
   - "[[Strange Scaffold]]"
 publish: true

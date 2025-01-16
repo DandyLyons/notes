@@ -36,3 +36,8 @@ Obsidian takes a very similar design approach to [[Topics/Software Development/I
 - [Nicole van der Hoeven - YouTube](https://www.youtube.com/@nicolevdh)
 - [Linking Your Thinking with Nick Milo - YouTube](https://www.youtube.com/@linkingyourthinking)
 - [Prakash Joshi Pax - YouTube](https://www.youtube.com/@beingpax) 
+
+## Tools
+- [Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/)
+	- [Plugin Stats](https://www.moritzjung.dev/obsidian-stats/pluginstats/)
+	- Theme Stats

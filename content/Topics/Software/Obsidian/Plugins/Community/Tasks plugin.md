@@ -14,6 +14,8 @@ Track tasks across your entire vault. Query them and mark them as done wherever 
 
 _You can toggle the task status in any view or query and it will update the source file._
 
+## Limitations
+- **Time metadata missing**: It seems that this plugin does not have the built-in ability to timestamp. You can add dates but not times. 
 ## Tutorials
 - [Official Tutorials](https://publish.obsidian.md/tasks/How+To/About+How+Tos)
 ## Statuses

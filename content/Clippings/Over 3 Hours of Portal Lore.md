@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=9_mNuYoYnnI"
 media_link: "https://www.youtube.com/watch?v=9_mNuYoYnnI"
 author:
   - "[[Skyrionn]]"
-contentPublished: \\\"2023-12-07\\\"
-noteCreated: 2024-12-17
+contentPublished: "\\\\\\\"2023-12-07\\\\\\\""
+noteCreated: "2024-12-17"
 description: "Over 3 hours of Portal lore!This is a compilation of previously uploaded videos into one video.Timestamps00:00 Introduction00:12 Wheatley21:57 Personality Cores45:54 Doug Rattmann01:07:18 GLaD"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "3:43:55"
 ---

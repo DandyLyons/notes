@@ -1,21 +1,22 @@
 ---
 title: "'Little Learning Machines' Postmortem: A Game About Training Neural Networks"
-source: https://www.youtube.com/watch?v=o_NGucEip08
-media_link: https://www.youtube.com/watch?v=o_NGucEip08
+source: "https://www.youtube.com/watch?v=o_NGucEip08"
+media_link: "https://www.youtube.com/watch?v=o_NGucEip08"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2024-10-16\\\"
-noteCreated: 2024-12-17
-description: Recent developments in Reinforcement Learning (RL) have resulted in near-human ability in competitive games such as Go, StarCraft and Dota 2, at the cost of significant computing power. An often under
+contentPublished: "\\\\\\\"2024-10-16\\\\\\\""
+noteCreated: "2024-12-17"
+description: "Recent developments in Reinforcement Learning (RL) have resulted in near-human ability in competitive games such as Go, StarCraft and Dota 2, at the cost of significant computing power. An often under"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[reinforcement learning]]"
-Status: 🙏🏼 Want To Read
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 59:39
+Youtube_Duration: "59:39"
+image-fit: "contain"
 ---
 ![](https://www.youtube.com/watch?v=o_NGucEip08)
 
