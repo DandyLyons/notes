@@ -1,0 +1,75 @@
+---
+publish: true
+---
+From: [[2024-09-05 HireReady Workshop]]
+Speaker: Kyle Law, Lead Recuiter, Jobscan
+
+- Common question: *Tell me about yourself*
+	- try SEAT framework: Skills, Experience, Achievement, Type of Person
+- Interview question: *What are you salary expectations?*
+	- You should have a minimum number in mind. 
+		- If I don't have at least this number I can't pay my bills
+	- The reason that they're asking: 
+		- ensure that their expectations are in line with yours
+	- Negotiating strategy
+		- It's never in your benefit to give your number first
+	- Try asking *what is your budget for your role?*
+		- Try politely turning the question back to them.
+		- Try "*I'm sure you have a salary range in mind. If you don't mind, could you please share it with me. I'll see if it works for me.*"
+		- "I believe the salary range will be commensurate with experience and I know you are looking to stay within your budget...what range are you thinking"
+	- It's not a good idea to refuse to answer the question. This will burn a bridge
+- Question: "*What are you weaknesses?*"
+	- Why do they ask this? 
+		- They want to know what you have improved on.
+		- They want to know that you are a person who works on self-improvement and self-awareness
+		- They also want to see that you are coachable, open to feedback. 
+	- Strategies: 
+		- Don't just answer the question. Share how you overcame the weakness.
+		- 1: Choose a genuine professional weakness 2: Share a story about how this weakness has impacted you in 3: Discuss what steps you've taken to improve the weakness4: Showcase the
+- Question: "*What are your strengths?*" 
+	- Hard or soft skills? 
+		- just focus on what is relevant 
+	- show how your strengths will benefit the business
+	- Do you need to share a story? 
+		- It might depend on who is asking the question. 
+	- This isn't necessarily a trick question. They just want to know if you are self-aware of your strengths. 
+	- How many strengths should you aim to talk about in 3 mins? 
+	- Are strengths and qualifications different? 
+		- They're looking for something more specific. 
+	- Example answers: 
+		- *timely decision making*
+		- *I'm an optimistic and realistic person*
+			- add more detail. 
+- Question: "*Why do you want this job?*"
+	- This is an opportunity for you to demonstrate a genuine interest in the role. 
+	- Show how you can benefit the company. 
+	- Focus less on how this benefits you. 
+		- *I want this job cause it's remote.*
+		- exception: 
+	- Bad answers: 
+		- *I want to pay the bills*
+- Question: "*Why are you looking for a new job?*"
+	- Reason for asking: 
+		- they want to know if their expectations match yours. 
+		- They want to know if they will be able to keep you happy long term.
+	- Generally the reason why we're looking for a new job is because we are disatisfied with our last job? 
+		- But this can be a touchy subject. 
+	- avoid saying: 
+		- I'm super unhappy because XYZ
+	- Strategies: 
+		- Try to frame it in a way that will make them sympathetic to way you left
+	- Sample answers; 
+		- "It wasn't a good fit for me"
+		- "I left my old job to care for a family member"
+	- Is it bad to be honest about mass layoffs? 
+		- This should not affect your reputation. 
+- Question: "*what makes you unique?*"
+	- Hiring manager is more likely to ask this rather than a recruiter
+	- Example answer: 
+		- What makes me unique is that I lived in 20 different states, so that makes me instantly relate to more applicants. 
+	- Show how your unique qualities benefit the company. 
+- Takeaways
+	- Demonstrate: 
+		- Fit: how well you "fit" the company
+		- Level of interest
+		- How you can benefit the company

@@ -1,0 +1,160 @@
+{
+  "seekSeconds": 10,
+  "verticalPlayerHeight": 40,
+  "horizontalPlayerWidth": 40,
+  "defaultSplitMode": "Vertical",
+  "pauseOnTimestampInsert": false,
+  "displayProgressBar": true,
+  "displayTimestamp": true,
+  "timestampOffsetSeconds": 6,
+  "backgroundColor": "#000000",
+  "progressBarColor": "#FF0000",
+  "timestampTemplate": "[{ts}]({link})\n",
+  "mediaData": {
+    "X4W9ainE1JY": {
+      "mediaLink": "https://www.youtube.com/watch?v=X4W9ainE1JY",
+      "lastUpdated": "2024-12-29T02:44:44.000Z",
+      "lastTimestampSeconds": 226.74611
+    },
+    "nD-fxQgU1ug": {
+      "mediaLink": "https://www.youtube.com/watch?v=nD-fxQgU1ug",
+      "lastUpdated": "2025-01-01T05:33:25.583Z",
+      "lastTimestampSeconds": 2350
+    },
+    "oCc6m8SaVJc": {
+      "mediaLink": "https://www.youtube.com/watch?v=oCc6m8SaVJc",
+      "lastUpdated": "2024-12-29T03:04:54.397Z",
+      "lastTimestampSeconds": 304.841
+    },
+    "ouqgx1qKSdY": {
+      "mediaLink": "https://www.youtube.com/watch?v=ouqgx1qKSdY",
+      "lastUpdated": "2025-01-06T02:06:12.843Z",
+      "lastTimestampSeconds": 1098.821239
+    },
+    "x4m_PdFbu-s": {
+      "mediaLink": "https://www.youtube.com/watch?v=x4m_PdFbu-s",
+      "lastUpdated": "2025-01-16T06:25:48.646Z",
+      "lastTimestampSeconds": 3245
+    },
+    "O9yvLLQaa9s": {
+      "mediaLink": "https://www.youtube.com/watch?v=O9yvLLQaa9s",
+      "lastUpdated": "2025-01-05T16:30:49.917Z",
+      "lastTimestampSeconds": 0
+    },
+    "PjN9w_egTeA": {
+      "mediaLink": "https://www.youtube.com/watch?v=PjN9w_egTeA&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp&index=104",
+      "lastUpdated": "2025-01-12T05:55:20.620Z",
+      "lastTimestampSeconds": 4916
+    },
+    "zeYtjYPjCkg": {
+      "mediaLink": "https://www.youtube.com/watch?v=zeYtjYPjCkg",
+      "lastUpdated": "2025-01-14T05:21:05.866Z",
+      "lastTimestampSeconds": 158.351541
+    },
+    "E9h9VnbPGuw": {
+      "mediaLink": "https://www.youtube.com/watch?v=E9h9VnbPGuw",
+      "lastUpdated": "2025-01-08T04:48:23.809Z",
+      "lastTimestampSeconds": 709
+    },
+    "JEQR4ALlwVU": {
+      "mediaLink": "https://www.youtube.com/watch?v=JEQR4ALlwVU",
+      "lastUpdated": "2025-01-12T05:55:20.620Z",
+      "lastTimestampSeconds": 344
+    },
+    "vsKxB66_ngw": {
+      "mediaLink": "https://www.youtube.com/watch?v=vsKxB66_ngw",
+      "lastUpdated": "2025-01-08T02:23:54.434Z",
+      "lastTimestampSeconds": 296.962874
+    },
+    "1_OFJLyqlXI": {
+      "mediaLink": "https://www.youtube.com/watch?v=1_OFJLyqlXI",
+      "lastUpdated": "2025-01-08T02:23:54.435Z",
+      "lastTimestampSeconds": 1344.682337
+    },
+    "nAh_Kx5Zh5Q": {
+      "mediaLink": "https://www.youtube.com/watch?v=nAh_Kx5Zh5Q",
+      "lastUpdated": "2025-01-17T05:44:17.903Z",
+      "lastTimestampSeconds": 22411
+    },
+    "ucTc_J1C-_k": {
+      "mediaLink": "https://www.youtube.com/watch?v=ucTc_J1C-_k",
+      "lastUpdated": "2025-01-09T05:11:03.030Z",
+      "lastTimestampSeconds": 0
+    },
+    "JTuZuUesDKs": {
+      "mediaLink": "https://www.youtube.com/watch?v=JTuZuUesDKs",
+      "lastUpdated": "2025-01-09T05:11:03.031Z",
+      "lastTimestampSeconds": 89.816182
+    },
+    "aFfREf9IQ7Q": {
+      "mediaLink": "https://www.youtube.com/watch?v=aFfREf9IQ7Q",
+      "lastUpdated": "2025-01-12T22:40:57.251Z",
+      "lastTimestampSeconds": 788
+    },
+    "9_mNuYoYnnI": {
+      "mediaLink": "https://www.youtube.com/watch?v=9_mNuYoYnnI",
+      "lastUpdated": "2025-01-09T23:13:31.068Z",
+      "lastTimestampSeconds": 0
+    },
+    "yiw6ME1C-10": {
+      "mediaLink": "https://www.youtube.com/watch?v=yiw6ME1C-10",
+      "lastUpdated": "2025-01-11T17:12:57.606Z",
+      "lastTimestampSeconds": 0
+    },
+    "2cUoaWMw4cQ": {
+      "mediaLink": "https://www.youtube.com/watch?v=2cUoaWMw4cQ",
+      "lastUpdated": "2025-01-12T05:55:20.626Z",
+      "lastTimestampSeconds": 252
+    },
+    "sJQydvy3uT8": {
+      "mediaLink": "https://www.youtube.com/watch?v=sJQydvy3uT8",
+      "lastUpdated": "2025-01-14T17:11:38.209Z",
+      "lastTimestampSeconds": 0
+    },
+    "Z7hqXaFx5yo": {
+      "mediaLink": "https://www.youtube.com/watch?v=Z7hqXaFx5yo",
+      "lastUpdated": "2025-01-14T05:21:05.866Z",
+      "lastTimestampSeconds": 0
+    },
+    "t6OLlwekVI0": {
+      "mediaLink": "https://www.youtube.com/watch?v=t6OLlwekVI0",
+      "lastUpdated": "2025-01-14T23:19:22.284Z",
+      "lastTimestampSeconds": 2013
+    },
+    "uU9QZD6dyss": {
+      "mediaLink": "https://www.youtube.com/watch?v=uU9QZD6dyss",
+      "lastUpdated": "2025-01-18T00:09:14.429Z",
+      "lastTimestampSeconds": 4011.302987876022
+    },
+    "5ChBGf2mDeE": {
+      "mediaLink": "https://www.youtube.com/watch?v=5ChBGf2mDeE",
+      "lastUpdated": "2025-01-14T05:55:01.811Z",
+      "lastTimestampSeconds": 0
+    },
+    "zyVTxGpEO30": {
+      "mediaLink": "https://www.youtube.com/watch?v=zyVTxGpEO30&list=PLcxsfF423PpbKne9m9YMb9vhDBAYf5pN0",
+      "lastUpdated": "2025-01-15T19:06:38.298Z",
+      "lastTimestampSeconds": 3864.661
+    },
+    "4mlmRpK8pDs": {
+      "mediaLink": "https://www.youtube.com/watch?v=4mlmRpK8pDs",
+      "lastUpdated": "2025-01-15T19:25:59.335Z",
+      "lastTimestampSeconds": 0
+    },
+    "K-TW2Chpz4k": {
+      "mediaLink": "https://www.youtube.com/watch?v=K-TW2Chpz4k&t=0s",
+      "lastUpdated": "2025-01-17T05:44:17.903Z",
+      "lastTimestampSeconds": 82
+    },
+    "F53qTyIiZDc": {
+      "mediaLink": "https://www.youtube.com/watch?v=F53qTyIiZDc",
+      "lastUpdated": "2025-01-17T04:56:34.209Z",
+      "lastTimestampSeconds": 308.701
+    },
+    "gqfWjDhAFWA": {
+      "mediaLink": "https://www.youtube.com/watch?v=gqfWjDhAFWA",
+      "lastUpdated": "2025-01-17T18:07:45.768Z",
+      "lastTimestampSeconds": 200.261
+    }
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "main": {
+    "id": "994b8fdfc7945b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b736e635805f4e5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4a2d8ec7fb82d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH"
+            }
+          },
+          {
+            "id": "c59c1886bc4cbcd9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=uU9QZD6dyss",
+                "title": "Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH - YouTube"
+            }
+          },
+          {
+            "id": "32f886ec80c51484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gitignore/Journals/Life/2025/Weekly Notes/2025-W03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-W03"
+            }
+          },
+          {
+            "id": "aab91ac68bf49917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gitignore/Journals/Life/2025/January/2025-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01"
+            }
+          },
+          {
+            "id": "50a24ea0af2c1bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gitignore/Journals/Life/2025/Quarterly Notes/2025-Q1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-Q1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "858848ae264e7c45",
+    "type": "split",
+    "children": [
+      {
+        "id": "476e060190702f62",
+        "type": "tabs",
+        "dimension": 50.19841269841268,
+        "children": [
+          {
+            "id": "aa19a007e8bc3ddb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68996f35e15aa24b",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "gallery-vertical",
+              "title": "Vertical tabs"
+            }
+          },
+          {
+            "id": "35ac840bb65a6c93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "docks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5335340c22b4b4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a194bc17708d9612",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1ef33b458db4bc43",
+        "type": "tabs",
+        "dimension": 49.80158730158732,
+        "children": [
+          {
+            "id": "c4bb61b4f8911a8f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "defer"
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c82abba827a6d8ae",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "4f348ba71bab770b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4299ee904212ae86",
+        "type": "tabs",
+        "dimension": 75.4932502596054,
+        "children": [
+          {
+            "id": "89a622a8626147fd",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "abc4375b1667c2f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "745a7ef217851a84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7691e2f4f447cf48",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "eb64af8bd495c359",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d5c51c6506fa8690",
+        "type": "tabs",
+        "dimension": 24.506749740394596,
+        "children": [
+          {
+            "id": "d628ba4cfa93ca30",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Topics/Software Development/Programming Languages/Python/index.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.22996894132560952,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of index"
+            }
+          },
+          {
+            "id": "62fe93c120f95f4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH"
+            }
+          },
+          {
+            "id": "4dc783640dd345bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "256dfae282f1a7df",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Clippings/Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5871325103547864,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH"
+            }
+          },
+          {
+            "id": "fb634b47fcc3e8d3",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Info View"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "broken-links:View broken links": false,
+      "journals:Open today's note": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "vim-toggle:Toggle Vim Mode": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "game-search:Create new game note": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "iconic:Open rulebook": false,
+      "vault-explorer:Open vault explorer": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "copilot:Open Copilot Chat": false,
+      "task-status:Change Checkbox Status": false,
+      "time-ruler:Open Time Ruler": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "f4a2d8ec7fb82d74",
+  "lastOpenFiles": [
+    "Clippings/Stormlight Archive - FULL STORY RECAP BEFORE WIND AND TRUTH.md",
+    "gitignore/Journals/Life/2025/January/2025-01-17.md",
+    "gitignore/Journals/Life/2025/Quarterly Notes/2025-Q1.md",
+    "Topics/Software Development/Programming Languages/GDScript/type casting in GDScript.md",
+    "Topics/Software/Obsidian/Godot Keyboard Shortcuts.md",
+    "Topics/Software Development/Game Development/Game Engines/Godot/Nodes/Node Lifecycle in Godot.md",
+    "gitignore/Journals/Life/2025/January/2025-01.md",
+    "gitignore/Journals/Life/2025/Weekly Notes/2025-W03.md",
+    "gitignore/Journals/Life/2025/January/2025-01-16.md",
+    "Clippings/UNDOCKING and Moving Docks in the GODOT Editor.md",
+    "Topics/Software Development/Game Development/Game Engines/Godot/Remote Debug in Godot.md",
+    "Topics/Software Development/Game Development/Game Engines/Godot/Godot 4.4.md",
+    "Topics/Inputs/Books/Audiobooks/index.md",
+    "Topics/Project Gutenberg.md",
+    "Clippings/The ultimate introduction to Godot 4.md",
+    "Topics/Public Domain.md",
+    "Topics/Creative Commons.md",
+    "Topics/eBooks.md",
+    "Clippings/First Look at Godot's Editor Interface, in 5 Minutes.md",
+    "Topics/Software Development/Game Development/Game Engines/Godot/Godot Editor.md",
+    "gitignore/The Brewz/Pat Boone Gold Label.md",
+    "2025-01-16.md",
+    "Topics/File over app.md",
+    "Topics/Fear.md",
+    "Topics/Discipline.md",
+    "Topics/Creativity.md",
+    "Screenshot 2024-03-23 at 9.51.47 PM.png",
+    "Screenshot 2024-03-23 at 9.31.40 PM.png",
+    "Screenshot 2024-03-26 at 1.01.15 PM.png",
+    "Topics/productivity",
+    "gitignore/Content Calendar",
+    "Topics/Writing",
+    "Topics/Hymns",
+    "Topics/Impossible",
+    "Topics/Email",
+    "Topics/Releasing",
+    "Topics/Space",
+    "Topics/Reality",
+    "Topics/Dreams",
+    "gitignore/Screenshot 2024-12-15 at 4.02.00 PM.png",
+    "gitignore/Screenshot 2024-10-02 at 3.15.52 PM.png",
+    "gitignore/Screenshot 2024-09-05 at 10.16.08 AM.png",
+    "gitignore/Screenshot 2024-10-02 at 3.33.58 PM.png",
+    "gitignore/Screenshot 2024-11-11 at 8.40.26 AM.png",
+    "gitignore/Screenshot 2024-12-15 at 4.04.12 PM.png",
+    "gitignore/Screenshot 2024-10-04 at 5.12.07 PM.png",
+    "Pat Boone relationships.canvas",
+    "gitignore/Practical PKM Starter Vault/Canvas/Habit Tracking Dashboard.canvas",
+    "Topics/Software Development/Game Development/My Projects/VorTexT/VorTexT Architecture.canvas"
+  ]
+}

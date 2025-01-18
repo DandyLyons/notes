@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "fbb633cf0ebca3fe",
+      "type": "text",
+      "text": "# Writing",
+      "x": -620,
+      "y": -380,
+      "width": 480,
+      "height": 660,
+      "color": "#707070"
+    },
+    {
+      "id": "4abf2df75f2a9c51",
+      "type": "text",
+      "text": "```tracker\nsearchType: task.done \nsearchTarget: Writing\ndatasetName: Writing\nstartDate: 2024-01-01\nmonth:\n    startWeekOn: 'Mon'\n```",
+      "x": -585,
+      "y": -300,
+      "width": 410,
+      "height": 440
+    },
+    {
+      "id": "cd7c466eb5763474",
+      "type": "text",
+      "text": "# Reading",
+      "x": -100,
+      "y": -380,
+      "width": 480,
+      "height": 660,
+      "color": "#707070"
+    },
+    {
+      "id": "705380117a0f6eb7",
+      "type": "text",
+      "text": "``` tracker\nsearchType: task.done \nsearchTarget: Reading\ndatasetName: Reading\nstartDate: 2024-01-01\nmonth:\n    startWeekOn: 'Mon'\n```",
+      "x": -65,
+      "y": -300,
+      "width": 410,
+      "height": 440
+    },
+    {
+      "id": "3a2571644193ddef",
+      "type": "text",
+      "text": "# Planning",
+      "x": 420,
+      "y": -380,
+      "width": 480,
+      "height": 660,
+      "color": "#707070"
+    },
+    {
+      "id": "973111b4a0187de6",
+      "type": "text",
+      "text": "``` tracker\nsearchType: task.done \nsearchTarget: Planning\ndatasetName: Plan Tomorrow\nstartDate: 2024-01-01\nmonth:\n    startWeekOn: 'Mon'\n```",
+      "x": 455,
+      "y": -300,
+      "width": 410,
+      "height": 440
+    },
+    {
+      "id": "025b972f3d261425",
+      "type": "text",
+      "text": "```tracker\nsearchType: task.done \nsearchTarget: Writing\nstartDate: 2024-01-01\nsummary:\n    template: \"Longest Streak: {{maxStreak()}} day(s)\\nLongest Breaks: {{maxBreaks()}} day(s)\\nCurrent streak: {{currentStreak()}} day(s)\"\n```",
+      "x": -585,
+      "y": 180,
+      "width": 410,
+      "height": 80
+    },
+    {
+      "id": "a2335b5d97bc084d",
+      "type": "text",
+      "text": "```tracker\nsearchType: task.done \nsearchTarget: Reading\nstartDate: 2024-01-01\nsummary:\n    template: \"Longest Streak: {{maxStreak()}} day(s)\\nLongest Breaks: {{maxBreaks()}} day(s)\\nCurrent streak: {{currentStreak()}} day(s)\"\n```",
+      "x": -65,
+      "y": 180,
+      "width": 410,
+      "height": 80
+    },
+    {
+      "id": "2bea3d9026ed44fc",
+      "type": "text",
+      "text": "```tracker\nsearchType: task.done \nsearchTarget: Planning\nstartDate: 2024-01-01\nsummary:\n    template: \"Longest Streak: {{maxStreak()}} day(s)\\nLongest Breaks: {{maxBreaks()}} day(s)\\nCurrent streak: {{currentStreak()}} day(s)\"\n```",
+      "x": 455,
+      "y": 180,
+      "width": 410,
+      "height": 80
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

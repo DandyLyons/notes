@@ -1,0 +1,13 @@
+{
+  "folder": "Topics/Inputs/Video Games",
+  "fileNameFormat": "{{name}}",
+  "templateFile": "gitignore/TEMPLATES/Video Game TEMPLATE.md",
+  "rawgApiKey": "4be1fe133fd14e098b951a8cc4c05099",
+  "steamApiKey": null,
+  "steamUserId": null,
+  "syncSteamOnStart": true,
+  "syncSteamPlaytimeOnStart": true,
+  "tryFindSteamGameOnCreate": true,
+  "metaDataForOwnedSteamGames": null,
+  "metaDataForWishlistedSteamGames": null
+}

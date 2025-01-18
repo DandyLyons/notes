@@ -1,0 +1,874 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Backlog",
+            "Done"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "736cdddd-44ff-437f-84f6-406cf812275d",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "orderSyncField": "weight"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "5d4b6da8-a882-413f-bb36-58d96270ab2f",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "29f870f0-2776-4d82-bb86-ce0d8330cd1b",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image",
+            "fitStyle": "cover",
+            "includeFields": []
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "fa597d78-d93d-4b46-9970-f37f20168c1c",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "f6a6df36-d039-4ce6-9d3b-feb8306bf5b3",
+      "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "gitignore/Journals/Life/TEMPLATES/Daily Notes TEMPLATE.md"
+      ],
+      "excludedNotes": [
+        "gitignore/Journals/Life/TEMPLATES/Daily Notes TEMPLATE.md",
+        "gitignore/Journals/Life/TEMPLATES/Yearly Notes TEMPLATE.md",
+        "gitignore/Journals/Life/TEMPLATES/Weekly Notes TEMPLATE.md",
+        "gitignore/Journals/Life/TEMPLATES/Quarterly Notes TEMPLATE.md",
+        "gitignore/Journals/Life/TEMPLATES/Monthly Notes TEMPLATE.md",
+        ""
+      ],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "gitignore/Journals/Life",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "gitignore/Journals/Life",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "journal-start-date",
+              "path",
+              "journal",
+              "journal-end-date",
+              "journal-section"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "journal": {
+                "width": 134,
+                "hide": true
+              },
+              "name": {
+                "width": 118
+              },
+              "journal-end-date": {
+                "hide": true
+              },
+              "journal-start-date": {
+                "width": 147,
+                "hide": true
+              },
+              "journal-section": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "journal-section",
+                "operator": "is",
+                "enabled": true,
+                "value": "day"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "journal-start-date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "4acac178-6fd2-49ba-9c63-96e17d07c9ef",
+          "name": "day",
+          "type": "table"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "journal-start-date",
+              "path",
+              "journal",
+              "journal-end-date",
+              "journal-section"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "journal": {
+                "width": 134,
+                "hide": true
+              },
+              "name": {
+                "width": 118
+              },
+              "journal-end-date": {
+                "hide": true
+              },
+              "journal-start-date": {
+                "width": 147,
+                "hide": true
+              },
+              "journal-section": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "journal-section",
+                "operator": "is",
+                "enabled": true,
+                "value": "week"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "journal-start-date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "72800145-05b1-4967-b5d7-65424e833341",
+          "name": "week",
+          "type": "table"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "journal-start-date",
+              "path",
+              "journal",
+              "journal-end-date",
+              "journal-section"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "journal": {
+                "width": 134,
+                "hide": true
+              },
+              "name": {
+                "width": 118
+              },
+              "journal-end-date": {
+                "hide": true
+              },
+              "journal-start-date": {
+                "width": 147,
+                "hide": true
+              },
+              "journal-section": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "journal-section",
+                "operator": "is",
+                "enabled": true,
+                "value": "month"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "journal-start-date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "dab899a3-077d-4170-be2d-2dbdca3b5ab8",
+          "name": "month",
+          "type": "table"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "journal-start-date",
+              "path",
+              "journal",
+              "journal-end-date",
+              "journal-section"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "journal": {
+                "width": 134,
+                "hide": true
+              },
+              "name": {
+                "width": 118
+              },
+              "journal-end-date": {
+                "hide": true
+              },
+              "journal-start-date": {
+                "width": 147,
+                "hide": true
+              },
+              "journal-section": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "journal-section",
+                "operator": "is",
+                "enabled": true,
+                "value": "quarter"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "journal-start-date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "c7025499-d9d3-4cc2-b644-06e9cafa6004",
+          "name": "quarter",
+          "type": "table"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "journal-start-date",
+              "path",
+              "journal",
+              "journal-end-date",
+              "journal-section"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "journal": {
+                "width": 134,
+                "hide": true
+              },
+              "name": {
+                "width": 118
+              },
+              "journal-end-date": {
+                "hide": true
+              },
+              "journal-start-date": {
+                "width": 147,
+                "hide": true
+              },
+              "journal-section": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "journal-section",
+                "operator": "is",
+                "enabled": true,
+                "value": "year"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "journal-start-date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "a1161aac-942b-4100-adc1-baa085b24f93",
+          "name": "year",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "2weeks",
+            "dateField": "journal-start-date"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d4750423-223c-4011-8f10-4136cf38c502",
+          "name": "📅",
+          "type": "calendar"
+        }
+      ],
+      "id": "ca90c614-46f9-4967-870c-828650dd28cb",
+      "name": "Life Journal"
+    },
+    {
+      "fieldConfig": {
+        "Status": {
+          "options": [
+            "🙏🏼 Want To Read",
+            "👀 Reading",
+            "✅ Read"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Clippings",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "Status",
+              "noteCreated",
+              "contentPublished",
+              "publish",
+              "author",
+              "description",
+              "media_link",
+              "people",
+              "source",
+              "speaker",
+              "subjects",
+              "tags",
+              "takeaways",
+              "title",
+              "url",
+              "Youtube_Duration",
+              "image-fit"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 398,
+                "pinned": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "Status",
+                "operator": "contains",
+                "enabled": false,
+                "value": "eading"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "noteCreated",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "a3f6939f-5366-4d06-bdac-e48de8dcfa97",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "34437d7c-5957-4624-b4b7-cafac939a306",
+      "name": "Clippings"
+    },
+    {
+      "fieldConfig": {
+        "location": {
+          "richText": true
+        },
+        "passage": {
+          "richText": true
+        },
+        "speaker": {
+          "richText": true
+        },
+        "subjects": {
+          "richText": true
+        },
+        "sermon series": {
+          "richText": true
+        },
+        "title": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "gitignore/TEMPLATES/Sermon Notes TEMPLATE.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Library/The Bible (WEB)/My Notes/Sermon Notes",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "publish": {
+                "width": 121
+              },
+              "date": {
+                "width": 110
+              },
+              "title": {
+                "width": 180
+              }
+            },
+            "orderFields": [
+              "name",
+              "date",
+              "title",
+              "passage",
+              "publish",
+              "takeaways",
+              "sermon link",
+              "sermon series",
+              "location",
+              "speaker",
+              "subjects",
+              "type"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "932a44cc-6552-400a-bac0-223146f64e79",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "7da71ef3-0e47-4005-ab74-17174d550dc0",
+      "name": "Sermon Notes"
+    },
+    {
+      "fieldConfig": {
+        "TaskStatus": {
+          "options": [
+            "📥 Backlog",
+            "➡️ Up Next",
+            "🏃🏼‍♂️ In Progress",
+            "✅ Completed",
+            "❌ DROPPED"
+          ],
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "gitignore/Projects/Personal Projects/Project TEMPLATE.md"
+      ],
+      "excludedNotes": [
+        "gitignore/Projects/Personal Projects/Project TEMPLATE.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "gitignore/Projects/Personal Projects",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 199
+              }
+            },
+            "orderFields": [
+              "name",
+              "TaskStatus",
+              "blockers",
+              "deferUntil",
+              "next_steps"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b9318446-145d-47d4-9be4-647d84a42e3e",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "TaskStatus",
+            "includeFields": [
+              "name",
+              "deferUntil",
+              "next_steps",
+              "blockers"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "eaafb05b-0075-445f-9f39-4464c66d64fc",
+          "name": "Kanban",
+          "type": "board"
+        }
+      ],
+      "id": "8c079db5-d17b-4533-9db7-64f44239a87e",
+      "name": "Personal Projects"
+    },
+    {
+      "fieldConfig": {
+        "next_steps": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "gitignore/Projects/The Brewz",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b00d7c9b-077d-459d-b69c-015d633cd72f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e06a6620-5a39-40d8-8cd8-af8021b58b86",
+      "name": "The Brewz Projects"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "gitignore/Content Calendar",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "82a4e00e-93f9-4a9d-affb-4fb19b65fb94",
+          "name": "Cal",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "31a92f25-e3ca-4d68-8c0d-ed8a3554c41c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b4700c68-2f99-428a-8d55-e34944d9834a",
+      "name": "Content Calendar"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "QUOTE_DOUBLE"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [
+      {
+        "project": "ca90c614-46f9-4967-870c-828650dd28cb",
+        "view": "a1161aac-942b-4100-adc1-baa085b24f93"
+      },
+      {
+        "project": "ca90c614-46f9-4967-870c-828650dd28cb",
+        "view": "4acac178-6fd2-49ba-9c63-96e17d07c9ef"
+      },
+      {
+        "project": "7da71ef3-0e47-4005-ab74-17174d550dc0"
+      },
+      {
+        "project": "ca90c614-46f9-4967-870c-828650dd28cb",
+        "view": "72800145-05b1-4967-b5d7-65424e833341"
+      },
+      {
+        "project": "ca90c614-46f9-4967-870c-828650dd28cb",
+        "view": "dab899a3-077d-4170-be2d-2dbdca3b5ab8"
+      },
+      {
+        "project": "ca90c614-46f9-4967-870c-828650dd28cb",
+        "view": "c7025499-d9d3-4cc2-b644-06e9cafa6004"
+      },
+      {
+        "project": "34437d7c-5957-4624-b4b7-cafac939a306"
+      },
+      {
+        "project": "b4700c68-2f99-428a-8d55-e34944d9834a",
+        "view": "82a4e00e-93f9-4a9d-affb-4fb19b65fb94"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

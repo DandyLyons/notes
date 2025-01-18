@@ -1,0 +1,21 @@
+{
+  "showActiveTabs": false,
+  "autoUncollapseGroup": false,
+  "hideSidebars": false,
+  "sidebarTabTypes": [
+    "markdown"
+  ],
+  "sidebarExcludeSelf": true,
+  "trimTabNames": false,
+  "showMoreButtons": true,
+  "zenMode": false,
+  "enableTabZoom": true,
+  "alwaysOpenInNewTab": false,
+  "deduplicateTabs": false,
+  "ephemeralTabs": false,
+  "smartNavigation": true,
+  "navigationStrategy": "obsidian-plus",
+  "autoCloseEphemeralTabs": true,
+  "deduplicateSidebarTabs": false,
+  "backgroundMode": false
+}
