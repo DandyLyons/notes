@@ -1,1 +1,0 @@
-[Understanding @FocusState, @FocusedValue and @FocusedObject](https://www.appcoda.com/focusstate/) 

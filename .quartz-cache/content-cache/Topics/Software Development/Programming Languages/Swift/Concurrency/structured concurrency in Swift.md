@@ -1,1 +1,0 @@
-[[Video - Leveraging structured concurrency in your applications - Franz Busch]] 

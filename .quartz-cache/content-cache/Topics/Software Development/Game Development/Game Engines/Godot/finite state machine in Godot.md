@@ -1,5 +1,0 @@
----
-publish: true
----
-- [[State machines and state charts in Godot]]
-- [Finite State Machine in Godot 4 · GDQuest](https://www.gdquest.com/tutorial/godot/design-patterns/finite-state-machine/) 
