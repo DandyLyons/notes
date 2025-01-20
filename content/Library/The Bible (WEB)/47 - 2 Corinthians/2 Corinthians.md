@@ -53,6 +53,14 @@
 		vi. Concern for the Corinthians  ( 12:11⁠–⁠21 )
 	b. Examine Yourselves  ( 13:1⁠–⁠10 )
 	c. Benediction and Farewell  ( 13:11⁠–⁠14 )
+
+## Themes
+- **weak and strong**: Here we learn that true <u>strength</u> is only found in God. And <u>strength in God</u> can only be found when we admit <u>weakness in ourselves</u>. 
+	- [[2 Cor-10#v10|2 Cor 10.10]] For, "His letters", they say, "are weighty and <u>strong</u>, but his bodily presence is <u>weak</u>, and his speech is despised."  
+	- [[2 Cor-12#v5|2 Cor 12.5]] On behalf of such a one I will boast, but on my own behalf I will not boast, except in my <u>weaknesses</u>.  
+	- [[2 Cor-12#v9|2 Cor 12:9-10]] He has said to me, "====My grace is sufficient for you, for my <u>power</u> is made perfect in <u>weakness</u>.====" Most gladly therefore I will rather glory in my <u>weaknesses</u>, that the <u>power</u> of Christ may rest on me.  Therefore ==I take pleasure in <u>weaknesses</u>==, in injuries, in necessities, in persecutions, and in distresses, **for Christ's sake**. ==For when I am <u>weak</u>, then am I <u>strong</u>.===  [[2 Cor-12#v10|]]
+	- [[2 Cor-12#v14|2 Cor 12:14-15]] Behold, this is the third time I am ready to come to you, and ==I will not be a burden to you; for I seek not your possessions, but you.== For the children ought not to save up for the parents, but the parents for the children.  ==I will most gladly spend and be spent for your souls.== If I love you more abundantly, am I loved the less?  [[2 Cor-12#v15|]]
+	- [[2 Cor-13#v3|2 Cor 13:3-4]] seeing that you seek a proof of Christ who speaks in me; who toward you is not <u>weak</u>, but is <u>powerful</u> in you.  For he was crucified through <u>weakness</u>, yet he lives through the <u>power</u> of God. For we also are <u>weak</u> in him, but we will live with him through the <u>power</u> of God toward you.  [[2 Cor-13#v4|]] 
 ---
 ## My Notes
 

@@ -86,7 +86,7 @@ and put on the new man, who in the likeness of God has been created in righteous
 Therefore putting away falsehood, speak truth each one with his neighbor. For we are members of one another. 
 
 ###### v26 
-"Be angry, and don't sin." Don't let the sun go down on your wrath, 
+"[[Ps-04#v4|Be angry]], and don't sin." Don't let the sun go down on your wrath, 
 
 ###### v27 
 and don't give place to the devil. 

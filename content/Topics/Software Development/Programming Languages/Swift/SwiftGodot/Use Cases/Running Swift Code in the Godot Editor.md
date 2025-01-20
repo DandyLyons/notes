@@ -4,6 +4,8 @@ docs: https://migueldeicaza.github.io/SwiftGodotDocs/documentation/swiftgodot/ru
 ---
 See docs: [Running Code in the Godot Editor](https://swiftpackageindex.com/migueldeicaza/swiftgodot/main/documentation/swiftgodot/runningineditor) 
 
+**Not to be confused with**: [[Using Custom Swift Types within Godot Engine]] 
+
 ## [Overview](https://migueldeicaza.github.io/SwiftGodotDocs/documentation/swiftgodot/runningineditor#overview)
 
 To achieve this, you can include the `.tool` parameter to the `@Godot` macro, like this:

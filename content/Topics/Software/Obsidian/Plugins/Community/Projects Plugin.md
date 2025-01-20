@@ -5,7 +5,7 @@ publish: true
 | GitHub         | [GitHub - marcusolsson/obsidian-projects: Plain text project planning in Obsidian](https://github.com/marcusolsson/obsidian-projects) |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Docs           |                                                                                                                                       |
-| Obsidian URL   | obsidian://show-plugin?id=obsidian-projects                                                                                           |
+| Obsidian URL   | [obsidian://show-plugin?id=obsidian-projects](obsidian://show-plugin?id=obsidian-projects)                                            |
 | Forum (GitHub) | [marcusolsson/obsidian-projects · Discussions · GitHub](https://github.com/marcusolsson/obsidian-projects/discussions)                |
 
 Allows you to manage projects with a UI that is similar to the tables in [[AirTable]] and [[Notion]]. 
@@ -54,3 +54,9 @@ When developing any software, you are often faced with difficult choices. To hel
 > 3. Under **Commands**, enable the projects and views you want to create commands for.
 > 
 > The command palette now has an additional Show command for each project and view that you enabled. Note that you can use **Advanced URI: copy URI for command** to create links for each one.
+
+## Templates
+### Supported Variables
+![[Projects Plugin.png]]
+### Embeddable Views
+![[Projects Plugin-1.png]]

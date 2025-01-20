@@ -8,10 +8,10 @@ aliases:
 
 
 ## My Explorations
+> [!tip]
+> I recommend NOT running Quartz while Obsidian is open. This will minimize conflicts with [[Obsidian Sync]] as well as Obsidian's internal graph
 
-
-> [!tip]- Tip
-> Symbols: 
+> [!note]- Symbols
 > - ✅: I did this and it worked
 > - ☑️: I have not tried this yet. 
 

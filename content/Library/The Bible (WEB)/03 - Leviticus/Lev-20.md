@@ -29,7 +29,7 @@ then I will set my face against that man and against his family, and will cut hi
 "'The person that turns to those who are mediums and wizards, to play the prostitute after them, I will even set my face against that person, and will cut him off from among his people. 
 
 ###### v7 
-"'Sanctify yourselves therefore, and be holy; for I am Yahweh your God. 
+"'Sanctify yourselves therefore, and be [[holiness|holy]]; for I am Yahweh your God. 
 
 ###### v8 
 You shall keep my statutes, and do them. I am Yahweh who sanctifies you. 

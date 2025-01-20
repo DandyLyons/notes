@@ -98,7 +98,7 @@ Then king David answered, "Call Bathsheba in to me." She came into the king's pr
 The king swore, and said, "As Yahweh lives, who has redeemed my soul out of all adversity, 
 
 ###### v30 
-most certainly as I swore to you by Yahweh, the God of Israel, saying, 'Assuredly Solomon your son shall reign after me, and he shall sit on my throne in my place;' I will most certainly do this today." 
+most certainly as I swore to you by Yahweh, the God of Israel, saying, 'Assuredly [[Solomon]] your son shall reign after me, and he shall sit on my throne in my place;' I will most certainly do this today." 
 
 ###### v31 
 Then Bathsheba bowed with her face to the earth, and showed respect to the king, and said, "Let my lord king David live forever!" 
@@ -107,7 +107,7 @@ Then Bathsheba bowed with her face to the earth, and showed respect to the king,
 King David said, "Call to me Zadok the priest, Nathan the prophet, and Benaiah the son of Jehoiada." They came before the king. 
 
 ###### v33 
-The king said to them, "Take with you the servants of your lord, and cause Solomon my son to ride on my own mule, and bring him down to Gihon. 
+The king said to them, "Take with you the servants of your lord, and cause Solomon my son to ride on my own mule, and bring him down to [[Gen-02#v13|Gihon]]. 
 
 ###### v34 
 Let Zadok the priest and Nathan the prophet anoint him there king over Israel. Blow the trumpet, and say, 'Long live king Solomon!' 
@@ -172,6 +172,8 @@ So king Solomon sent, and they brought him down from the altar. He came and bowe
 ***
 [[1 Kings]] | [[1 Kings-02|1 Kings 02 →]]
 
+## Commentary 
+- [The Mountain E7: What Went Wrong With Solomon on Mount Zion?](https://bibleproject.com/podcast/what-went-wrong-solomon-mount-zion) 
 ---
 ## My Notes
 

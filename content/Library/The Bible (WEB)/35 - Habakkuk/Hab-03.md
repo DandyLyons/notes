@@ -72,6 +72,6 @@ Yahweh, the Lord, is my strength. He makes my feet like deer's feet, and enables
 
 ---
 ## My Notes
-
+- This chapter seems like a poetic retelling of the Exodus story. 
 ---
 ## Footnotes

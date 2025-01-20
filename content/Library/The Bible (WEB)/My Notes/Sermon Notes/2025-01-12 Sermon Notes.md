@@ -13,6 +13,7 @@ takeaways:
   - God commands us to examine ourselves, and that is a good thing.
 publish: true
 ---
+
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%"><iframe tabindex="-1" width="100%" height="100%" src="https://embed.sermonaudio.com/player/v/114251839101625/" style="position:absolute;left:0;top:0" allowfullscreen frameborder="0" scrolling="no"></iframe></div>
 
 %% DATAVIEW_PUBLISHER: start

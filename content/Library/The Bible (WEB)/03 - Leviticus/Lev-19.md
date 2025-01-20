@@ -14,7 +14,7 @@ aliases:
 Yahweh spoke to Moses, saying, 
 
 ###### v2 
-"Speak to all the congregation of the children of Israel, and tell them, 'You shall be holy; for I, Yahweh your God, am holy. 
+"Speak to all the congregation of the children of Israel, and tell them, 'You shall be [[holiness|holy]]; for I, Yahweh your God, am holy. 
 
 ###### v3 
 "'Each one of you shall respect his mother and his father. You shall keep my Sabbaths. I am Yahweh your God. 

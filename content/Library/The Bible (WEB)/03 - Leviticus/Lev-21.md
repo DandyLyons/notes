@@ -32,7 +32,7 @@ They shall be holy to their God, and not profane the name of their God, for they
 "'They shall not marry a woman who is a prostitute, or profane. A priest shall not marry a woman divorced from her husband; for he is holy to his God. 
 
 ###### v8 
-Therefore you shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I Yahweh, who sanctify you, am holy. 
+Therefore you shall sanctify him, for he offers the bread of your God. He shall be [[holiness|holy]] to you, for I Yahweh, who sanctify you, am holy. 
 
 ###### v9 
 "'The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire. 
