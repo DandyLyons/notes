@@ -23,9 +23,9 @@ TABLE WITHOUT ID location AS "Location", subjects AS "Subjects", takeaways AS "T
 
 %%
 
-| Location                                                                     | Subjects                                                            | Takeaways                                                                         | Sermon Link                                         |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [[Emmaus Orthodox Presbyterian Church\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Topics/self-examination.md\|self-examination]]</li></ul> | <ul><li>God commands us to examine ourselves, and that is a good thing.</li></ul> | https://www.sermonaudio.com/sermons/114251839101625 |
+| Location                                                                        | Subjects                                                            | Takeaways                                                                         | Sermon Link                                         |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [[Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Topics/self-examination.md\|self-examination]]</li></ul> | <ul><li>God commands us to examine ourselves, and that is a good thing.</li></ul> | https://www.sermonaudio.com/sermons/114251839101625 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

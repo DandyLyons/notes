@@ -25,9 +25,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series                                                                                                               | Location                                                                     | Subjects | Takeaways | Sermon Link |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------- | --------- | ----------- |
-| [[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index.md\|Allison on 2 Corinthians]] | [[Emmaus Orthodox Presbyterian Church\|Emmaus Orthodox Presbyterian Church]] | \-       | \-        | \-          |
+| Series                                                                                                               | Location                                                                        | Subjects | Takeaways | Sermon Link |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------- | --------- | ----------- |
+| [[Library/The Bible (WEB)/My Notes/Sermon Notes/Series/Allison on 2 Corinthians/index.md\|Allison on 2 Corinthians]] | [[Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | \-       | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

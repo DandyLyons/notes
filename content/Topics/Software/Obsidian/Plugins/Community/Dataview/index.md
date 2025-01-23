@@ -42,3 +42,10 @@ By default, Dataview will use the source `FROM ""`  so this will filter out ever
 TABLE title, author
 WHERE file.path = this.file.path
 ```
+
+### Render Dataview as vanilla markdown or html
+#### Render Dataview Tables and lists
+- [[DataView Publisher]] plugin
+- [[Dataview Serializer]]
+#### Render Dataview inline statements
+I haven't found a solution to this problem yet. :( 

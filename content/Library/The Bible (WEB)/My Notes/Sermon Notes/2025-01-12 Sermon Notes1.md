@@ -25,9 +25,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Location                                                                     | Subjects                                                                                                  | Takeaways | Sermon Link                                         |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
-| [[Emmaus Orthodox Presbyterian Church\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/wickedness.md\|wickedness]]</li></ul> | \-        | https://www.sermonaudio.com/sermons/114251915177044 |
+| Location                                                                        | Subjects                                                                                                  | Takeaways | Sermon Link                                         |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
+| [[Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/wickedness.md\|wickedness]]</li></ul> | \-        | https://www.sermonaudio.com/sermons/114251915177044 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -1,5 +1,5 @@
 ---
 publish: true
 aliases:
-  - motivate
+  - burnt out
 ---
