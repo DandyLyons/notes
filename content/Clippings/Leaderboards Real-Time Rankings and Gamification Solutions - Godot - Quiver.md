@@ -1,14 +1,15 @@
 ---
-title: 
-author: 
-contentPublished: 2020-07-02
-noteCreated: 2024-12-01
+title:
+author:
+contentPublished: "2020-07-02"
+noteCreated: "2024-12-01"
 tags:
-  - clippings
-  - article
-description: Sorted Sets (ZSETs) within Redis are a built-in data structure that makes leaderboards simple to create and manipulate.
-takeaways: 
+  - "clippings"
+  - "article"
+description: "Sorted Sets (ZSETs) within Redis are a built-in data structure that makes leaderboards simple to create and manipulate."
+takeaways:
 publish: true
+Status: "DROPPED"
 ---
 ## Highlights
 ### What is a leaderboard?

@@ -1,15 +1,16 @@
 ---
-title: How to Install ArchiveBox on Your Synology NAS
-author: 
-contentPublished: 2024-06-21
-noteCreated: 2024-12-07
+title: "How to Install ArchiveBox on Your Synology NAS"
+author:
+contentPublished: "2024-06-21"
+noteCreated: "2024-12-07"
 tags:
-  - clippings
-  - article
-description: Step by step guide for installing ArchiveBox on your Synology NAS device.
-takeaways: 
-Status: 🙏🏼 Want To Read
+  - "clippings"
+  - "article"
+description: "Step by step guide for installing ArchiveBox on your Synology NAS device."
+takeaways:
+Status: "🙏🏼 Want To Read"
 url:
+publish: true
 ---
 [[ArchiveBox]] on [[Synology]]. 
 ## Highlights

@@ -3,6 +3,7 @@ publish: true
 title: Genesis 4
 aliases:
   - Genesis 4
+  - Cain and Abel
 ---
 
 [[Gen-03|← Genesis 03]] | [[Genesis]] | [[Gen-05|Genesis 05 →]]
@@ -41,7 +42,7 @@ Yahweh said to Cain, "Where is Abel, your brother?" He said, "I don't know. Am I
 Yahweh said, "What have you done? The voice of your brother's blood cries to me from the ground. 
 
 ###### v11 
-Now you are cursed because of the ground, which has opened its mouth to receive your brother's blood from your hand. 
+Now you are cursed because of the ground, which has opened its mouth to receive your brother's [[blood in the Bible|blood]] from your hand. 
 
 ###### v12 
 From now on, when you till the ground, it won't yield its strength to you. You will be a fugitive and a wanderer in the earth." 

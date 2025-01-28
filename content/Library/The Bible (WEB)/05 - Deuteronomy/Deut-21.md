@@ -29,7 +29,7 @@ The priests the sons of Levi shall come near, for them Yahweh your God has chose
 All the elders of that city which is nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley. 
 
 ###### v7 
-They shall answer and say, "Our hands have not shed this blood, neither have our eyes seen it. 
+They shall answer and say, "Our hands have not shed this [[blood in the Bible|blood]], neither have our eyes seen it. 
 
 ###### v8 
 Forgive, Yahweh, your people Israel, whom you have redeemed, and don't allow innocent blood among your people Israel." The blood shall be forgiven them. 

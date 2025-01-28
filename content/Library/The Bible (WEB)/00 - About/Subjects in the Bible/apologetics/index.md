@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - apologetics
 ---
 The Greek word apologia (ἀπολογία) means "==speaking in defense==" and refers to a formal defense of a position, opinion, or action.
 

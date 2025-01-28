@@ -77,7 +77,7 @@ For death has come up into our windows. It has entered into our palaces to cut o
 Speak, "Yahweh says, "'The dead bodies of men will fall as dung on the open field, and as the handful after the harvester. No one will gather them.'" 
 
 ###### v23 
-Yahweh says, "Don't let the wise man glory in his wisdom. Don't let the mighty man glory in his might. Don't let the rich man glory in his riches. 
+Yahweh says, "Don't let the wise man [[glory]] in his [[wisdom]]. Don't let the mighty man glory in his might. Don't let the [[wealth|rich]] man glory in his riches. 
 
 ###### v24 
 But let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness in the earth, for I delight in these things," says Yahweh. 

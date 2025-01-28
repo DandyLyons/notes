@@ -41,7 +41,7 @@ and doesn't bring it to the door of the Tent of Meeting to sacrifice it to Yahwe
 "'Any man of the house of Israel, or of the strangers who live as foreigners among them, who eats any kind of blood, I will set my face against that soul who eats blood, and will cut him off from among his people. 
 
 ###### v11 
-For the life of the flesh is in the blood. I have given it to you on the altar to make atonement for your souls; for it is the blood that makes atonement by reason of the life. 
+For the life of the flesh is in the [[blood in the Bible|blood]]. I have given it to you on the altar to make atonement for your souls; for it is the blood that makes atonement by reason of the life. 
 
 ###### v12 
 Therefore I have said to the children of Israel, "No person among you may eat blood, nor may any stranger who lives as a foreigner among you eat blood." 

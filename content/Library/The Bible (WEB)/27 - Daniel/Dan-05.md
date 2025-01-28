@@ -4,7 +4,7 @@ title: Daniel 5
 aliases:
   - Daniel 5
 ---
-
+ 
 [[Dan-04|← Daniel 04]] | [[Daniel]] | [[Dan-06|Daniel 06 →]]
 ***
 

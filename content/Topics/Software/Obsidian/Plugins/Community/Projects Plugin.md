@@ -18,6 +18,7 @@ See my notes on this video [[Video Tutorial - Obsidian Projects Plugin|here]].
 
 ## Use cases
 - Running a content publishing calendar: 
+	- [[Obsidian For Content Creators (ft. Projects Plugin)]] 
 	- Great for planning/scheduling recurring projects like YouTube videos. 
 - Editing metadata of many notes at the same time. 
 	- Obsidian allows you to store metadata of notes in [[properties in Obsidian|properties]]. 

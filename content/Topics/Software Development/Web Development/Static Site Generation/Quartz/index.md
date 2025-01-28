@@ -85,6 +85,10 @@ title: MyNote
 ## Known Limitations
 *May not be up to date.*
 
+### Known Unsupported Obsidian Markdown Features
+Here is a list of some fairly uncommon features of [[Obsidian-flavored Markdown]] that will not render correctly when compiled by Quartz: 
+
+
 ### No Dataview support
 [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] is an immensely popular plugin for Obsidian that enables a ton of killer features.
 

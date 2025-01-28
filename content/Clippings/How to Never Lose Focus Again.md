@@ -4,14 +4,15 @@ source: "https://www.youtube.com/watch?v=fDpBqMCugZg&list=PLSk0AGtsyiaLvuPN_YgC1
 media_link: "https://www.youtube.com/watch?v=fDpBqMCugZg&list=PLSk0AGtsyiaLvuPN_YgC1YWJgo_MfstLJ&index=5"
 author:
   - "[[Justin Sung]]"
-contentPublished: 2023-11-01
-noteCreated: 2025-01-20
+contentPublished: "2023-11-01"
+noteCreated: "2025-01-20"
 description: "Learn 8 strategies to improve focus and boost productivity.Join my Learning Drops newsletter (free): https://bit.ly/3Vopk4HEvery week, I distil what really works for improving results, memory, dept"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
+  - "[[focus]]"
 Status: "🙏🏼 Want To Read"
 publish: true
 Youtube_Duration: "19:50"

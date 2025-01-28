@@ -17,7 +17,7 @@ Yahweh spoke to Moses, "Depart, go up from here, you and the people that you hav
 I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite. 
 
 ###### v3 
-Go to a land flowing with milk and honey; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way." 
+Go to a land flowing with [[milk and honey]]; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way." 
 
 ###### v4 
 When the people heard this evil news, they mourned; and no one put on his jewelry. 

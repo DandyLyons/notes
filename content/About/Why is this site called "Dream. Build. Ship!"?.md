@@ -5,7 +5,7 @@ aliases:
   - Dream. Build. Ship!
 ---
 
-There are so many different ways to be [[Creativity|creative]]. Dancing, music, poetry, and yes, even software engineering. Even spreadsheets. Even commuting to work. We have to rise above this myth that *I'm not creative*. It's not helpful, or healthy. Inside each and every one of you is a unique spark of creativity. Your creativity looks different from mine and that's not a bad thing, in fact, it's a fantastic thing. 
+There are so many different ways to be [[Topics/Creativity/index|creative]]. Dancing, music, poetry, and yes, even software engineering. Even spreadsheets. Even commuting to work. We have to rise above this myth that *I'm not creative*. It's not helpful, or healthy. Inside each and every one of you is a unique spark of creativity. Your creativity looks different from mine and that's not a bad thing, in fact, it's a fantastic thing. 
 
 I named this site *Dream. Build. Ship!* because I think it captures so much of what I want this site to be. I want it to be a place where I dream and build and ship. And I want it to be a part of the community around me. Hopefully, some parts of this site will inspire others. Hopefully it will start interesting conversations. These 3 words capture what I think are the essential elements of creativity. 
 

@@ -23,10 +23,10 @@ Every moving thing that lives will be food for you. As I gave you the green herb
 But flesh with its life, that is, its blood, you shall not eat. 
 
 ###### v5 
-I will surely require accounting for your life's blood. At the hand of every animal I will require it. At the hand of man, even at the hand of every man's brother, I will require the life of man. 
+I will surely require accounting[^1] for your life's blood. At the hand of every animal I will require it. At the hand of man, even at the hand of every man's brother, I will require the life of man. 
 
 ###### v6 
-Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image. 
+Whoever sheds man's [[blood in the Bible|blood]], his blood will be shed by man, for God made man [[image of God|in his own image]]. 
 
 ###### v7 
 Be fruitful and multiply. Increase abundantly in the earth, and multiply in it." 
@@ -104,4 +104,6 @@ All the days of Noah were nine hundred fifty years, and then he died.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: NKJV: *I will require a reckoning*

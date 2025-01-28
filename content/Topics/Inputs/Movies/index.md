@@ -17,10 +17,13 @@ WHERE file.name != "index"
 ```
 %%
 
-| title                          |
-| ------------------------------ |
-| Dawn of the Planet of the Apes |
-| The Dark Knight                |
-| Citizen Kane                   |
+| title                          | year | director                                                  | writer                                                                                                                                                                               |
+| ------------------------------ | ---- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dawn of the Planet of the Apes | 2014 | <ul><li>Matt Reeves</li></ul>                             | <ul><li>Mark Bomback</li><li>Rick Jaffa</li><li>Amanda Silver</li></ul>                                                                                                              |
+| The Big Short                  | 2015 | <ul><li>Adam McKay</li></ul>                              | <ul><li>[[Charles Randolph\|Charles Randolph]]</li><li>[[Adam McKay\|Adam McKay]]</li><li>[[Michael Lewis.md\|Michael Lewis]]</li></ul>                                           |
+| The Blind Side                 | 2009 | <ul><li>[[John Lee Hancock\|John Lee Hancock]]</li></ul> | <ul><li>[[John Lee Hancock\|John Lee Hancock]]</li><li>[[Michael Lewis.md\|Michael Lewis]]</li></ul>                                                                               |
+| The Dark Knight                | 2008 | <ul><li>Christopher Nolan</li></ul>                       | <ul><li>Jonathan Nolan</li><li>Christopher Nolan</li><li>David S. Goyer</li></ul>                                                                                                    |
+| Citizen Kane                   | 1941 | <ul><li>Orson Welles</li></ul>                            | <ul><li>Herman J. Mankiewicz</li><li>Orson Welles</li><li>John Houseman</li></ul>                                                                                                    |
+| Moneyball                      | 2011 | <ul><li>Bennett Miller</li></ul>                          | <ul><li>[[Steven Zaillian\|Steven Zaillian]]</li><li>[[Aaron Sorkin\|Aaron Sorkin]]</li><li>[[Stan Chervin\|Stan Chervin]]</li><li>[[Michael Lewis.md\|Michael Lewis]]</li></ul> |
 
 %% DATAVIEW_PUBLISHER: end %%

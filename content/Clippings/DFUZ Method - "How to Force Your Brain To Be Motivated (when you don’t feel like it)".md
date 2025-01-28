@@ -112,8 +112,8 @@ X: https://x.com/drjustinsung
 - Distinguish between a feeling a thought. 
 	- We can control the way that we respond to a feeling. 
 	- [09:48](https://www.youtube.com/watch?t=588&v=RMB3NsQotvM): Anecdote, using this method to overcome [[anxiety]]. 
-### 11:04 Step 2: F: **Fake**
-- [10:59](https://www.youtube.com/watch?t=659&v=RMB3NsQotvM): You've heard of [[fake it til you make it]]. It's kind of the same with this as well. 
+### 11:04 Step 2: F: **Fake it til you make it**
+- [10:59](https://www.youtube.com/watch?t=659&v=RMB3NsQotvM): [[fake it til you make it]]. 
 	- Observe: An actor might feel tired when they come to work, but they can **act** as another character who is **not** tired. 
 	- **In the same way**, we can *fake* or *pretend* to be someone who is not tired or lazy. 
 	- ⭐: We don't have to change the way that we feel. We can simply *pretend* to feel the way that we must. 
@@ -130,7 +130,7 @@ X: https://x.com/drjustinsung
 	- Observation: Notice that many of our tasks in modern life aren't very natural anyways. 
 		- We need modern solutions to modern problems. 
 ### 15:58 Step 4: Z: **Zone**
-- [15:55](https://www.youtube.com/watch?t=955&v=RMB3NsQotvM): To maintain [[consistency]] and reduce our need for motivation, we have to create a **zone** of [[Focus]], free from distraction and procrastination triggers. 
+- [15:55](https://www.youtube.com/watch?t=955&v=RMB3NsQotvM): To maintain [[consistency]] and reduce our need for motivation, we have to create a **zone** of [[focus]], free from distraction and procrastination triggers. 
 	- [16:11](https://www.youtube.com/watch?t=971&v=RMB3NsQotvM): **Exercise**: The distraction cheat sheet. 
 		- Each time you get distracted, write down what got you distracted. 
 		- Later, remove each distraction from your area. 

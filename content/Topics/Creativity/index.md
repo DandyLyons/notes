@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - creativity
 ---
 - [Creating in Tech in 2024 vs. Consuming in Tech in 2024 - YouTube](https://www.youtube.com/watch?v=Fp8iVR15Re8) :
 	- create? or consume? 

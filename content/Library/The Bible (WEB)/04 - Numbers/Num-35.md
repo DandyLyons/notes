@@ -98,7 +98,7 @@ because he should have remained in his city of refuge until the death of the hig
 "'These things shall be for a statute and ordinance to you throughout your generations in all your dwellings. 
 
 ###### v30 
-"'Whoever kills any person, the murderer shall be slain based on the testimony of witnesses; but one witness shall not testify alone against any person so that he dies. 
+"'Whoever kills any person, the murderer shall be slain based on the testimony of witnesses; but one [["two or three witnesses"|witness]] shall not testify alone against any person so that he dies. 
 
 ###### v31 
 "'Moreover you shall take no ransom for the life of a murderer who is guilty of death. He shall surely be put to death. 
@@ -107,7 +107,7 @@ because he should have remained in his city of refuge until the death of the hig
 "'You shall take no ransom for him who has fled to his city of refuge, that he may come again to dwell in the land before the death of the priest. 
 
 ###### v33 
-"'So you shall not pollute the land where you live; for blood pollutes the land. No atonement can be made for the land, for the blood that is shed in it, but by the blood of him who shed it. 
+"'So you shall not pollute the land where you live; for [[blood in the Bible|blood]] pollutes the land. No atonement can be made for the land, for the blood that is shed in it, but by the blood of him who shed it. 
 
 ###### v34 
 You shall not defile the land which you inhabit, where I dwell; for I, Yahweh, dwell among the children of Israel.'"

@@ -9,7 +9,7 @@ tags:
   - "article"
 description: "How Strange Scaffold uses healthy practices to ship better games faster, while keeping a healthy workplace."
 takeaways:
-Status: "👀 Reading"
+Status: "✅ Read"
 url: "https://www.pushtotalk.gg/p/the-unstoppable-rise-of-strange-scaffold"
 subjects:
   - "[[Strange Scaffold]]"

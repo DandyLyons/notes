@@ -16,7 +16,7 @@ In my senior year of High School, I had an interesting conversation with two clo
 > 
 > It is self-expression, even if the only person you are expressing yourself to is your self. 
 
-These words are important and I don't want to lose them, but I don't think that they are telling the whole story. I can respect this perspective. I can't say that I am entirely convinced that it is wrong but I can confidently that releasing is a vital part of [[Creativity]], and we lose so much if we neglect it. 
+These words are important and I don't want to lose them, but I don't think that they are telling the whole story. I can respect this perspective. I can't say that I am entirely convinced that it is wrong but I can confidently that releasing is a vital part of [[Topics/Creativity/index|creativity]], and we lose so much if we neglect it. 
 ## Consider the Cost
 In The Two Towers, Pippin and Merry plead with the ents to join them in battle to protect the world from the dark forces of Sauron. But the ents are pacifists to a fault. This is a matter for humans to deal with, not for ents. In the Peter Jackson movie version, Merry cries out in futile desperation: 
 

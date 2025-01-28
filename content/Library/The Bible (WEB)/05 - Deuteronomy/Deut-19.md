@@ -14,7 +14,7 @@ aliases:
 When Yahweh your God cuts off the nations whose land Yahweh your God gives you, and you succeed them and dwell in their cities and in their houses, 
 
 ###### v2 
-you shall set apart three cities for yourselves in the middle of your land, which Yahweh your God gives you to possess. 
+you shall set apart three [[city of refuge|cities]] for yourselves in the middle of your land, which Yahweh your God gives you to possess. 
 
 ###### v3 
 You shall prepare the way, and divide the borders of your land which Yahweh your God causes you to inherit into three parts, that every man slayer may flee there. 

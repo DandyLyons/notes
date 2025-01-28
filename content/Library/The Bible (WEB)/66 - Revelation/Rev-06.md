@@ -38,7 +38,7 @@ And behold, a pale horse, and the name of he who sat on it was Death. Hades foll
 When he opened the fifth seal, I saw underneath the altar the souls of those who had been killed for the Word of God, and for the testimony of the Lamb which they had. 
 
 ###### v10 
-They cried with a loud voice, saying, "How long, Master, the holy and true, until you judge and avenge our blood on those who dwell on the earth?" 
+They cried with a loud voice, saying, "How long, Master, the holy and true, until you judge and avenge our [[blood in the Bible|blood]] on those who dwell on the earth?" 
 
 ###### v11 
 A long white robe was given to each of them. They were told that they should rest yet for a while, until their fellow servants and their brothers, who would also be killed even as they were, should complete their course. 

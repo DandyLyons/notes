@@ -4,15 +4,16 @@ source: "https://www.youtube.com/watch?v=spBakIGn55E"
 media_link: "https://www.youtube.com/watch?v=spBakIGn55E"
 author:
   - "[[Octodemy]]"
-contentPublished: \\\"2024-08-26\\\"
-noteCreated: 2024-12-17
+contentPublished: "\\\\\\\"2024-08-26\\\\\\\""
+noteCreated: "2024-12-17"
 description: "Godot has three NEW types of interactive music that are very useful and fun to use. Here's how to use them.Here we'll learn how to use and configure godot's new types of audio stream's: AudioStreamP"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+  - "[[audio in Godot]]"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "9:52"
 ---

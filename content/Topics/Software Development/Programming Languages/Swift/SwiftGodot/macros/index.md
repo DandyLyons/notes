@@ -7,6 +7,6 @@ aliases:
 - [[@Callable macro]]
 - [[@Export macro]]
 - [[@Godot macro]]
-- [[@signal macro]]
+- [[signal macro]]
 - [[@SceneTree macro]]
 

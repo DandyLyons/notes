@@ -6,6 +6,11 @@ aliases:
 A **Resource** is very similar to a [[Dictionary in Godot|Dictionary]]. (See [[#resources vs. Dictionary in Godot]]) . 
 
 ![Godot Resources Explained - YouTube](https://www.youtube.com/watch?v=CAzdub_WO00) 
+## Important Resources in Godot
+- [[PackedScene]] 
+- [[Texture]] 
+- **Animation**
+- Environment
 
 ## resources vs. [[Dictionary in Godot]] 
 ![When to Use a Resource Over a Dictionary? - YouTube](https://www.youtube.com/watch?v=z1xvPpGDP-A)

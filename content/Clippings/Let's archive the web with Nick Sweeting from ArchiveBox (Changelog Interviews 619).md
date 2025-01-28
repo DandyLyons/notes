@@ -1,14 +1,15 @@
 ---
 title: "Let's archive the web with Nick Sweeting from ArchiveBox (Changelog Interviews #619)"
 author:
-contentPublished: 2024-11-27
-noteCreated: 2024-12-07
+contentPublished: "2024-11-27"
+noteCreated: "2024-12-07"
 tags:
   - "clippings"
   - "article"
 description: "Nick Sweeting joins Adam and Jerod to talk about the importance of archiving digital content, his work on ArchiveBox to make it easier, the challenges faced by Archive.org and the Wayback Machine, and the need for both centralized and distributed archiving solutions."
 takeaways:
 Status: "🙏🏼 Want To Read"
+publish: true
 ---
 
 ## Topic 

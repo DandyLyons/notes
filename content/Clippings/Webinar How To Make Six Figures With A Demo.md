@@ -2,13 +2,14 @@
 title: "How I Made 6-Figures With Just A Game Demo"
 author:
   - "[[Thomas Brush]]"
-contentPublished: 2024-01-01
-noteCreated: 2024-11-25
+contentPublished: "2024-01-01"
+noteCreated: "2024-11-25"
 tags:
   - "clippings"
   - "article"
 description: "a Full Time Game Dev video"
 takeaways:
+publish: false
 ---
 ## Highlights
 ## How I Made 6-Figures With Just A Demo (And How You Potentially Can Too!)

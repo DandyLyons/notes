@@ -1,14 +1,15 @@
 ---
-title: Viewport and canvas transforms
-author: 
-contentPublished: 
-noteCreated: 2024-11-29
+title: "Viewport and canvas transforms"
+author:
+contentPublished:
+noteCreated: "2024-11-29"
 tags:
-  - clippings
-  - article
+  - "clippings"
+  - "article"
 description: "Introduction: This is an overview of the 2D transforms going on for nodes from the moment they draw their content locally to the time they are drawn onto the screen. This overview discusses very lo..."
-takeaways: 
-url: https://docs.godotengine.org/en/stable/tutorials/2d/2d_transforms.html#introduction
+takeaways:
+url: "https://docs.godotengine.org/en/stable/tutorials/2d/2d_transforms.html#introduction"
+publish: true
 ---
 ## Highlights
 This is an overview of the 2D transforms going on for nodes from the moment they draw their content locally to the time they are drawn onto the screen. This overview discusses very low level details of the engine.

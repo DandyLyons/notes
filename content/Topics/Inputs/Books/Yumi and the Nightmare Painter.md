@@ -11,7 +11,7 @@ Rating 0-5:
 DateRead: 
 Status: ✅ Read
 topics:
-  - "[[Creativity]]"
+  - "[[Topics/Creativity/index|creativity]]"
   - "[[Art]]"
 publish: false
 ---

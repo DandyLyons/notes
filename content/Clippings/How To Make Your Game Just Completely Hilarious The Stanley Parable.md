@@ -4,8 +4,8 @@ source: "https://www.youtube.com/watch?v=pLbmZT70rtA"
 media_link: "https://www.youtube.com/watch?v=pLbmZT70rtA"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2015-06-08\\\"
-noteCreated: 2024-12-08
+contentPublished: "2015-06-08"
+noteCreated: "2024-12-08"
 description: "One of the funniest and plain silliest talks at GDC 2015 - but no less rewarding for that - The Stanley Parable co-creator William Pugh tries, in his own wor..."
 tags:
   - "clippings"
