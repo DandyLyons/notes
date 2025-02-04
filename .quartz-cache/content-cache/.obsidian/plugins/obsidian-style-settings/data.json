@@ -1,0 +1,17 @@
+{
+  "minimal-style@@minimal-strike-lists": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-green",
+  "flexoki-warm-theme-settings@@flexoki-warm-dark-theme-accent-override": "var(--accent-h), var(--accent-s), var(--accent-l)",
+  "minimal-style@@maximize-tables-off": "maximize-tables-auto",
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@table-center": true,
+  "minimal-style@@table-nowrap": true,
+  "minimal-style@@row-hover": true,
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@hide-settings": false,
+  "minimal-style@@hide-help": false,
+  "checkbox@@check-bg": true
+}

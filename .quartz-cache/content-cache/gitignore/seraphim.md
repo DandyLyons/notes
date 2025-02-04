@@ -1,0 +1,1 @@
+literally means *burning ones* in Hebrew

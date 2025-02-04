@@ -1,0 +1,25 @@
+---
+publish: true
+---
+- JobScan analyzed a million job applications to learn what strategies lead to the best results
+- The biggest determining factor for getting interviews
+	- ==Resumes that include the job title that you are applying for==
+		- 3.5x more likely to get an interview
+		- What do you do if the job you're applying for is the same role, but different name? 
+			- Use the job title for the job that you are applying for. It is okay to do this if the role is essentially the same
+- Applications with a **cover letter** got an interview 1.9x more likely to be invited for an interview
+- **LinkedIn**: Job seekers who used JobScan's LinkedIn optimization tool had 1.5x improved results
+	- Surveys: ~90% of recruiters use LinkedIn to either find or vet applicants
+- Degrees: 
+	- Job seekers with a grad degree (masters or higher) were 2.5x more likely to get an interview
+	- Concern: some worry that a grad year will make you appear older and lead to ageism discrimination
+	- What if I don't have a degree?
+		- Try getting certifications. 
+- Certifications: 
+	- You're 2.9x more likely to get an interview if you have a professional certification
+	- Certifications are faster, cheaper and sometimes even free. 
+- Summary: 
+	- include job title in resume
+	- include cover letter with application
+	- optimize LinkedIn profile
+	- Include degrees and certifications on resumes

@@ -1,0 +1,10 @@
+{
+  "max": 5,
+  "mode": "default",
+  "scrollBehaviour": "smooth",
+  "theme": "flat",
+  "showIcon": true,
+  "autoShowFileName": true,
+  "showInStatusBar": false,
+  "boundaryOffset": "0px"
+}

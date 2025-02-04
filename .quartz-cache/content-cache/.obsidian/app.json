@@ -1,0 +1,33 @@
+{
+  "mobileToolbarCommands": [
+    "command-palette:open",
+    "editor:context-menu",
+    "obsidian-tasks-plugin:edit-task",
+    "task-status:change-task-status",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-table",
+    "obsidian-bible-linker:insert-bible-link",
+    "obsidian-auto-link-title:auto-link-title-paste",
+    "editor:toggle-keyboard",
+    "editor:toggle-bullet-list",
+    "editor:insert-codeblock",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:insert-footnote",
+    "editor:toggle-fold",
+    "editor:configure-toolbar",
+    "editor:toggle-comments",
+    "insert-current-time"
+  ],
+  "attachmentFolderPath": "gitignore/UNORGANIZED",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "gitignore/UNORGANIZED"
+}

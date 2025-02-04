@@ -1,0 +1,12 @@
+/* Custom Styling for Obsian Canvas files (.canvas) */
+
+.canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view {
+    padding: 0 0 0 10px;
+}
+
+/* By default Obsidian will add irritating margins when you are editing a card in Canvas mode.
+These are jarring so this CSS snippet removes the margins. */
+.node-insert-event.mod-inside-iframe .cm-editor .cm-content {
+    margin-left: -50px;
+    margin-right: -26px;
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1736714165890,
+      "path": "Quick Links.md",
+      "title": "Quick Links"
+    },
+    {
+      "type": "file",
+      "ctime": 1712337081910,
+      "path": "gitignore/Published Notes Status.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1730824923672,
+      "path": "Read-Later"
+    },
+    {
+      "type": "file",
+      "ctime": 1734640910768,
+      "path": "Topics/Inputs/Books/Good News of Great Joy.md",
+      "title": "Good News of Great Joy"
+    },
+    {
+      "type": "group",
+      "ctime": 1737075262857,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1737075295300,
+          "path": "Clippings/The ultimate introduction to Godot 4.md",
+          "title": "11 hour Godot vid"
+        }
+      ],
+      "title": "Godot"
+    },
+    {
+      "type": "group",
+      "ctime": 1737657490441,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1737657499660,
+          "path": "Topics/Software Development/Game Development/My Projects/VorTexT/VorTexT.md",
+          "title": "VorTexT"
+        },
+        {
+          "type": "file",
+          "ctime": 1737657532590,
+          "path": "gitignore/UNORGANIZED/LetterGrid prototype.md"
+        }
+      ],
+      "title": "VorTexT"
+    },
+    {
+      "type": "file",
+      "ctime": 1738611647218,
+      "path": "gitignore/🗄️ Filing Cabinet/📈Work/DandyLyons.net/Content/Content for DandyLyons.net.md",
+      "title": ""
+    },
+    {
+      "type": "file",
+      "ctime": 1738612731125,
+      "path": "Clippings/index.md",
+      "title": "Clippings"
+    }
+  ]
+}

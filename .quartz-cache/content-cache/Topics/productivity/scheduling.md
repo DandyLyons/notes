@@ -1,0 +1,5 @@
+---
+aliases:
+  - schedule
+publish: true
+---

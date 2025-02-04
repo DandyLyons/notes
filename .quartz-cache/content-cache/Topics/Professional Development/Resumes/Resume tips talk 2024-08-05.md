@@ -1,0 +1,66 @@
+- [Audio and transcript](https://NAS-Lyons.quickconnect.to/d/f/za5yq8AjKFwcckjIGE5eQpyOOg0s0c40) 
+
+## Resume purpose
+- job specific marketing tool? 
+    - shows how you will contribute to the organization
+- ATS: 
+	- ATS systems are looking for keywords
+- Resume research: 
+	- start with the job description
+		- the language in the description is the language that they are looking for in the resume
+	- ONET and AI
+		- Not every job description is full or even existent. 
+		- So [ONET](https://www.onetonline.org/) is a database that can help with this
+	- Review the employer's website
+	- LinkedIN
+	- Talk to insiders. 
+- AI Dos and Dont's 
+	- Do: 
+		- Use AI as a tool
+		- check for accuracy
+	- Don't: 
+		- Overly rely on it
+		- let AI write the AI for you. 
+- Build a "resume closet": 
+	- Include all your experience (tasks accomplishments, skills edu etc. )
+	- Use numbers, percentages, and data when appropriate. 
+- REsume structure
+	- Summary of job qualifications
+	- glanceable and relavant
+	- This should hook in your reader
+	- example prompts: 
+		- *people compliment me on my ability to:*
+		- I am asked for advice about
+		- Key skills employers in my field are looking for
+			- Use ONET to identify key skills
+	- EXAMPLE SUMMARY:
+		- 10 years experience managing and supporting a team of up to 20 team members
+		- An innovative problem-solver who values a collaborative approach to project implementation
+		and team leadership
+		- Excellent communication skills with an aptitude for building rapport with internal and external
+		partners, clients, and team members
+		- Organized and detail-oriented with demonstrated experience in creating processes and
+		- procedures that align with company and client goals
+- helpful tools: 
+    - [Jobscan.co](https://www.jobscan.co/) is a paid freemium tool that will scan your resume to see if it is optimized for ATS
+- ATS tips
+	- Use as vanilla formatting as possible
+		- Avoid tables
+- Experience ordering: 
+	- 2 approaches: 
+		- reverse chronological
+		- hybrid
+			- include skillsets inside the job positions. 
+- Writing style, bullet points: 
+	- Bullet points should be **outcome oriented** and **relevant**: 
+		- Explain how did you do it? 
+		- Why did you do it. 
+		- What was the result?
+	- use action verbs 
+	- use AI to ask you questions about your bullet points
+- Work gaps in history
+	- Include what you were doing: 
+		- Ex. **In-Home caregiver**, **classroom volunteer**, **freelance software engineer** etc. 
+- Job titles: 
+	- You are **allowed** to write a different job title if the job title doesn't accurately represent what you actually did in the job 
+

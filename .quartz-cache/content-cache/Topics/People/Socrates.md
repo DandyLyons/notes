@@ -1,0 +1,1 @@
+[Excellence is a Habit | 1min snip from Founders](https://share.snipd.com/snip/399b41ae-a94e-4af1-80ed-0a6ce438e94d) 

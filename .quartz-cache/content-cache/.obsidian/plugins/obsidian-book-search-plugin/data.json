@@ -1,0 +1,14 @@
+{
+  "folder": "Topics/Inputs/Books",
+  "fileNameFormat": "{{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "UNORGANIZED/Vault/TEMPLATES/Book Notes TEMPLATE.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "openPageOnCompletion": true
+}
