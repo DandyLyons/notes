@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=yh1pF1zaauc"
 media_link: "https://www.youtube.com/watch?v=yh1pF1zaauc"
 author:
   - "[[Rob Braxman Tech]]"
-contentPublished: 2025-01-22
-noteCreated: 2025-01-24
+contentPublished: "2025-01-22"
+noteCreated: "2025-01-24"
 description: "To some of you, it's just a normal time and nothing has changed. But actually in 2025, a lot has changed and one of the key ones is that End-to-End (E2E) encryption used in apps like Signal, Session,"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "19:41"
 ---

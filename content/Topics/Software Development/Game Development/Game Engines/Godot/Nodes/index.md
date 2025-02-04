@@ -12,6 +12,7 @@ docs: https://docs.godotengine.org/en/stable/classes/class_node.html
 
 ## See Also
 - [[Node Lifecycle in Godot|Node Lifecycle]] 
+- [GDQuest - Node Essentials](https://school.gdquest.com/courses/node_essentials_godot_4/filter) 
 
 ## Methods on the Node class
 See [Node docs](https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-private-method-input)

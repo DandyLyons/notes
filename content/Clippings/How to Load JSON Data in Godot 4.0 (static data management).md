@@ -1,22 +1,22 @@
 ---
-title: How to Load JSON Data in Godot 4.0 (static data management)
-source: https://www.youtube.com/watch?v=dDe0x1S2y64
-media_link: https://www.youtube.com/watch?v=dDe0x1S2y64
+title: "How to Load JSON Data in Godot 4.0 (static data management)"
+source: "https://www.youtube.com/watch?v=dDe0x1S2y64"
+media_link: "https://www.youtube.com/watch?v=dDe0x1S2y64"
 author:
   - "[[Queble]]"
-contentPublished: 2023-03-20
-noteCreated: 2025-01-25
-description: In this video, I'll show you how to setup a basic script for loading static JSON data into a dictionary for use in your Godot project!This concept is very helpful for items, dialogue, and other data
+contentPublished: "2023-03-20"
+noteCreated: "2025-01-25"
+description: "In this video, I'll show you how to setup a basic script for loading static JSON data into a dictionary for use in your Godot project!This concept is very helpful for items, dialogue, and other data"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[JSON in Godot]]"
   - "[[Topics/Software/GridlessDB/index|GridlessDB]]"
-Status: 🙏🏼 Want To Read
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 10:28
+Youtube_Duration: "10:28"
 ---
 ![](https://www.youtube.com/watch?v=dDe0x1S2y64)
 

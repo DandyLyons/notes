@@ -56,7 +56,7 @@ but the seventh year you shall let it rest and lie fallow, that the poor of your
 You shall observe the [[Feast of Unleavened Bread]]. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib (for in it you came out of Egypt), and no one shall appear before me empty. 
 
 ###### v16 
-And the feast of harvest, the first fruits of your labors, which you sow in the field; and the feast of ingathering, at the end of the year, when you gather in your labors out of the field. 
+And the feast of harvest, the [[first fruits]] of your labors, which you sow in the field; and the feast of ingathering, at the end of the year, when you gather in your labors out of the field. 
 
 ###### v17 
 Three times in the year all your males shall appear before the Lord Yahweh. 
@@ -65,7 +65,7 @@ Three times in the year all your males shall appear before the Lord Yahweh.
 "You shall not offer the blood of my sacrifice with leavened bread. The fat of my feast shall not remain all night until the morning. 
 
 ###### v19 
-You shall bring the first of the first fruits of your ground into the house of Yahweh your God. "You shall not boil a young goat in its mother's milk. 
+You shall bring the first of the [[first fruits]] of your ground into the house of Yahweh your God. "You shall not boil a young goat in its mother's milk. 
 
 ###### v20 
 "Behold, I send an angel before you, to keep you by the way, and to bring you into the place which I have prepared. 

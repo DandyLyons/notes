@@ -20,7 +20,7 @@ They shall have no inheritance among their brothers. Yahweh is their inheritance
 This shall be the priests' due from the people, from those who offer a sacrifice, whether it be ox or sheep, that they shall give to the priest: the shoulder, the two cheeks, and the inner parts. 
 
 ###### v4 
-You shall give him the first fruits of your grain, of your new wine, and of your oil, and the first of the fleece of your sheep. 
+You shall give him the [[first fruits]] of your grain, of your new wine, and of your oil, and the first of the fleece of your sheep. 
 
 ###### v5 
 For Yahweh your God has chosen him out of all your tribes to stand to minister in Yahweh's name, him and his sons forever. 

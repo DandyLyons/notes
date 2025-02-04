@@ -1,17 +1,18 @@
 ---
-title: How He Sold Over 960,000 Copies Of His Games w/ @JonasTyroller  — Full Time Game Dev Podcast Ep. 027
-source: https://www.youtube.com/watch?v=hglxTerNK2U
-media_link: https://www.youtube.com/watch?v=hglxTerNK2U
+title: "How He Sold Over 960,000 Copies Of His Games w/ @JonasTyroller  — Full Time Game Dev Podcast Ep. 027"
+source: "https://www.youtube.com/watch?v=hglxTerNK2U"
+media_link: "https://www.youtube.com/watch?v=hglxTerNK2U"
 author:
   - "[[Thomas Brush]]"
-contentPublished: 2024-11-29
-noteCreated: 2024-11-30
+contentPublished: "2024-11-29"
+noteCreated: "2024-11-30"
 description: "I chat with Jonas Tyroller ( @JonasTyroller ) about how he sold over 960,000 copies of his game. ► Play Thronefall: https://store.steampowered.com/app/223915..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 publish: true
+Status: "✅ Read"
 ---
 ![How He Sold Over 960,000 Copies](https://www.youtube.com/watch?v=hglxTerNK2U)
 

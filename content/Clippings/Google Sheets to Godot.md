@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=A4gft9bnhb0"
 media_link: "https://www.youtube.com/watch?v=A4gft9bnhb0"
 author:
   - "[[Queble]]"
-contentPublished: 2023-02-12
-noteCreated: 2025-01-25
+contentPublished: "2023-02-12"
+noteCreated: "2025-01-25"
 description: "In this tutorial, I'll show you how to create, manage, and load static data in Godot!In this case, I'm using static data to manage a list of items and their respective properties.  This same system c"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "14:22"
 ---

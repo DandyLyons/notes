@@ -1,22 +1,22 @@
 ---
-title: Everything about RANDOMNESS in Godot
-source: https://www.youtube.com/watch?v=lckgjXM3CeE
-media_link: https://www.youtube.com/watch?v=lckgjXM3CeE
+title: "Everything about RANDOMNESS in Godot"
+source: "https://www.youtube.com/watch?v=lckgjXM3CeE"
+media_link: "https://www.youtube.com/watch?v=lckgjXM3CeE"
 author:
   - "[[MrElipteach]]"
-contentPublished: 2022-11-20
-noteCreated: 2025-01-27
-description: In this video I go over different ways of getting random number but most importantly, how to use these techniques in game!🎓 Learn how to make JUICY games 👇https://www.udemy.com/course/learn-how-t
+contentPublished: "2022-11-20"
+noteCreated: "2025-01-27"
+description: "In this video I go over different ways of getting random number but most importantly, how to use these techniques in game!🎓 Learn how to make JUICY games 👇https://www.udemy.com/course/learn-how-t"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[RandomNumberGenerator|RandomNumberGenerator in Godot]]"
-  -  
-Status: 🙏🏼 Want To Read
+  - " "
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 11:33
+Youtube_Duration: "11:33"
 ---
 ![](https://www.youtube.com/watch?v=lckgjXM3CeE&t=231s)
 

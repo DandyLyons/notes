@@ -8,3 +8,4 @@ publish: true
 | Obsidian URL | [Obsidian plugin](obsidian://show-plugin?id=media-notes)                                                                                                                   |
 |              |                                                                                                                                                                            |
 
+

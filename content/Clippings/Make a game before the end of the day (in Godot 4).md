@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=PjN9w_egTeA&list=PL9FzW-m48fn1iR6WL4mjX
 media_link: "https://www.youtube.com/watch?v=PjN9w_egTeA&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp&index=104"
 author:
   - "[[Heartbeast]]"
-contentPublished: 2024-02-26
-noteCreated: 2025-01-06
+contentPublished: "2024-02-26"
+noteCreated: "2025-01-06"
 description: "Thanks for watching this tutorial video about how to make a game in Godot before the end of the day! Take this mini course and finish your first game.Here is the github repo to the project: https://"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "DROPPED"
 publish: true
 Youtube_Duration: "1:22:11"
 ---

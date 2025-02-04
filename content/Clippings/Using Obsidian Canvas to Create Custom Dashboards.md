@@ -1,17 +1,18 @@
 ---
-title: Using Obsidian Canvas to Create Custom Dashboards
-source: https://www.youtube.com/watch?v=qPgZTiA69y4
-media_link: https://www.youtube.com/watch?v=qPgZTiA69y4
+title: "Using Obsidian Canvas to Create Custom Dashboards"
+source: "https://www.youtube.com/watch?v=qPgZTiA69y4"
+media_link: "https://www.youtube.com/watch?v=qPgZTiA69y4"
 author:
   - "[[Mike Schmitz]]"
-contentPublished: 2024-04-04
-noteCreated: 2024-12-02
-description: Sure Obsidian Canvas is useful for visualizing your notes and ideas on an infinite canvas. But did you know it's an incredible tool for making personalized i...
+contentPublished: "2024-04-04"
+noteCreated: "2024-12-02"
+description: "Sure Obsidian Canvas is useful for visualizing your notes and ideas on an infinite canvas. But did you know it's an incredible tool for making personalized i..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 publish: true
+Status: "✅ Read"
 ---
 ![](https://www.youtube.com/watch?v=qPgZTiA69y4)
 

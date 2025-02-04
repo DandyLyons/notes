@@ -13,6 +13,7 @@ Status: 👀 Reading
 publish: true
 subjects:
   - "[[apologetics]]"
+  - "[[faith]]"
 ISBN: "9781433563782"
 ---
 

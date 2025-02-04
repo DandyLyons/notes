@@ -1,16 +1,18 @@
 ---
-title: Getting Started with Debugging in VS Code (Official Beginner Guide)
-source: https://www.youtube.com/watch?v=3HiLLByBWkg
-media_link: https://www.youtube.com/watch?v=3HiLLByBWkg
+title: "Getting Started with Debugging in VS Code (Official Beginner Guide)"
+source: "https://www.youtube.com/watch?v=3HiLLByBWkg"
+media_link: "https://www.youtube.com/watch?v=3HiLLByBWkg"
 author:
   - "[[Visual Studio Code]]"
-contentPublished: 2024-07-01
-noteCreated: 2024-11-22
-description: Join @ReynaldAdolphe for this tutorial on “Getting Started with Debugging in VS Code” In this video, he’ll walk you through the basics of debugging in Visual...
+contentPublished: "2024-07-01"
+noteCreated: "2024-11-22"
+description: "Join @ReynaldAdolphe for this tutorial on “Getting Started with Debugging in VS Code” In this video, he’ll walk you through the basics of debugging in Visual..."
 tags:
-  - clippings
-  - video
+  - "clippings"
+  - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=3HiLLByBWkg)
 

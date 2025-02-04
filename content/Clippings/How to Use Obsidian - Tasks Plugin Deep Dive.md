@@ -1,12 +1,13 @@
 ---
-media_link: https://www.youtube.com/watch?v=t6OLlwekVI0
+media_link: "https://www.youtube.com/watch?v=t6OLlwekVI0"
 author:
   - "[[+1creator]]"
 contentPublished:
-  - - 2024-11-13
+  - - "2024-11-13"
 subjects:
   - "[[Tasks plugin]]"
 publish: true
+Status: "✅ Read"
 ---
 ## My Notes
 ### [00:00](https://www.youtube.com/watch?v=t6OLlwekVI0&t=0s) Introduction to Obsidian's Power

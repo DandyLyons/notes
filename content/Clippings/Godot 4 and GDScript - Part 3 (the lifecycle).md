@@ -1,19 +1,20 @@
 ---
-title: Godot 4 and GDScript - Part 3 (the lifecycle)
-source: https://www.youtube.com/watch?v=yGXZFSs0jt8
-media_link: https://www.youtube.com/watch?v=yGXZFSs0jt8
+title: "Godot 4 and GDScript - Part 3 (the lifecycle)"
+source: "https://www.youtube.com/watch?v=yGXZFSs0jt8"
+media_link: "https://www.youtube.com/watch?v=yGXZFSs0jt8"
 author:
   - "[[FencerDevLog]]"
-contentPublished: 2023-10-06
-noteCreated: 2024-11-26
+contentPublished: "2023-10-06"
+noteCreated: "2024-11-26"
 description: "📖 Godot 4 book: https://filiprachunek.gumroad.com/l/godot4💡 Get exclusive content on Patreon: https://www.patreon.com/FencerDevLog🚀 Space Shooter tutorial..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[Node Lifecycle in Godot]]"
 publish: true
+Status: "👀 Reading"
 ---
 ![](https://www.youtube.com/watch?v=yGXZFSs0jt8)
 

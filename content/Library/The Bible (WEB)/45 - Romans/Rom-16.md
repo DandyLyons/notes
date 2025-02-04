@@ -23,7 +23,7 @@ Greet Prisca and Aquila, my fellow workers in Christ Jesus,
 who risked their own necks for my life, to whom not only I give thanks, but also all the assemblies of the Gentiles. 
 
 ###### v5 
-Greet the assembly that is in their house. Greet Epaenetus, my beloved, who is the first fruits of Achaia to Christ. 
+Greet the assembly that is in their house. Greet Epaenetus, my beloved, who is the [[first fruits]] of Achaia to Christ. 
 
 ###### v6 
 Greet Mary, who labored much for us. 

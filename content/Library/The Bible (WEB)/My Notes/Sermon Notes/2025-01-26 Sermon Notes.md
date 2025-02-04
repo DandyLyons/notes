@@ -26,9 +26,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series | Location                                                                        | Subjects | Takeaways | Sermon Link |
-| ------ | ------------------------------------------------------------------------------- | -------- | --------- | ----------- |
-| \-     | [[Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | \-       | \-        | \-          |
+| Series | Location                                                                               | Subjects                                  | Takeaways | Sermon Link |
+| ------ | -------------------------------------------------------------------------------------- | ----------------------------------------- | --------- | ----------- |
+| \-     | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[abortion\|abortion]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+Status: "✅ Read"
+publish: true
 ---
 ![10 Game Design Lessons from 10 Years of GMTK](https://www.youtube.com/watch?v=Cm2_drGLGbc)
 

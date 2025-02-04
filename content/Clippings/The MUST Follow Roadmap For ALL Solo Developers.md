@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+Status: "INTERESTING"
+publish: true
 ---
 ![The MUST Follow Roadmap For ALL Solo Developers](https://www.youtube.com/watch?v=IeVxir50Q2Q)
 

@@ -1,18 +1,20 @@
 ---
-title: Tweens are AMAZING in Godot 4.3
-source: https://www.youtube.com/watch?v=sJQydvy3uT8
-media_link: https://www.youtube.com/watch?v=sJQydvy3uT8
+title: "Tweens are AMAZING in Godot 4.3"
+source: "https://www.youtube.com/watch?v=sJQydvy3uT8"
+media_link: "https://www.youtube.com/watch?v=sJQydvy3uT8"
 author:
   - "[[Cashew OldDew]]"
-contentPublished: 2024-06-26
-noteCreated: 2024-11-20
+contentPublished: "2024-06-26"
+noteCreated: "2024-11-20"
 description: "DISCLAIMER: This video was filmed in Godot 4.2.2, but I changed the title to Godot 4.3 as nothing between those versions affected the features presented in t..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[tweens in Godot]]"
+publish: true
+Status: "✅ Read"
 ---
 ![](https://www.youtube.com/watch?v=sJQydvy3uT8)
 

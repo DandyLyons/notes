@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=2bjPN3oDiyg"
 media_link: "https://www.youtube.com/watch?v=2bjPN3oDiyg"
 author:
   - "[[WULFF DEN]]"
-contentPublished: 2023-08-04
-noteCreated: 2024-12-21
+contentPublished: "2023-08-04"
+noteCreated: "2024-12-21"
 description: "Click here bit.ly/satisfye-wulff and use code WULFFDEN for 15% off site wideI thought the Steam Deck touchpads were ugly and useless. And then everyone yelled at me...0:00 What I said2:00 SATISFY"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects: "[[Steam Deck]]"
-Status: "🙏🏼 Want To Read"
+Status: "DROPPED"
 publish: true
 Youtube_Duration: "13:57"
 ---

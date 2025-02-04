@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "✅ Read"
 ---
 ![Debugging Your Job Search with Jaim Zuber](https://www.youtube.com/watch?v=LbOS-31u8G0)
 

@@ -91,5 +91,7 @@ I thank God through Jesus Christ, our Lord! So then with the mind, I myself serv
 ---
 ## My Notes
 
+See also [[Gal-02#v20|Galatians 2:20]] 
+
 ---
 ## Footnotes

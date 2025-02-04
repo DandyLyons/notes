@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=QgmIs32SWdM"
 media_link: "https://www.youtube.com/watch?v=QgmIs32SWdM"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2024-06-10\\\"
-noteCreated: 2024-12-14
+contentPublished: "\\\\\\\"2024-06-10\\\\\\\""
+noteCreated: "2024-12-14"
 description: "Join Cult of the Lamb's Lead Gameplay Developer, Harrison Gibbins and Twitch Integration Developer, Thomas Tuts, as they give an in-depth look at how the integration was designed and developed, the hu"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "1:00:35"
 ---

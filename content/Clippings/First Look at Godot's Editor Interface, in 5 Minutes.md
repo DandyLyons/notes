@@ -1,6 +1,7 @@
 ---
 publish: true
-media_link: https://www.youtube.com/watch?v=F53qTyIiZDc
+media_link: "https://www.youtube.com/watch?v=F53qTyIiZDc"
+Status: "✅ Read"
 ---
 ![First Look at Godot's Editor Interface, in 5 Minutes - YouTube](https://www.youtube.com/watch?v=F53qTyIiZDc)
 

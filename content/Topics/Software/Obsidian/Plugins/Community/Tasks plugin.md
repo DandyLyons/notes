@@ -18,6 +18,13 @@ _You can toggle the task status in any view or query and it will update the sour
 - **Time metadata missing**: It seems that this plugin does not have the built-in ability to timestamp. You can add dates but not times. 
 ## Tutorials
 - [Official Tutorials](https://publish.obsidian.md/tasks/How+To/About+How+Tos)
+	- [How to show Tasks in a calendar view](https://publish.obsidian.md/tasks/How+To/Show+tasks+in+a+calendar) 
+## [How to find all tasks for the the coming 7 days](https://publish.obsidian.md/tasks/How+To/Find+tasks+for+coming+7+days#The+general+way) 
+
+```
+not done
+due before in 2025-02-01
+```
 ## Statuses
 <img src="https://publish-01.obsidian.md/access/40e62a316a834ff6f495ebf1d122cae6/images/theme-minimal-reading-view-sample.png" width="300">
 

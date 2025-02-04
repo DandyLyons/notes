@@ -1,8 +1,9 @@
 ---
 publish: true
-contentPublished: 2016-10-27
+contentPublished: "2016-10-27"
 subjects:
   - "[[Topics/Software Development/Web Development/Hosting/Netlify/index|Netlify]]"
+Status: "INTERESTING"
 ---
 In this tutorial, we will be reviewing how to set up your existing [[GitHub]] repo on [[Topics/Software Development/Web Development/Hosting/Netlify/index|Netlify]] for continuous deployment (that means all you have to do is push your code and Netlify will do the rest of your publishing tasks for you). If you haven’t quite discovered the amazing power of version control with GitHub you can always drag and drop your static files [here](https://app.netlify.com/) (just drop your zipped files in the dashed box).
 

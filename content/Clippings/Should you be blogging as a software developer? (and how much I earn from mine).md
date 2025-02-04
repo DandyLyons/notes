@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=7tvHuP86JgE"
 media_link: "https://www.youtube.com/watch?v=7tvHuP86JgE"
 author:
   - "[[Alex Hyett]]"
-contentPublished: \\\"2023-05-26\\\"
-noteCreated: 2024-12-11
+contentPublished: "\\\\\\\"2023-05-26\\\\\\\""
+noteCreated: "2024-12-11"
 description: "I have been blogging for 8 years now as a developer but is it worth your time? Will a blog help you get a job as a software developer and earn you some extra money on the side?Ethical Ads: https://w"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "11:06"
 ---

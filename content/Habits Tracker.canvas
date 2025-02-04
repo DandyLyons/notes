@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"28bc1c6fabafb858","type":"text","text":"# Read Bible\n```tracker\nsearchType: frontmatter \nsearchTarget: readBible\ndatasetName: gitignore/Journals/Life/\nstartDate: 2024-01-01\nmonth:\n    startWeekOn: 'Mon'\n```\n","x":-240,"y":200,"width":420,"height":480},
+		{"id":"9fdd10c669312a2b","type":"text","text":"# Read Bible\n```tracker\nsearchType: frontmatter \nsearchTarget: readBible\ndatasetName: gitignore/Journals/Life/\nstartDate: 2024-01-01\nmonth:\n    startWeekOn: 'Mon'\n```\n","x":200,"y":200,"width":420,"height":480}
+	],
+	"edges":[]
+}

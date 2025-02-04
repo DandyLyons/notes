@@ -1,21 +1,21 @@
 ---
-title: 📂️ How I Use The Obsidian Database Folder Plugin 🔌️ - YouTube
-source: https://www.youtube.com/watch?v=OYJgDZomOyo
-media_link: https://www.youtube.com/watch?v=OYJgDZomOyo
+title: "📂️ How I Use The Obsidian Database Folder Plugin 🔌️ - YouTube"
+source: "https://www.youtube.com/watch?v=OYJgDZomOyo"
+media_link: "https://www.youtube.com/watch?v=OYJgDZomOyo"
 author:
   - "[[Bryan Jenks]]"
-contentPublished: \\\"2023-12-11\\\"
-noteCreated: 2024-12-09
-description: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+contentPublished: "\\\\\\\"2023-12-11\\\\\\\""
+noteCreated: "2024-12-09"
+description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[Database Folder plugin]]"
-Status: 🙏🏼 Want To Read
+Status: "DROPPED"
 publish: true
-Youtube_Duration: 14:12
+Youtube_Duration: "14:12"
 ---
 ![](https://www.youtube.com/watch?v=OYJgDZomOyo)
 

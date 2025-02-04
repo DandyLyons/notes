@@ -7,6 +7,7 @@ publish: true
 | Docs           |                                                                                                                                       |
 | Obsidian URL   | [obsidian://show-plugin?id=obsidian-projects](obsidian://show-plugin?id=obsidian-projects)                                            |
 | Forum (GitHub) | [marcusolsson/obsidian-projects · Discussions · GitHub](https://github.com/marcusolsson/obsidian-projects/discussions)                |
+| Roadmap        | [Roadmap](https://github.com/marcusolsson/obsidian-projects?tab=readme-ov-file#roadmap)                                               |
 
 Allows you to manage projects with a UI that is similar to the tables in [[AirTable]] and [[Notion]]. 
 

@@ -10,6 +10,7 @@ tags:
 description: "a Full Time Game Dev video"
 takeaways:
 publish: false
+Status: "INTERESTING"
 ---
 ## Highlights
 ## How I Made 6-Figures With Just A Demo (And How You Potentially Can Too!)

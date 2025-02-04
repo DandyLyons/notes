@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=NhC21sgrb9M"
 media_link: "https://www.youtube.com/watch?v=NhC21sgrb9M"
 author:
   - "[[Curtis McHale]]"
-contentPublished: \\\"2024-12-09\\\"
-noteCreated: 2024-12-09
+contentPublished: "\\\\\\\"2024-12-09\\\\\\\""
+noteCreated: "2024-12-09"
 description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "6:51"
 ---

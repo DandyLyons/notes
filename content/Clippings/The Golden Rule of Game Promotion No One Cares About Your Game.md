@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=-341jEXj-iI"
 media_link: "https://www.youtube.com/watch?v=-341jEXj-iI"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2023-05-01\\\"
-noteCreated: 2024-12-14
+contentPublished: "\\\\\\\"2023-05-01\\\\\\\""
+noteCreated: "2024-12-14"
 description: "In this GDC 2023, talk, the \"no one cares about your game\" mindset gets explained and shows how this simple marketing philosophy can help teams laser focus their social media posts, keep their trailer"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "31:02"
 ---

@@ -1,15 +1,16 @@
 ---
-title: Unbroken Bones and a Pierced Side
+title: "Unbroken Bones and a Pierced Side"
 author:
-  - Ligonier.org
-contentPublished: 2018-11-23
-noteCreated: 2024-11-10
+  - "Ligonier.org"
+contentPublished: "2018-11-23"
+noteCreated: "2024-11-10"
 tags:
-  - clippings
-  - article
-description: At several points in John’s account of our Lord’s crucifixion, we read that the death of Jesus fulfilled messianic prophecy. In Christ’s sacrifice, God did exac
-takeaways: 
+  - "clippings"
+  - "article"
+description: "At several points in John’s account of our Lord’s crucifixion, we read that the death of Jesus fulfilled messianic prophecy. In Christ’s sacrifice, God did exac"
+takeaways:
 publish: true
+Status: "INTERESTING"
 ---
 ## Highlights
 Crucifixion usually took several days to kill a person, and if death had to be hastened, the Romans would break the person’s legs. This would make it much harder for him to raise himself up to take a breath and would bring on asphyxiation more rapidly. This explains why the Jewish authorities asked Pilate to have Jesus’ legs broken ([John 19:31](https://www.esv.org/verses/John%2019%3A31/)). They wanted Him to die quickly in order to get Him off the cross before the Sabbath started, for a body hanging on a tree overnight ceremonially defiled the land ([Deut. 21:22–23](https://www.esv.org/verses/Deut.%2021%3A22%E2%80%9323/)). Truly, they followed the letter of the law at the expense of its spirit. The religious leaders had the good intention to keep the ceremonial regulations, but they did not care that they had killed an innocent man.

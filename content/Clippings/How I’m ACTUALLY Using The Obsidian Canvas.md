@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=HFK3D7zeyTA"
 media_link: "https://www.youtube.com/watch?v=HFK3D7zeyTA"
 author:
   - "[[FromSergio]]"
-contentPublished: 2023-02-24
-noteCreated: 2024-12-17
+contentPublished: "2023-02-24"
+noteCreated: "2024-12-17"
 description: "To learn more than ever from important non-fiction books, join me on Shortform: https://shortform.com/fromsergio You’ll get a 5-day free trial and a discounted annual subscription.Monthly Favorites"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "DROPPED"
 publish: true
 Youtube_Duration: "11:50"
 ---

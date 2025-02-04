@@ -35,7 +35,7 @@ Don't be wise in your own eyes. Fear Yahweh, and depart from evil.
 It will be health to your body, and nourishment to your bones. 
 
 ###### v9 
-Honor Yahweh with your substance, with the first fruits of all your increase: 
+Honor Yahweh with your substance, with the [[first fruits]] of all your increase: 
 
 ###### v10 
 so your barns will be filled with plenty, and your vats will overflow with new wine. 

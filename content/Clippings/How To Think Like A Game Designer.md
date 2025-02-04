@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=iIOIT3dCy5w"
 media_link: "https://www.youtube.com/watch?v=iIOIT3dCy5w"
 author:
   - "[[Game Maker's Toolkit]]"
-contentPublished: \\\"2023-02-17\\\"
-noteCreated: 2024-12-11
+contentPublished: "\\\\\\\"2023-02-17\\\\\\\""
+noteCreated: "2024-12-11"
 description: "🔴 Get bonus content by supporting Game Maker’s Toolkit - https://gamemakerstoolkit.com/support/ 🔴When it comes to mechanics, a great source of inspiration is other video games. But how do you make"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "13:06"
 ---

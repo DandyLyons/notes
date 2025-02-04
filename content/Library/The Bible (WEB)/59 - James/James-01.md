@@ -62,7 +62,7 @@ Don't be deceived, my beloved brothers.
 Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow. 
 
 ###### v18 
-Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures. 
+Of his own will he gave birth to us by the word of truth, that we should be a kind of [[first fruits]] of his creatures. 
 
 ###### v19 
 So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; 

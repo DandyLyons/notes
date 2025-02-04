@@ -10,6 +10,7 @@ tags:
 description: "a Kajabi Site 2147560001 video"
 takeaways:
 publish: false
+Status: "🙏🏼 Want To Read"
 ---
 ## Highlights
 ![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2157474009/settings_images/8b7e20d-7d4-f1d-13-5c64a31dd2d_c1fdba76-eb4f-4f22-bcfe-50e571d0ea1f.png)

@@ -1,16 +1,18 @@
 ---
-title: We Tracked Every Visitor to Epstein Island | WIRED
-source: https://www.youtube.com/watch?v=PjPHq-Ez0nc
-media_link: https://www.youtube.com/watch?v=PjPHq-Ez0nc
+title: "We Tracked Every Visitor to Epstein Island | WIRED"
+source: "https://www.youtube.com/watch?v=PjPHq-Ez0nc"
+media_link: "https://www.youtube.com/watch?v=PjPHq-Ez0nc"
 author:
   - "[[WIRED]]"
-contentPublished: 2024-11-23
-noteCreated: 2024-11-23
-description: Even in death, the secrets of disgraced financier Jeffrey Epstein and his infamous private island remain tightly guarded. But in 2024 WIRED conducted an inve...
+contentPublished: "2024-11-23"
+noteCreated: "2024-11-23"
+description: "Even in death, the secrets of disgraced financier Jeffrey Epstein and his infamous private island remain tightly guarded. But in 2024 WIRED conducted an inve..."
 tags:
-  - clippings
-  - video
+  - "clippings"
+  - "video"
 takeaways:
+publish: true
+Status: "✅ Read"
 ---
 ![](https://www.youtube.com/watch?v=PjPHq-Ez0nc)
 

@@ -98,7 +98,7 @@ In the day that he goes into the sanctuary, into the inner court, to minister in
 They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs. 
 
 ###### v30 
-The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house. 
+The first of all the [[first fruits]] of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house. 
 
 ###### v31 
 The priests shall not eat of anything that dies of itself, or is torn, whether it is bird or animal.

@@ -1,16 +1,18 @@
 ---
 title: "Obsidian Web Clipper: Seamlessly Capture & Save Content to Your Vault"
-source: https://www.youtube.com/watch?v=Kesi8sp2x7M
-media_link: https://www.youtube.com/watch?v=Kesi8sp2x7M
+source: "https://www.youtube.com/watch?v=Kesi8sp2x7M"
+media_link: "https://www.youtube.com/watch?v=Kesi8sp2x7M"
 author:
   - "[[Marco Serafini]]"
-contentPublished: 2024-10-24
-noteCreated: 2024-11-04
+contentPublished: "2024-10-24"
+noteCreated: "2024-11-04"
 description: "In today's video, I'll introduce you to the official #Obsidian Web Clipper, a browser extension that lets you save content from the web directly into your Ob..."
 tags:
-  - clippings
-  - video
+  - "clippings"
+  - "video"
 takeaways:
+publish: true
+Status: "✅ Read"
 ---
 ![Obsidian Web Clipper: Seamlessly Capture & Save Content to Your Vault](https://www.youtube.com/watch?v=Kesi8sp2x7M)
 

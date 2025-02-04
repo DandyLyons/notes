@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=-jM9Tx6AVIE"
 media_link: "https://www.youtube.com/watch?v=-jM9Tx6AVIE"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2024-10-14\\\"
-noteCreated: 2024-12-13
+contentPublished: "\\\\\\\"2024-10-14\\\\\\\""
+noteCreated: "2024-12-13"
 description: "A lot of indie devs have to work with small budgets to promote their game, so it's key to spend every penny wisely! This GDC 2024 talk is all about how to wisely spend pennies on your promotional camp"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "32:56"
 ---

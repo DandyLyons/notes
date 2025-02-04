@@ -1,17 +1,18 @@
 ---
-title: Data models - using data to create extensible, maintainable games in Godot
-source: https://www.youtube.com/watch?v=4vAkTHeoORk
-media_link: https://www.youtube.com/watch?v=4vAkTHeoORk
+title: "Data models - using data to create extensible, maintainable games in Godot"
+source: "https://www.youtube.com/watch?v=4vAkTHeoORk"
+media_link: "https://www.youtube.com/watch?v=4vAkTHeoORk"
 author:
   - "[[Godotneers]]"
-contentPublished: 2024-01-28
-noteCreated: 2024-11-30
-description: Hello Godotneers! Every game revolves around data. Your game may have items, unit types, crafting recipes, dialogue, quests and a lot more. Handling all this...
+contentPublished: "2024-01-28"
+noteCreated: "2024-11-30"
+description: "Hello Godotneers! Every game revolves around data. Your game may have items, unit types, crafting recipes, dialogue, quests and a lot more. Handling all this..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 publish: true
+Status: "👀 Reading"
 ---
 ![](https://www.youtube.com/watch?v=4vAkTHeoORk&t=4935s)
 

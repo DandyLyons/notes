@@ -2,7 +2,8 @@
 publish: true
 subjects:
   - "[[Obsidian Web Clipper]]"
-url: https://sascha-kasper.com/step-by-step-guide-to-the-obsidian-web-clipper/
+url: "https://sascha-kasper.com/step-by-step-guide-to-the-obsidian-web-clipper/"
+Status: "✅ Read"
 ---
 FROM: [Guide to the Obsidian Web Clipper | LeanProductivity](https://sascha-kasper.com/step-by-step-guide-to-the-obsidian-web-clipper/) 
 

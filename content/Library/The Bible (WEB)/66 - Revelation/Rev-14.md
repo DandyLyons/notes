@@ -20,7 +20,7 @@ I heard a sound from heaven, like the sound of many waters, and like the sound o
 They sing a new song before the throne, and before the four living creatures and the elders. No one could learn the song except the one hundred forty-four thousand, those who had been redeemed out of the earth. 
 
 ###### v4 
-These are those who were not defiled with women, for they are virgins. These are those who follow the Lamb wherever he goes. These were redeemed by Jesus from among men, the first fruits to God and to the Lamb. 
+These are those who were not defiled with women, for they are virgins. These are those who follow the Lamb wherever he goes. These were redeemed by Jesus from among men, the [[first fruits]] to God and to the Lamb. 
 
 ###### v5 
 In their mouth was found no lie, for they are blameless. 

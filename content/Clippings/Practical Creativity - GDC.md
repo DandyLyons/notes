@@ -1,8 +1,9 @@
 ---
-media_link: https://www.youtube.com/watch?v=zyVTxGpEO30&list=PLcxsfF423PpbKne9m9YMb9vhDBAYf5pN0
+media_link: "https://www.youtube.com/watch?v=zyVTxGpEO30&list=PLcxsfF423PpbKne9m9YMb9vhDBAYf5pN0"
 publish: true
 subjects:
   - "[[Topics/Creativity/index|creativity]]"
+Status: "INTERESTING"
 ---
 ![Practical Creativity - YouTube](https://www.youtube.com/watch?v=zyVTxGpEO30&list=PLcxsfF423PpbKne9m9YMb9vhDBAYf5pN0)
 

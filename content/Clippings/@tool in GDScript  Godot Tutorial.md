@@ -1,16 +1,18 @@
 ---
-title: This is better than @export | Godot Tutorial
-source: https://www.youtube.com/watch?v=PrCza2z0Log
-media_link: https://www.youtube.com/watch?v=PrCza2z0Log
+title: "This is better than @export | Godot Tutorial"
+source: "https://www.youtube.com/watch?v=PrCza2z0Log"
+media_link: "https://www.youtube.com/watch?v=PrCza2z0Log"
 author:
   - "[[Leif in the Wind]]"
-contentPublished: 2024-08-14
-noteCreated: 2024-11-19
-description: This tutorial goes over how to use @tool scripts and advanced @exports to sculpt the inspector to our liking.Apologies for the slight high-pitched noise in t...
+contentPublished: "2024-08-14"
+noteCreated: "2024-11-19"
+description: "This tutorial goes over how to use @tool scripts and advanced @exports to sculpt the inspector to our liking.Apologies for the slight high-pitched noise in t..."
 tags:
-  - clippings
-  - video
+  - "clippings"
+  - "video"
 takeaways:
+Status: "✅ Read"
+publish: true
 ---
 ![](https://www.youtube.com/watch?v=PrCza2z0Log)
 

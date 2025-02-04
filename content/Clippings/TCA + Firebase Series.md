@@ -12,6 +12,8 @@ tags:
   - "video"
   - "tutorial"
 takeaways:
+Status: "INTERESTING"
+publish: true
 ---
 ![iOS Firebase Authentication with The Composable Architecture - Part 1](https://www.youtube.com/watch?v=3QHnnVowzxE&list=PLMdueeBGF5_OXdHZzmM1gHgB6LMJDTBjV&index=3)
 

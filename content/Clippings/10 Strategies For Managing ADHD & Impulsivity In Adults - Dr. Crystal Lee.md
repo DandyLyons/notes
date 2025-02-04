@@ -3,14 +3,14 @@ title: "10 Strategies For Managing ADHD & Impulsivity In Adults - Dr. Crystal Le
 author:
   - "[[name|Crystal I. Lee]]"
   - "[[@id|https://laconciergepsychologist.com/#/schema/person/39f22930adcbdfa13a7b6d1b903e080f]]"
-contentPublished: 2021-06-17
-noteCreated: 2025-01-08
+contentPublished: "2021-06-17"
+noteCreated: "2025-01-08"
 tags:
   - "clippings"
   - "article"
 description: "Do you speak or act before considering the consequences? An adult ADHD specialist offers tips on how to control ADHD-driven impulsivity."
 takeaways:
-Status: "🙏🏼 Want To Read"
+Status: "DROPPED"
 url: "https://laconciergepsychologist.com/blog/10-strategies-managing-adhd-impulsivity/"
 ---
 **Source**: [10 Strategies For Managing ADHD & Impulsivity In Adults - Dr. Crystal Lee](https://laconciergepsychologist.com/blog/10-strategies-managing-adhd-impulsivity/) 

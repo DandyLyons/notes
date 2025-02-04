@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![How to Earn Money With Demos & Jam Games (Godot Engine + CrazyGames)](https://www.youtube.com/watch?v=ZlCVm67RrDI)
 

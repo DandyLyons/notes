@@ -12,7 +12,7 @@ tags:
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "29:05"
 ---

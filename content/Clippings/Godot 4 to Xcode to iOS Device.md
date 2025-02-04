@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "👀 Reading"
 ---
 ![Godot 4 to Xcode to iOS Device: Active Development for testing without exporting every time!](https://www.youtube.com/watch?v=ClGFSwWRIdw)
 

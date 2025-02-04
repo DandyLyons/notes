@@ -47,7 +47,7 @@ takeaways:
 	- >The grace that does not change my life, will not save my soul. - Spurgeon 
 	- We should always be aware of the greatness of God. Respect Him. Do not speak flippantly about Him. 
 - The LORD provides **true joy** through His powerful Word:
-	- [[James-01#v18|James 1.18]] Of his own will he gave birth to us by the **word of truth**, that we should be a kind of first fruits of his creatures.  
+	- [[James-01#v18|James 1.18]] Of his own will he gave birth to us by the **word of truth**, that we should be a kind of [[first fruits]] of his creatures.  
 	- [[1 Pet-01#v23|1 Pet 1.23]] having been born again, not of corruptible seed, but of incorruptible, through the **word of God**, which lives and remains forever.  
 	- **Our mission is to simply proclaim God’s Word.** But it is God who works through the Word and saves sinners. Not us. 
 	- Isaiah 55 depicts a renewed world, with a lifted curse, rejoicing God. 

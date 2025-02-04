@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=mfrGe4e_fSs"
 media_link: "https://www.youtube.com/watch?v=mfrGe4e_fSs"
 author:
   - "[[SwiftLeeds]]"
-contentPublished: \\\"2024-10-29\\\"
-noteCreated: 2024-12-16
+contentPublished: "\\\\\\\"2024-10-29\\\\\\\""
+noteCreated: "2024-12-16"
 description: "WebAssembly support in Swift started as a community project and over the years evolved into an ecosystem of libraries and developer tools. The talk provides an introduction to Wasm, showing how it wor"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "32:09"
 ---

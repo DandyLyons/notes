@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "✅ Read"
 ---
 ![MSNBC’s Unhinged, Ahistorical Meltdown Over Trump’s “Fascist” NYC Rally](https://www.youtube.com/watch?v=fvuiwdXiZGU)
 

@@ -1,18 +1,20 @@
 ---
-title: How to Use Signals in Godot 4 - Editor vs. Code
-source: https://www.youtube.com/watch?v=Qlq8pBB2htg
-media_link: https://www.youtube.com/watch?v=Qlq8pBB2htg
+title: "How to Use Signals in Godot 4 - Editor vs. Code"
+source: "https://www.youtube.com/watch?v=Qlq8pBB2htg"
+media_link: "https://www.youtube.com/watch?v=Qlq8pBB2htg"
 author:
   - "[[GDQuest]]"
-contentPublished: 2023-12-14
-noteCreated: 2024-11-07T16:12:44-07:00
+contentPublished: "2023-12-14"
+noteCreated: "2024-11-07T16:12:44-07:00"
 description: "🗨 *GDQuest Discord Community* : https://discord.gg/87NNb3Z▶︎ *GODOT 4 COURSES* : https://school.gdquest.com/godot-4-early-access Early Access Starting Jan 3..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[signals in Godot]]"
+publish: true
+Status: "✅ Read"
 ---
 ![How to Use Signals in Godot 4 - Editor vs. Code](https://www.youtube.com/watch?v=Qlq8pBB2htg)
 

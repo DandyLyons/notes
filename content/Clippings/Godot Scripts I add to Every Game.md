@@ -1,18 +1,20 @@
 ---
-title: https://i.ytimg.com/vi/KOI0y1OC_tM/maxresdefault.jpg
-source: https://www.youtube.com/watch?v=KOI0y1OC_tM
-media_link: https://www.youtube.com/watch?v=KOI0y1OC_tM
+title: "https://i.ytimg.com/vi/KOI0y1OC_tM/maxresdefault.jpg"
+source: "https://www.youtube.com/watch?v=KOI0y1OC_tM"
+media_link: "https://www.youtube.com/watch?v=KOI0y1OC_tM"
 author:
   - "[[Aarimous]]"
-contentPublished: 2024-09-18
-noteCreated: 2024-11-05T09:38:16-07:00
-description: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+contentPublished: "2024-09-18"
+noteCreated: "2024-11-05T09:38:16-07:00"
+description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[scripts in Godot]]"
+publish: true
+Status: "✅ Read"
 ---
 ![Godot Scripts I add to Every Game](https://www.youtube.com/watch?v=KOI0y1OC_tM)
 

@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=JEQR4ALlwVU"
 media_link: "https://www.youtube.com/watch?v=JEQR4ALlwVU"
 author:
   - "[[Gwizz]]"
-contentPublished: 2023-09-06
-noteCreated: 2025-01-06
+contentPublished: "2023-09-06"
+noteCreated: "2025-01-06"
 description: "Quick tutorial on how to make a pause menu in Godot 4!Main Menu tutorial:https://www.youtube.com/watch?v=vsKxB66_ngw&t=44s"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "5:48"
 ---

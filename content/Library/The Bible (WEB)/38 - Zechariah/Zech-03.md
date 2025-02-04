@@ -11,7 +11,7 @@ aliases:
 
 
 ###### v1 
-He showed me Joshua the high priest standing before Yahweh's angel, and Satan standing at his right hand to be his adversary. 
+He showed me Joshua[^1] the high priest standing before Yahweh's angel, and Satan standing at his right hand to be his adversary. 
 
 ###### v2 
 Yahweh said to Satan, "Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn't this a burning stick plucked out of the fire?" 
@@ -48,3 +48,5 @@ In that day,' says Yahweh of Armies, 'you will invite every man his neighbor und
 
 ---
 ## Footnotes
+
+[^1]: This is the same name as Jesus. 

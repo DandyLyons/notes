@@ -1,7 +1,8 @@
 ---
 publish: true
-media_link: https://www.youtube.com/watch?v=JTuZuUesDKs
-url: https://www.youtube.com/watch?v=JTuZuUesDKs
+media_link: "https://www.youtube.com/watch?v=JTuZuUesDKs"
+url: "https://www.youtube.com/watch?v=JTuZuUesDKs"
+Status: "INTERESTING"
 ---
 # Put File Management on Autopilot with Hazel for Mac (MP067)
 Youtube channel: [[Macpreneur]]

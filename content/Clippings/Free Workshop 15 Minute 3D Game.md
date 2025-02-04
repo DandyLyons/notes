@@ -2,12 +2,13 @@
 title:
 author:
 contentPublished:
-noteCreated: 2024-11-25
+noteCreated: "2024-11-25"
 tags:
   - "clippings"
   - "article"
 description: "a Kajabi Site 2147560001 video"
 takeaways:
+Status: "🙏🏼 Want To Read"
 ---
 ## Highlights
 ## Links & Resources For This Video

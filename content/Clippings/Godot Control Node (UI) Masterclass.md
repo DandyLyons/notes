@@ -1,19 +1,20 @@
 ---
-title: Godot Control Node (UI) Masterclass
-source: https://www.youtube.com/watch?v=5Hog6a0EYa0
-media_link: https://www.youtube.com/watch?v=5Hog6a0EYa0
+title: "Godot Control Node (UI) Masterclass"
+source: "https://www.youtube.com/watch?v=5Hog6a0EYa0"
+media_link: "https://www.youtube.com/watch?v=5Hog6a0EYa0"
 author:
   - "[[Karto]]"
-contentPublished: 2024-08-28
-noteCreated: 2024-11-11
+contentPublished: "2024-08-28"
+noteCreated: "2024-11-11"
 description: "Lukky's video: https://youtu.be/sPfoZy-cW-E?si=p00RNhChrk1hEYrvGet Beginner Godot Mentorship: https://www.fiverr.com/s/ZmNmR3kFor one HUNDRED godot tips in 2..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 publish: true
 subjects:
   - "[[layout in Godot]]"
+Status: "🙏🏼 Want To Read"
 ---
 ![](https://www.youtube.com/watch?v=5Hog6a0EYa0)
 

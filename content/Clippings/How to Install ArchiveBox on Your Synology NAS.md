@@ -8,7 +8,7 @@ tags:
   - "article"
 description: "Step by step guide for installing ArchiveBox on your Synology NAS device."
 takeaways:
-Status: "🙏🏼 Want To Read"
+Status: "DROPPED"
 url:
 publish: true
 ---

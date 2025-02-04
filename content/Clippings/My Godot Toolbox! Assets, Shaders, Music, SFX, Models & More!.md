@@ -1,17 +1,18 @@
 ---
-title: My Godot Toolbox! Assets, Shaders, Music, SFX, Models & More!
-source: https://www.youtube.com/watch?v=rS88FPBtqBk
-media_link: https://www.youtube.com/watch?v=rS88FPBtqBk
+title: "My Godot Toolbox! Assets, Shaders, Music, SFX, Models & More!"
+source: "https://www.youtube.com/watch?v=rS88FPBtqBk"
+media_link: "https://www.youtube.com/watch?v=rS88FPBtqBk"
 author:
   - "[[Lukky]]"
-contentPublished: 
-noteCreated: 2024-11-24
-description: To try everything Brilliant has to offer—free—for a full 30 days, visit https://brilliant.org/Lukky . You’ll also get 20% off an annual premium subscription....
+contentPublished:
+noteCreated: "2024-11-24"
+description: "To try everything Brilliant has to offer—free—for a full 30 days, visit https://brilliant.org/Lukky . You’ll also get 20% off an annual premium subscription...."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=rS88FPBtqBk)
 

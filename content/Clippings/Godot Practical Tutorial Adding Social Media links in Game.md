@@ -5,12 +5,14 @@ media_link: "https://www.youtube.com/watch?v=1IpW4Gddbnw"
 author:
   - "[[GameDev with KamikaziAvalanche]]"
 contentPublished:
-noteCreated: 2024-11-10
+noteCreated: "2024-11-10"
 description: "Now that I have social media links (YouTube Channel, the Steam page, a Discord Server, and a Google form for feedback) I want to add links to those when the ..."
 tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=1IpW4Gddbnw)
 

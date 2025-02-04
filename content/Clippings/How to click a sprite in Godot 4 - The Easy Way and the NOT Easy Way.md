@@ -1,18 +1,20 @@
 ---
-title: How to click a sprite in Godot 4 - The Easy Way and the NOT Easy Way
-source: https://www.youtube.com/watch?v=zeYtjYPjCkg
-media_link: https://www.youtube.com/watch?v=zeYtjYPjCkg
+title: "How to click a sprite in Godot 4 - The Easy Way and the NOT Easy Way"
+source: "https://www.youtube.com/watch?v=zeYtjYPjCkg"
+media_link: "https://www.youtube.com/watch?v=zeYtjYPjCkg"
 author:
   - "[[Real Robots]]"
-contentPublished: 2024-05-20
-noteCreated: 2024-11-29
-description: Just a quick one I wanted to cover, hopefully there's still a few people out there who don't know how to do this so my effort won't be wasted :-)The best way...
+contentPublished: "2024-05-20"
+noteCreated: "2024-11-29"
+description: "Just a quick one I wanted to cover, hopefully there's still a few people out there who don't know how to do this so my effort won't be wasted :-)The best way..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[click detection in Godot]]"
+publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=zeYtjYPjCkg&t=320s)
 

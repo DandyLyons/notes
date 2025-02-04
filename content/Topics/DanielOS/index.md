@@ -11,9 +11,11 @@ aliases:
 	- [[Topics/Software Development/Web Development/Static Site Generation/Quartz/index|Quartz]] 
 	- [[Projects Plugin]]
 	- [[Journals Plugin]] 
+	- [[Tasks plugin]]
+		- [[Task Status plugin]] 
 	- [[QuickAdd plugin]] 
 - [[Arc]] browser 
-- [[Snipd]] 
+- [[Contacts]] 
 
 ## Perspective
 - `^D`: Open Today's Note

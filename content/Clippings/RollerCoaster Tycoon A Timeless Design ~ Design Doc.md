@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=PPl6cGu7zPM"
 media_link: "https://www.youtube.com/watch?v=PPl6cGu7zPM"
 author:
   - "[[Design Doc]]"
-contentPublished: \\\"2018-07-12\\\"
-noteCreated: 2024-12-08
+contentPublished: "\\\\\\\"2018-07-12\\\\\\\""
+noteCreated: "2024-12-08"
 description: "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/designdoc06211Sometimes we all need a chill game to relax..."
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "12:00"
 ---

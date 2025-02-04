@@ -26,7 +26,7 @@ Rejoice in the Lord always! Again I will say, "Rejoice!"
 Let your gentleness be known to all men. The Lord is at hand. 
 
 ###### v6 
-In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. 
+In nothing be [[anxiety|anxious]], but in everything, by [[prayer]] and petition with [[thanksgiving ]], let your requests be made known to God. 
 
 ###### v7 
 And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus. 

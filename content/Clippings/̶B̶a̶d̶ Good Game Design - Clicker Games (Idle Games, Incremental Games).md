@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=vBuYzLUzPqw"
 media_link: "https://www.youtube.com/watch?v=vBuYzLUzPqw"
 author:
   - "[[ingeniousclown Gaming]]"
-contentPublished: \\\"2019-02-22\\\"
-noteCreated: 2024-12-08
+contentPublished: "\\\\\\\"2019-02-22\\\\\\\""
+noteCreated: "2024-12-08"
 description: "Snoman Gaming recently made a video talking about how Clicker Games are \"Bad Game Design\".  I disagree, and I take it upon myself to deconstruct his video an..."
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "20:06"
 ---

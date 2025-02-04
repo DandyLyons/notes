@@ -5,12 +5,14 @@ media_link: "https://www.youtube.com/watch?v=FlpP2Otz_Rc"
 author:
   - "[[Coding Quests]]"
 contentPublished:
-noteCreated: 2024-11-20
+noteCreated: "2024-11-20"
 description: "Hi, thanks for watching our video about 2D/3D Tutorials in Godot 4.0!In this video we'll walk you through:- How To Change InputMap During Gameplay In Godot 4..."
 tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=FlpP2Otz_Rc)
 

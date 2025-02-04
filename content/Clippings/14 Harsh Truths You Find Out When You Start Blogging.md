@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=iC5dWobPSik"
 media_link: "https://www.youtube.com/watch?v=iC5dWobPSik"
 author:
   - "[[Traveling Petite Girl]]"
-contentPublished: \\\"2020-04-28\\\"
-noteCreated: 2024-12-11
+contentPublished: "\\\\\\\"2020-04-28\\\\\\\""
+noteCreated: "2024-12-11"
 description: "BOLD BLOGGER LAUNCH CHECKLIST: http://www.travelingpetitegirl.com/bblc/BLOG POST HERE: http://www.travelingpetitegirl.com/things-youll-learn-while-travel-blogging/MORE VIDEOSHow to Start a Blog &"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "DROPPED"
 publish: true
 Youtube_Duration: "7:24"
 ---

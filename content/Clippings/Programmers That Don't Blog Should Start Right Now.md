@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=fxLFjOa-9UY"
 media_link: "https://www.youtube.com/watch?v=fxLFjOa-9UY"
 author:
   - "[[Adrian Twarog]]"
-contentPublished: \\\"2021-07-22\\\"
-noteCreated: 2024-12-11
+contentPublished: "\\\\\\\"2021-07-22\\\\\\\""
+noteCreated: "2024-12-11"
 description: "Programmers that don't blog should start right now. You're future self with thank you when your blog helps you getting a better job, earn more money and of course, have an easier time learning new con"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "10:04"
 ---

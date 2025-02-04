@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=hbzGO_Qonu0"
 media_link: "https://www.youtube.com/watch?v=hbzGO_Qonu0"
 author:
   - "[[Game Maker's Toolkit]]"
-contentPublished: \\\"2018-04-06\\\"
-noteCreated: 2024-12-11
+contentPublished: "\\\\\\\"2018-04-06\\\\\\\""
+noteCreated: "2024-12-11"
 description: "🔴 Get bonus content by supporting Game Maker’s Toolkit - https://gamemakerstoolkit.com/support/ 🔴Why do some games keep us rapt and entertained until the closing credits, while others fizzle out a"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "10:45"
 ---

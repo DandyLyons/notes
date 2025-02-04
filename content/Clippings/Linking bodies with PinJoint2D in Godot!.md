@@ -1,7 +1,8 @@
 ---
 publish: true
-url: https://www.youtube.com/watch?v=ucTc_J1C-_k
-media_link: https://www.youtube.com/watch?v=ucTc_J1C-_k
+url: "https://www.youtube.com/watch?v=ucTc_J1C-_k"
+media_link: "https://www.youtube.com/watch?v=ucTc_J1C-_k"
+Status: "✅ Read"
 ---
 ## Notes
 ### [00:35](https://www.youtube.com/watch?v=ucTc_J1C-_k&t=35s) Explosive Bridge 

@@ -1,18 +1,20 @@
 ---
 title: "Swift Godot: Fixing the Multi-million dollar mistake"
-source: https://www.youtube.com/watch?v=tzt36EGKEZo
-media_link: https://www.youtube.com/watch?v=tzt36EGKEZo
+source: "https://www.youtube.com/watch?v=tzt36EGKEZo"
+media_link: "https://www.youtube.com/watch?v=tzt36EGKEZo"
 author:
   - "[[Godot Engine]]"
-contentPublished: 2023-11-07
-noteCreated: 2024-11-11
-description: https://media.ccc.de/v/godotcon2023-57866-swift-godot-fixing-the-multi-million-dollar-mistakeIn a previous life, Miguel worked tirelessly to get Unity and ot...
+contentPublished: "2023-11-07"
+noteCreated: "2024-11-11"
+description: "https://media.ccc.de/v/godotcon2023-57866-swift-godot-fixing-the-multi-million-dollar-mistakeIn a previous life, Miguel worked tirelessly to get Unity and ot..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[Topics/Software Development/Programming Languages/Swift/SwiftGodot/index|SwiftGodot]]"
+publish: true
+Status: "✅ Read"
 ---
 ![](https://www.youtube.com/watch?v=tzt36EGKEZo)
 

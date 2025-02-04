@@ -13,7 +13,7 @@ tags:
 takeaways:
 subjects:
   - "[[Procedural Narrative Generation]]"
-Status: "INTERESTING"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "58:57"
 ---

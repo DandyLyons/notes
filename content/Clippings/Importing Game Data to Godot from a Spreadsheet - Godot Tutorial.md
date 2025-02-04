@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=ZI88oiCQTtY"
 media_link: "https://www.youtube.com/watch?v=ZI88oiCQTtY"
 author:
   - "[[Aarimous]]"
-contentPublished: 2024-09-02
-noteCreated: 2025-01-25
+contentPublished: "2024-09-02"
+noteCreated: "2025-01-25"
 description: "Managing game data can be hard and there are many ways to do it. This is a method I've been using for my current project Hexagod which utilizes Google Sheets and the Export Sheet Data extension to exp"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "11:11"
 ---

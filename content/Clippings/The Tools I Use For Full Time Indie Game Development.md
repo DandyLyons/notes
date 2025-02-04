@@ -1,16 +1,18 @@
 ---
-title: It's Not Looking Good For Game Devs...
-source: https://www.youtube.com/watch?v=mrVM2zehqiw&t=49s
-media_link: https://www.youtube.com/watch?v=mrVM2zehqiw
+title: "It's Not Looking Good For Game Devs..."
+source: "https://www.youtube.com/watch?v=mrVM2zehqiw&t=49s"
+media_link: "https://www.youtube.com/watch?v=mrVM2zehqiw"
 author:
   - "[[Firebelley Games]]"
-contentPublished: 2024-10-02
-noteCreated: 2024-11-05T08:26:45-07:00
+contentPublished: "2024-10-02"
+noteCreated: "2024-11-05T08:26:45-07:00"
 description: "Twitch https://twitch.tv/ThePrimeagenDiscord https://discord.gg/ThePrimeagenBecome Backend Dev: https://boot.dev/prime(plus i make courses for them)This is a..."
 tags:
-  - clippings
-  - video
+  - "clippings"
+  - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![The Tools I Use For Full Time Indie Game Development](https://www.youtube.com/watch?v=mrVM2zehqiw&t=49s)
 

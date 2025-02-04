@@ -74,7 +74,7 @@ You shall redeem the firstborn of a donkey with a lamb. If you will not redeem i
 "Six days you shall work, but on the seventh day you shall rest: in plowing time and in harvest you shall rest. 
 
 ###### v22 
-"You shall observe the feast of weeks with the first fruits of wheat harvest, and the feast of harvest at the year's end. 
+"You shall observe the feast of weeks with the [[first fruits]] of wheat harvest, and the feast of harvest at the year's end. 
 
 ###### v23 
 Three times in the year all your males shall appear before the Lord Yahweh, the God of Israel. 
@@ -86,7 +86,7 @@ For I will drive out nations before you and enlarge your borders; neither shall 
 "You shall not offer the blood of my sacrifice with leavened bread. The sacrifice of the feast of the Passover shall not be left to the morning. 
 
 ###### v26 
-"You shall bring the first of the first fruits of your ground to the house of Yahweh your God. "You shall not boil a young goat in its mother's milk." 
+"You shall bring the first of the [[first fruits]] of your ground to the house of Yahweh your God. "You shall not boil a young goat in its mother's milk." 
 
 ###### v27 
 Yahweh said to Moses, "Write these words; for in accordance with these words I have made a covenant with you and with Israel." 

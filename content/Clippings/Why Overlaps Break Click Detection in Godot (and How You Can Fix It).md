@@ -1,22 +1,22 @@
 ---
-title: Why Overlaps Break Click Detection in Godot (and How You Can Fix It)
-source: https://www.youtube.com/watch?v=pk3tkcHZi2g
-media_link: https://www.youtube.com/watch?v=pk3tkcHZi2g
+title: "Why Overlaps Break Click Detection in Godot (and How You Can Fix It)"
+source: "https://www.youtube.com/watch?v=pk3tkcHZi2g"
+media_link: "https://www.youtube.com/watch?v=pk3tkcHZi2g"
 author:
   - "[[Cashew OldDew]]"
-contentPublished: 2025-01-13
-noteCreated: 2025-01-23
+contentPublished: "2025-01-13"
+noteCreated: "2025-01-23"
 description: "Wishlist Fangs & Faith Solitaire now: https://store.steampowered.com/app/3032430/Fangs__Faith_Solitaire/Hello everyone! You might want to make a game in whic..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[click detection in Godot]]"
   - "[[draggable UI in Godot]]"
-Status: 🙏🏼 Want To Read
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 15:31
+Youtube_Duration: "15:31"
 ---
 ![](https://www.youtube.com/watch?v=pk3tkcHZi2g)
 

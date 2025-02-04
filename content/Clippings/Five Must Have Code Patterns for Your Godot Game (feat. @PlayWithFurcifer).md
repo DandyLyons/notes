@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![Five Must Have Code Patterns for Your Godot Game (feat. @PlayWithFurcifer)](https://www.youtube.com/watch?v=oIrvZDDWxhU)
 

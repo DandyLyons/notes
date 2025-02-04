@@ -1,16 +1,18 @@
 ---
-title: 10 TIPS to make your ITCH.IO page look GOOD
-source: https://www.youtube.com/watch?v=DHnua2iW4Jc
-media_link: https://www.youtube.com/watch?v=DHnua2iW4Jc
+title: "10 TIPS to make your ITCH.IO page look GOOD"
+source: "https://www.youtube.com/watch?v=DHnua2iW4Jc"
+media_link: "https://www.youtube.com/watch?v=DHnua2iW4Jc"
 author:
   - "[[Millimedia Games]]"
-contentPublished: 2023-04-03
-noteCreated: 2024-11-17
+contentPublished: "2023-04-03"
+noteCreated: "2024-11-17"
 description: "All the itch.io pages featured in this video (except for A Tower in the Forest) can be found here: https://millimedia-games.itch.io/A Tower in the Forest's i..."
 tags:
-  - clippings
-  - video
+  - "clippings"
+  - "video"
 takeaways:
+publish: true
+Status: "✅ Read"
 ---
 ![](https://www.youtube.com/watch?v=DHnua2iW4Jc)
 

@@ -3,14 +3,14 @@ title: "MLC Financial Audit: Uncovering Key Questions [Chris Castle]"
 author:
   - "[[name|Alana Bonilla]]"
   - "[[@id|https://www.hypebot.com/#/schema/person/a273c8054f1dec17373109885afb6aa1]]"
-contentPublished: 2024-09-19
-noteCreated: 2024-12-12
+contentPublished: "2024-09-19"
+noteCreated: "2024-12-12"
 tags:
   - "clippings"
   - "article"
 description: "Uncover surprising details from the MLC's financial audit and its implications for the music industry. Learn why this audit matters."
 takeaways:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 url: "https://www.hypebot.com/hypebot/2024/09/mlc-financial-audit-uncovering-key-questions-chris-castle.html"
 ---
 From: [MLC Financial Audit: Uncovering Key Questions \[Chris Castle\] - Hypebot](https://www.hypebot.com/hypebot/2024/09/mlc-financial-audit-uncovering-key-questions-chris-castle.html) 

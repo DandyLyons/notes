@@ -4,13 +4,15 @@ source: "https://www.youtube.com/watch?v=aMc-GKv5olA"
 media_link: "https://www.youtube.com/watch?v=aMc-GKv5olA"
 author:
   - "[[Pirate Software]]"
-contentPublished: 2022-05-02
-noteCreated: 2024-11-17
+contentPublished: "2022-05-02"
+noteCreated: "2024-11-17"
 description: "Go make video games.https://develop.games/Watch the stream here:https://piratesoftware.live#Positivity #GameDev #Twitch"
 tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=aMc-GKv5olA)
 

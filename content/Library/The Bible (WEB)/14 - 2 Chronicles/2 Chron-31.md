@@ -23,7 +23,7 @@ He also appointed the king's portion of his possessions for the burnt offerings,
 Moreover he commanded the people who lived in Jerusalem to give the portion of the priests and the Levites, that they might give themselves to Yahweh's law. 
 
 ###### v5 
-As soon as the commandment went out, the children of Israel gave in abundance the first fruits of grain, new wine, oil, honey, and of all the increase of the field; and they brought in the tithe of all things abundantly. 
+As soon as the commandment went out, the children of Israel gave in abundance the [[first fruits]] of grain, new wine, oil, honey, and of all the increase of the field; and they brought in the tithe of all things abundantly. 
 
 ###### v6 
 The children of Israel and Judah, who lived in the cities of Judah, also brought in the tithe of cattle and sheep, and the tithe of dedicated things which were consecrated to Yahweh their God, and laid them in heaps. 

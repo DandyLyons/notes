@@ -1,21 +1,21 @@
 ---
 title: "Integrating Narrative into Game Design: A Portal Post-Mortem"
-source: https://www.youtube.com/watch?v=c2YRVWZupwo
-media_link: https://www.youtube.com/watch?v=c2YRVWZupwo
+source: "https://www.youtube.com/watch?v=c2YRVWZupwo"
+media_link: "https://www.youtube.com/watch?v=c2YRVWZupwo"
 author:
   - "[[GDC 2025]]"
-contentPublished: \\\"2020-02-19\\\"
-noteCreated: 2024-12-13
+contentPublished: "\\\\\\\"2020-02-19\\\\\\\""
+noteCreated: "2024-12-13"
 description: "In this 2008 GDC talk, Valve's Kim Swift and Erik Wolpaw expound upon the topic of integrating narrative into the game design of 2007's smash hit Portal. Register for GDC: https://ubm.io/341ZiaZJo"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[Portal]]"
-Status: 🙏🏼 Want To Read
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 1:18:51
+Youtube_Duration: "1:18:51"
 ---
 [[Portal]]
 

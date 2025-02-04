@@ -1,21 +1,21 @@
 ---
-title: 50 Steam Deck Tips & Tricks in 10 Minutes
-source: https://www.youtube.com/watch?v=gKvzM5pLFk4
-media_link: https://www.youtube.com/watch?v=gKvzM5pLFk4
+title: "50 Steam Deck Tips & Tricks in 10 Minutes"
+source: "https://www.youtube.com/watch?v=gKvzM5pLFk4"
+media_link: "https://www.youtube.com/watch?v=gKvzM5pLFk4"
 author:
   - "[[Specter]]"
-contentPublished: 2023-04-03
-noteCreated: 2024-12-21
+contentPublished: "2023-04-03"
+noteCreated: "2024-12-21"
 description: "A master list of everything Steam Deck. In under 10 minutes! Thanks for watching! Steam Deck Accessories: http://dbrand.com/specterAmazon Prices below: Best MicroSD Cards: https://geni.us/EAYsnw"
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[Steam Deck]]"
-Status: 🙏🏼 Want To Read
+Status: "DROPPED"
 publish: true
-Youtube_Duration: 9:53
+Youtube_Duration: "9:53"
 ---
 ![](https://www.youtube.com/watch?v=gKvzM5pLFk4)
 

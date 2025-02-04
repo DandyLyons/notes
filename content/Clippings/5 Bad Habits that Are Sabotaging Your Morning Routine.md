@@ -41,6 +41,8 @@ My name is Reagan Rose I am a follower of Jesus Christ, husband, and father. I'm
 
 ## My Notes
 
+### 1. Opening Your Phone First Thing in the Morning. 
 
+### 2. 
 ## Transcript
 

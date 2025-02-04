@@ -10,6 +10,7 @@ description: "Introduction: This is an overview of the 2D transforms going on fo
 takeaways:
 url: "https://docs.godotengine.org/en/stable/tutorials/2d/2d_transforms.html#introduction"
 publish: true
+Status: "INTERESTING"
 ---
 ## Highlights
 This is an overview of the 2D transforms going on for nodes from the moment they draw their content locally to the time they are drawn onto the screen. This overview discusses very low level details of the engine.

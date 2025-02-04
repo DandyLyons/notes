@@ -2,13 +2,13 @@
 title: "MLC “ReUp” Proceeding Highlights Ownership Issues for Your Musical Works Database When You Correct To Collect?"
 author:
 contentPublished:
-noteCreated: 2024-12-12
+noteCreated: "2024-12-12"
 tags:
   - "clippings"
   - "article"
 description: "One of the few things we know about the MLC database is who doesn't own it."
 takeaways:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 url: "https://thetrichordist.com/2024/03/12/mlc-reup-proceeding-highlights-ownership-issues-for-your-musical-works-database-when-you-correct-to-collect/"
 ---
 Article: [MLC “ReUp” Proceeding Highlights Ownership Issues for Your Musical Works Database When You Correct To Collect? – The Trichordist](https://thetrichordist.com/2024/03/12/mlc-reup-proceeding-highlights-ownership-issues-for-your-musical-works-database-when-you-correct-to-collect/) 

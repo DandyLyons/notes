@@ -1,17 +1,18 @@
 ---
-title: Every Variant in Godot 4
-source: https://www.youtube.com/watch?v=RM_ExxV-0Qo
-media_link: https://www.youtube.com/watch?v=RM_ExxV-0Qo
+title: "Every Variant in Godot 4"
+source: "https://www.youtube.com/watch?v=RM_ExxV-0Qo"
+media_link: "https://www.youtube.com/watch?v=RM_ExxV-0Qo"
 author:
   - "[[SDG Games]]"
-contentPublished: 
-noteCreated: 2024-11-19
-description: In this video, we take a look at every Variant in the Godot game engine. Variants are the foundation for all types in Godot, so starting here will prepare us...
+contentPublished:
+noteCreated: "2024-11-19"
+description: "In this video, we take a look at every Variant in the Godot game engine. Variants are the foundation for all types in Godot, so starting here will prepare us..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 publish: true
+Status: "✅ Read"
 ---
 ![](https://www.youtube.com/watch?v=RM_ExxV-0Qo)
 

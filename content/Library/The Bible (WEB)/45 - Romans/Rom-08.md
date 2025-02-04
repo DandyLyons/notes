@@ -77,7 +77,7 @@ that the creation itself also will be delivered from the bondage of decay into t
 For we know that the whole creation groans and travails in pain together until now. 
 
 ###### v23 
-Not only so, but ourselves also, who have the first fruits of the Spirit, even we ourselves groan within ourselves, waiting for adoption, the redemption of our body. 
+Not only so, but ourselves also, who have the [[first fruits]] of the Spirit, even we ourselves groan within ourselves, waiting for adoption, the redemption of our body. 
 
 ###### v24 
 For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees? 

@@ -1,20 +1,20 @@
 ---
-title: What to Do in the First 20 Days of Shipwrecked - A Comprehensive Guide to Surviving in Don't Starve
-source: https://www.youtube.com/watch?v=X4W9ainE1JY
-media_link: https://www.youtube.com/watch?v=X4W9ainE1JY
+title: "What to Do in the First 20 Days of Shipwrecked - A Comprehensive Guide to Surviving in Don't Starve"
+source: "https://www.youtube.com/watch?v=X4W9ainE1JY"
+media_link: "https://www.youtube.com/watch?v=X4W9ainE1JY"
 author:
   - "[[DemonRebuilt]]"
-contentPublished: 2018-05-28
-noteCreated: 2024-12-28
+contentPublished: "2018-05-28"
+noteCreated: "2024-12-28"
 description: "The first 20 days are arguably the most crucial and determine your success or failure in Don't Starve: Shipwrecked, so here is my comprehensive guide of what to do in order to give yourself the best c"
 tags:
-  - clippings
-  - video
-takeaways: 
-subjects: 
-Status: 🙏🏼 Want To Read
+  - "clippings"
+  - "video"
+takeaways:
+subjects:
+Status: "✅ Read"
 publish: true
-Youtube_Duration: 10:48
+Youtube_Duration: "10:48"
 ---
 ![](https://www.youtube.com/watch?v=X4W9ainE1JY)
 

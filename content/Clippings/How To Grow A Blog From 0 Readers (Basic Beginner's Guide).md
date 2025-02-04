@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=cey3mJR_UsA"
 media_link: "https://www.youtube.com/watch?v=cey3mJR_UsA"
 author:
   - "[[Paige Brunton]]"
-contentPublished: \\\"2024-05-20\\\"
-noteCreated: 2024-12-11
+contentPublished: "\\\\\\\"2024-05-20\\\\\\\""
+noteCreated: "2024-12-11"
 description: "➡️ CONTENT CREATION OUTLINES: https://bit.ly/3xM2sns➡️  QUIZ Find the perfect client-finding strategy for your personality: https://bit.ly/3xNl0nl➡️ FAV STOCK PHOTO/VIDEO SITE: https://bit.ly/4clEcY"
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "✅ Read"
 publish: true
 Youtube_Duration: "16:45"
 ---

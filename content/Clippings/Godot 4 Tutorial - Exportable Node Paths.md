@@ -1,18 +1,20 @@
 ---
-title: Godot 4 Tutorial - Exportable Node Paths
-source: https://www.youtube.com/watch?v=5ztwXNLa2-0
-media_link: https://www.youtube.com/watch?v=5ztwXNLa2-0
+title: "Godot 4 Tutorial - Exportable Node Paths"
+source: "https://www.youtube.com/watch?v=5ztwXNLa2-0"
+media_link: "https://www.youtube.com/watch?v=5ztwXNLa2-0"
 author:
   - "[[Game Gems]]"
-contentPublished: 2023-10-03
-noteCreated: 2024-11-19
-description: Learn how to leverage the NodePath class to create unbreakable Unity-style object references in Godot.Godot NodePath documentation:https://docs.godotengine.o...
+contentPublished: "2023-10-03"
+noteCreated: "2024-11-19"
+description: "Learn how to leverage the NodePath class to create unbreakable Unity-style object references in Godot.Godot NodePath documentation:https://docs.godotengine.o..."
 tags:
-  - clippings
-  - video
-takeaways: 
+  - "clippings"
+  - "video"
+takeaways:
 subjects:
   - "[[Topics/Software Development/Game Development/Game Engines/Godot/index|Godot]]"
+publish: true
+Status: "INTERESTING"
 ---
 ![](https://www.youtube.com/watch?v=5ztwXNLa2-0)
 

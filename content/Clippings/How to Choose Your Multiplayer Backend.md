@@ -11,6 +11,8 @@ tags:
   - "clippings"
   - "video"
 takeaways:
+publish: true
+Status: "✅ Read"
 ---
 ![How to Choose Your Multiplayer Backend](https://www.youtube.com/watch?v=sT0UPlJ2cpc)
 

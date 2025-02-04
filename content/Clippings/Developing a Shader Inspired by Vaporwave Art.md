@@ -4,15 +4,15 @@ source: "https://www.youtube.com/watch?v=yiw6ME1C-10"
 media_link: "https://www.youtube.com/watch?v=yiw6ME1C-10"
 author:
   - "[[Newbie Indie Game Dev]]"
-contentPublished: \\\"2024-11-01\\\"
-noteCreated: 2024-12-09
+contentPublished: "\\\\\\\"2024-11-01\\\\\\\""
+noteCreated: "2024-12-09"
 description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
 tags:
   - "clippings"
   - "video"
 takeaways:
 subjects:
-Status: "🙏🏼 Want To Read"
+Status: "INTERESTING"
 publish: true
 Youtube_Duration: "15:12"
 ---
