@@ -1,3 +1,0 @@
-- Four Thousand Weeks 
-	- by Oliver Burkeman 
-- The Great Gatsby

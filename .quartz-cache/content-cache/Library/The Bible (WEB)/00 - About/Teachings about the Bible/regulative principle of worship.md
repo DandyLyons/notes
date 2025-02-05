@@ -1,1 +1,0 @@
-This is the teaching that we should only worship in the ways which God has commanded 

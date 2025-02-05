@@ -1,1 +1,0 @@
-- [Obsidian Starter Vault FREE - Paul Dickson's Ko-fi Shop](https://ko-fi.com/s/33678f10a7)  

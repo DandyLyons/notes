@@ -4,9 +4,13 @@ publish: true
 This is an official browser extension which makes it easy to "clip" or save content from websites into your Obsidian vault. 
 
 ## Helpful Resources
-- [Official site](https://obsidian.md/clipper) 
-- [Official docs](https://help.obsidian.md/web-clipper) 
-- [Official Roadmap](https://github.com/obsidianmd/obsidian-clipper?tab=readme-ov-file#roadmap) 
+
+
+
+| [Official site](https://obsidian.md/clipper)                                                       | [Official docs](https://help.obsidian.md/web-clipper) |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [Official Roadmap](https://github.com/obsidianmd/obsidian-clipper?tab=readme-ov-file#roadmap) <br> |                                                       |
+
 ### Templates
 - [Official docs on templates](https://help.obsidian.md/web-clipper/templates) 
 - [GH repo: web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates/tree/main)

@@ -1,1 +1,0 @@
-![✂️ Get after it! - YouTube](https://youtube.com/clip/UgkxTP01XXhz9vNX8FyPm3nCjhEHC-oLUm7L?feature=shared) 

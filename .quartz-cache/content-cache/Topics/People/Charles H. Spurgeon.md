@@ -1,5 +1,0 @@
----
-aliases:
-  - Spurgeon
-publish: true
----

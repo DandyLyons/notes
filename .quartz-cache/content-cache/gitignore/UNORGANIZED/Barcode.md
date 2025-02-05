@@ -1,1 +1,0 @@
-[How to Build a Barcode Generator Using SwiftUI](https://www.appcoda.com/swiftui-barcode-generator/) 

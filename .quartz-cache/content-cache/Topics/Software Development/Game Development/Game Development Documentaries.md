@@ -1,2 +1,0 @@
-- [Half-Life: 25th Anniversary Documentary - YouTube](https://www.youtube.com/watch?v=TbZ3HzvFEto)
-- [Half-Life 2: 20th Anniversary Documentary - YouTube](https://www.youtube.com/watch?v=YCjNT9qGjh4)

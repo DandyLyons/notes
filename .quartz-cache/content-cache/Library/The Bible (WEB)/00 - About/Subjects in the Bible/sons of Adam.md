@@ -1,4 +1,0 @@
----
-aliases:
-  - children of men
----

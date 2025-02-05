@@ -1,1 +1,0 @@
-- [/] I pray that Tyler would be given wisdom regarding his student's possibly getting an abortion. I pray that he would be a positive influence on her, that she would be cared for and provided for, that she would not end her baby's life and that he would be given an opportunity to speak truth into her life. 

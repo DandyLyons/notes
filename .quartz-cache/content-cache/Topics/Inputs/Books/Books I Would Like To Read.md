@@ -1,2 +1,0 @@
-- https://en.wikipedia.org/wiki/The_Blank_Slate 
-- 

@@ -1,2 +1,0 @@
-- jsonresume.org
-	- uses json-schema.org

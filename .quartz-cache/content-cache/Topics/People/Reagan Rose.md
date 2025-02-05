@@ -1,4 +1,0 @@
----
-publish: true
----
-- [[Redeeming Productivity]] 

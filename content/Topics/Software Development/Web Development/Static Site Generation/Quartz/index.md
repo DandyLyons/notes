@@ -4,7 +4,7 @@ publish: true
 aliases:
   - Quartz
 ---
-
+Quartz is a [[Static Site Generation|static site generator]] for [[Topics/Software/Obsidian/index|Obsidian]] vaults built on top of [[NodeJS]]. 
 
 
 ## My Explorations
@@ -92,7 +92,7 @@ Here is a list of some fairly uncommon features of [[Obsidian-flavored Markdown]
 ### No Dataview support
 [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] is an immensely popular plugin for Obsidian that enables a ton of killer features.
 
-Unfortunately, Quartz does not render [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] queries or content rendered by other [[Topics/Software/Obsidian/index|Obsidian]] plugins. I believe this is also a problem for other Obsidian static site generators, such as Obsidian Publish. 
+Unfortunately, Quartz does not render [[Topics/Software/Obsidian/Plugins/Community/Dataview/index|Dataview]] queries or content rendered by other [[Topics/Software/Obsidian/index|Obsidian]] plugins. I believe this is also a problem for other Obsidian [[Static Site Generation|static site generators]], such as  [[Obsidian Publish]]. 
 
 #### Workarounds
 - There is an `obsidian-run` plugin which you can download on GitHub. It executes the dataview queries and then outputs actual markdown. I believe this could potentially "pre-render" dataview, thus eliminating the problem. 

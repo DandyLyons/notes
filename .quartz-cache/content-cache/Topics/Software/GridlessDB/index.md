@@ -1,5 +1,0 @@
----
-title: GridlessDB
-aliases:
-  - GridlessDB
----
