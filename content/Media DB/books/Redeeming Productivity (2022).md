@@ -37,14 +37,15 @@ publish: true
 > Productivity books don’t just tell us how to work, they tell us **why** we work. They assume definitions for success, meaning, and effectiveness that run contrary to the Bible. And even Christians, if we aren’t careful, can start to believe those things too.
 
 > [!star] 5 Pillars of Christian [[Topics/productivity/index|productivity]]
->[[#Pillar 1 - The Origin of Productivity You Belong to God]]
->[[#Pillar 2 - The Purpose of Productivity You Exist to Glorify God]]
-[[#Pillar 3 - The Content of Productivity You Were Saved to Bear Fruit For God]]
->[[#Pillar 4 - The Source of Productivity You Are Uniquely Gifted By God]]
-[[#Pillar 5 - The Motivation of Productivity You Will Give An Account To God]]
+>- [[#Pillar 1 - The Origin of Productivity You Belong to God]]
+>- [[#Pillar 2 - The Purpose of Productivity You Exist to Glorify God]]
+>- [[#Pillar 3 - The Content of Productivity You Were Saved to Bear Fruit For God]]
+>- [[#Pillar 4 - The Source of Productivity You Are Uniquely Gifted By God]]
+>- [[#Pillar 5 - The Motivation of Productivity You Will Give An Account To God]]
 ### Intro
 - Productivity has been hijacked. It’s time we take it back. 
-### Pillar 1 - The Origin of Productivity: You Belong to God  
+### Pillar 1 - The Origin of Productivity: You Belong to God
+05:51
 %% Track 6 of the audiobook %%
 - **The lie we need to unlearn**: “*It’s my life*”. 
 	- [i] The world says "*You belong to yourself.*"
@@ -100,26 +101,32 @@ publish: true
 					- **See also**: [[The Laws of Creativity#Law of Competition]]. 
 				- All you need to do is be [[faith|faithful]] with what God has given you. 
 
-#### Practice 1 - Craft Your [[Topics/productivity/Morning Routine/index|Morning Routine]]
+### Chapter 2, Practice 1: Craft Your Morning Routine
+28:10
+#### Why Morning Routines Matter
 
-
-##### Why Morning Routines Matter
-
-###### Spiritual Foundation
+##### Spiritual Foundation
 - Mornings are an opportunity to offer [[first fruits]] to God
 - The first hour sets the direction for your entire day
 - Your morning routine is the first act of worship
 
-###### Personal Transformation
+##### Personal Transformation
 - Consistent morning habits can:
   - Develop a closer relationship with God
   - Increase reading and learning
   - Create a more focused work life
   - Support personal projects
 
-##### The POWER Morning Routine
+#### The POWER Morning Routine
 
-###### P - Prayer
+##### POWER Mornings in Chronological order
+[[POWER morning routine]] 
+1. **Word**: Start with reading the Bible to orient your heart toward God.
+2. **Prayer**: Spend time in prayer, worshipping God, confessing sin, thanking Him, and praying for the day ahead.
+3. **Exercise**: Engage in some physical activity, such as doing jumping jacks, to get the blood flowing and energize your body.
+4. **Reading and Writing**: Read a few pages from a book and write in your journal to clarify your thoughts and reflect on your spiritual journey.
+5. **Organization**: Look at your calendar, lay out your plan for the day, and identify your most important tasks to ensure a productive day ahead.
+##### P - Prayer
 - Start by meeting with God before anything else
 - Follow Jesus' example of early morning prayer 
 	- [[Mark-01#v35|Mark 1.35]] Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there.  
@@ -127,7 +134,7 @@ publish: true
 - [[Ps-05#v3|Ps 5.3]] Yahweh, in the morning you will hear my voice. In the morning I will lay my requests before you, and will watch expectantly.  
 - [[Ps-119#v147|Ps 119.147]] I rise before dawn and cry for help. I put my hope in your words.  
 
-###### O - Organization
+##### O - Organization
 Three-step daily planning:
 1. List top three tasks
 	- (I like to make my list, and then mark the top three with ⭐)
@@ -137,14 +144,14 @@ Three-step daily planning:
    - Schedule the most important task first
    - Treat this time as a non-cancelable appointment
 
-###### W - Word (Bible Reading)
+##### W - Word (Bible Reading)
 - Read Scripture first thing in the morning
 - Helps:
   - Remind you of your spiritual purpose
   - Lift your eyes above daily challenges
   - Set proper spiritual priorities
 
-###### E - Exercise
+##### E - Exercise
 - Steward your body as a temple: [[1 Cor-06#v19|1 Cor 6:19-20]] ...**Therefore glorify God in your body and in your spirit, which are God's.** [[1 Cor-06#v20|]] 
 	- View physical health as spiritual stewardship
 - No need for extreme workouts
@@ -153,7 +160,7 @@ Three-step daily planning:
   - Enhance mental clarity
   - Prepare you for daily challenges
 
-###### R - Reading and Writing
+##### R - Reading and Writing
 - Journal to:
 	- Clear mental clutter
 	- Record God's providence
@@ -162,19 +169,19 @@ Three-step daily planning:
 	- Even 3 pages per day = 1,000 pages annually
 	- Develop skills to glorify God
 
-##### Practical Implementation
+#### Practical Implementation
 
-###### Tips for Success
+##### Tips for Success
 - Start by waking 30 minutes earlier
 - Go to bed earlier to maintain sleep quality
 - Be consistent
 - Focus on gradual, sustainable change
 
-###### Mindset Shift
+##### Mindset Shift
 - Productivity is not just about personal achievement
 - Aim to steward your time and talents for God's glory
 
-##### Final Encouragement
+#### Final Encouragement
 - Imagine your potential after a year of intentional morning routines
 - Deeper spiritual life
 - Sharper thinking
@@ -186,13 +193,13 @@ Three-step daily planning:
 - If you get your morning routine right, you’ll be surprised to see all the other areas of your life that improve 
 - “The first hour of the morning are the rudder of the day”
 ### Pillar 2 - The Purpose of Productivity: You Exist to Glorify God  
-
+%% Track 8 %%
 [55:30-01:16:11]
 
 #### The Problem of Aimlessness [55:30-57:56]
 * Author shares personal story of undisciplined grocery shopping in college
-* Shopping without a plan led to poor choices and consequences
-* Metaphor for how many people approach life - without purpose or direction
+* Shopping without a [[planning|plan]] led to poor choices and consequences
+* Metaphor for how many people approach life - without [[purpose]] or direction
 * Many Christians live aimlessly while waiting for their heavenly home
 
 #### The Intersection of Productivity and Purpose [57:56-59:04]

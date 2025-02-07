@@ -100,7 +100,7 @@ bless those who curse you, and pray for those who mistreat you.
 To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don't withhold your coat also. 
 
 ###### v30 
-Give to everyone who asks you, and don't ask him who takes away your goods to give them back again. 
+Give to everyone who asks you[[#Give to everyone who asks you|*]], and don't ask him who takes away your goods to give them back again. 
 
 ###### v31 
 "As you would like people to do to you, do exactly so to them. 
@@ -164,6 +164,10 @@ But he who hears, and doesn't do, is like a man who built a house on the earth w
 
 ---
 ## My Notes
+### verse 30
+[[Luke-06#v30|Luke 6.30]] Give to everyone who asks you, and don't ask him who takes away your goods to give them back again.  
+#### Give to everyone who asks you
+If we are not careful, can't this command turn into [[codependency]]? 
 
 ---
 ## Footnotes

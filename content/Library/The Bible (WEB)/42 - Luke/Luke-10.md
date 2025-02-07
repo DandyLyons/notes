@@ -89,7 +89,7 @@ Behold, a certain lawyer stood up and tested him, saying, "Teacher, what shall I
 He said to him, "What is written in the law? How do you read it?" 
 
 ###### v27 
-He answered, "You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; 
+He answered, "You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and [[love your neighbor|your neighbor]] as yourself."
 
 ###### v28 
 He said to him, "You have answered correctly. Do this, and you will live." 

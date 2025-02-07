@@ -9,7 +9,7 @@ aliases:
 ***
 
 
-
+## The Text
 ###### v1 
 Jesus answered and spoke to them again in parables, saying, 
 
@@ -109,6 +109,7 @@ But concerning the resurrection of the dead, haven't you read that which was spo
 ###### v33 
 When the multitudes heard it, they were astonished at his teaching. 
 
+### What is the Greatest Commandment
 ###### v34 
 But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together. 
 
@@ -125,7 +126,7 @@ Jesus said to him, "'You shall love the Lord your God with all your heart, with 
 This is the first and great commandment. 
 
 ###### v39 
-A second likewise is this, 'You shall love your neighbor as yourself.' 
+A [[Lev-19#v18|second]] likewise is this, 'You shall love your neighbor as yourself.' 
 
 ###### v40 
 The whole law and the prophets depend on these two commandments." 
