@@ -59,7 +59,7 @@ and the prayer of faith will heal him who is sick, and the Lord will raise him u
 Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective. 
 
 ###### v17 
-Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn't rain on the earth for three years and six months. 
+[[Elijah]] was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn't rain on the earth for three years and six months. 
 
 ###### v18 
 He prayed again, and the sky gave rain, and the earth produced its fruit. 

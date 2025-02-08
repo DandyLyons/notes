@@ -9,7 +9,8 @@ aliases:
 ***
 
 
-
+## The Text
+### John Asks Jesus If He Is The Messiah
 ###### v1 
 When Jesus had finished directing his twelve disciples, he departed from there to teach and preach in their cities. 
 
@@ -27,7 +28,7 @@ the blind receive their sight, the lame walk, the lepers are cleansed, the deaf 
 
 ###### v6 
 Blessed is he who finds no occasion for stumbling in me." 
-
+### Jesus Reveals That John Is The Prophet Elijah
 ###### v7 
 As these went their way, Jesus began to say to the multitudes concerning John, "What did you go out into the wilderness to see? A reed shaken by the wind? 
 
@@ -50,7 +51,7 @@ From the days of John the Baptizer until now, the [[Kingdom of Heaven]] suffers 
 For all the prophets and the law prophesied until John. 
 
 ###### v14 
-If you are willing to receive it, this is Elijah, who is to come. 
+If you are willing to receive it, this is [[Elijah]], who is to come. 
 
 ###### v15 
 He who has ears to hear, let him hear. 

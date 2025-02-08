@@ -8,8 +8,8 @@ aliases:
 [[Luke-06|← Luke 06]] | [[Luke]] | [[Luke-08|Luke 08 →]]
 ***
 
-
-
+## The Text
+### The Faith of the Centurion
 ###### v1 
 After he had finished speaking in the hearing of the people, he entered into Capernaum. 
 
@@ -40,6 +40,7 @@ When Jesus heard these things, he marveled at him, and turned and said to the mu
 ###### v10 
 Those who were sent, returning to the house, found that the servant who had been sick was well. 
 
+### Jesus Resurrects the Man at Nain
 ###### v11 
 Soon afterwards, he went to a city called Nain. Many of his disciples, along with a great multitude, went with him. 
 
@@ -61,6 +62,7 @@ Fear took hold of all, and they glorified God, saying, "A great prophet has aris
 ###### v17 
 This report went out concerning him in the whole of Judea, and in all the surrounding region. 
 
+### John's Disciples Ask Jesus If He Is The Messiah
 ###### v18 
 The disciples of John told him about all these things. 
 
@@ -79,6 +81,7 @@ Jesus answered them, "Go and tell John the things which you have seen and heard:
 ###### v23 
 Blessed is he who finds no occasion for stumbling in me." 
 
+### Jesus Reveals That John Is The Prophet Elijah
 ###### v24 
 When John's messengers had departed, he began to tell the multitudes about John, "What did you go out into the wilderness to see? A reed shaken by the wind? 
 
@@ -89,7 +92,7 @@ But what did you go out to see? A man clothed in soft clothing? Behold, those wh
 But what did you go out to see? A prophet? Yes, I tell you, and much more than a prophet. 
 
 ###### v27 
-This is he of whom it is written, 'Behold, I send my messenger before your face, who will prepare your way before you.' 
+This is he of whom it is written [[Isa-40#v3|⏎]] [[Mal-03#v1|⏎]], 'Behold, I send my messenger before your face, who will prepare your way before you.'[^2] 
 
 ###### v28 
 "For I tell you, among those who are born of women there is not a greater prophet than John the Baptizer, yet he who is least in God's Kingdom is greater than he." 
@@ -104,7 +107,7 @@ But the Pharisees and the lawyers rejected the counsel of God, not being baptize
 "To what then should I compare the people of this generation? What are they like? 
 
 ###### v32 
-They are like children who sit in the marketplace, and call to one another, saying, 'We piped to you, and you didn't dance. We mourned, and you didn't weep.' 
+They are like children who sit in the marketplace, and call to one another, saying, 'We piped to you, and you didn't dance. We mourned, and you didn't weep.'[^1] 
 
 ###### v33 
 For John the Baptizer came neither eating bread nor drinking wine, and you say, 'He has a demon.' 
@@ -115,6 +118,7 @@ The Son of Man has come eating and drinking, and you say, 'Behold, a gluttonous 
 ###### v35 
 Wisdom is justified by all her children." 
 
+### The Woman Washes Jesus' Feet
 ###### v36 
 One of the Pharisees invited him to eat with him. He entered into the Pharisee's house, and sat at the table. 
 
@@ -167,4 +171,7 @@ He said to the woman, "Your faith has saved you. Go in peace."
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Here Jesus is pointing out that the Pharisees have a double standard against John the Baptist. 
+[^2]: In Matthew's Gospel ([[Matt-11#v14|Matt 11.14]]), Elijah is explicitly mentioned. Luke's Gospel also makes it clear that John is the Prophet Elijah. However it does it in a more subtle manner by way of quoting scripture, rather then spelling it out for us like Matthew. 
