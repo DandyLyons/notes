@@ -19,3 +19,5 @@ lastRead: ""
 personalRating: 0
 tags: mediaDB/book
 ---
+## Commentaries
+- [#299 Steve Jobs (Make Something Wonderful) - YouTube](https://www.youtube.com/watch?v=pLKKO8DeQQk&pp=ygU0Zm91bmRlcnMgcG9kY2FzdCBzdGV2ZSBqb2JzIG1ha2Ugc29tZXRoaW5nIHdvbmRlcmZ1bA%3D%3D) 

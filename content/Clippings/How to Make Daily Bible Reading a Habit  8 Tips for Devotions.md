@@ -60,7 +60,7 @@ Utilize study Bibles, devotionals, or other resources to aid understanding and m
 Read with a group or partner who can help keep you consistent.
 ### 7.  Apply What You're Learning: 
 Actively try to implement biblical teachings in your daily life.
-### 8.  Start a [[Morning Routine]]: 
+### 8.  Start a Morning Routine: 
 Wake up earlier to incorporate Bible reading into a broader personal development routine.
 
 ## Transcript

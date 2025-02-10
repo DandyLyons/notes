@@ -49,8 +49,8 @@ For everyone who asks receives. He who seeks finds. To him who knocks it will be
 Or if he asks for an egg, he won't give him a scorpion, will he? 
 
 ###### v13 
-If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him?" 
-
+If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give [[The Holy Spirit]] to those who ask him?" 
+### Jesus is accused of serving Beelzebul 
 ###### v14 
 He was casting out a demon, and it was mute. When the demon had gone out, the mute man spoke; and the multitudes marveled. 
 
@@ -89,13 +89,13 @@ When he returns, he finds it swept and put in order.
 
 ###### v26 
 Then he goes, and takes seven other spirits more evil than himself, and they enter in and dwell there. The last state of that man becomes worse than the first." 
-
+### The Woman Blesses Jesus and Jesus responds
 ###### v27 
 It came to pass, as he said these things, a certain woman out of the multitude lifted up her voice, and said to him, "Blessed is the womb that bore you, and the breasts which nursed you!" 
 
 ###### v28 
 But he said, "On the contrary, blessed are those who hear the word of God, and keep it." 
-
+### The Sign of Jonah
 ###### v29 
 When the multitudes were gathering together to him, he began to say, "This is an evil generation. It seeks after a sign. No sign will be given to it but the sign of Jonah, the prophet. 
 
@@ -119,7 +119,7 @@ Therefore see whether the light that is in you isn't darkness.
 
 ###### v36 
 If therefore your whole body is full of light, having no part dark, it will be wholly full of light, as when the lamp with its bright shining gives you light." 
-
+### Jesus Dines With a Pharisee 
 ###### v37 
 Now as he spoke, a certain Pharisee asked him to dine with him. He went in and sat at the table. 
 

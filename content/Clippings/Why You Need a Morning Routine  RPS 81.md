@@ -12,7 +12,7 @@ tags:
   - video
 takeaways: 
 subjects:
-  - "[[Morning Routine]]"
+  - "[[Topics/productivity/Morning Routine/index|Morning Routine]]"
 Status: 👀 Reading
 publish: true
 Youtube_Duration: 20:21

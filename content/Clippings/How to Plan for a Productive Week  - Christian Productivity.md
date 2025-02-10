@@ -12,8 +12,8 @@ tags:
   - video
 takeaways: 
 subjects:
-  - "[[weekly review]]"
   - "[[planning]]"
+  - "[[Topics/productivity/Weekly Review/index|weekly review]]"
 Status: ✅ Read
 publish: true
 Youtube_Duration: 11:06

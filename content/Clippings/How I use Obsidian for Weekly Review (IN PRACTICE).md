@@ -13,7 +13,7 @@ tags:
 takeaways: 
 subjects:
   - "[[Topics/Software/Obsidian/index|Obsidian]]"
-  - "[[weekly review]]"
+  - "[[Topics/productivity/Weekly Review/index|weekly review]]"
 Status: ✅ Read
 publish: true
 Youtube_Duration: 13:01
@@ -53,7 +53,7 @@ This post contains affiliate links. If you use these links to buy something, I m
 ## My Notes
 
 ### Start [00:12](https://www.youtube.com/watch?t=12&v=A2EHZJf2fhA)
-- [00:26](https://www.youtube.com/watch?t=26&v=A2EHZJf2fhA): *Try this*: Set [[goals]] for the week at the beginning of the week, (or the end of the prior week). 
+- [00:26](https://www.youtube.com/watch?t=26&v=A2EHZJf2fhA): *Try this*: Set [[Topics/goals/goals.md/index]] for the week at the beginning of the week, (or the end of the prior week). 
 	- Great questions to ask: 
 		- This Week's Accomplishments/Learnings
 		- This weeks's highs

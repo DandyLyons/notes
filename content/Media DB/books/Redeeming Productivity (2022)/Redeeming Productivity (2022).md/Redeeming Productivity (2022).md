@@ -37,14 +37,19 @@ publish: true
 > Productivity books don’t just tell us how to work, they tell us **why** we work. They assume definitions for success, meaning, and effectiveness that run contrary to the Bible. And even Christians, if we aren’t careful, can start to believe those things too.
 
 > [!star] 5 Pillars of Christian [[Topics/productivity/index|productivity]]
->- [[#Pillar 1 - The Origin of Productivity You Belong to God]]
->- [[#Pillar 2 - The Purpose of Productivity You Exist to Glorify God]]
->- [[#Pillar 3 - The Content of Productivity You Were Saved to Bear Fruit For God]]
->- [[#Pillar 4 - The Source of Productivity You Are Uniquely Gifted By God]]
->- [[#Pillar 5 - The Motivation of Productivity You Will Give An Account To God]]
+> - [[#Ch. 1 Pillar 1 - The Origin of Productivity You Belong to God]]
+> 	- [[#Ch. 2, Practice 1 Craft Your Morning Routine]]
+> - [[#Ch. 3 Pillar 2 - The Purpose of Productivity You Exist to Glorify God]]
+> 	- [[#Ch. 4 Practice 2 Get Organized.]]
+> - [[#Ch. 5 Pillar 3 - The Content of Productivity You Were Saved to Bear Fruit For God]]
+> 	- [[#Ch. 6 Practice 3 Track your commitments]]
+> - [[#Ch. 7, Pillar 4 - The Source of Productivity You Are Uniquely Gifted By God]]
+> 	- [[#Ch. 8 Practice 4. Set Your Goals]]
+> - [[#Ch. 9 Pillar 5 - The Motivation of Productivity You Will Give An Account To God]]
+> 	- [[#Ch. 10 Practice 5 Write your well done.]] 
 ### Intro
 - Productivity has been hijacked. It’s time we take it back. 
-### Pillar 1 - The Origin of Productivity: You Belong to God
+### Ch. 1 Pillar 1 - The Origin of Productivity: You Belong to God
 05:51
 %% Track 6 of the audiobook %%
 - **The lie we need to unlearn**: “*It’s my life*”. 
@@ -101,7 +106,7 @@ publish: true
 					- **See also**: [[The Laws of Creativity#Law of Competition]]. 
 				- All you need to do is be [[faith|faithful]] with what God has given you. 
 
-### Chapter 2, Practice 1: Craft Your Morning Routine
+### Ch. 2, Practice 1: Craft Your Morning Routine
 28:10
 #### Why Morning Routines Matter
 
@@ -135,7 +140,7 @@ publish: true
 - [[Ps-119#v147|Ps 119.147]] I rise before dawn and cry for help. I put my hope in your words.  
 
 ##### O - Organization
-Three-step daily planning:
+Three-step daily planning:  ^hed4im
 1. List top three tasks
 	- (I like to make my list, and then mark the top three with ⭐)
 2. Choose ONE non-negotiable task
@@ -192,7 +197,7 @@ Three-step daily planning:
 - [[Topics/productivity/Morning Routine/index|Morning Routine]]s are a [[keystone habit]]  
 - If you get your morning routine right, you’ll be surprised to see all the other areas of your life that improve 
 - “The first hour of the morning are the rudder of the day”
-### Pillar 2 - The Purpose of Productivity: You Exist to Glorify God  
+### Ch. 3 Pillar 2 - The Purpose of Productivity: You Exist to Glorify God  
 %% Track 8 %%
 [55:30-01:16:11]
 
@@ -281,7 +286,7 @@ Three-step daily planning:
 3. Secular productivity wisdom should be filtered through biblical lens
 4. Having clear purpose is a gift that provides direction
 5. Must actively guard against distraction from purpose
-### Chapter 4. Practice 2. Get Organized.
+### Ch. 4 Practice 2 Get Organized.
 >Purposeful productivity begins with [[focus]]. And to be focused, we need to get organized.
 
 #### Foundation of Productivity [01:16:20-01:16:38]
@@ -375,7 +380,7 @@ Three specific areas that give me the most bang for your organizing buck.
 - Organized environments enable God-glorifying productivity
 - Start with bedroom, morning routine space, and work area
 - Trust in God's orderly nature to guide productive efforts
-### Pillar 3 - The Content of Productivity: You Were Saved to Bear Fruit For God    
+### Ch. 5 Pillar 3 - The Content of Productivity: You Were Saved to Bear Fruit For God    
 (01:33:04-02:01:12)
 
 #### Core Premise (01:33:04-01:33:52)
@@ -393,6 +398,8 @@ Three specific areas that give me the most bang for your organizing buck.
 - These represent the why, how, and what of God-honoring productivity
 - Practical effectiveness (what the world values) is just the tip of the iceberg
 - Skipping character and obedience leads to hypocrisy
+	- Practical effectiveness should come out of character. Not the other way around 
+>The Christian has integrity not because it’s good business sense but because he serves a God of truth and wants to be a man of truth 
 
 #### The Problem with Modern Productivity Metaphors (01:41:16-01:44:58)
 
@@ -400,9 +407,11 @@ Three specific areas that give me the most bang for your organizing buck.
 - Rooted in Industrial Revolution and Frederick Taylor's work (1911)
 - Problems with mechanical view:
     - Treats people like machines
-    - Focuses only on efficiency
+    - Focuses only on [[efficiency]]
     - Creates meaninglessness and burnout
     - Sets unrealistic expectations
+- [[Ephes-05#v15|Ephes 5:15-17]][[Ephes-05#v16|]][[Ephes-05#v17|]] is often cited for [[Time Management]] but the ancients did not think of time in the same way that we do today. 
+- Mechanical thinking of productivity leads to [[burnout]] 
 
 #### Biblical View: Organic Metaphors (01:44:58-01:47:54)
 
@@ -456,7 +465,7 @@ From John 15, four elements:
 - Titus 2:14 - Zealous for good works
 - 1 Timothy 2:10, 5:10, 5:25, 6:18 - Various instructions about good works
 - Hebrews 10:24 - Stirring one another to good works
-### Chapter 6 Practice 3 Track your commitments
+### Ch. 6 Practice 3 Track your commitments
  [02:01:12-02:31:02]
 
 #### Introduction: The Problem with Commitments [02:01:12-02:04:08]
@@ -471,11 +480,12 @@ From John 15, four elements:
 #### Why Managing Commitments is Harder Than Ever [02:03:40-02:06:00]
 1. Increasing complexity of modern world
 2. Limited brain capacity
-   * Not designed to hold many commitments simultaneously
-   * Short-term memory limitations
-3. Noetic effects of sin (Genesis 3:17-19)
-   * Sin affects cognitive abilities
-   * Comparison to Adam's perfect memory (Genesis 2:20)
+	* Not designed to hold many commitments simultaneously
+	* Short-term memory limitations
+3. Noetic effects of sin ([[Gen-03#v17|Gen 3:17-19]][[Gen-03#v18|]][[Gen-03#v19|]])
+	- *Noetic* comes from greek word *gnosis*
+	* Sin affects cognitive abilities
+	* Comparison to Adam's perfect memory ([[Gen-02#v20|Gen 2.20]])
 
 #### The Nature of Productivity [02:06:22-02:08:46]
 * Distinction between doing things and completing things
@@ -494,6 +504,9 @@ From John 15, four elements:
 * Every task is a small promise
 
 #### The REDEEM Framework for Task Management [02:11:34-02:14:44]
+^686eb5
+**See in depth notes:** [[REDEEM Framework]]
+
 1. **R**eliable - System must be trustworthy
 2. **E**xternal - Get tasks out of your head
 3. **D**oable - Tasks should be clear and actionable
@@ -502,12 +515,18 @@ From John 15, four elements:
 6. **M**anageable - Simple enough to provide clarity
 
 #### The COPE Framework [02:14:32-02:15:04]
+
+^1696ed
+
+**See in depth notes:** [[COPE Framework]]
+
 1. **C**entralize
 2. **O**rganize
 3. **P**rioritize
 4. **E**xecute
 
 ##### The Five Essential Lists [02:14:48-02:18:46]
+**See in depth notes:** [[COPE Framework#The Five Essential Lists]] 
 1. Inbox
 2. Projects list
 3. Actions list
@@ -540,6 +559,9 @@ From John 15, four elements:
    * Review and update next actions
 
 #### Weekly Review Process [02:25:46-02:30:02]
+
+^aa73ae
+
 1. Deal with loose ends
 2. Look ahead
 3. Reflect on the week
@@ -553,7 +575,7 @@ From John 15, four elements:
 * Aim to be faithful stewards of time and commitments
 
 This outline maintains the Christian perspective of the original text while organizing the practical productivity advice in a clear, actionable format. The author's core message is that good task management serves both practical and spiritual purposes, helping us fulfill our commitments while acknowledging our dependence on God's grace.
-### Chapter 7, Pillar 4 - The Source of Productivity: You Are Uniquely Gifted By God  
+### Ch. 7, Pillar 4 - The Source of Productivity: You Are Uniquely Gifted By God  
  [02:31:02]
 
 #### Core Premise
@@ -636,7 +658,7 @@ This outline maintains the Christian perspective of the original text while orga
 - Success comes through God's work within us (Philippians 2:13)
 
 [End: 02:48:24]
-### Chapter 8 Practice 4. Set Your Goals
+### Ch. 8 Practice 4. Set Your Goals
 #### Introduction
 - **Timestamp: 02:48:24-02:49:02**
   - Everyone has goals, both short-term (e.g., hunger to fullness) and long-term (e.g., career, health).
@@ -671,7 +693,7 @@ This outline maintains the Christian perspective of the original text while orga
 ##### 1. Write and Evaluate
 - **Timestamp: 02:53:58-02:56:34**
   - **Write Down Goals**: Increases likelihood of achievement by 42.1%.
-  - **Clarify Goals**: Use the SMART framework:
+  - **Clarify Goals**: Use the [[SMART goals framework]]:
     - Specific
     - Measurable
     - Achievable
@@ -705,7 +727,7 @@ This outline maintains the Christian perspective of the original text while orga
   - Goals are valuable if they seek to glorify God.
   - Planning and goal setting are practical applications of wisdom in stewardship.
 
-### Pillar 5 - The Motivation of Productivity: You Will Give An Account To God
+### Ch. 9 Pillar 5 - The Motivation of Productivity: You Will Give An Account To God
 #### 1. Introduction to the Motivation for Productivity
 - **Timestamp: 03:14:22-03:14:28**
   - The chapter focuses on the fifth pillar of Christian productivity.
@@ -789,45 +811,44 @@ This outline maintains the Christian perspective of the original text while orga
 - **Timestamp: 03:40:12**
   - The next chapter will provide practical strategies to keep the motivation for productivity at the forefront of our minds.
 
-### Chapter 10: Practice five: write your well done.
-# Chapter 10: Practice Five - Write Your "Well Done" Statement
+### Ch. 10: Practice 5: Write your well done.
 
-## 1. Introduction
+#### 1. Introduction
 - **Timestamp: 03:40:12-03:40:22**
   - Focus on writing a "well done" statement.
   
-## 2. Motivation for Personal Productivity
+#### 2. Motivation for Personal Productivity
 - **Timestamp: 03:40:22-03:40:28**
   - Best motivation is eternal reward.
   
-## 3. Importance of a Defined Vision
+#### 3. Importance of a Defined Vision
 - **Timestamp: 03:40:28-03:40:58**
   - A well-defined vision helps maintain focus on what matters.
   - Personal vision statement reflects core values.
   
-## 4. Personal Experience
+#### 4. Personal Experience
 - **Timestamp: 03:40:58-03:41:12**
   - Original vision statement has evolved but core values remain.
   
-## 5. Clarifying Your Life's Theme
+#### 5. Clarifying Your Life's Theme
 - **Timestamp: 03:41:12-03:41:34**
   - Vision statement articulates life’s theme, similar to a corporate vision.
   
-## 6. Purpose and Gifts
+#### 6. Purpose and Gifts
 - **Timestamp: 03:41:34-03:42:06**
   - Christians have a clear purpose and unique gifts to fulfill it.
   - Faithfulness leads to eternal reward.
   
-## 7. The Concept of Vision
+#### 7. The Concept of Vision
 - **Timestamp: 03:42:06-03:42:20**
   - Vision is a theme; it can change but should be articulated clearly.
   
-## 8. The Danger of Mission Drift
+#### 8. The Danger of Mission Drift
 - **Timestamp: 03:42:20-03:42:58**
   - Narrow focus prevents mission drift, a major enemy of productivity.
   - **Quote by Charles Spurgeon**: Emphasizes the importance of singular focus.
   
-## 9. Biblical Examples of Clear Visions
+#### 9. Biblical Examples of Clear Visions
 - **Timestamp: 03:43:00-03:44:00**
   - **Abraham**: Genesis 12:1-2
   - **Joseph**: Genesis 37:5-8
@@ -835,32 +856,32 @@ This outline maintains the Christian perspective of the original text while orga
   - **Jesus**: Luke 19:10
   - **Paul**: Romans 15:20
   
-## 10. Benefits of a Personal Vision Statement
+#### 10. Benefits of a Personal Vision Statement
 - **Timestamp: 03:44:00-03:44:58**
   - **Decision Making**: Aligns opportunities with personal values.
   - **Goal Setting**: Connects daily actions to glorifying God.
   - **Motivation**: Provides clarity during tough times.
   
-## 11. Limitations of Secular Vision Statements
+#### 11. Limitations of Secular Vision Statements
 - **Timestamp: 03:45:08-03:45:32**
   - Many secular plans are based on flawed motivations.
   
-## 12. Writing Your Eulogy
+#### 12. Writing Your Eulogy
 - **Timestamp: 03:45:32-03:46:16**
   - Envision what you hope people will say about you after death.
   - Helps assess current life trajectory.
   
-## 13. The Flaw in Eulogy Writing
+#### 13. The Flaw in Eulogy Writing
 - **Timestamp: 03:46:16-03:47:22**
   - Focus on personal legacy can be misguided.
   - Aim for an eternal perspective rather than temporal accolades.
   
-## 14. The "Well Done" Statement
+#### 14. The "Well Done" Statement
 - **Timestamp: 03:47:22-03:48:00**
   - Envision what God will say to you.
   - A tool for assessing life’s trajectory and priorities.
   
-## 15. Example of a "Well Done" Statement
+#### 15. Example of a "Well Done" Statement
 - **Timestamp: 03:48:00-03:49:36**
   - Personal example includes faithfulness in various domains:
     - Daily walk with God
@@ -868,17 +889,17 @@ This outline maintains the Christian perspective of the original text while orga
     - Stewardship of health and finances
     - Recreation
   
-## 16. Writing Your Own "Well Done" Statement
+#### 16. Writing Your Own "Well Done" Statement
 - **Timestamp: 03:49:36-03:50:10**
   - Start with "Well done, good and faithful servant."
   - Include faithfulness in spiritual, relational, calling, health, finances, and recreation.
   
-## 17. Reviewing Your Statement
+#### 17. Reviewing Your Statement
 - **Timestamp: 03:50:10-03:51:24**
   - Ensure it captures what is important to God.
   - Revisit and refine over time.
   
-## 18. Self-Assessment Questions
+#### 18. Self-Assessment Questions
 - **Timestamp: 03:51:24-03:53:34**
   1. **Is my life on a path to hearing "well done"?**
      - Reflect on faithfulness in various areas.
@@ -887,16 +908,16 @@ This outline maintains the Christian perspective of the original text while orga
   3. **What areas need more faithfulness?**
      - Identify shortcomings and create actionable goals.
   
-## 19. Action Steps for Improvement
+#### 19. Action Steps for Improvement
 - **Timestamp: 03:53:34-03:54:00**
   - Use productivity tools to address areas needing improvement.
   
-## 20. Regular Reviews
+#### 20. Regular Reviews
 - **Timestamp: 03:54:00-03:55:00**
   - **Long-term Reviews**: At least annually, ideally quarterly.
   - **Daily Reviews**: Read your statement every morning to stay grounded.
   
-## 21. Conclusion
+#### 21. Conclusion
 - **Timestamp: 03:55:00-03:58:00**
   - Emphasize the importance of eternal perspective in productivity.
   - Acknowledge human limitations and the need for grace.

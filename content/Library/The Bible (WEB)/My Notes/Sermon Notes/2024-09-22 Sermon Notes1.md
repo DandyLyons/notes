@@ -9,9 +9,9 @@ sermon series:
 sermon link: 
 subjects:
   - "[[God]]"
-  - "[[Love]]"
+  - "[[love]]"
 title: God is Love
-takeaways:
+takeaways: 
 ---
 
 

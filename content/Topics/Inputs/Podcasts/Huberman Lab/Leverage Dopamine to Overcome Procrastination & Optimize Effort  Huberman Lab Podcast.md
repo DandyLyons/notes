@@ -39,7 +39,7 @@ Tyrosine Improves Working Memory in a Multitasking Environment: https://bit.ly/3
 ### [00:02:32](https://www.youtube.com/watch?v=K-TW2Chpz4k&t=152s) Sponsors: Helix Sleep, WHOOP, ROKA, Momentous
 ### [00:06:27](https://www.youtube.com/watch?v=K-TW2Chpz4k&t=387s) Dopamine Brain Circuits
 ### [00:14:53](https://www.youtube.com/watch?v=K-TW2Chpz4k&t=893s) Goals & Addiction
-- [[goals]]
+- [[Topics/goals/goals.md/index]]
 - [[addiction]]
 ### [00:17:13](https://www.youtube.com/watch?v=K-TW2Chpz4k&t=1033s) Dopamine Dynamics, “Wave Pool” analogy
 ### [00:20:28](https://www.youtube.com/watch?v=K-TW2Chpz4k&t=1228s) Craving, Motivation, Pursuit & Reward Prediction Error

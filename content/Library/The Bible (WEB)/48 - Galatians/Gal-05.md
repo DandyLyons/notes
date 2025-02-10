@@ -74,7 +74,7 @@ idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, di
 envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit God's Kingdom. 
 
 ###### v22 
-But the fruit of the Spirit is [[Love]], [[joy]], [[peace]], [[patience]], [[kindness]], goodness, faith, 
+But the fruit of the Spirit is [[love]], [[joy]], [[peace]], [[patience]], [[kindness]], goodness, faith, 
 
 ###### v23 
 gentleness, and self-control. Against such things there is no law. 

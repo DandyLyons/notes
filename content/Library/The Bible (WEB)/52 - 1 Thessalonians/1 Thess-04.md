@@ -41,7 +41,7 @@ But concerning brotherly love, you have no need that one write to you. For you y
 for indeed you do it toward all the brothers who are in all Macedonia. But we exhort you, brothers, that you abound more and more; 
 
 ###### v11 
-and that you make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you; 
+and that you make it your [[ambition]] to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you; 
 
 ###### v12 
 that you may walk properly toward those who are outside, and may have need of nothing. 

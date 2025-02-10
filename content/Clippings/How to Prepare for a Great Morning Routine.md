@@ -1,21 +1,21 @@
 ---
-title: "How to Prepare for a Great Morning Routine"
-source: "https://www.youtube.com/watch?v=kqQuXaSGFYw"
-media_link: "https://www.youtube.com/watch?v=kqQuXaSGFYw"
+title: How to Prepare for a Great Morning Routine
+source: https://www.youtube.com/watch?v=kqQuXaSGFYw
+media_link: https://www.youtube.com/watch?v=kqQuXaSGFYw
 author:
   - "[[Redeeming Productivity]]"
-contentPublished: "2024-02-06"
-noteCreated: "2025-01-27"
-description: "Lack of preparation is the main reason people fall off the wagon with their morning routines. Here are three things you should do to prepare for your morning routine so you can be more consistent.Fr"
+contentPublished: 2024-02-06
+noteCreated: 2025-01-27
+description: Lack of preparation is the main reason people fall off the wagon with their morning routines. Here are three things you should do to prepare for your morning routine so you can be more consistent.Fr
 tags:
-  - "clippings"
-  - "video"
-takeaways:
+  - clippings
+  - video
+takeaways: 
 subjects:
-  - "[[Morning Routine]]"
-Status: "👀 Reading"
+  - "[[Topics/productivity/Morning Routine/index|Morning Routine]]"
+Status: 👀 Reading
 publish: true
-Youtube_Duration: "4:29"
+Youtube_Duration: 4:29
 ---
 ![](https://www.youtube.com/watch?v=kqQuXaSGFYw)
 

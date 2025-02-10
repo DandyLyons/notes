@@ -157,7 +157,7 @@ Give to him who asks you, and don't turn away him who desires to borrow from you
 [[#notes on 43]]
 
 ###### v44 
-But I tell you, [[Love|love]] your [[enemies]], bless those who curse you, do good to those who hate you, and [[prayer|pray]] for those who mistreat you and persecute you, 
+But I tell you, [[love|love]] your [[enemies]], bless those who curse you, do good to those who hate you, and [[prayer|pray]] for those who mistreat you and persecute you, 
 ###### v45 
 that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust. 
 

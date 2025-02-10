@@ -6,6 +6,11 @@ aliases:
 ---
 Quartz is a [[Static Site Generation|static site generator]] for [[Topics/Software/Obsidian/index|Obsidian]] vaults built on top of [[NodeJS]]. 
 
+## Supported Formatting
+
+| highlights ==text==     | Supported, but the = signs are still present |
+| ----------------------- | -------------------------------------------- |
+| invisible wikilinks[^1] | Not supported.                               |
 
 ## My Explorations
 > [!tip]
@@ -97,3 +102,6 @@ Unfortunately, Quartz does not render [[Topics/Software/Obsidian/Plugins/Communi
 #### Workarounds
 - There is an `obsidian-run` plugin which you can download on GitHub. It executes the dataview queries and then outputs actual markdown. I believe this could potentially "pre-render" dataview, thus eliminating the problem. 
 	- [GitHub - HananoshikaYomaru/obsidian-run: Generate markdown from dataview query and javascript.](https://github.com/HananoshikaYomaru/obsidian-run)  
+# Footnotes
+
+[^1]: `[[My Note|]]` syntax

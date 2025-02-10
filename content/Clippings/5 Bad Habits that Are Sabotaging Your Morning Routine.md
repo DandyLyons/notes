@@ -1,21 +1,21 @@
 ---
-title: "5 Bad Habits that Are Sabotaging Your Morning Routine"
-source: "https://www.youtube.com/watch?v=vGOIDoki50M"
-media_link: "https://www.youtube.com/watch?v=vGOIDoki50M"
+title: 5 Bad Habits that Are Sabotaging Your Morning Routine
+source: https://www.youtube.com/watch?v=vGOIDoki50M
+media_link: https://www.youtube.com/watch?v=vGOIDoki50M
 author:
   - "[[Redeeming Productivity]]"
-contentPublished: "2021-02-03"
-noteCreated: "2025-01-27"
+contentPublished: 2021-02-03
+noteCreated: 2025-01-27
 description: "Get my free Morning Routine Planner: http://redeemingproductivity.com/newsletterIn this video I show you five bad morning habits that ruin your day and sabotage your productivity.GET MORE✉️ Newsl"
 tags:
-  - "clippings"
-  - "video"
-takeaways:
+  - clippings
+  - video
+takeaways: 
 subjects:
-  - "[[Morning Routine]]"
-Status: "👀 Reading"
+  - "[[Topics/productivity/Morning Routine/index|Morning Routine]]"
+Status: 👀 Reading
 publish: true
-Youtube_Duration: "7:00"
+Youtube_Duration: 7:00
 ---
 ![](https://www.youtube.com/watch?v=vGOIDoki50M)
 

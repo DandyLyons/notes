@@ -52,7 +52,7 @@ that you were at that time separate from Christ, alienated from the commonwealth
 But now in Christ Jesus you who once were far off are made near in the blood of Christ. 
 
 ###### v14 
-For he is our peace, who made both one, and broke down the middle wall of separation, 
+For he is our [[peace]], who made both one, and broke down the middle wall of separation, 
 
 ###### v15 
 having abolished in his flesh the hostility, the law of commandments contained in ordinances, that he might create in himself one new man of the two, making peace, 

@@ -68,7 +68,7 @@ X: https://x.com/drjustinsung
 - [01:05](https://www.youtube.com/watch?t=65&v=RMB3NsQotvM): There are two ways to use motivation
 	- 1. [[Topics/Health/index|healthy]] and [[Topics/productivity/index|productive]] 
 	- 2. Counterproductive and leads to burn out. 
-- [01:27](https://www.youtube.com/watch?t=87&v=RMB3NsQotvM): Say you have a [[goals|goal]] 
+- [01:27](https://www.youtube.com/watch?t=87&v=RMB3NsQotvM): Say you have a [[Topics/goals/goals.md/index|goal]] 
 	- In order to accomplish it, you need to want to accomplish it, ([[intentionality|intention]])
 	- Then you need to take a series of **actions** 
 	- But unfortunately we get [[distraction|distracted]], **lazy**, tired

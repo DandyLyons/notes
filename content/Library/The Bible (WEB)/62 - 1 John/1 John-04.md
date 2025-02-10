@@ -62,7 +62,7 @@ We know and have believed the love which God has for us. God is love, and he who
 In this, love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so we are in this world. 
 
 ###### v18 
-There is no [[Fear|fear]] in [[Love|love]]; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love. 
+There is no [[Fear|fear]] in [[love|love]]; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love. 
 
 ###### v19 
 We love him, because he first loved us. 

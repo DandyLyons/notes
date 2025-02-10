@@ -8,7 +8,8 @@ aliases:
 [[John-12|← John 12]] | [[John]] | [[John-14|John 14 →]]
 ***
 
-
+## The Text
+### Jesus Washes The Disciples Feet
 
 ###### v1 
 Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end. 
@@ -110,7 +111,7 @@ If God has been glorified in him, God will also glorify him in himself, and he w
 Little children, I will be with you a little while longer. You will seek me, and as I said to the Jews, 'Where I am going, you can't come,' so now I tell you. 
 
 ###### v34 
-A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another. 
+A new commandment I give to you, that you love one another. Just as I have loved you, you also [[love]] one another. 
 
 ###### v35 
 By this everyone will know that you are my disciples, if you have love for one another." 
@@ -131,7 +132,6 @@ Jesus answered him, "Will you lay down your life for me? Most certainly I tell y
 ## My Notes
 
 ---
-## Footnotes
 # Footnotes
 
-[^1]: [[#v10]]-13: Jesus calls Peter clean even though Peter would later betray (deny) Christ three times. 
+[^1]: [[#v10]]-13: Notice that Jesus calls Peter clean even though Peter would later betray (deny) Christ three times. 
