@@ -3,7 +3,7 @@ title: How to Prepare for a Great Morning Routine
 source: https://www.youtube.com/watch?v=kqQuXaSGFYw
 media_link: https://www.youtube.com/watch?v=kqQuXaSGFYw
 author:
-  - "[[Redeeming Productivity]]"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
 contentPublished: 2024-02-06
 noteCreated: 2025-01-27
 description: Lack of preparation is the main reason people fall off the wagon with their morning routines. Here are three things you should do to prepare for your morning routine so you can be more consistent.Fr

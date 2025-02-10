@@ -3,7 +3,7 @@ title: "RPS #15 – Essential Ingredients of a Great Morning Routine"
 source: https://www.youtube.com/watch?v=2BbWRi5oQ50
 media_link: https://www.youtube.com/watch?v=2BbWRi5oQ50
 author:
-  - "[[Redeeming Productivity]]"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
 contentPublished: 2019-11-18
 noteCreated: 2025-01-27
 description: What you do in the morning sets the tone for the rest of the day. In this episode, I talk about the bare minimum requirements of a Christian's morning routine. And while everyone's morning will look a

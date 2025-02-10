@@ -1,20 +1,20 @@
 ---
-title: "How to Prepare for a God-Honoring 2025"
-source: "https://www.youtube.com/watch?v=vnk8qQCG1cM"
-media_link: "https://www.youtube.com/watch?v=vnk8qQCG1cM"
+title: How to Prepare for a God-Honoring 2025
+source: https://www.youtube.com/watch?v=vnk8qQCG1cM
+media_link: https://www.youtube.com/watch?v=vnk8qQCG1cM
 author:
-  - "[[Redeeming Productivity]]"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
 contentPublished: 2024-12-17
 noteCreated: 2025-02-04
-description: "This is the recording from our live workshop last week. Get clarity on your God-honoring priorities, organize goals around those priorities, and create a schedule so you make consistent progress.Dow"
+description: This is the recording from our live workshop last week. Get clarity on your God-honoring priorities, organize goals around those priorities, and create a schedule so you make consistent progress.Dow
 tags:
-  - "clippings"
-  - "video"
-takeaways:
-subjects:
-Status: "🙏🏼 Want To Read"
+  - clippings
+  - video
+takeaways: 
+subjects: 
+Status: 🙏🏼 Want To Read
 publish: true
-Youtube_Duration: "42:25"
+Youtube_Duration: 42:25
 ---
 ![](https://www.youtube.com/watch?v=vnk8qQCG1cM)
 

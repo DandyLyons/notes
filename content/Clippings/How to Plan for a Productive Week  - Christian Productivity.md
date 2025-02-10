@@ -3,7 +3,7 @@ title: How to Plan for a Productive Week | Christian Productivity
 source: https://www.youtube.com/watch?v=sZyDy69JK6M
 media_link: https://www.youtube.com/watch?v=sZyDy69JK6M
 author:
-  - "[[Redeeming Productivity]]"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
 contentPublished: 2024-02-20
 noteCreated: 2025-01-26
 description: A guide to planning your week so you can better honor God with your productivity.Download the ⁠ideal week Google sheet⁠.https://docs.google.com/spreadsheets/d/1pnlYElFiACbM1gCO7QqN3b8T9Qkz1V1cX7TQn

@@ -20,7 +20,7 @@ lastRead: ""
 personalRating: 0
 tags:
   - mediaDB/book
-Status: 🙏🏼 Want To Read
+Status: 👀 Reading
 publish: true
 ---
 
@@ -456,15 +456,15 @@ From John 15, four elements:
 
 #### Key Verses Referenced
 
-- Genesis 1:28 - Be fruitful and multiply
-- Psalm 1:3 - Tree planted by streams
-- Matthew 13:23 - Parable of the sower
-- John 15:8 - Bearing fruit glorifies God
-- Ephesians 2:8-10 - Saved by grace for good works
-- James 2:17 - Faith without works is dead
-- Titus 2:14 - Zealous for good works
+- [[Gen-01#v28|Gen 1.28]] - Be fruitful and multiply
+- [[Ps-01#v3|Ps 1.3]] - Tree planted by streams
+- [[Matt-13#v23|Matt 13.23]] - Parable of the sower
+- [[John-15#v8|John 15.8]] - Bearing fruit glorifies God
+- [[Ephes-02#v8|Ephes 2:8-10]] - Saved by grace for good works
+- [[James-02#v17|James 2.17]] - Faith without works is dead
+- [[Titus-02#v14|Titus 2.14]]  - Zealous for good works
 - 1 Timothy 2:10, 5:10, 5:25, 6:18 - Various instructions about good works
-- Hebrews 10:24 - Stirring one another to good works
+- [[Heb-10#v24|Heb 10.24]] - Stirring one another to good works
 ### Ch. 6 Practice 3 Track your commitments
  [02:01:12-02:31:02]
 
@@ -482,25 +482,27 @@ From John 15, four elements:
 2. Limited brain capacity
 	* Not designed to hold many commitments simultaneously
 	* Short-term memory limitations
-3. Noetic effects of sin ([[Gen-03#v17|Gen 3:17-19]][[Gen-03#v18|]][[Gen-03#v19|]])
-	- *Noetic* comes from greek word *gnosis*
-	* Sin affects cognitive abilities
+	* ["] "Your mind is for having ideas, not for holding them." [[David Allen]], [[Getting Things Done (2001)]] 
+3. Noetic[^3] effects of sin ([[Gen-03#v17|Gen 3:17-19]][[Gen-03#v18|]][[Gen-03#v19|]])
+	* [[sin]] affects cognitive abilities
 	* Comparison to Adam's perfect memory ([[Gen-02#v20|Gen 2.20]])
 
 #### The Nature of Productivity [02:06:22-02:08:46]
-* Distinction between doing things and completing things
-* The Zeigarnik effect:
-  * Brain remembers incomplete tasks
-  * Forgets completed tasks
-  * Creates mental burden from unfinished work
+* ⭐ [[Topics/productivity/index|productivity]] is not about running from task to task. Productivity is about **completion**. 
+	* We're talking about getting things **done**, not started.
+	* ⭐ We need things to be complete, so that we can forget them.
+* The Zeigarnik effect: 
+	* Brain remembers incomplete tasks
+	* Forgets completed tasks
+	* Creates mental burden from unfinished work
 * Modern challenges:
-  * Information overload
-  * Constant connectivity
-  * Multiple incomplete tasks
+	* Information overload
+	* Constant connectivity
+	* Multiple incomplete tasks
 
 #### Biblical Foundation [02:09:02-02:09:28]
 * We desire to keep promises because we're made in God's image
-* Reference to Matthew 5:37 - "Let your yes be yes"
+* Reference to [[Matt-05#v37|Matt 5.37]] - "Let your yes be yes"
 * Every task is a small promise
 
 #### The REDEEM Framework for Task Management [02:11:34-02:14:44]
@@ -509,17 +511,18 @@ From John 15, four elements:
 
 1. **R**eliable - System must be trustworthy
 2. **E**xternal - Get tasks out of your head
-3. **D**oable - Tasks should be clear and actionable
+3. **D**oable - Tasks should be **clear** and **actionable**
 4. **E**xhaustive - One central place for all tasks
-5. **E**ngaging - System should invite focused work
-6. **M**anageable - Simple enough to provide clarity
+	- There should be only one place where you capture and review your tasks.[^4]
+5. **E**ngaging - System should invite focused work, not overwhelm
+	- You should **want** to do focused work. 
+	- [[aesthetics]] matter. 
+6. **M**anageable - Simple enough to provide clarity amid the chaos
 
 #### The COPE Framework [02:14:32-02:15:04]
-
 ^1696ed
 
 **See in depth notes:** [[COPE Framework]]
-
 1. **C**entralize
 2. **O**rganize
 3. **P**rioritize
@@ -527,54 +530,94 @@ From John 15, four elements:
 
 ##### The Five Essential Lists [02:14:48-02:18:46]
 **See in depth notes:** [[COPE Framework#The Five Essential Lists]] 
-1. Inbox
-2. Projects list
-3. Actions list
-4. Future list
-5. Daily list
+1. **Inbox**
+	- Where you [[capture]] tasks. 
+	- This list is ephemeral. Everything on this list will be processed later. 
+2. **[[Projects]] list**: A list of all current projects. 
+	- Keeping a list of all active projects is crucial to preventing overcommitment. 
+3. **Actions list**: The steps necessary to complete a particular **project**
+4. **Future list**: Things you can't do right now
+	- Evaluated during [[Topics/productivity/Weekly Review/index|Weekly Review]] 
+5. **Daily list**: The actions and projects you plan to work on **today**. 
+	- 💡 💭 "I like to manually copy my daily list from my software into my paper notebook. That way I don't get [[Topics/distractions/index|distracted]] by all the things I *could* be doing."
+	- The purpose is to **force you to [[priorities|prioritize]]**
 
 #### Implementation Steps [02:19:08-02:25:38]
-1. Centralize [02:19:08-02:20:20]
-   * Capture all commitments in one place
-   * Common sources: emails, calls, conversations, meetings
-
-2. Organize [02:20:20-02:22:44]
-   * Five key questions:
-     * Am I still committed?
-     * What's my definition of done?
-     * Will this take multiple actions?
-     * What's the next action?
-     * Can I do this right now?
-
-3. Prioritize [02:22:44-02:24:10]
-   * Three key times:
-     * Beginning of day
-     * Throughout day
-     * Weekly reviews
-
-4. Execute [02:24:10-02:25:38]
-   * Survey projects list
-   * Choose 1-3 projects for daily list
-   * Focus on most important action
-   * Review and update next actions
+1. **Centralize** [02:19:08-02:20:20]
+	* Capture all commitments in one place
+	* Uses your **inbox**
+	* Common sources: emails, calls, conversations, meetings, shower thoughts
+2. **Organize** [02:20:20-02:22:44]
+	- Organization mitigates [[overwhelm]]. 
+	- An organized todo list allows you to: 
+		- quickly identify the status of a commitment
+		- view your tasks in logical groups
+	* Five key questions:
+		* Am I still committed?
+			* No? Delete it.
+		* What's my definition of done? (Clarify.)
+		* Will this take multiple actions?
+			* Yes? It's a project. 
+				* Move it to projects list.
+		* What's the next action?
+		* Can I do this right now?
+3. **[[priorities|Prioritize]]** [02:22:44-02:24:10]
+	- Prioritization is an **ongoing process**. 
+		- Your priorities will organically change. 
+	* Three key times:
+		* Beginning of day: [[Topics/productivity/Morning Routine/index|Morning Routine]] 
+		* Throughout day
+			* As you complete the most important task, reevaluate what is the new most important task. 
+		* [[Topics/productivity/Weekly Review/index|Weekly Reviews]] 
+	* Prioritization steps: 
+		1. Move actions that are not **immediately relevant** to the **future list**. 
+		2. Order remaining items according to [[importance]][^5] 
+4. **Execute** [02:24:10-02:25:38]
+	* Survey projects list
+	* Choose 1-3 projects for daily list
+	* Focus on most important action first. 
+	* Review and update next actions
+	* Take 5 minutes at the end of the day and re-clarify next actions for each project. 
 
 #### Weekly Review Process [02:25:46-02:30:02]
 
 ^aa73ae
 
+- **Schedule** a weekly review at the end of each week. 
+	- I recommend 2 hours on a friday afternoon. 
+
 1. Deal with loose ends
-2. Look ahead
+	- **Centralize**: Capture everything into your inbox
+		- Review 
+			- meeting notes
+			- stray thoughts
+			- email inbox
+2. Look ahead at next two weeks
+	- Any events that require prep work? 
+	- Approaching deadlines? 
+	- [[urgency|urgent]] issues
+	- Projects: 
+		- What projects can you drop? 
+		- What projects are **stalled** and may need followup next week? 
 3. Reflect on the week
+	- ⭐ "If you're always looking forward, you'll never praise the LORD for the wins or adjust after the losses."
+	- Write highs/lows
+	- What **habits** are working/not working? How could I improve? 
+	- How has my walk with the LORD been? 
+	- How are my relationships going? 
 4. Get creative
 5. Pray
+	- thank the LORD
+	- Ask Him for help
+	- Ask Him for wisdom for the future
 
 #### Conclusion [02:30:02-02:31:02]
-* System is a tool, not master
+* ⭐ System is a tool, not master
 * Acknowledge human limitations
+	* Even if you do everything correctly, you still won't be able to get everything done **and that's okay**. 
+	* ⭐ *"God loves us based on how perfect His Son and His sacrifice were, not on how perfectly productive we were today."* 
 * Trust in Christ's perfection, not our productivity
 * Aim to be faithful stewards of time and commitments
-
-This outline maintains the Christian perspective of the original text while organizing the practical productivity advice in a clear, actionable format. The author's core message is that good task management serves both practical and spiritual purposes, helping us fulfill our commitments while acknowledging our dependence on God's grace.
 ### Ch. 7, Pillar 4 - The Source of Productivity: You Are Uniquely Gifted By God  
  [02:31:02]
 
@@ -928,3 +971,6 @@ This outline maintains the Christian perspective of the original text while orga
 
 [^1]: the people of the church. God's people
 [^2]: According to researcher Anne Laura LeCunf
+[^3]: *Noetic* comes from greek word *gnosis*
+[^4]: If you store them in many places, then your trust in your system will fall apart and you will stop using the system. 
+[^5]: This system doesn't seem to make a distinction between importance, significance, and urgency. I prefer Rory Vaden's thinking, outlined in [[How To Multiply Your Time  Rory Vaden  TEDxDouglasville]]. 

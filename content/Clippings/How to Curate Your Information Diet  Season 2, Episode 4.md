@@ -1,20 +1,20 @@
 ---
-title: "How to Curate Your Information Diet | Season 2, Episode 4"
-source: "https://www.youtube.com/watch?v=Bi16bLU2jU8"
-media_link: "https://www.youtube.com/watch?v=Bi16bLU2jU8"
+title: How to Curate Your Information Diet | Season 2, Episode 4
+source: https://www.youtube.com/watch?v=Bi16bLU2jU8
+media_link: https://www.youtube.com/watch?v=Bi16bLU2jU8
 author:
-  - "[[Redeeming Productivity]]"
-contentPublished: "2021-08-30"
-noteCreated: "2025-01-27"
-description: "In an age of unlimited information, proactively choosing what we fill our eyes, ears, and hearts with is more important than ever. The articles we read, the podcasts we listen to, and the videos we co"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
+contentPublished: 2021-08-30
+noteCreated: 2025-01-27
+description: In an age of unlimited information, proactively choosing what we fill our eyes, ears, and hearts with is more important than ever. The articles we read, the podcasts we listen to, and the videos we co
 tags:
-  - "clippings"
-  - "video"
-takeaways:
-subjects:
-Status: "👀 Reading"
+  - clippings
+  - video
+takeaways: 
+subjects: 
+Status: 👀 Reading
 publish: true
-Youtube_Duration: "28:35"
+Youtube_Duration: 28:35
 ---
 ![](https://www.youtube.com/watch?v=Bi16bLU2jU8)
 

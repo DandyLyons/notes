@@ -3,7 +3,7 @@ title: Why You Need a Morning Routine | RPS 81
 source: https://www.youtube.com/watch?v=z61LLHEVS88&t=312s
 media_link: https://www.youtube.com/watch?v=z61LLHEVS88&t=312s
 author:
-  - "[[Redeeming Productivity]]"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
 contentPublished: 2021-06-04
 noteCreated: 2025-01-27
 description: In this episode, I talk about how morning routines are the key to building lasting habits. I also announce the release of my brand new course, POWER Mornings.TIMESTAMPS0:00 – Welcome5:12 – Why you

@@ -3,7 +3,7 @@ title: How to Make Daily Bible Reading a Habit | 8 Tips for Devotions
 source: https://www.youtube.com/watch?v=GQ-RN9QSAC0
 media_link: https://www.youtube.com/watch?v=GQ-RN9QSAC0
 author:
-  - "[[Redeeming Productivity]]"
+  - "[[Redeeming Productivity (YouTube Channel)]]"
 contentPublished: 2021-05-26
 noteCreated: 2025-01-25
 description: "Tips on how to read the Bible every day. With a little planning, you can make daily Bible reading a consistent habit.Bible reading plans: https://bit.ly/2QWYV0AMorning routine Mini-Course + Planner"
