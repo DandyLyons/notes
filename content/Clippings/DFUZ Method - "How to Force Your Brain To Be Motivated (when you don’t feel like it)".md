@@ -16,6 +16,7 @@ subjects:
   - "[[motivation]]"
   - "[[Topics/productivity/index|productivity]]"
   - "[[feelings]]"
+  - "[[motivation deficit]]"
 Status: ✅ Read
 publish: true
 Youtube_Duration: 17:52

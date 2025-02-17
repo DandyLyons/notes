@@ -38,7 +38,7 @@ The centurion answered, "Lord, I'm not worthy for you to come under my roof. Jus
 For I am also a man under authority, having under myself soldiers. I tell this one, 'Go,' and he goes; and tell another, 'Come,' and he comes; and tell my servant, 'Do this,' and he does it." 
 
 ###### v10 
-When Jesus heard it, he marveled and said to those who followed, "Most certainly I tell you, I haven't found so great a faith, not even in Israel. 
+When Jesus heard it, he marveled and said to those who followed, "Most certainly I tell you, I haven't found so great a faith, not even in Israel[^1]. 
 
 ###### v11 
 I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the [[Kingdom of Heaven]], 
@@ -119,4 +119,6 @@ Behold, all the city came out to meet Jesus. When they saw him, they begged that
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Wow. It would seem that this Centurion's faith at this moment even surpassed that of John the Baptist. 

@@ -9,3 +9,4 @@ title:
 - ChatGPT
 - Cursor
 - GitHub Copilot
+- [[document chatting]] 

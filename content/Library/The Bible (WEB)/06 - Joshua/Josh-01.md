@@ -32,7 +32,7 @@ No man will be able to stand before you all the days of your life. As I was with
 Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don't turn from it to the right hand or to the left, that you may have good success wherever you go. 
 
 ###### v8 
-This book of the law shall not depart from your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success. 
+This book of the law shall not depart from your mouth, but you shall [[Biblical meditation|meditate]] on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success. 
 
 ###### v9 
 Haven't I commanded you? Be strong and courageous. Don't be afraid. Don't be dismayed, for Yahweh your God is with you wherever you go." 

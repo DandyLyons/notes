@@ -81,7 +81,7 @@ X: https://x.com/drjustinsung
 		1. Every time you get distracted, write down the thing that distracted you. 
 		2. **Remove all distractions completely.**[^2]
 ### [05:19](https://www.youtube.com/watch?v=JssA1fkgAJY&t=319s) How to know: Step 2
-### [07:12](https://www.youtube.com/watch?v=JssA1fkgAJY&t=432s) Is it different from ADHD?
+### [07:12](https://www.youtube.com/watch?v=JssA1fkgAJY&t=432s) Is it different from [[Topics/Health/ADHD/index|ADHD]]?
 * This is NOT the same thing as [[ADHD]]. 
 	* (But there are possibly links.)
 ### [09:07](https://www.youtube.com/watch?v=JssA1fkgAJY&t=547s) Solution step 1: Remove triggers and distractions

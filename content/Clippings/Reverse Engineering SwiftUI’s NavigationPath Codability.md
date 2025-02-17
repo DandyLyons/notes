@@ -14,6 +14,8 @@ url: https://www.pointfree.co/blog/posts/78-reverse-engineering-swiftui-s-naviga
 ---
 **Original URL**: https://www.pointfree.co/blog/posts/78-reverse-engineering-swiftui-s-navigationpath-codability
 ## Highlights
+
+#### A Heterogenous Codable Array
 iOS 16 introduced brand new navigation tools that aim to model stack-based navigation with simple collection-based APIs. One of those tools is [`NavigationPath`](https://developer.apple.com/documentation/swiftui/navigationpath), which is a fully type-erased collection of data that allows you to drive navigation with state without coupling unrelated views together.
 
 An interesting feature of `NavigationPath` is that it is capable of encoding and decoding itself to JSON, even though all of its type information has been erased. This is powerful because it makes state restoration as simple as serializing and deserializing data, but how does it work?
@@ -70,7 +72,7 @@ struct User: Codable, Hashable {
 }
 ```
 
-Now `codable` returns something non-`nil` called `CodableRepresentation`:
+Now `codable` returns something non-`nil` called [CodableRepresentation](https://developer.apple.com/documentation/swiftui/navigationpath/codablerepresentation) :
 
 ```swift
 path.codable  // NavigationPath.CodableRepresentation
@@ -82,6 +84,7 @@ This is the thing that you can actually feed to a `JSONEncoder` to turn into JSO
 try JSONEncoder().encode(path.codable!)  // 120 bytes
 ```
 
+#### The Codable Representation
 And we can feed this data to a `String` initializer to see the actual JSON string representation:
 
 ```swift
@@ -158,7 +161,7 @@ List {
 }
 ```
 
-#### Encoding and decoding `Any`
+#### Encoding `Any`
 Is it possible to recreate this seemingly magical functionality ourselves? Can we really take a nebulous blob of stringy JSON and turn it into values with static types? Well, the answer is yes, by using a little bit of runtime magic and Swift’s new existential super powers.
 
 Let’s start with a simple wrapper around an array of fully type-erased `Any` values, as well as a method for appending an `Any` to the end of the array:
@@ -203,6 +206,7 @@ func encode(to encoder: Encoder) throws {
 
 For each element in the array we need to first encode the name of the type, and then encode its JSON representation as a string.
 
+#### Encoding a type as a string
 We can use an underscored Swift [function](https://github.com/apple/swift/blob/c8f4b09809de1fab3301c0cfc483986aa6bdecfa/stdlib/public/core/Misc.swift#L87-L94) that is capable of turning a type into a string. Although `element` is a fully erased `Any` value, we can get its runtime type using the `type(of:)` function, and then encode its string name:
 
 ```swift
@@ -243,18 +247,18 @@ let data = try JSONEncoder().encode(path)
 print(String(decoding: data, as: UTF8.self))
 ```
 
-> ```
-> [
->   "11nav_codable4UserV",
->   "{\"id\":42,\"name\":\"Blob\"}",
->   "Sb",
->   "true",
->   "Si",
->   "42",
->   "SS",
->   "\"Hello\""
-> ]
-> ```
+```json
+[
+  "11nav_codable4UserV",
+  "{\"id\":42,\"name\":\"Blob\"}",
+  "Sb",
+  "true",
+  "Si",
+  "42",
+  "SS",
+  "\"Hello\""
+]
+```
 
 We are able to encode all the values even though we are storing them as fully type-erased `Any` values internally.
 
@@ -277,6 +281,7 @@ Then we get an encoding error letting us know exactly what went wrong:
 )
 ```
 
+#### Decoding the Heterogenous Array
 We are halfway towards our goal of reverse engineering `NavigationPath`. Next we need to make `NavPath` conform to the `Decodable` protocol:
 
 ```swift

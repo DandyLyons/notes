@@ -31,6 +31,8 @@ with Benaiah and Jahaziel the priests with trumpets continually, before the ark 
 ###### v7 
 Then on that day David first ordained to give thanks to Yahweh, by the hand of Asaph and his brothers. 
 
+### David’s Song of Thanks
+See: [[Ps-105|Psalm 105:1-15]] 
 ###### v8 
 Oh give thanks to Yahweh. Call on his name. Make what he has done known among the peoples. 
 
@@ -118,6 +120,7 @@ Say, "Save us, God of our salvation! Gather us together and deliver us from the 
 ###### v36 
 Blessed be Yahweh, the God of Israel, from everlasting even to everlasting. All the people said, "Amen," and praised Yahweh. 
 
+### Regular Worship Maintained 
 ###### v37 
 So he left Asaph and his brothers there before the ark of Yahweh's covenant, to minister before the ark continually, as every day's work required; 
 

@@ -2,6 +2,7 @@
 publish: true
 ---
 - [[Redeeming Productivity (2022)]] 
+- [[How to ADHD (2024)]]
 - [[Make Something Wonderful (2023)]]
 - [[The Man Who Was Thursday (1908)]] 
 - [[Don't Starve]] 
