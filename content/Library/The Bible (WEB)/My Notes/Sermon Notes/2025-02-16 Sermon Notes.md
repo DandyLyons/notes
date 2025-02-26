@@ -26,9 +26,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series | Location | Subjects | Takeaways | Sermon Link |
-| ------ | -------- | -------- | --------- | ----------- |
-| \-     | \-       | \-       | \-        | \-          |
+| Series                   | Location                                                                               | Subjects                                      | Takeaways | Sermon Link |
+| ------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------- | --------- | ----------- |
+| Allison on 2 Corinthians | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[friendship\|friendship]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

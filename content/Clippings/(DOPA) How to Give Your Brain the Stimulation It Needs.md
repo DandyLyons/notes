@@ -11,7 +11,9 @@ tags:
   - clippings
   - video
 takeaways: 
-subjects: 
+subjects:
+  - "[[dopamine menu]]"
+  - "[[My Dopamenu]]"
 Status: ✅ Read
 publish: true
 Youtube_Duration: 7:52

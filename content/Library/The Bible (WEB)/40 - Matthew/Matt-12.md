@@ -125,7 +125,7 @@ For by your words you will be justified, and by your words you will be condemned
 Then certain of the scribes and Pharisees answered, "Teacher, we want to see a sign from you." 
 
 ###### v39 
-But he answered them, "An evil and adulterous generation seeks after a sign, but no sign will be given to it but the sign of Jonah the prophet. 
+But he answered them, "An evil and adulterous generation seeks after a [[signs|sign]], but no sign will be given to it but the sign of Jonah the prophet. 
 
 ###### v40 
 For as Jonah was three days and three nights in the belly of the huge fish, so will the Son of Man be three days and three nights in the heart of the earth. 

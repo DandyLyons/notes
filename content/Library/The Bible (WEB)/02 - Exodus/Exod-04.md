@@ -23,7 +23,7 @@ He said, "Throw it on the ground." He threw it on the ground, and it became a sn
 Yahweh said to Moses, "Stretch out your hand, and take it by the tail." He stretched out his hand, and took hold of it, and it became a rod in his hand. 
 
 ###### v5 
-"This is so that they may believe that Yahweh, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you." 
+"This is so that they may believe[^1] that Yahweh, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you." 
 
 ###### v6 
 Yahweh said furthermore to him, "Now put your hand inside your cloak." He put his hand inside his cloak, and when he took it out, behold, his hand was leprous, as white as snow. 
@@ -110,4 +110,6 @@ The people believed, and when they heard that Yahweh had visited the children of
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: God gives [[signs]] so that we would believe 

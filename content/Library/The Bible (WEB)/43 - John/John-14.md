@@ -86,10 +86,10 @@ He who doesn't love me doesn't keep my words. The word which you hear isn't mine
 I have said these things to you while still living with you. 
 
 ###### v26 
-But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you. 
+But the Counselor, [[The Holy Spirit]], whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you. 
 
 ###### v27 
-Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don't let your heart be troubled, neither let it be fearful. 
+[[peace|Peace]] I leave with you. My peace I give to you; not as the world gives, I give to you. Don't let your heart be troubled, neither let it be fearful. 
 
 ###### v28 
 You heard how I told you, 'I go away, and I come to you.' If you loved me, you would have rejoiced, because I said 'I am going to my Father;' for the Father is greater than I. 

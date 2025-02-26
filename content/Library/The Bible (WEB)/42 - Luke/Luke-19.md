@@ -9,7 +9,7 @@ aliases:
 ***
 
 
-
+## The Text
 ###### v1 
 He entered and was passing through Jericho. 
 
@@ -40,6 +40,8 @@ Jesus said to him, "Today, salvation has come to this house, because he also is 
 ###### v10 
 For the Son of Man came to seek and to save that which was lost." 
 
+### Parable of the Talents
+([[Matt-25#v14|Matthew 25:14-30]][[Matt-25#v15|]][[Matt-25#v16|]][[Matt-25#v17|]][[Matt-25#v18|]][[Matt-25#v19|]][[Matt-25#v20|]][[Matt-25#v21|]][[Matt-25#v22|]][[Matt-25#v23|]][[Matt-25#v24|]][[Matt-25#v25|]][[Matt-25#v26|]][[Matt-25#v27|]][[Matt-25#v28|]][[Matt-25#v29|]][[Matt-25#v30|]])
 ###### v11 
 As they heard these things, he went on and told a parable, because he was near Jerusalem, and they supposed that God's Kingdom would be revealed immediately. 
 

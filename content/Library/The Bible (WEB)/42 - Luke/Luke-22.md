@@ -69,7 +69,7 @@ for I tell you, I will not drink at all again from the fruit of the vine, until 
 He took bread, and when he had given thanks, he broke, and gave it to them, saying, "This is my body which is given for you. Do this in memory of me." 
 
 ###### v20 
-Likewise, he took the cup after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. 
+Likewise, he took the cup after supper, saying, "This cup is the new [[covenant]] in my blood, which is poured out for you. 
 
 ###### v21 
 But behold, the hand of him who betrays me is with me on the table. 

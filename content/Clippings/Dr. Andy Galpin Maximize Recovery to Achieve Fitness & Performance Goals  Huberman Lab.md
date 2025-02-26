@@ -1,4 +1,5 @@
 ---
+id: 7f72e446-14d5-466a-9d07-e6f673f076e5
 title: "Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals | Huberman Lab"
 source: https://www.youtube.com/watch?v=juD99_sPWGU
 media_link: https://www.youtube.com/watch?v=juD99_sPWGU

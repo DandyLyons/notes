@@ -9,8 +9,7 @@ url: https://openlibrary.org/works/OL37500037W
 id: /works/OL37500037W
 author:
   - Jessica McCabe
-plot: unknown
-pages: unknown
+pages: "464"
 image: https://covers.openlibrary.org/b/OLID/OL50522422M-L.jpg
 onlineRating: 0
 isbn: unknown
@@ -51,7 +50,7 @@ Status: 👀 Reading
 	- [Chapter 7: How to Motivate Your Brain](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-9)
 	- [Where to Find Us](https://howtoadhdbook.com/resources/#Find-Us)
 ## My Notes
-
+%% [[Transcript of How to ADHD]] %%
 ### Introduction [00:00:10]
 *   The author, Jessica McCabe, explains why she wrote "How to ADHD" despite having ADHD herself.
     *   ⭐ She wanted to consolidate and preserve her knowledge gained over seven years.
@@ -162,41 +161,104 @@ Status: 👀 Reading
 * Move your body. [01:06:20]
 * Rest your brain. [01:06:20]
 
+
 ### Chapter 4: How to Executive Function [01:46:17]
 
-#### The Author's Struggles [01:46:17]
-*   The author remembers fantasizing about being organized every time she started a new school year, and now as she moves into a new office space. 
-*   But as an adult, she had trouble keeping the basic things clean.
-*   She couldn't figure out how to have a clean room.
+#### Introduction: The Fantasy of Organization [01:46:34]
+* ANECDOTE: Author describes moving to new office and falling into familiar fantasy of "finally getting organized"
+* Reality check: Not truly starting from scratch - bringing habits, routines, brain, and chaos [01:47:01]
+* Childhood pattern: Setting up organizational systems that fell apart within weeks [01:47:17]
+* Adult pattern: "ADHD New Year's" with new purses, apartments, desks, hobbies, careers [01:47:39]
 
-#### Author's Conclusions about ADHD [01:50:52]
-* The reason those of us with ADHD have trouble functioning is not because we haven't found the right system yet and/or don't stick to it.
-* I am scheduled to moderate an online panel that has taken months of preparation.
+#### Why Systems Fail [01:48:14]
+* Common reasons for system breakdown:
+  - Forgetting to use it or  how to use it
+  - Losing it
+  - Getting bored
+  - Forgetting it exists
+  - Misplacing important items
+  - [[procrastination]]
+  - [[Topics/distractions/index|distraction]]
+  - Technology issues
+  - Financial constraints
+  - Life disruptions
 
-#### What The Author Has to Tell Us [01:53:10]
-* Impairments in areas of the brain such as:  "executive function, and the prefrontal cortex, which is the last part of the brain to develop. 
-* Executive Functions include the areas of  response inhibition, and working memory. 
+* Response to failure: Sometimes maintaining perfect organization through obsessive control [01:48:58]
+* Trade-off: Could only stay organized by not letting life happen [01:49:38]
 
-#### What you want, is to minimize.
-* The functional impairments related to ADHD coaching.
-* Many other helpful methods, if one has a personal experience with the knowledge specific to that area.
+#### Understanding Executive Function [01:51:03]
 
-#### The Toolbox [01:06:20]
-* Have less stuff to manage.
-* Accommodate yourself.
-* Account for the ADHD tax.
-* Build what works for you.
+##### Definition [01:51:10]
+* "[[executive function]] (EF) is like the CEO of the brain. It's a set of top-down cognitive processes, executive functions, that help us self-regulate so we can effectively plan, prioritize, and sustain effort toward long-term goals."
 
-### Chapter 5: How to Sleep [01:15:09]
+##### Key Aspects [01:51:33]
+* Originates in prefrontal cortex
+* Typically develops by age 25 in most people
+* [[executive function]] is impaired in ADHD brains
+
+##### Core Executive Functions [01:52:30]
+
+###### 1. Response Inhibition [01:52:37]
+* Definition: "[[response inhibition]] refers to the suppression of actions that interfere with a goal, or are inappropriate, or no longer appropriate in a given context."
+* Creates mental space between stimulus and action
+
+###### 2. Working Memory [01:53:18]
+* Definition: "[[working memory]] refers to our ability to temporarily hold information in our mind, manipulate it, and produce a response or action."
+
+###### 3. Set Shifting [01:53:44]
+* Definition: "[[task switching|set-shifting]] refers to our ability to switch between tasks that have different cognitive demands"
+* Moderately impaired in ADHD
+
+##### Hot vs. Cool Executive Function Systems [01:56:30]
+* Hot EF: Affective and motivational processes; active when emotions/stakes are high
+* Cool EF: Cognitive processes like response inhibition, working memory, and set shifting
+* Both can be active simultaneously, though one typically dominates
+
+#### Solutions and Tools [02:00:30]
+
+##### 1. Have Less to Manage [02:00:55]
+* ⭐ Common saying amongst ADHDers: "If you want to do more, do less"
+* Reduce what needs to be tracked and managed
+
+##### 2. Delegate Areas of Responsibility [02:01:20]
+* Focus on [[delegating]] entire areas rather than individual tasks
+* More efficient for executive function
+
+##### 3. Keep Systems Simple [02:01:51]
+* Avoid elaborate organizational systems
+* Example: "Books go on bookshelf" vs. complex sorting systems
+
+##### 4. Practice Minimalism [02:02:20]
+* Own less stuff
+* Easier to manage clutter with fewer possessions
+
+##### 5. Account for ADHD Tax [02:07:21]
+* Definition: Additional expenses incurred due to having ADHD
+* Includes financial costs, energy, time, and other resources
+* Examples include late fees, rush shipping, replacement costs
+
+##### 6. Build What Works for You [02:11:49]
+* Create systems for who you are, not who you want to be
+* Consider:
+  - What's worked before
+  - Current habits and preferences
+  - ADHD-specific needs
+
+#### Manual Mode vs. Automatic Mode [02:14:34]
+* Author's personal experience as a server
+* Impact of system changes on executive function
+* Importance of maintaining stable systems while implementing changes
+* Allow time for new systems to become automatic [02:17:52]
+### Chapter 5: How to Sleep [02:18:00]
 * There is a discussion of all the odd places that someone ends up sleeping while suffering from ADHD.
 * As an adult, I kept the same pace.
 * There was always more I could be doing for my career, for my parents, for my partners, for my friends, for my financial health, for my physical appearance and for my future.
 
 #### The toolbox [01:15:09]
 * Prioritize the right amount of sleep.
-* Practise good sleep hygiene?
+* Practice good [[sleep hygiene]]
 * Motivate yourself to sleep.
-* Work with your Chronotype.
+* Work with your [[chronotype]].
 * Have a Backup Plan.
 
 ### Chapter 6: How to See Time [02:16:20]

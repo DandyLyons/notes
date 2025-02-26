@@ -9,7 +9,7 @@ aliases:
 ***
 
 
-
+## The Text
 ###### v1 
 "Then the [[Kingdom of Heaven]] will be like ten virgins who took their lamps and went out to meet the bridegroom. 
 
@@ -49,6 +49,8 @@ But he answered, 'Most certainly I tell you, I don't know you.'
 ###### v13 
 Watch therefore, for you don't know the day nor the hour in which the Son of Man is coming. 
 
+### Parable of the Talents
+([[Luke-19#v11|Luke 19:11-27]][[Luke-19#v12|]][[Luke-19#v13|]][[Luke-19#v14|]][[Luke-19#v15|]][[Luke-19#v16|]][[Luke-19#v17|]][[Luke-19#v18|]][[Luke-19#v19|]][[Luke-19#v20|]][[Luke-19#v21|]][[Luke-19#v22|]][[Luke-19#v23|]][[Luke-19#v24|]][[Luke-19#v25|]][[Luke-19#v26|]][[Luke-19#v27|]])
 ###### v14 
 "For it is like a man going into another country, who called his own servants and entrusted his goods to them. 
 

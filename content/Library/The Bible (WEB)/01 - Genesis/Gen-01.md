@@ -54,7 +54,7 @@ There was evening and there was morning, a third day.
 
 ## The Fourth Day
 ###### v14
-God said, "Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;
+God said, "Let there be lights in the expanse of the sky to divide the day from the night; and let them be for [[signs]] to mark seasons, days, and years;
 
 ###### v15
 and let them be for lights in the expanse of the sky to give light on the earth;" and it was so.
