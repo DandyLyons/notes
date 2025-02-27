@@ -28,7 +28,6 @@ Status: 👀 Reading
 		- Introduction: [Toolbox Worksheet](http://howtoadhdbook.com/wp-content/uploads/2023/12/How-to-ADHD-The-Toolbox-Worksheet.pdf)  
 		    [BONUS - Virtual Toolbox Notion Template](https://ntn.so/howtoadhdtemplate)
 		- Ch.1 (How to Fail at Everything): [Permission Slip Worksheet](http://howtoadhdbook.com/wp-content/uploads/2023/12/How-to-ADHD-A-Permission-Slip.pdf)
-		- Ch.3 (How to (Hyper)focus: COMING SOON - Jo explains how teachers can help with FOCUS (Figure Out the Cause and Use a Strategy)
 		- Ch.5 (How to Sleep): [Morningness-Eveningness Questionnaire (Figure out your chronotype)](https://chronotype-self-test.info/index.php?sid=61524&newtest=Y)
 		- Ch.7 (How to Motivate Your Brain): [Decisional Balance Worksheet](http://howtoadhdbook.com/wp-content/uploads/2023/12/How-to-ADHD-The-Decisional-Balance-Worksheet.pdf)
 		- Ch.9 (How to Feel): [Emotion Tracker Worksheet](http://howtoadhdbook.com/wp-content/uploads/2023/12/How-to-ADHD-Emotion-Tracker.pdf)  
@@ -46,8 +45,8 @@ Status: 👀 Reading
 	- [Chapter 3: How to (Hyper)focus](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-5)
 	- [Chapter 4: How to (Executive) Function](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-6)
 	- [Chapter 5: How to Sleep](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-7)
-	- [Chapter 8: How to Remember Stuff](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-8)
 	- [Chapter 7: How to Motivate Your Brain](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-9)
+	- [Chapter 8: How to Remember Stuff](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-8)
 	- [Where to Find Us](https://howtoadhdbook.com/resources/#Find-Us)
 ## My Notes
 %% [[Transcript of How to ADHD]] %%
@@ -189,12 +188,12 @@ Status: 👀 Reading
 #### Understanding Executive Function [01:51:03]
 
 ##### Definition [01:51:10]
-* "[[executive function]] (EF) is like the CEO of the brain. It's a set of top-down cognitive processes, executive functions, that help us self-regulate so we can effectively plan, prioritize, and sustain effort toward long-term goals."
+* "[[Topics/Psychology/executive function/index|executive function]] (EF) is like the CEO of the brain. It's a set of top-down cognitive processes, executive functions, that help us self-regulate so we can effectively plan, prioritize, and sustain effort toward long-term goals."
 
 ##### Key Aspects [01:51:33]
 * Originates in prefrontal cortex
 * Typically develops by age 25 in most people
-* [[executive function]] is impaired in ADHD brains
+* ⭐ [[Topics/Psychology/executive function/index|executive function]] is impaired in ADHD brains
 
 ##### Core Executive Functions [01:52:30]
 
@@ -206,7 +205,7 @@ Status: 👀 Reading
 * Definition: "[[working memory]] refers to our ability to temporarily hold information in our mind, manipulate it, and produce a response or action."
 
 ###### 3. Set Shifting [01:53:44]
-* Definition: "[[task switching|set-shifting]] refers to our ability to switch between tasks that have different cognitive demands"
+* Definition: "[[task switching|set-shifting]]" (AKA *task switching*) refers to our ability to switch between tasks that have different cognitive demands"
 * Moderately impaired in ADHD
 
 ##### Hot vs. Cool Executive Function Systems [01:56:30]
