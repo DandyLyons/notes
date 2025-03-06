@@ -10,7 +10,7 @@ forums:
 publish: true
 Manufacturer: "[[Anker]]"
 notes: Often on sale.
-manual: https://anker-shopify.s3.us-west-2.amazonaws.com/s//79d56bf1-090c-4e78-955d-3d8f7439c272.pdf
+manual: "[[Anker Soundecore Space One Manual.pdf]]"
 aliases:
   - Space One
 ---
@@ -25,9 +25,9 @@ LIMIT 1
 ```
 %%
 
-| MSRP  | url                                                                                              | manual                                                                                       | productCategory                                                   | customerSupport                                    | warranty | forums |
-| ----- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------- | -------- | ------ |
-| 99.99 | [Space One Manual](https://www.soundcore.com/products/space-one-a3035011?variant=42980870947006) | https://anker-shopify.s3.us-west-2.amazonaws.com/s//79d56bf1-090c-4e78-955d-3d8f7439c272.pdf | <ul><li>[[Bluetooth Headphones\|Bluetooth Headphones]]</li></ul> | <ul><li>https://support.soundcore.com/s/</li></ul> | \-       | \-     |
+| MSRP  | url                                                                                              | manual                                                                                    | productCategory                                                   | customerSupport                                    | warranty | forums |
+| ----- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------- | -------- | ------ |
+| 99.99 | [Space One Manual](https://www.soundcore.com/products/space-one-a3035011?variant=42980870947006) | [[Products/Anker Soundecore Space One Manual.pdf\|Anker Soundecore Space One Manual.pdf]] | <ul><li>[[Bluetooth Headphones\|Bluetooth Headphones]]</li></ul> | <ul><li>https://support.soundcore.com/s/</li></ul> | \-       | \-     |
 
 %% DATAVIEW_PUBLISHER: end %%
 

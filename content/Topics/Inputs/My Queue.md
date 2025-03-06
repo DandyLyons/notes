@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 ---
 - [[Redeeming Productivity (2022)]] 
 - [[How to ADHD (2024)]]

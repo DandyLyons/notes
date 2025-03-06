@@ -23,10 +23,10 @@ Abraham called his son who was born to him, whom Sarah bore to him, Isaac.
 Abraham circumcised his son, Isaac, when he was eight days old, as God had commanded him. 
 
 ###### v5 
-Abraham was one hundred years old when his son, Isaac, was born to him. 
+Abraham was one hundred years old when his son, Isaac (*laughter*), was born to him. 
 
 ###### v6 
-Sarah said, "God has made me laugh. Everyone who hears will laugh with me." 
+Sarah said, "God has made me [[Theme of Laughter in Genesis|laugh]]. Everyone who hears will laugh with me." 
 
 ###### v7 
 She said, "Who would have said to Abraham that Sarah would nurse children? For I have borne him a son in his old age." 
@@ -35,7 +35,7 @@ She said, "Who would have said to Abraham that Sarah would nurse children? For I
 The child grew and was weaned. Abraham made a great feast on the day that Isaac was weaned. 
 
 ###### v9 
-Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking. 
+Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking ([[Theme of Laughter in Genesis|laughing]]). 
 
 ###### v10 
 Therefore she said to Abraham, "Cast out this servant and her son! For the son of this servant will not be heir with my son, Isaac." 
@@ -44,7 +44,7 @@ Therefore she said to Abraham, "Cast out this servant and her son! For the son o
 The thing was very grievous in Abraham's sight on account of his son. 
 
 ###### v12 
-God said to Abraham, "Don't let it be grievous in your sight because of the boy, and because of your servant. In all that Sarah says to you, listen to her voice. For your offspring will be named through Isaac. 
+God said to Abraham, "Don't let it be grievous in your sight because of the boy, and because of your servant. In all that Sarah says to you, listen to her voice. For your offspring will be named through Isaac[^👂🏼]. 
 
 ###### v13 
 I will also make a nation of the son of the servant, because he is your child." 
@@ -119,4 +119,6 @@ Abraham lived as a foreigner in the land of the Philistines many days.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^👂🏼]: God explicitly tells Abraham to listen to Sarah here. But what is God's stated reason? Why does God say to listen to her? Is it because Sarah was right? No, that is not what God said. The explicit reason stated by God here is "*For your offspring will be named through Isaac.*" Here God is once again reminding Abraham of the promise that He made. Effectively, God is **not** saying to listen to Sarah because **she** is right. (She may or may not be right. God doesn't tell us here.) Effectively God is saying *listen to Sarah because **I, God** am right. I will fulfill my promise through Isaac. * 

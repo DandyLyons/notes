@@ -1,0 +1,1 @@
+An upcoming library to make it easier to generate queries in SQL-like languages with Swift Macros. 

@@ -21,6 +21,7 @@ personalRating: 0
 tags:
   - mediaDB/book
 Status: 👀 Reading
+publish: true
 ---
 ## Resources from the Book
 - [Book Resources – How to ADHD Book](https://howtoadhdbook.com/resources/) 
@@ -47,7 +48,7 @@ Status: 👀 Reading
 	- [Chapter 5: How to Sleep](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-7)
 	- [Chapter 7: How to Motivate Your Brain](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-9)
 	- [Chapter 8: How to Remember Stuff](https://howtoadhdbook.com/resources/#elementor-toc__heading-anchor-8)
-	- [Where to Find Us](https://howtoadhdbook.com/resources/#Find-Us)
+	- [Where to Find Us](https://howtoadhdbook.com/resources/#Find-Us) 
 ## My Notes
 %% [[Transcript of How to ADHD]] %%
 ### Introduction [00:00:10]
@@ -278,12 +279,151 @@ Status: 👀 Reading
 * Even mild ADHD significantly impacts multiple aspects of our lives.
 
 ### Chapter 7: How to Motivate Your Brain [03:30:00]
-* Most of my life has been a battle between me, who knows this thing is important, and my brain, which doesn't want to do it.
+#### Introduction [03:30:00]
+* ["]   Quote: "If we have our own why of life, we shall get along with almost any how." - [[Friedrich Nietzsche]].
+* ["]   Quote: "I do what I feel like." - Bart Simpson.
+*   The chapter focuses on the internal battle between wanting to do something and the brain's resistance.
+*   Understanding why one *should* do something isn't always enough to translate into motivation.
+*   What matters is if the brain *feels* like doing it.
 
-#### Tool Box for Brain to do [03:30:00]
-* It's really hard to explain to others when I'm having an ADHD struggle, because I don't wanna sound like a broken record, where my whole personality starts to become, "Hi, I have ADHD.
-* "Did you know I have ADHD?"
-* I also don't wanna sound like I'm making excuses.
+#### The ADHD Brain and Motivation
+*   **ADHD brains are not primarily [[motivation|motivated]] by importance** [03:30:00].
+*   ADHD brains find these tasks 👇🏼 to be **painful**:
+	* lengthy tasks
+	* repetitive tasks
+	* [[boredom|boring]] tasks, 
+	* tedious tasks
+*   Even with the motivation to accomplish a goal, working towards it can be difficult.
+*   [[Topics/goals/goals.md/index|goals]] often come with multiple tasks that are tedious, leading to avoidance (aka [[procrastination]]).
+*   **Delay Aversion:** The tendency to escape/avoid distress caused by delay. [03:30:29]
+*   ADHD brains often prefer the immediate reward of fun activities over tedious tasks, even when caring about the overall goal [03:30:36].
+*   ADHD brains are motivated by things that are urgent, new/novel, appropriately challenging, and of personal interest, i.e. stimulating [03:30:52].
+*   This is linked to differences in the reward system of ADHD brains; they are "dopa-different" [03:31:02].
+*   **[[dopamine]]:** A neurotransmitter that motivates and reinforces behavior [03:31:10].
+    *   When pleasurable activities happen, dopamine is released, signaling the brain to remember the activity
+    *   ADHD brains may not release anticipatory dopamine in the same way as neurotypical brains. [03:31:39]
+    *   Reuptake (reabsorption) of dopamine may occur before it reaches a receptor [03:31:46].
+    *   This prevents the brain from associating certain behaviors with positive outcomes.
+*   Immediately rewarding activities "hijack" the brain due to dopamine release [03:32:04].
+*   Dopamine levels also affect perception, emotions, and self-efficacy [03:32:28].
+    *   Low dopamine leads to lack of motivation, reduced pleasure, and fatigue [03:32:37].
+    *   Brains become understimulated, leading to procrastination, complicating tasks, and doing serious things in silly ways [03:32:45].
+
+#### Intrinsic vs. Extrinsic Motivation 
+[03:33:16]
+*   **Intrinsic Motivation:** Doing something because it is enjoyable and satisfying [03:33:22].
+    *   No external incentives needed.
+    *   Example: Eating cookies.
+    *   Examples that work for Jessica: Learning something new, spending time with animals, setting up new organization systems, cuddling up with a blanket and playing Nintendo Switch. [03:33:48]
+*   **Extrinsic Motivation:** Doing something because of external consequences (rewards or punishments) [03:34:06].
+    *   Examples: Working hard on a talk because people will know if you don't, making bread to have fresh bread, filing taxes to avoid penalties.
+    *   Extrinsic consequences often feel too far away to be motivating.
+*   **Temporal Discounting:**  Future rewards are perceived as less valuable than immediate ones [03:35:04].
+    *   ADHD brains have shorter time horizons, making future rewards even less motivating [03:35:22].
+    *   If a task is intrinsically rewarding, temporal discounting has less impact [03:35:48].
+*   😳 Extrinsic rewards can decrease intrinsic motivation [03:36:05].
+*   ADHD individuals often rely on [[urgency]], leading to last-minute crises and dopamine release, reinforcing the cycle [03:36:10].
+*   Breaking the cycle requires immediate or exciting extrinsic rewards [03:36:41].
+
+#### The Wall of Awful [03:37:15]
+*   There is always motivation NOT to do the thing, which can be stronger [03:36:53].
+*   **Decisional Balance Worksheet:** Can help understand what motivates you in either direction (available at howtoadhdbook.com) [03:37:05].
+*   The emotions associated with a task are important [03:37:15].
+*   **[[Wall of Awful]]:** (Brendan Mahan, ADHD Essentials) Emotional barrier built from past failures with a task [03:37:30].
+    *   The more past struggles, the higher the wall [03:37:37].
+    *   Requires motivation to climb the emotional wall *in addition* to the task itself [03:37:48].
+    *   Those with ADHD often have more and higher walls of awful due to increased experiences of failure, criticism, and rejection [03:38:08].
+    *   Common emotions: [[overwhelm]], [[discouragement]], [[hopelessness]], [[Fear]], [[confusion]] [03:38:14].
+    *   Weaker working memory can make it difficult to remember *why* you are doing something or how it will feel to complete the task, so all you see is the "wall of awful" [03:38:22].
+*   Ways to deal with the Wall of Awful [03:38:53]:
+    *   **Hulk Smash:**  Get angry enough to power through (can damage relationships) [03:38:58].
+    *   **Put a Door in the Wall:** Change the mood with music, TV, or a new location to distract yourself [03:39:10].
+    *   **Climb the Wall:** Do the emotional work of preparing to face the anxiety and gear up to do the thing [03:39:21].
+
+#### Behavior Precedes Motivation
+[03:39:58]
+
+^behavior-precedes-motivation
+*   We don't need motivation to take action; action can generate motivation [03:40:14].
+*   Examples: Picking up a phone leads to checking apps; sitting on the couch leads to grabbing the remote; planning a road trip leads to making playlists.
+*   **Behavioral Activation:** (Psychological term) Taking an action can lead to the motivation to continue. [03:40:43]
+    *   Example:  Preparing for a bike ride (getting gear, checking tires) makes you more likely to actually go [03:40:48].
+    *   Can interrupt negative thought spirals [03:41:25].
+
+#### It's Not Entirely About Motivation [03:41:52]
+*   Motivation is just *one* part of a "get stuff done" system (Dr. Ari Tuchman) [03:41:55].
+*   Potential issues [03:42:14]:
+    *   **Skill Gap:** Not knowing how to do the thing or the steps involved [03:42:16].
+    *   **Lack of Resources:** Not having enough time, supplies, or energy [03:42:23].
+    *   **Perfectionism:** Anxiety preventing you from starting or getting stuck in mental loops [03:42:31].
+    *   **Overly Optimistic Thinking (Positive Illusory Bias):** Assuming you have enough time without checking [03:42:40].
+    *   **Forgetfulness:** ADHD-related memory issues [03:42:50].
+    *   **Unrealistic Goal:** Goal is unattainable or unsustainable [03:42:59].
+
+#### The Toolbox: Strategies for Motivation [03:44:13]
+^v95zes
+
+*   ADHDers instinctively do many things to motivate their brains [03:44:15].
+*   It's unfortunate many internalize negative motivational techniques like berating themselves, which makes the wall of awful taller [03:44:22].
+*   There are better ways [03:44:40].
+
+**1. Fill in the Motivational Planks [03:44:47]**
+*   Think of [[Motivation Bridge|motivation as a bridge]]. ADHDers often have fewer "planks."
+*   Medication can help [03:45:08].
+*   Other strategies [03:45:09]:
+    *   **Add Urgency:** Invite a guest over to clean, sign up for a class with a friend to exercise, set up a get-stuff-done meeting with a coworker, turn a marathon project into a series of mini-sprints [03:45:11].
+    *   **Find the Right Level of Challenging:** Adjust the difficulty to avoid boredom or frustration.  "Write shitty first drafts" (Anne Lamott, "Bird by Bird") [03:45:35].
+    *   **Tie a Task to a Personal Interest:** Incorporate interests into the task.  Use D&D metaphors for a paper draft, turtle stickers to mark off tasks [03:46:09].
+    *   **Add Novelty:** Change location, tools, or people for boring tasks [03:46:43].
+    *   **Resparklize:** (Barbara Luther) When a working system stops, find a way to make it "shiny" again [03:46:56].
+
+**2. Reduce Friction and Grease the Wheels [03:48:05]**
+*   Remove barriers and add rewards [03:48:09].
+    *   **Do What You Can Ahead of Time:** Sleep in gym clothes, book classes in advance, make a checklist [03:48:28].
+    *   **Remove Physical Obstacles and Other Barriers:** Address sensory sensitivities (gloves for dishes, earplugs for noise, sunglasses for errands) [03:48:41].
+    *   **Barrier Log:** Track obstacles encountered during tasks to identify removable barriers [03:49:09].
+    *   **Invest in Tools You Enjoy Using:** Can make tasks more appealing and save money in the long run [03:49:29].
+    *   **Tap into Your Why:** Connect to the reason for doing the task. The Simpsons example, baby pictures cover the sign, "Do it for her" [03:49:54].
+    *   **Ride the Wave:** Take advantage of moments of motivation to tackle tasks [03:50:22].
+    *   **Eat the Ice Cream First:** (Jesse J. Anderson, "Extra Focus") Do something enjoyable first to stay in a productive mode [03:50:32].
+
+**3. Add or Increase Accountability [03:51:39]**
+*   Shortens the distance between action and consequences [03:51:43].
+*   Accountability alone isn't enough; it can worsen anxiety in some cases [03:51:51].
+*   If resources and skills are present, accountability can spur action [03:52:04].
+    *   **Decide On What You're Doing and Not Doing:** Clarify priorities [03:52:16].
+    *   **Find Productivity Partners:** Body doubling, working in public [03:52:35].
+    *   **Shorten the Feedback Loop:** Ask for shorter deadlines or more frequent check-ins [03:52:55].
+    *   **Make it a Competition:** Gamify productivity, challenge a friend [03:53:20].
+
+**4. A Note on Procrastination [03:54:23]**
+*   Procrastination is common for those with ADHD due to the urgency kick [03:54:26].
+*   Active Procrastination vs. Passive Procrastination
+*   **Active Procrastination:** Waiting until your brain kicks into gear, leading to similar performance to non-procrastinators.
+*   **Passive Procrastination:** Head-in-the-sand avoidance, leading to negative outcomes [03:55:05].
+*   Even active procrastination has costs, but the takeaway is that it is unrealistic to expect someone, especially someone with ADHD, not to procrastinate at all. But if you are going to, procrastinate mindfully. 
+
+**5. Make Rewards More Salient [03:55:51]**
+*   Rewards need to be motivating to YOU [03:55:55].
+    *   **Pick a Reward That is Meaningful to You:** Choose something you don't often allow yourself or related to your goals (fitness gear for working out, cozy sweaters for writing) [03:56:12].
+    *   **Scale a Reward Strategically:** Too big leads to inflation; too small isn't motivating [03:56:37].
+    *   **Make the Reward More Immediate:** Immediate feedback, rewards as you go, pair something rewarding with the activity [03:57:09].
+    *   **Tap into Your Excitement:**  Give yourself the reward for doing the thing [03:57:34].
+
+**6. Don't Expect Yourself to Stick With Things [03:59:04]**
+*   Plan for variability in interest and motivation [03:59:08].
+    *   **Cycle Through Hobbies, Jobs, and Interests:** Switch when novelty wears off [03:59:36].
+    *   **Be a Bumblebee:** Carry lessons learned from one experience to the next [03:59:44].
+    *   **Set a Date to Reevaluate:** Commit for a set time, then decide if it's worth continuing [04:00:10].
+
+#### Coach A vs. Coach B [04:01:18]
+*   Anecdote: Soccer goalie scenario illustrating two different coaching styles.
+    *   **Coach A:** Yelling, berating, focusing on mistakes.
+    *   **Coach B:** Providing constructive feedback, focusing on improvement.
+*   We often treat ourselves like Coach A, especially when we make mistakes [04:02:56].
+*   The trick is to notice when you're berating yourself and ask what Coach B would say [04:04:16].
+*   It's important to adjust expectations, seek guidance, and focus on learning from mistakes [04:04:31].
+
 
 ### Chapter 8: How to Remember Stuff. [04:05:40]
 * This chapter talks about what it's like to have ADHD, The diagnosis has been very powerful for me already, because I now have such a wealth of knowledge about the nature of my struggles in life.

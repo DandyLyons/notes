@@ -13,9 +13,7 @@ Status: 👀 Reading
 publish: true
 ---
 
-![cover|150](http://books.google.com/books/content?id=-BSWzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
-
-# What about Evil?
+![cover|150](http://books.google.com/books/content?id=-BSWzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)# What about Evil?
 
 
 ## Notable Quotables
@@ -24,3 +22,6 @@ publish: true
 
 ## Takeaways
 - We need to have a [[theodicy]]. 
+### The Greater Good Theodicy
+>Sometimes God allows what He hates to accomplish what He loves. 
+>- [Quote](https://www.goodreads.com/quotes/12065-sometimes-god-allows-what-he-hates-to-accomplish-what-he) by [[Joni Eareckson Tada]] 

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - executive function
 ---
-Executive function is impaired in [[Topics/Health/ADHD/index|ADHD]] brains. 
+MExecutive function is impaired in [[Topics/Health/ADHD/index|ADHD]] brains. 
 
 ## Hot and Cool EF
 

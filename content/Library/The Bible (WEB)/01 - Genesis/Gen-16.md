@@ -8,7 +8,9 @@ aliases:
 [[Gen-15|← Genesis 15]] | [[Genesis]] | [[Gen-17|Genesis 17 →]]
 ***
 
+## The Text
 
+### Hagar and Ishmael
 
 ###### v1 
 Now Sarai, Abram's wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar. 

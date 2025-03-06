@@ -8,7 +8,9 @@ aliases:
 [[Gen-16|← Genesis 16]] | [[Genesis]] | [[Gen-18|Genesis 18 →]]
 ***
 
-
+## The Text
+### The Sign of the Covenant
+*See also*: [[Exod-12#v43|Exodus 12:43-13:2]] 
 
 ###### v1 
 When Abram was ninety-nine years old, Yahweh appeared to Abram and said to him, "I am God Almighty. Walk before me and be blameless. 
@@ -59,7 +61,7 @@ God said to Abraham, "As for Sarai your wife, you shall not call her name Sarai,
 I will bless her, and moreover I will give you a son by her. Yes, I will bless her, and she will be a mother of nations. Kings of peoples will come from her." 
 
 ###### v17 
-Then Abraham fell on his face, and laughed, and said in his heart, "Will a child be born to him who is one hundred years old? Will Sarah, who is ninety years old, give birth?" 
+Then Abraham fell on his face, and [[Theme of Laughter in Genesis|laughed]], and said in his heart, "Will a child be born to him who is one hundred years old? Will Sarah, who is ninety years old, give birth?" 
 
 ###### v18 
 Abraham said to God, "Oh that Ishmael might live before you!" 
@@ -96,6 +98,8 @@ All the men of his house, those born in the house, and those bought with money f
 
 ---
 ## My Notes
+
+
 
 ---
 ## Footnotes

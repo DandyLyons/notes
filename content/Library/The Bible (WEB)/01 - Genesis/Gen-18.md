@@ -44,17 +44,17 @@ He said, "I will certainly return to you at about this time next year; and behol
 Now Abraham and Sarah were old, well advanced in age. Sarah had passed the age of childbearing. 
 
 ###### v12 
-Sarah laughed within herself, saying, "After I have grown old will I have pleasure, my lord being old also?" 
+Sarah ==laughed== within herself, saying, "After I have grown old will I have pleasure, my lord being old also?" 
 
 ###### v13 
-Yahweh said to Abraham, "Why did Sarah laugh, saying, 'Will I really bear a child when I am old?' 
+Yahweh said to Abraham, "Why did Sarah [[Theme of Laughter in Genesis|laugh]], saying, 'Will I really bear a child when I am old?' 
 
 ###### v14 
 Is anything too hard for Yahweh? At the set time I will return to you, when the season comes around, and Sarah will have a son." 
 
 ###### v15 
-Then Sarah denied it, saying, "I didn't laugh," for she was afraid. He said, "No, but you did laugh." 
-
+Then Sarah denied it, saying, "I didn't [[Theme of Laughter in Genesis|laugh]]," for she was afraid. He said, "No, but you did laugh." 
+### Abraham Intercedes for Sodom
 ###### v16 
 The men rose up from there, and looked toward Sodom. Abraham went with them to see them on their way. 
 

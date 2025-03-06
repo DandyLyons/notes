@@ -9,7 +9,8 @@ aliases:
 ***
 
 
-
+## The Text
+### Mary Washes Jesus' Feet With Her Hair
 ###### v1 
 Then six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead. 
 
@@ -34,6 +35,7 @@ But Jesus said, "Leave her alone. She has kept this for the day of my burial.
 ###### v8 
 For you always have the poor with you, but you don't always have me." 
 
+### The Plot to Kill Lazarus
 ###### v9 
 A large crowd therefore of the Jews learned that he was there, and they came, not for Jesus' sake only, but that they might see Lazarus also, whom he had raised from the dead. 
 
@@ -89,7 +91,7 @@ He who loves his life will lose it. He who hates his life in this world will kee
 If anyone serves me, let him follow me. Where I am, there my servant will also be. If anyone serves me, the Father will honor him. 
 
 ###### v27 
-"Now my soul is troubled. What shall I say? 'Father, save me from this time?' But I came to this time for this cause. 
+"Now my soul is troubled. What shall I say? 'Father, save me from this time?' But I came to this time for this cause.[^1] 
 
 ###### v28 
 Father, glorify your name!" Then a voice came out of the sky, saying, "I have both glorified it, and will glorify it again." 
@@ -110,7 +112,7 @@ And I, if I am lifted up from the earth, will draw all people to myself."
 But he said this, signifying by what kind of death he should die. 
 
 ###### v34 
-The multitude answered him, "We have heard out of the law that the Christ remains forever. How do you say, 'The Son of Man must be lifted up?' Who is this Son of Man?" 
+The multitude answered him, "We have heard out of the law that the Christ remains forever. How do you say, 'The Son of Man must be lifted up?' Who is this [[Son of Man]]?" 
 
 ###### v35 
 Jesus therefore said to them, "Yet a little while the light is with you. Walk while you have the light, that darkness doesn't overtake you. He who walks in the darkness doesn't know where he is going. 
@@ -149,7 +151,7 @@ He who sees me sees him who sent me.
 I have come as a light into the world, that whoever believes in me may not remain in the darkness. 
 
 ###### v47 
-If anyone listens to my sayings, and doesn't believe, I don't judge him. For I came not to judge the world, but to save the world. 
+If anyone listens to my sayings, and doesn't believe, I don't judge him. For I came not to judge the world, but to save the world.[^2] 
 
 ###### v48 
 He who rejects me, and doesn't receive my sayings, has one who judges him. The word that I spoke will judge him in the last day. 
@@ -167,4 +169,7 @@ I know that his commandment is eternal life. The things therefore which I speak,
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Like Esther, Jesus came "*for such a time as this*". 
+[^2]: Do not fool yourself into thinking that there is no judgment to come. Look at the very next verse. 

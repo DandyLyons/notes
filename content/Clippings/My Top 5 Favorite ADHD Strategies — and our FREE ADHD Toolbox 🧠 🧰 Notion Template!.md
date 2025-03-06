@@ -134,7 +134,7 @@ Okay, here is a detailed markdown outline of the "How To ADHD" video transcript,
 *   If you have to hunt down items, it's less likely you'll follow through. (10:45-10:50)
 *   **Example: Making Coffee (Clip) (10:53)**
     *   Have everything you need for a task within arm's reach. (10:53-11:22)
-    *   Reduces task initiation and distractions. (11:22-11:47)
+    *   Reduces [[task initiation]] and distractions. (11:22-11:47)
 *   **Explanation of Point of Performance (Clip) (11:55)**
     *   Waiting Tables Analogy: Everything needs to be readily available for efficiency during the "dinner rush." (11:59-12:28)
     *   ADHD is often like that "dinner rush" - lots to do, all at once. (12:29-12:38)
