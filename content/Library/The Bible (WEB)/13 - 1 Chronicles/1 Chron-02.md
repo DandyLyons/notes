@@ -14,7 +14,7 @@ aliases:
 These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, 
 
 ###### v2 
-Dan, Joseph, Benjamin, Naphtali, Gad, and Asher. 
+Dan, [[Joseph]], Benjamin, Naphtali, Gad, and Asher. 
 
 ###### v3 
 The sons of Judah: Er, Onan, and Shelah; which three were born to him of Shua's daughter the Canaanitess. Er, Judah's firstborn, was wicked in Yahweh's sight; and he killed him. 

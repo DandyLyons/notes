@@ -80,7 +80,7 @@ God remembered Rachel, and God listened to her, and opened her womb.
 She conceived, bore a son, and said, "God has taken away my reproach." 
 
 ###### v24 
-She named him Joseph, saying, "May Yahweh add another son to me." 
+She named him [[Joseph]], saying, "May Yahweh add another son to me." 
 
 ###### v25 
 When Rachel had borne Joseph, Jacob said to Laban, "Send me away, that I may go to my own place, and to my country. 

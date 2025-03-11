@@ -104,7 +104,7 @@ They buried him in the border of his inheritance in Timnathserah, which is in th
 Israel served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, and had known all the work of Yahweh, that he had worked for Israel. 
 
 ###### v32 
-They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in Shechem, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver. They became the inheritance of the children of Joseph. 
+They buried the bones of [[Joseph]], which the children of Israel brought up out of Egypt, in Shechem, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver. They became the inheritance of the children of Joseph. 
 
 ###### v33 
 Eleazar the son of Aaron died. They buried him in the hill of Phinehas his son, which was given him in the hill country of Ephraim.

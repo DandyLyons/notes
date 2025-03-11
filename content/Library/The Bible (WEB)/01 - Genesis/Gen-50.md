@@ -66,7 +66,7 @@ His brothers also went and fell down before his face; and they said, "Behold, we
 Joseph said to them, "Don't be afraid, for am I in the place of God?
 
 ###### v20
-As for you, you meant evil against me, but God meant it for good, to save many people alive, as is happening today.
+**As for you, you meant evil against me, but God meant it for good, to save many people alive, as is happening today.**
 
 ###### v21
 Now therefore don't be afraid. I will provide for you and your little ones." He comforted them, and spoke kindly to them.

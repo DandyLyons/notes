@@ -65,7 +65,7 @@ When Pharaoh had let the people go, God didn't lead them by the way of the land 
 but God led the people around by the way of the wilderness by the Red Sea; and the children of Israel went up armed out of the land of Egypt. 
 
 ###### v19 
-Moses took the bones of Joseph with him, for he had made the children of Israel swear, saying, "God will surely visit you, and you shall carry up my bones away from here with you." 
+Moses took the bones of [[Joseph]] with him, for he had made the children of Israel swear, saying, "God will surely visit you, and you shall carry up my bones away from here with you." 
 
 ###### v20 
 They took their journey from Succoth, and encamped in Etham, in the edge of the wilderness. 

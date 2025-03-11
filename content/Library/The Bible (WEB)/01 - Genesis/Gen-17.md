@@ -67,13 +67,13 @@ Then Abraham fell on his face, and [[Theme of Laughter in Genesis|laughed]], and
 Abraham said to God, "Oh that Ishmael might live before you!" 
 
 ###### v19 
-God said, "No, but Sarah, your wife, will bear you a son. You shall call his name Isaac. I will establish my covenant with him for an everlasting covenant for his offspring after him. 
+God said, "No, but Sarah, your wife, will bear you a son. You shall call his name [[Isaac]] ([[Theme of Laughter in Genesis|laughter]]). I will establish my covenant with him for an everlasting covenant for his offspring after him. 
 
 ###### v20 
 As for Ishmael, I have heard you. Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly. He will become the father of twelve princes, and I will make him a great nation. 
 
 ###### v21 
-But I will establish my covenant with Isaac, whom Sarah will bear to you at this set time next year." 
+But I will establish my covenant with [[Isaac]], whom Sarah will bear to you at this set time next year." 
 
 ###### v22 
 When he finished talking with him, God went up from Abraham. 

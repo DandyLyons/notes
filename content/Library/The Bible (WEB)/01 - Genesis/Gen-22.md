@@ -14,7 +14,7 @@ aliases:
 After these things, God tested Abraham, and said to him, "Abraham!" He said, "Here I am." 
 
 ###### v2 
-He said, "Now take your son, your only son, Isaac, whom you love, and go into the land of Moriah. Offer him there as a burnt offering on one of the mountains which I will tell you of." 
+He said, "Now take your son, your only son, [[Isaac]], whom you love, and go into the land of Moriah. Offer him there as a burnt offering on one of the mountains which I will tell you of." 
 
 ###### v3 
 Abraham rose early in the morning, and saddled his donkey; and took two of his young men with him, and Isaac his son. He split the wood for the burnt offering, and rose up, and went to the place of which God had told him. 

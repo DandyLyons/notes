@@ -35,7 +35,7 @@ God spoke in this way: that his offspring would live as aliens in a strange land
 He gave him the covenant of circumcision. So Abraham became the father of Isaac, and circumcised him the eighth day. Isaac became the father of Jacob, and Jacob became the father of the twelve patriarchs. 
 
 ###### v9 
-"The patriarchs, moved with jealousy against Joseph, sold him into Egypt. God was with him, 
+"The patriarchs, moved with jealousy against [[Joseph]], sold him into Egypt. God was with him, 
 
 ###### v10 
 and delivered him out of all his afflictions, and gave him favor and wisdom before Pharaoh, king of Egypt. He made him governor over Egypt and all his house. 

@@ -23,7 +23,7 @@ Issachar, Zebulun, and Benjamin,
 Dan and Naphtali, Gad and Asher. 
 
 ###### v5 
-All the souls who came out of Jacob's body were seventy souls, and Joseph was in Egypt already. 
+All the souls who came out of Jacob's body were seventy souls, and [[Joseph]] was in Egypt already. 
 
 ###### v6 
 Joseph died, as did all his brothers, and all that generation. 

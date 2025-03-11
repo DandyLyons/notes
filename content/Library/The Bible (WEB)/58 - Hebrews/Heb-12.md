@@ -41,7 +41,7 @@ Furthermore, we had the fathers of our flesh to chasten us, and we paid them res
 For they indeed, for a few days, punished us as seemed good to them; but he for our profit, that we may be partakers of his holiness. 
 
 ###### v11 
-All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained by it. 
+All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained[^gym] by it. 
 
 ###### v12 
 Therefore lift up the hands that hang down and the feeble knees,  
@@ -104,4 +104,6 @@ for our God is a consuming fire.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^gym]: The word translated as *trained* is gymnasium in the Greek. This teaches us that to be trained we must go through difficult training like that of a disciplined athlete at the gym. 

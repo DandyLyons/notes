@@ -38,7 +38,7 @@ Of Issachar: Nethanel the son of Zuar.
 Of Zebulun: Eliab the son of Helon. 
 
 ###### v10 
-Of the children of Joseph: of Ephraim: Elishama the son of Ammihud; of Manasseh: Gamaliel the son of Pedahzur. 
+Of the children of [[Joseph]]: of Ephraim: Elishama the son of Ammihud; of Manasseh: Gamaliel the son of Pedahzur. 
 
 ###### v11 
 Of Benjamin: Abidan the son of Gideoni. 

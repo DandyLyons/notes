@@ -14,7 +14,7 @@ aliases:
 The sons of Reuben the firstborn of Israel (for he was the firstborn; but, because he defiled his father's couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright. 
 
 ###### v2 
-For Judah prevailed above his brothers, and from him came the prince; but the birthright was Joseph's)-- 
+For Judah prevailed above his brothers, and from him came the prince; but the birthright was [[Joseph]]'s)-- 
 
 ###### v3 
 the sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi. 

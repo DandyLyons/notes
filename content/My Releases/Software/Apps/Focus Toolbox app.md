@@ -1,5 +1,8 @@
 ## Features
 - [[dopamine menu]]  
+	- [GitHub - XargsUK/awesome-adhd: A curated list of ADHD apps, books, ideas and resources across the web!](https://github.com/XargsUK/awesome-adhd)
+	- [GitHub - mrseth01/awesome-adhd: Awesome Resources for ADHD](https://github.com/mrseth01/awesome-adhd) 
+	- Items in dopamine menu can be set as rewards for completing tasks 
 - [[ADHD Toolbox]] 
 	- Stuck Tools
 - Audio guided routines

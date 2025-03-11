@@ -8,7 +8,7 @@ subjects:
 ---
 ## Relevant Verses
 ### Genesis 17
->[[Gen-17#v17|Genesis 17.17]] Then Abraham fell on his face, and ==laughed==, and said in his heart, "Will a child be born to him who is one hundred years old? Will Sarah, who is ninety years old, give birth?"  
+>[[Gen-17#v17|Genesis 17:17-19]] Then Abraham fell on his face, and ==laughed==, and said in his heart, "Will a child be born to him who is one hundred years old? Will Sarah, who is ninety years old, give birth?"  Abraham said to God, "Oh that Ishmael might live before you!"  God said, "No, but Sarah, your wife, will bear you a son. You shall call his name Isaac (==laughter==). I will establish my covenant with him for an everlasting covenant for his offspring after him.  [[Gen-17#v18|]][[Gen-17#v19|]]
 ### Genesis 18
 >[[Gen-18#v12|Genesis 18:12-15]] Sarah ==laughed== within herself, saying, "After I have grown old will I have pleasure, my lord being old also?"  Yahweh said to Abraham, "Why did Sarah laugh, saying, 'Will I really bear a child when I am old?'  Is anything too hard for Yahweh? At the set time I will return to you, when the season comes around, and Sarah will have a son."  Then Sarah denied it, saying, "I didn't laugh," for she was afraid. He said, "No, but you did laugh."  [[Gen-18#v13|]][[Gen-18#v14|]][[Gen-18#v15|]]
 
@@ -32,12 +32,14 @@ It seems that the thesis of the Book of Genesis comes at the end of the book whe
 
 Laughter is yet another example of this pattern. Both Abraham and Sarah laughed because of their unbelief. And yet God fulfilled His promise, thus bringing them **laughter**. Where before they laughed out of unbelief, now they laughed out of rejoicing. 
 
+>[[Gen-21#v5|Genesis 21:5-6]] Abraham was one hundred years old when his son, Isaac (*laughter*), was born to him.  Sarah said, "God has made me laugh. Everyone who hears will laugh with me."  [[Gen-21#v6|]]
+
 ### Laughter As Mockery
-Immediately after Sarah laughs in rejoicing, we see another kind of laughter: mockery. 
+Immediately after Sarah laughs in rejoicing, we see yet another kind of laughter: mockery. 
 
 >[[Gen-21#v9|Genesis 21.9]] Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking (laughing).  
 
-It's important to note here that this verse is ambiguous. In fact many English translations do not translate this as laughing. ESV uses *laughing*, but KJV and many others use *mocking*. (See [here](https://biblehub.com/genesis/21-9.htm)) The Hebrew word here is [מְצַחֵֽק](https://biblehub.com/hebrew/metzachek_6711.htm), and there is a strong case to be made that mocking or scoffing is a good translation here. But it should be noted that it comes from the root word [צְחַק](https://biblehub.com/hebrew/6711.htm) which is the same root that Isaac ([יִצְחָק](https://biblehub.com/hebrew/3327.htm)) comes from. This does not mean that these words mean the exact same thing. But it certainly means that they're related. In English *mocking* is always negative, but it does not always involve laughing. But the Hebrew word used in Gen 21.9 certainly is related to laughing. 
+It's important to note here that this verse is ambiguous. In fact many English translations do not translate this as laughing. ESV uses *laughing*, but KJV and many others use *mocking*. (See [here](https://biblehub.com/genesis/21-9.htm)) The Hebrew word here is [מְצַחֵֽק](https://biblehub.com/hebrew/metzachek_6711.htm), and there is a strong case to be made that mocking or scoffing is a good translation here. But it should be noted that it comes from the [root](https://en.wikipedia.org/wiki/Semitic_root) word [צְחַק](https://biblehub.com/hebrew/6711.htm) which is the same root that Isaac ([יִצְחָק](https://biblehub.com/hebrew/3327.htm)) comes from. This does not mean that these words mean the exact same thing. But it certainly means that they're related. In English *mocking* is always negative, but it does not always involve laughing. But the Hebrew word used in Gen 21.9 certainly is related to laughing. 
 
 ### Laughter As Sexual Activity
 
@@ -54,20 +56,20 @@ This is the same word used in Genesis 21:9.
 What shall we learn from this theme? Why is any of this helpful? I can see these valuable takeaways: 
 
 ### Nothing is Ambiguous to God
-Both Abraham and Sarah outwardly laugh (in Gen 17 and 18), but their laughter is not genuine. It is sarcastic and disbelieving. But God was not fooled. They *spoke in their heart* (i.e. thought) thoughts of disbelief and God heard these thoughts. 
+Both Abraham and Sarah outwardly laugh (in Genesis 17 and 18), but their laughter is not genuine. It is sarcastic and unbelieving. But God was not fooled. They *spoke in their heart* (i.e. thought) thoughts of disbelief and God heard these thoughts. 
 
 In life, we are often faced with people around us who laugh. It can be very difficult to tell if they are laughing *with* us or laughing *at* us. Are they laughing as our friend or are they mocking us as an enemy? What makes it even worse is that when we accuse them of mocking us, they often deny it. They claim that they are laughing as a friend. Worse yet, they have [[plausible deniability]]. 
 
-It should be comfort to us then that our God is a wise judge. He is not fooled by anything. He sees all things as they truly are, not as they merely appear to be. We can trust that He will make all things right. 
+It should comfort us, then, that our God is a wise judge. He is not fooled by anything. He sees all things as they truly are, not as they merely appear to be. We can trust that He will make all things right. 
 
 ### Our God Brings Joyous Laughter
 >[[Gen-21#v6|Genesis 21.6]] Sarah said, "God has made me [[Theme of Laughter in Genesis|laugh]]. Everyone who hears will laugh with me."  
 
 We serve a God who brings laughter. Not just any laughter, but joyous laughter. Here, I'm not talking about scornful or mocking laughter. God brought joyous laughter to Abraham and Sarah by miraculously providing their son Isaac in their old age. God fulfilled His promise to them.  
 
-Furthermore, Sarah says "*Everyone who hears me will laugh with me.*" I believe that she was speaking prophetically here. When you hear of her story, doesn't it make you laugh with joy? But what should cause us even more joy is what was to come through Isaac. 
+Furthermore, Sarah says "*Everyone who hears me will laugh with me.*" I believe that she was speaking prophetically here. When you hear of her story, doesn't it make you laugh with joy? But what should cause us even more joy is what was still to come through Isaac. 
 
-Isaac begot Jacob (*heel-grabber*), who was also named Israel (*struggles with God*). Out of Isaac (laughter and joy), came Israel (pain and heartache). Israel (the person and the nation) experienced much pain. They also caused much pain. The Bible is woefully pregnant with story after story of abuse. Why? Why would a good God let all of this happen? We find our hope here: 
+Isaac begot Jacob (*heel-grabber*), who was also named Israel (*struggles with God*). Out of Isaac (laughter and joy), came Israel (pain and heartache). Israel (both the person and the nation) experienced much pain. They also caused much pain. The Bible is woefully pregnant with story after story of abuse. Why? Why would a good God let all of this happen? We find our hope here: 
 
 >[[Gal-03#v16|Galatians 3.16]] Now the promises were spoken to Abraham and to his offspring. He doesn't say, "To descendants", as of many, but as of one, "To your offspring", which is Christ.  
 

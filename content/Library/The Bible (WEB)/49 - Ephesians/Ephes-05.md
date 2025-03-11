@@ -8,7 +8,8 @@ aliases:
 [[Ephes-04|← Ephesians 04]] | [[Ephesians]] | [[Ephes-06|Ephesians 06 →]]
 ***
 
-
+## The Text
+### Walk in Love
 
 ###### v1 
 Be therefore imitators of God, as beloved children. 
@@ -31,6 +32,7 @@ Let no one deceive you with empty words. For because of these things, the wrath 
 ###### v7 
 Therefore don't be partakers with them. 
 
+### Walk in Light
 ###### v8 
 For you were once darkness, but are now light in the Lord. Walk as children of light, 
 
@@ -51,7 +53,7 @@ But all things, when they are reproved, are revealed by the light, for everythin
 
 ###### v14 
 Therefore he says, "Awake, you who sleep, and arise from the dead, and Christ will shine on you." 
-
+### Walk in Wisdom
 ###### v15 
 Therefore watch carefully how you walk, not as unwise, but as wise, 
 
@@ -73,6 +75,7 @@ giving thanks always concerning all things in the name of our Lord Jesus Christ,
 ###### v21 
 subjecting yourselves to one another in the fear of Christ. 
 
+### Marriage - Christ and the Church
 ###### v22 
 Wives, be subject to your own husbands, as to the Lord. 
 

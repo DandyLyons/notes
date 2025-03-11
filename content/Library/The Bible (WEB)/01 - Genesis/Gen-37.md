@@ -14,7 +14,7 @@ aliases:
 Jacob lived in the land of his father's travels, in the land of Canaan. 
 
 ###### v2 
-This is the history of the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father's wives. Joseph brought an evil report of them to their father. 
+This is the history of the generations of Jacob. [[Joseph]], being seventeen years old, was feeding the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father's wives. Joseph brought an evil report of them to their father. 
 
 ###### v3 
 Now Israel loved Joseph more than all his children, because he was the son of his old age, and he made him a tunic of many colors. 

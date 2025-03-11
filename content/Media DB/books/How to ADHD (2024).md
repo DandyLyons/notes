@@ -397,7 +397,7 @@ publish: true
     *   **Make it a Competition:** Gamify productivity, challenge a friend [03:53:20].
 
 **4. A Note on Procrastination [03:54:23]**
-*   Procrastination is common for those with ADHD due to the urgency kick [03:54:26].
+*   [[procrastination]] is common for those with ADHD due to the urgency kick [03:54:26].
 *   Active Procrastination vs. Passive Procrastination
 *   **Active Procrastination:** Waiting until your brain kicks into gear, leading to similar performance to non-procrastinators.
 *   **Passive Procrastination:** Head-in-the-sand avoidance, leading to negative outcomes [03:55:05].

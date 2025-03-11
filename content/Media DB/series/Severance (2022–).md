@@ -83,4 +83,5 @@ if (text) {
 **Aired until**: `$= dv.current().airedTo`
 **Studios**: `$= dv.current().studios.join(', ')`
 
-![Text to speech button](chrome-extension://klohmfhfijipahknljjelpfgjpmandmg/images/play.svg)
+## Behind the Scenes
+- [Ben Stiller & Adam Scott Break Down 'Severance' Season 2 Opening Scene \| Vanity Fair - YouTube](https://www.youtube.com/watch?v=VOeFQ2ghR3U)

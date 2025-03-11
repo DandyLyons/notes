@@ -17,13 +17,13 @@ Yahweh visited Sarah as he had said, and Yahweh did to Sarah as he had spoken.
 Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him. 
 
 ###### v3 
-Abraham called his son who was born to him, whom Sarah bore to him, Isaac. 
+Abraham called his son who was born to him, whom Sarah bore to him, [[Isaac]]. 
 
 ###### v4 
 Abraham circumcised his son, Isaac, when he was eight days old, as God had commanded him. 
 
 ###### v5 
-Abraham was one hundred years old when his son, Isaac (*laughter*), was born to him. 
+Abraham was one hundred years old when his son, [[Isaac]] (*laughter*), was born to him. 
 
 ###### v6 
 Sarah said, "God has made me [[Theme of Laughter in Genesis|laugh]]. Everyone who hears will laugh with me." 
