@@ -85,3 +85,7 @@ if (text) {
 
 ## Behind the Scenes
 - [Ben Stiller & Adam Scott Break Down 'Severance' Season 2 Opening Scene \| Vanity Fair - YouTube](https://www.youtube.com/watch?v=VOeFQ2ghR3U)
+## Extras
+### Music
+- [Severance — Theme Song: 8 Hour Work Day Innie Mix \| Apple TV+ - YouTube](https://www.youtube.com/watch?v=Pc4LptRucbM) 
+- [Severance — Music To Refine To feat. ODESZA \| Apple TV+ - YouTube](https://www.youtube.com/watch?v=JRnDYB28bL8) 

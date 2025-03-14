@@ -7,9 +7,8 @@ aliases:
 
 [[Gen-21|← Genesis 21]] | [[Genesis]] | [[Gen-23|Genesis 23 →]]
 ***
-
-
-
+## The Text
+### Abraham Attempts To Sacrifice Isaac
 ###### v1 
 After these things, God tested Abraham, and said to him, "Abraham!" He said, "Here I am." 
 

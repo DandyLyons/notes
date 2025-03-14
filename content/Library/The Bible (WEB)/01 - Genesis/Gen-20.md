@@ -9,7 +9,8 @@ aliases:
 ***
 
 
-
+## The Text
+### Abimelech Takes Sarah's Wife
 ###### v1 
 Abraham traveled from there toward the land of the South, and lived between Kadesh and Shur. He lived as a foreigner in Gerar. 
 
@@ -26,13 +27,13 @@ Now Abimelech had not come near her. He said, "Lord, will you kill even a righte
 Didn't he tell me, 'She is my sister'? She, even she herself, said, 'He is my brother.' I have done this in the integrity of my heart and the innocence of my hands." 
 
 ###### v6 
-God said to him in the dream, "Yes, I know that in the integrity of your heart you have done this, and I also withheld you from sinning against me. Therefore I didn't allow you to touch her. 
+God said to him in the dream, "Yes, I know that in the integrity of your heart you have done this, and I also withheld you from [[sinning against God|sinning against me]]. Therefore I didn't allow you to touch her. 
 
 ###### v7 
 Now therefore, restore the man's wife. For he is a prophet, and he will pray for you, and you will live. If you don't restore her, know for sure that you will die, you, and all who are yours." 
 
 ###### v8 
-Abimelech rose early in the morning, and called all his servants, and told all these things in their ear. The men were very scared. 
+Abimelech rose early in the morning, and called all his servants, and told all these things in their ear. The men were very ==scared==. 
 
 ###### v9 
 Then Abimelech called Abraham, and said to him, "What have you done to us? How have I sinned against you, that you have brought on me and on my kingdom a great sin? You have done deeds to me that ought not to be done!" 
@@ -41,7 +42,7 @@ Then Abimelech called Abraham, and said to him, "What have you done to us? How h
 Abimelech said to Abraham, "What did you see, that you have done this thing?" 
 
 ###### v11 
-Abraham said, "Because I thought, 'Surely the fear of God is not in this place. They will kill me for my wife's sake.' 
+Abraham said, "Because I thought, 'Surely the ==fear== of God is not in this place. They will kill me for my wife's sake.' 
 
 ###### v12 
 Besides, she is indeed my sister, the daughter of my father, but not the daughter of my mother; and she became my wife. 
@@ -69,6 +70,16 @@ For Yahweh had closed up tight all the wombs of the house of Abimelech, because 
 
 ---
 ## My Notes
+
+### 6
+#### I also withheld you from sinning
+It is notable that God in fact does withhold at least some people, at some times, from sinning. This shows that God doesn't prohibit Himself from doing this. Some people teach that God would never violate a person's free will. Some fewer people in that camp might think that if God does anything to intervene on a person's moral state (whether that person commits righteous or sinful acts) then, in their view, that would be violating their free will. Regardless, here and in other places, God does withhold others from sinning. 
+
+#### sinning against me 
+It's also worthy of note that, here, Abimelech would be not just sinning against Sarah, or Abraham, but against God Himself. 
+
+### Observations
+Abraham tells a white lie by telling the people that Sarah was his sister (and not telling them that she is also his wife). Abraham explicitly says why he did this in [[Gen-20#v11|Genesis 20.11]].  "*Abraham said, "Because I thought, '==Surely the fear of God is not in this place==. They will kill me for my wife's sake.'* " Ironically, Abraham was wrong. The fear of God already was in this place. [[Gen-20#v8|Genesis 20.8]] "*Abimelech rose early in the morning, and called all his servants, and told all these things in their ear. ==The men were very scared.==*" 
 
 ---
 ## Footnotes
