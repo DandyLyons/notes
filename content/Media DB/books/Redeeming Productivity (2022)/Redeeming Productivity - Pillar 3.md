@@ -100,7 +100,7 @@ From John 15, four elements:
 2. Limited brain capacity
 	* Not designed to hold many commitments simultaneously
 	* Short-term memory limitations
-	* ["] "Your mind is for having ideas, not for holding them." [[David Allen]], [[Getting Things Done (2001)]] 
+	* ["] "[[Your mind is for having ideas]], not for holding them." [[David Allen]], [[Getting Things Done (2001)]] 
 3. Noetic[^3] effects of sin ([[Gen-03#v17|Gen 3:17-19]][[Gen-03#v18|]][[Gen-03#v19|]])
 	* [[sin]] affects cognitive abilities
 	* Comparison to Adam's perfect memory ([[Gen-02#v20|Gen 2.20]])
@@ -113,6 +113,7 @@ From John 15, four elements:
 	* Brain remembers incomplete tasks
 	* Forgets completed tasks
 	* Creates mental burden from unfinished work
+	* BUT simply writing your ideas or tasks down, creates the feeling of task completion, and thus overcomes the Zeigarnik effect. 
 * Modern challenges:
 	* Information overload
 	* Constant connectivity
@@ -126,7 +127,7 @@ From John 15, four elements:
 #### The REDEEM Framework for Task Management [02:11:34-02:14:44]
 ^686eb5
 **See in depth notes:** [[REDEEM Framework]]
-
+Five features every good [[task management]] system should have:
 1. **R**eliable - System must be trustworthy
 2. **E**xternal - Get tasks out of your head
 3. **D**oable - Tasks should be **clear** and **actionable**

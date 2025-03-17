@@ -27,9 +27,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series                                                        | Location                                                                               | Subjects                                      | Takeaways | Sermon Link |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------- | --------- | ----------- |
-| [[gitignore/Allison on the Psalms.md\|Allison on the Psalms]] | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[The Church\|The Church]]</li></ul> | \-        | \-          |
+| Series                                                        | Location                                                                               | Subjects                                                                            | Takeaways | Sermon Link |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------- | ----------- |
+| [[gitignore/Allison on the Psalms.md\|Allison on the Psalms]] | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[The Church\|The Church]]</li><li>[[persecution\|persecution]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

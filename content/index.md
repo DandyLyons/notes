@@ -13,7 +13,7 @@ Please be aware that, as a [personal wiki](https://en.wikipedia.org/wiki/Persona
 - [[Topics/Inputs/index|Inputs]]: Here are some things I'm reading. 
 ## About the Infrastructure of this Site
 - I edit and write this site using a fantastic piece of software called [[Topics/Software/Obsidian/index|Obsidian]]. 
-	- Obsidian is a [[Markdown]] editor with **many** powerful customizations. 
+	- Obsidian is a [[Topics/Software Development/Web Development/Markdown/index|Markdown]] editor with **many** powerful customizations. 
 	- Every file in an Obsidian vault is a simple `.md` file, which is plain text. 
 - I use [[Topics/Software Development/Web Development/Static Site Generation/Quartz/index|Quartz]], a [[Static Site Generation]], to then convert those `.md` files into fully fleshed out HTML, CSS, and JS. 
 	- Under the hood Quartz uses [Hugo](https://gohugo.io/) for static site generation. 

@@ -103,5 +103,9 @@ for which I also labor, striving according to his working, which works in me mig
 ---
 ## My Notes
 
+### 15
+#### He is the firstborn of all Creation
+
+
 ---
 ## Footnotes

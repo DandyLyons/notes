@@ -21,6 +21,10 @@ So we must take great care that we do not ignore or diminish sins against God, a
 - [[Matt-18#v15|Matthew 18.15]] "If your ==brother sins against you==, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother.  
 - [[1 Sam-02#v25|1 Samuel 2.25]] If ==one man sins against another==, God will judge him; ==but if a man sins against Yahweh==, who will intercede for him?" Notwithstanding, they didn't listen to the voice of their father, because Yahweh intended to kill them.  
 ## Sinning Against People IS Sinning Against God
+>[[Ps-51#v4|Psalm 51.4]] Against you, and you only, I have sinned, and done that which is evil in your sight, so you may be proved right when you speak, and justified when you judge.  
+
+
+
 1 Corinthians 8:12 brings some clarity to this subject: 
 
 >[[1 Cor-08#v12|1 Corinthians 8.12]] Thus, ==sinning against the brothers==, and wounding their conscience when it is weak, ==you sin against Christ==.  
@@ -35,5 +39,11 @@ Now does this principle also have application **outside** of the Church? It sure
 I need to study this question more, so I can't speak confidently on this question, but here is a thread to pull on. 
 
 We are made in the [[image of God]]. In the ancient world, the **image** of a ruler or a god, was their representative. To worship the image was to worship them, and to attack the image was to attack them. So it would follow then that if we attack, defame, dishonor, or otherwise sin against God's image bearer (every other human), then we are also sinning against God (whom they image). 
+
+Also it is God 
 ## Further Reading
 - [Why is every sin ultimately a sin against God? \| GotQuestions.org](https://www.gotquestions.org/sin-against-God.html) 
+- the greatest commandment: 
+	- Love the LORD your God
+	- Love your neighbor as yourself
+- Galatians: If you break one commandment, you have broken them all. 

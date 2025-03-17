@@ -57,7 +57,7 @@ Features can be combined both in the app and outside the app using Shortcuts and
 - hide data in images using steganography
 - transform text between common formats:
 	- e.g. [[Base64]], [[percent encoding]], [[punycode]], [[UTF-8]], [[ASCII]]
-	- [[Markdown]], [[Topics/Web Development/HTML/index|HTML]]
+	- [[Topics/Software Development/Web Development/Markdown/index|Markdown]], [[Topics/Web Development/HTML/index|HTML]]
 - Date transformations
 # Footnotes
 

@@ -20,14 +20,14 @@ FROM "Topics/AI"
 
 | File                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Topics/AI/AI Disruption/Will AI obsolete all software engineering jobs?.md\|Will AI obsolete all software engineering jobs?]] |
+| [[Topics/AI/AI Tools I Like.md\|AI Tools I Like]]                                                                               |
 | [[Topics/AI/Agents/Devin.ai.md\|Devin.ai]]                                                                                      |
 | [[Topics/AI/Agents/index.md\|index]]                                                                                            |
 | [[Topics/AI/LLM/LLM chat providers.md\|LLM chat providers]]                                                                     |
 | [[Topics/AI/LLM/LLM chat with videos.md\|LLM chat with videos]]                                                                 |
 | [[Topics/AI/Using AI.md\|Using AI]]                                                                                             |
 | [[Topics/AI/architectures in Gen AI.md\|architectures in Gen AI]]                                                               |
+| [[Topics/AI/AI Disruption/Will AI obsolete all software engineering jobs?.md\|Will AI obsolete all software engineering jobs?]] |
 | [[Topics/AI/document chatting.md\|document chatting]]                                                                           |
-| [[Topics/AI/AI Tools I Like.md\|AI Tools I Like]]                                                                               |
 
 %% DATAVIEW_PUBLISHER: end %%

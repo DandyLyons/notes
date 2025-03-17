@@ -59,7 +59,7 @@ Yet if because of food your brother is grieved, you walk no longer in love. Don'
 Then don't let your good be slandered, 
 
 ###### v17 
-for God's Kingdom is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit. 
+for God's Kingdom is not[^hedonism] eating and drinking, but righteousness, peace, and joy in the Holy Spirit. 
 
 ###### v18 
 For he who serves Christ in these things is acceptable to God and approved by men. 
@@ -95,4 +95,6 @@ to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^hedonism]: This verse rejects [[hedonism]]. 

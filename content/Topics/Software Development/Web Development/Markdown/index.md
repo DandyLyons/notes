@@ -1,8 +1,13 @@
 ---
 publish: true
+aliases:
+  - Markdown
 ---
+# Markdown
 Markdown is a plain-text file format designed to be human readable and yet provide powerful styling information. 
 
+## Tools
+- [Markdown Tools](https://www.markdowntools.com/)
 ## Flavors
 It is important to remember that Markdown is a non-standard file format. As such, every markdown editor and renderer interprets Markdown slightly differently, and certain features may not be available everywhere. For this reason, the community talks about different *flavors* of Markdown. Here are some of the popular ones: 
 
