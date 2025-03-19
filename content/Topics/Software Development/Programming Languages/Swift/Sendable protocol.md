@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Sendable
 ---
 ## When not to use Sendable
 - [Non-Sendable types are cool too you know | massicotte.org](https://massicotte.org/non-sendable) 

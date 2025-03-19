@@ -98,6 +98,8 @@ topics:
 > 
 > **Ch. 6 of The Laws of Creativity by Joey Cofone**
 
+^679d36
+
 ##### Law of Play
 > [!quote] Have Fun
 > 

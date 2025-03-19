@@ -38,9 +38,11 @@ Now does this principle also have application **outside** of the Church? It sure
 ### Why Is Sinning Against People, Sinning Against God? 
 I need to study this question more, so I can't speak confidently on this question, but here is a thread to pull on. 
 
-We are made in the [[image of God]]. In the ancient world, the **image** of a ruler or a god, was their representative. To worship the image was to worship them, and to attack the image was to attack them. So it would follow then that if we attack, defame, dishonor, or otherwise sin against God's image bearer (every other human), then we are also sinning against God (whom they image). 
+We are made in the [[image of God]]. In the ancient world, many images were made of rulers and gods. These could be coins, statues, murals etc. To worship the image was to worship them, and to attack the image was to attack them. So it would follow then that if we attack, defame, dishonor, or otherwise sin against God's image bearer (every other human), then we are also sinning against God (whom they image). 
 
-Also it is God 
+#### The Greatest Commandment
+
+
 ## Further Reading
 - [Why is every sin ultimately a sin against God? \| GotQuestions.org](https://www.gotquestions.org/sin-against-God.html) 
 - the greatest commandment: 

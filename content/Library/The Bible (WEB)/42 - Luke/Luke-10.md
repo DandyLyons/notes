@@ -94,6 +94,8 @@ He answered, "You shall love the Lord your God with all your heart, with all you
 ###### v28 
 He said to him, "You have answered correctly. Do this, and you will live." 
 
+### The Parable of the Good Samaritan
+[[Jesus Tells The Parable of the Good Samaritan|The Parable of the Good Samaritan]] 
 ###### v29 
 But he, desiring to justify himself, asked Jesus, "Who is my neighbor?" 
 

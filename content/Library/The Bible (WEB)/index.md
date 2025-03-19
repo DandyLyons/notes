@@ -8,6 +8,12 @@ title: The Bible (WEB)
 ## Other ways to read
 - [Free Audiobook on LibriVox](https://librivox.org/world-english-bible-complete/)
 - [World English Bible : eBible.org : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/world-english-bible-2020/page/109/mode/2up) 
+## Explore
+
+| [[Library/The Bible (WEB)/00 - About/Subjects in the Bible/index\|Subjects in the Bible]] | [[Library/The Bible (WEB)/00 - About/People in the Bible/index\|People in the Bible]]             |                                                                                       |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[Library/The Bible (WEB)/00 - About/Themes in the Bible/index\|Themes in the Bible]]     | [[Library/The Bible (WEB)/00 - About/Teachings about the Bible/index\|Teachings about the Bible]] | [[Library/The Bible (WEB)/00 - About/Events in the Bible/index\|Events in the Bible]] |
+
 ## Books of the Bible
 ### Old Testament
 

@@ -110,6 +110,7 @@ But concerning the resurrection of the dead, haven't you read that which was spo
 When the multitudes heard it, they were astonished at his teaching. 
 
 ### What is the Greatest Commandment
+[[Jesus answers "What is the Greatest Commandment?"]] 
 ###### v34 
 But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together. 
 
