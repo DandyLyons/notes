@@ -8,7 +8,7 @@ aliases:
 [[James-01|← James 01]] | [[James]] | [[James-03|James 03 →]]
 ***
 
-
+## The Text
 
 ###### v1 
 My brothers, don't hold the faith of our Lord Jesus Christ of glory with partiality. 
@@ -93,6 +93,11 @@ For as the body apart from the spirit is dead, even so faith apart from works is
 
 ---
 ## My Notes
+
+### 10
+>*For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all.*
+
+[[The Law]] of God is cohesive and consistent. These are not fickle, man-made statutes that can be amended, repealed and reinterpreted. Each and every law is deeply intertwined with every other law. And all the Law is summed up in [[Jesus answers "What is the Greatest Commandment?"|The Greatest Commandment]]. By breaking one of these laws, we break the Greatest Commandment, and since all the Law, depends on the Greatest Commandment, this means we have become *guilty of all*. 
 
 ---
 ## Footnotes

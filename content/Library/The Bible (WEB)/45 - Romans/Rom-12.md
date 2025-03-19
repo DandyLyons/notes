@@ -65,7 +65,7 @@ Repay no one evil for evil. Respect what is honorable in the sight of all men.
 If it is possible, as much as it is up to you, be at peace with all men. 
 
 ###### v19 
-Don't seek revenge yourselves, beloved, but give place to God's wrath. For it is written, "Vengeance belongs to me; I will repay, says the Lord."  
+Don't seek revenge yourselves, beloved, but give place to God's wrath. For [[Deut-32#v35|it is written]], "Vengeance belongs to me; I will repay, says the Lord."  
 
 ###### v20 
 Therefore "If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head." 

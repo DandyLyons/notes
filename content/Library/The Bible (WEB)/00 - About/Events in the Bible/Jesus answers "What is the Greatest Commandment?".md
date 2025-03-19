@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - The Greatest Commandment
 ---
 Jesus was asked *"Which is the greatest commandment in [[The Law]]?"* His answer is quite surprising...
 ## Notable Passages
