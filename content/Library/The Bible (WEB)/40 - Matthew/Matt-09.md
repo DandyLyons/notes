@@ -8,7 +8,8 @@ aliases:
 [[Matt-08|← Matthew 08]] | [[Matthew]] | [[Matt-10|Matthew 10 →]]
 ***
 
-
+## The Text
+### Jesus Forgives and Heals a Paralytic
 
 ###### v1 
 He entered into a boat and crossed over, and came into his own city. 
@@ -34,6 +35,8 @@ He arose and departed to his house.
 ###### v8 
 But when the multitudes saw it, they marveled and glorified God, who had given such authority to men. 
 
+### Jesus Calls Matthew the Tax Collector
+([[Mark-02#v13|Mark 2.13-17]], [[Luke-05#v27|Luke 5.27-32]])
 ###### v9 
 As Jesus passed by from there, he saw a man called Matthew sitting at the tax collection office. He said to him, "Follow me." He got up and followed him. 
 
@@ -47,8 +50,9 @@ When the Pharisees saw it, they said to his disciples, "Why does your teacher ea
 When Jesus heard it, he said to them, "Those who are healthy have no need for a physician, but those who are sick do. 
 
 ###### v13 
-But you go and learn what this means: 'I desire mercy, and not sacrifice,' for I came not to call the righteous, but sinners to repentance." 
+But you go and learn what [[Hos-06#v6|this]] means: 'I desire mercy, and not sacrifice,' for I came not to call the righteous, but sinners to repentance." 
 
+### Jesus is Questioned About Fasting
 ###### v14 
 Then John's disciples came to him, saying, "Why do we and the Pharisees fast often, but your disciples don't fast?" 
 

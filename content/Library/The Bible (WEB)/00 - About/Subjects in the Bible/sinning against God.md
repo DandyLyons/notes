@@ -21,13 +21,13 @@ So we must take great care that we do not ignore or diminish sins against God, a
 - [[Matt-18#v15|Matthew 18.15]] "If your ==brother sins against you==, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother.  
 - [[1 Sam-02#v25|1 Samuel 2.25]] If ==one man sins against another==, God will judge him; ==but if a man sins against Yahweh==, who will intercede for him?" Notwithstanding, they didn't listen to the voice of their father, because Yahweh intended to kill them.  
 ## Sinning Against People IS Sinning Against God
->[[Ps-51#v4|Psalm 51.4]] Against you, and you only, I have sinned, and done that which is evil in your sight, so you may be proved right when you speak, and justified when you judge.  
+- [[Ps-51#v4|Psalm 51.4]] Against you, and you only, I have sinned, and done that which is evil in your sight, so you may be proved right when you speak, and justified when you judge.  
 
 We just finished talking about how we must not diminish the sins against others. And yet here, [[Ps-51|Psalm 51]] feels like it's directly throwing a wrench into that conclusion. David is explicitly excluding anyone except God from the list of people he has sinned against. Furthermore, Psalm 51 is explicitly stated to be a direct response to David's adultery and murder recorded in 2 Samuel 12 and 13. How is this not diminishing David's sins against Uriah and Bathsheba? 
 
 1 Corinthians 8:12 brings some clarity to this subject: 
 
->[[1 Cor-08#v12|1 Corinthians 8.12]] Thus, ==sinning against the brothers==, and wounding their conscience when it is weak, ==you sin against Christ==.  
+- [[1 Cor-08#v12|1 Corinthians 8.12]] Thus, ==sinning against the brothers==, and wounding their conscience when it is weak, ==you sin against Christ==.  
 
 When we sin against people, **we are also sinning against God** . That seems to be what this verse is clearly teaching. 
 
@@ -59,7 +59,7 @@ Then he says *"The whole law and the prophets depend on these two commandments."
 If you don't love God, then you are breaking His greatest commandment and are certainly sinning against Him. 
 If you don't love your neighbor, then you don't love God. 
 
->[[1 John-04#v20|1 John 4:20-21]] If a man says, "I love God," and hates his brother, he is a liar; for he who doesn't love his brother whom he has seen, how can he love God whom he has not seen?  This commandment we have from him, that he who loves God should also love his brother. [[1 John-04#v21|]]
+- [[1 John-04#v20|1 John 4:20-21]] If a man says, "I love God," and hates his brother, he is a liar; for he who doesn't love his brother whom he has seen, how can he love God whom he has not seen?  This commandment we have from him, that he who loves God should also love his brother. [[1 John-04#v21|]]
 
 Furthermore, [[Jesus answers "What is the Greatest Commandment?"#Luke's Account|Luke's Account]] makes it very clear that Jesus' definition of *neighbor* is much broader than ours, and even includes our enemies. There is simply no way around it. **Sinning against other people IS sinning against God.** 
 
@@ -69,16 +69,17 @@ Are you sobered by this? You should be. Try to consider every single time that y
 
 Now consider this. **When someone sins against <u>you</u>, they are also sinning against God.** What does that say about you? Does it say that you are special? In one sense, no. It doesn't make you unique. This is the same for any human being. But in another sense, absolutely yes! You are special. You are precious to God. When someone sins against you, they are sinning against Him! This is similar to a parent child relationship. If you hurt a child, you are not only wronging the child, you are also wronging their parent, and you will have to answer to them. When someone sins against you, God takes offense at this, and He holds your trespassers accountable. 
 
->[[Rom-12#v19|Romans 12.19]] Don't seek revenge yourselves, beloved, but give place to God's wrath. For [[Deut-32#v35|it is written]], "==Vengeance belongs to me; I will repay, says the Lord.=="   
+- [[Rom-12#v19|Romans 12.19]] Don't seek revenge yourselves, beloved, but give place to God's wrath. For [[Deut-32#v35|it is written]], "==Vengeance belongs to me; I will repay, says the Lord.=="   
 
 Now consider this. The same God who commands us to [[love your enemies]], also loved **us** when we were His enemies. 
 
->[[Rom-05#v8|Romans 5.8]] But God commends his own love toward us, in that ==while we were yet sinners, Christ died for us.==  
+- [[Rom-05#v8|Romans 5.8]] But God commends his own love toward us, in that ==while we were yet sinners, Christ died for us.==  
 
 How special are you to God? So special that He was willing to die for you. It's hard to get any more special than that. 
+
+- [[Rom-08#v32|Romans 8.32]] He who didn't spare his own Son, but delivered him up for us all, how would he not also with him freely give us all things?  
 
 Do not forget your sins against God. They are great, weighty, and too vast to number. But do not forget God's love and mercy towards you. It is greater, weightier, and still more vast. Go to Him. 
 
 ## Further Reading
 - [Why is every sin ultimately a sin against God? \| GotQuestions.org](https://www.gotquestions.org/sin-against-God.html) 
-- Galatians: If you break one commandment, you have broken them all. 

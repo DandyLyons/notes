@@ -29,7 +29,7 @@ Or have you not read in the law that on the Sabbath day the priests in the templ
 But I tell you that one greater than the temple is here. 
 
 ###### v7 
-But if you had known what this means, 'I desire mercy, and not sacrifice,' you wouldn't have condemned the guiltless. 
+But if you had known what [[Hos-06#v6|this]] means, 'I desire mercy, and not sacrifice,' you wouldn't have condemned the guiltless. 
 
 ###### v8 
 For the Son of Man is Lord of the Sabbath." 

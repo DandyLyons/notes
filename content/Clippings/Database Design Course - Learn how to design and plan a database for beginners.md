@@ -49,7 +49,7 @@ Read hundreds of articles on programming: https://medium.freecodecamp.org
 [[RDBMS]] 
 ### [0:37:32](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=2252s) Introduction to SQL  
 - [[Topics/Software Development/Databases/Relational Databases/SQL/index|SQL]]
-- [[SQLite]] 
+- [[Topics/Software Development/Databases/SQLite/index|SQLite]] 
 ### [0:44:01](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=2641s) Naming Conventions  
 ### [0:47:16](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=2836s) What is Database Design?  
 ### [1:00:26](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=3626s) Data Integrity  

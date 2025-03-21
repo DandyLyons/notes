@@ -8,7 +8,8 @@ aliases:
 [[Rom-07|← Romans 07]] | [[Romans]] | [[Rom-09|Romans 09 →]]
 ***
 
-
+## The Text
+### Free From Indwelling Sin
 
 ###### v1 
 There is therefore now no condemnation to those who are in Christ Jesus, who don't walk according to the flesh, but according to the Spirit. 
@@ -45,7 +46,7 @@ But if the Spirit of him who raised up Jesus from the dead dwells in you, he who
 
 ###### v12 
 So then, brothers, we are debtors, not to the flesh, to live after the flesh. 
-
+### Sonship Through the Spirit
 ###### v13 
 For if you live after the flesh, you must die; but if by the Spirit you put to death the deeds of the body, you will live. 
 
@@ -60,7 +61,7 @@ The Spirit himself testifies with our spirit that we are children of God;
 
 ###### v17 
 and if children, then heirs: heirs of God and joint heirs with Christ, if indeed we suffer with him, that we may also be glorified with him. 
-
+### From Suffering to Glory
 ###### v18 
 For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us. 
 
@@ -99,7 +100,7 @@ For whom he foreknew, he also predestined to be conformed to the image of his So
 
 ###### v30 
 Whom he predestined, those he also called. Whom he called, those he also justified. Whom he justified, those he also glorified. 
-
+### God's Everlasting Love
 ###### v31 
 What then shall we say about these things? If God is for us, who can be against us? 
 
