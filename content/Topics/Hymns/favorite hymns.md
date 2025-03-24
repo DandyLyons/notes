@@ -10,3 +10,4 @@
 | Nothing But the Blood of Jesus |          |                                                                                 |
 | 98 A                           |          |                                                                                 |
 | The Church's One Foundation    |          | [404​​](https://www.trinitypsalterhymnal.org/hymns/the-churchs-one-foundation/) |
+| Thy Works, not mine o Christ   |          |                                                                                 |

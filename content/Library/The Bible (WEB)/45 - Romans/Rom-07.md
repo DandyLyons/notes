@@ -8,7 +8,7 @@ aliases:
 [[Rom-06|← Romans 06]] | [[Romans]] | [[Rom-08|Romans 08 →]]
 ***
 
-
+## The Text
 
 ###### v1 
 Or don't you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives? 

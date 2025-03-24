@@ -20,4 +20,18 @@ LIMIT 500
 ``` 
 
 %%
+
+| File                                                                                                             | title |
+| ---------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Topics/Software Development/Databases/SQLite/Learn SQLite.md\|Learn SQLite]]                                   | \-    |
+| [[Topics/Software Development/Databases/SQLite/Storage Classes in SQLite.md\|Storage Classes in SQLite]]         | \-    |
+| [[Topics/Software Development/Databases/SQLite/Type Affinities in SQLite.md\|Type Affinities in SQLite]]         | \-    |
+| [[Topics/Software Development/Databases/SQLite/`PRAGMA` in SQLite.md\|`PRAGMA` in SQLite]]                       | \-    |
+| [[Topics/Software Development/Databases/SQLite/dates in SQLite.md\|dates in SQLite]]                             | \-    |
+| [[Topics/Software Development/Databases/SQLite/dynamic type system in SQLite.md\|dynamic type system in SQLite]] | \-    |
+| [[Topics/Software Development/Databases/SQLite/extensions/index.md\|index]]                                      | \-    |
+| [[Topics/Software Development/Databases/SQLite/index.md\|index]]                                                 | \-    |
+| [[Topics/Software Development/Databases/SQLite/strict tables in SQLite.md\|strict tables in SQLite]]             | \-    |
+| [[Topics/Software Development/Databases/SQLite/uuids in SQLite.md\|uuids in SQLite]]                             | \-    |
+
 %% DATAVIEW_PUBLISHER: end %%

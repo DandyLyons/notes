@@ -8,7 +8,8 @@ aliases:
 [[Galatians]] | [[Gal-02|Galatians 02 →]]
 ***
 
-
+## The Text
+### Greetings 
 
 ###### v1 
 Paul, an apostle--not from men, nor through man, but through Jesus Christ, and God the Father, who raised him from the dead-- 
@@ -25,6 +26,7 @@ who gave himself for our sins, that he might deliver us out of this present evil
 ###### v5 
 to whom be the glory forever and ever. Amen. 
 
+### Hold Fast to the Good News of Christ
 ###### v6 
 I marvel that you are so quickly deserting him who called you in the grace of Christ to a different "good news", 
 
