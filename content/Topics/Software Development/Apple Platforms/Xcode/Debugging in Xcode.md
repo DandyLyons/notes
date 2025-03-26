@@ -10,5 +10,5 @@ Xcode has a built-in debugger called [[LLDB]].
 
 ## See also
 - [[Debugging in Xcode]]
-- [[Debugging in Swift]] 
+- [[Topics/Software Development/Programming Languages/Swift/Debugging/index|Debugging in Swift]] 
 - [[LLDB]]

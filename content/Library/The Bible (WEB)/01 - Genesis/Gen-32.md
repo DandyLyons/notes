@@ -8,7 +8,8 @@ aliases:
 [[Gen-31|← Genesis 31]] | [[Genesis]] | [[Gen-33|Genesis 33 →]]
 ***
 
-
+## The Text 
+### Jacob Wrestles With God
 
 ###### v1 
 Jacob went on his way, and the angels of God met him. 
