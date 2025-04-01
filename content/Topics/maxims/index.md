@@ -17,11 +17,11 @@ LIMIT 1000
 - [[Topics/maxims/Many hands make little work..md|Many hands make little work.]]
 - [[Topics/maxims/Measure against yourself.md|Measure against yourself]]
 - [[Topics/maxims/Take the stairs.md|Take the stairs]]
+- [[Topics/maxims/You miss 100% of the shots you don't take..md|You miss 100% of the shots you don't take.]]
 - [[Topics/maxims/Your mind is for having ideas.md|Your mind is for having ideas]]
+- [[Topics/maxims/do something difficult every day.md|do something difficult every day]]
 - [[Topics/maxims/fake it til you make it.md|fake it til you make it]]
 - [[Topics/maxims/index.md|index]]
-- [[Topics/maxims/do something difficult every day.md|do something difficult every day]]
 - [[Topics/maxims/trust the process.md|trust the process]]
-- [[Topics/maxims/You miss 100% of the shots you don't take..md|You miss 100% of the shots you don't take.]]
 
 %% DATAVIEW_PUBLISHER: end %%

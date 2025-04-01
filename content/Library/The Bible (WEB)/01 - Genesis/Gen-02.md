@@ -83,7 +83,7 @@ The man said, "This is now bone of my bones, and flesh of my flesh. She will be 
 Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh.
 
 ###### v25
-The man and his wife were both naked, and they were not ashamed.
+The man and his wife were both naked, and they were not [[shame|ashamed]]. 
 
 ***
 [[Gen-01|← Genesis 01]] | [[Genesis]] | [[Gen-03|Genesis 03 →]]

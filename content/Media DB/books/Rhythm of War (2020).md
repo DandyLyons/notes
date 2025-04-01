@@ -2,17 +2,17 @@
 type:
   - book
 subType: ""
-title: Oathbringer
-englishTitle: Oathbringer
-year: 2017
+title: Rhythm of War
+englishTitle: Rhythm of War
+year: 2020
 dataSource: OpenLibraryAPI
-url: https://openlibrary.org/works/OL17834026W
-id: /works/OL17834026W
+url: https://openlibrary.org/works/OL20842226W
+id: /works/OL20842226W
 author:
   - Brandon Sanderson
 plot: unknown
 pages: unknown
-image: https://covers.openlibrary.org/b/OLID/OL26421466M-L.jpg
+image: https://covers.openlibrary.org/b/OLID/OL28217699M-L.jpg
 onlineRating: 0
 isbn: unknown
 isbn13: unknown

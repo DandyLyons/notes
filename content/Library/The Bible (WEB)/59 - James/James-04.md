@@ -29,7 +29,7 @@ Or do you think that the Scripture says in vain, "The Spirit who lives in us yea
 But he gives more grace. Therefore it says, "God resists the proud, but gives grace to the humble." 
 
 ###### v7 
-Be subject therefore to God. Resist the devil, and he will flee from you. 
+Be subject therefore to God. [[Resist the devil]], and he will flee from you. 
 
 ###### v8 
 Draw near to God, and he will draw near to you. Cleanse your hands, you sinners. Purify your hearts, you double-minded. 

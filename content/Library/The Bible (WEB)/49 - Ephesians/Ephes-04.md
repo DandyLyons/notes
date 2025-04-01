@@ -30,7 +30,6 @@ one God and Father of all, who is over all and through all, and in us all.
 
 ###### v7 
 But to each one of us, the grace was given according to the measure of the gift of Christ. 
-
 ###### v8 
 Therefore he says, "When he ascended on high, he led captivity captive, and gave gifts to people." 
 

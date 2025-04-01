@@ -41,7 +41,8 @@ As we have said before, so I now say again: if any man preaches to you any "good
 
 ###### v10 
 For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn't be a servant of Christ. 
-
+### Paul’s Call to Apostleship
+See [[Acts-09#Paul's Conversion on the Road to Damascus]]  
 ###### v11 
 But I make known to you, brothers, concerning the Good News which was preached by me, that it is not according to man. 
 
@@ -62,7 +63,7 @@ to reveal his Son in me, that I might preach him among the Gentiles, I didn't im
 
 ###### v17 
 nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia. Then I returned to Damascus. 
-
+### Paul Contacts the Christians in Jerusalem
 ###### v18 
 Then after three years I went up to Jerusalem to visit Peter, and stayed with him fifteen days. 
 
@@ -90,5 +91,6 @@ So they glorified God in me.
 ---
 ## My Notes
 
----
-## Footnotes
+# Footnotes
+
+[^1]: 

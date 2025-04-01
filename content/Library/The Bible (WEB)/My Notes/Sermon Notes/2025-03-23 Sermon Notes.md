@@ -28,9 +28,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series | Location                                                                               | Subjects                                                                                                        | Takeaways | Sermon Link |
-| ------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| \-     | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/justification.md\|justification]]</li></ul> | \-        | \-          |
+| Series | Location                                                                               | Subjects                                                                                                                                                                                                                                                                                                                     | Takeaways | Sermon Link |
+| ------ | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| \-     | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/justification.md\|justification]]</li><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/by grace alone.md\|sola gratia]]</li><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/through faith alone.md\|sola fide]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

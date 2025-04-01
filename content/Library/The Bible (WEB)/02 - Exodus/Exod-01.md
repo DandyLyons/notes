@@ -5,7 +5,7 @@ aliases:
   - Exodus 1
 ---
 
-[[Exodus]] | [[Exod-02|Exodus 02 →]]
+[[Gen-50|Genesis 50]] | [[Exodus]] | [[Exod-02|Exodus 02 →]]
 ***
 
 

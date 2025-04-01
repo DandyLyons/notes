@@ -59,7 +59,7 @@ And how will they preach unless they are sent? As it is written: "How beautiful 
 But they didn't all listen to the glad news. For Isaiah says, "Lord, who has believed our report?" 
 
 ###### v17 
-So faith comes by hearing, and hearing by the word of God. 
+So [[faith]] comes by hearing, and hearing by the word of God. 
 
 ###### v18 
 But I say, didn't they hear? Yes, most certainly, "Their sound went out into all the earth, their words to the ends of the world." 

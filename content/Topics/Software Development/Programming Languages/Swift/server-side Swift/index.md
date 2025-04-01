@@ -12,3 +12,6 @@ aliases:
 ## Frameworks
 - [[Hummingbird 2]] 
 - [[Topics/Software Development/Programming Languages/Swift/server-side Swift/Vapor/index|Vapor]] 
+
+## Deployment
+- [[Deploying a Swift Server App to Fly.io and Railway]] 

@@ -9,12 +9,14 @@ aliases:
 ***
 
 
-
+## The Text
+### The Temptation of Jesus
+See [[The Temptation of Jesus]]
 ###### v1 
 Jesus, full of the Holy Spirit, returned from the Jordan, and was led by the Spirit into the wilderness 
 
 ###### v2 
-for forty days, being tempted by the devil. He ate nothing in those days. Afterward, when they were completed, he was hungry. 
+for [[forty in the Bible|forty]] days, being tempted by the devil. He ate nothing in those days. Afterward, when they were completed, he was hungry. 
 
 ###### v3 
 The devil said to him, "If you are the Son of God, command this stone to become bread." 

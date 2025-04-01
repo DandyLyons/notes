@@ -2,17 +2,17 @@
 type:
   - book
 subType: ""
-title: Oathbringer
-englishTitle: Oathbringer
-year: 2017
+title: The Way of Kings
+englishTitle: The Way of Kings
+year: 2010
 dataSource: OpenLibraryAPI
-url: https://openlibrary.org/works/OL17834026W
-id: /works/OL17834026W
+url: https://openlibrary.org/works/OL15358691W
+id: /works/OL15358691W
 author:
   - Brandon Sanderson
 plot: unknown
 pages: unknown
-image: https://covers.openlibrary.org/b/OLID/OL26421466M-L.jpg
+image: https://covers.openlibrary.org/b/OLID/OL24345134M-L.jpg
 onlineRating: 0
 isbn: unknown
 isbn13: unknown

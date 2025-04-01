@@ -8,13 +8,14 @@ aliases:
 [[Hebrews]] | [[Heb-02|Hebrews 02 →]]
 ***
 
-
+## The Text
+### God’s Supreme Revelation 
 
 ###### v1 
 God, having in the past spoken to the fathers through the prophets at many times and in various ways, 
 
 ###### v2 
-has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds. 
+has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds[^1]. 
 
 ###### v3 
 His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high, 
@@ -59,4 +60,6 @@ Aren't they all serving spirits, sent out to do service for the sake of those wh
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Greek: aeons. Could also be translated *times*

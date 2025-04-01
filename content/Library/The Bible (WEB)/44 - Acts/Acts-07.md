@@ -62,7 +62,7 @@ and they were brought back to Shechem, and laid in the tomb that Abraham bought 
 "But as the time of the promise came close which God had sworn to Abraham, the people grew and multiplied in Egypt, 
 
 ###### v18 
-until there arose a different king, who didn't know Joseph. 
+until [[Exod-01#v8|there arose a different king]], who didn't know Joseph. 
 
 ###### v19 
 The same took advantage of our race, and mistreated our fathers, and forced them to throw out their babies, so that they wouldn't stay alive. 

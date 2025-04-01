@@ -2,17 +2,17 @@
 type:
   - book
 subType: ""
-title: Oathbringer
-englishTitle: Oathbringer
-year: 2017
+title: Dawnshard
+englishTitle: Dawnshard
+year: 2020
 dataSource: OpenLibraryAPI
-url: https://openlibrary.org/works/OL17834026W
-id: /works/OL17834026W
+url: https://openlibrary.org/works/OL24139894W
+id: /works/OL24139894W
 author:
   - Brandon Sanderson
 plot: unknown
 pages: unknown
-image: https://covers.openlibrary.org/b/OLID/OL26421466M-L.jpg
+image: https://covers.openlibrary.org/b/OLID/OL32758402M-L.jpg
 onlineRating: 0
 isbn: unknown
 isbn13: unknown

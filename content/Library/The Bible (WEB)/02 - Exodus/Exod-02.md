@@ -91,6 +91,9 @@ God saw the children of Israel, and God was concerned about them.
 ---
 ## My Notes
 
+### God remembered his covenant
+[[#v24]] : It is not as though God **forgot** His covenant. (In fact, not only did God remember His covenant, but God Himself predicted that this affliction would happen to the people of Israel, and in His providence, God set about these events in history.) He always remembered His covenant. But in this moment, God honored His covenant. This moment is the proof of His remembering. 
+
 # Footnotes
 
 [^1]: The Hebrew word here means ark. It is the same word used to describe Noah’s Ark. 

@@ -5,7 +5,7 @@ aliases:
   - Genesis 50
 ---
 
-[[Gen-49|← Genesis 49]] | [[Genesis]]
+[[Gen-49|← Genesis 49]] | [[Genesis]] | [[Exodus]] 
 ***
 
 ###### v1
