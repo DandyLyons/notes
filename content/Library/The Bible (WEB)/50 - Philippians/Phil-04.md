@@ -8,6 +8,7 @@ aliases:
 [[Phil-03|← Philippians 03]] | [[Philippians]]
 ***
 
+## The Text
 
 
 ###### v1 
@@ -31,6 +32,7 @@ In nothing be [[anxiety|anxious]], but in everything, by [[prayer]] and petition
 ###### v7 
 And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus. 
 
+### Think About These Things
 ###### v8 
 Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report: if there is any virtue and if there is any praise, think about these things. 
 
@@ -66,7 +68,7 @@ But I have all things and abound. I am filled, having received from Epaphroditus
 
 ###### v19 
 My God will supply every need of yours according to his riches in glory in Christ Jesus. 
-
+### Parting Greeting
 ###### v20 
 Now to our God and Father be the glory forever and ever! Amen. 
 

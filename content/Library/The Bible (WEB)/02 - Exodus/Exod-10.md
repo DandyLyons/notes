@@ -9,7 +9,8 @@ aliases:
 ***
 
 
-
+## The Text
+### The Plague of Locusts
 ###### v1 
 Yahweh said to Moses, "Go in to Pharaoh, for I have hardened his heart and the heart of his servants, that I may show these my signs among them; 
 
@@ -70,6 +71,7 @@ Yahweh sent an exceedingly strong west wind, which took up the locusts, and drov
 ###### v20 
 But Yahweh hardened Pharaoh's heart, and he didn't let the children of Israel go. 
 
+### The Plague of Darkness
 ###### v21 
 Yahweh said to Moses, "Stretch out your hand toward the sky, that there may be darkness over the land of Egypt, even darkness which may be felt." 
 
@@ -99,6 +101,9 @@ Moses said, "You have spoken well. I will see your face again no more."
 
 ***
 [[Exod-09|← Exodus 09]] | [[Exodus]] | [[Exod-11|Exodus 11 →]]
+
+## Commentary
+- [[Ps-105|Psalm 105]] 
 
 ---
 ## My Notes

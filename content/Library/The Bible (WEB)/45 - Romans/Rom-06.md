@@ -8,7 +8,7 @@ aliases:
 [[Rom-05|← Romans 05]] | [[Romans]] | [[Rom-07|Romans 07 →]]
 ***
 
-
+## The Text
 
 ###### v1 
 What shall we say then? Shall we continue in sin, that grace may abound? 

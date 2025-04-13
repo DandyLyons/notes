@@ -8,7 +8,8 @@ aliases:
 [[Rev-20|← Revelation 20]] | [[Revelation]] | [[Rev-22|Revelation 22 →]]
 ***
 
-
+## The Text
+### New Heaven and Earth
 
 ###### v1 
 I saw a new heaven and a new earth: for the first heaven and the first earth have passed away, and the sea is no more. 

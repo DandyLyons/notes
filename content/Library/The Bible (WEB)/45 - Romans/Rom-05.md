@@ -11,7 +11,7 @@ aliases:
 
 
 ###### v1 
-Being therefore justified by faith, we have peace with God through our Lord Jesus Christ; 
+Being therefore justified by faith, we have [[peace]] with God through our Lord Jesus Christ; 
 
 ###### v2 
 through whom we also have our access by faith into this grace in which we stand. We rejoice in hope of the glory of God. 
