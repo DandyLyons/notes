@@ -285,7 +285,7 @@ func _on_close_button_pressed():
 ```
 
 ### [39:28](https://www.youtube.com/watch?t=2368&v=4vAkTHeoORk):  Review
-![[Screenshot 2024-11-30 at 4.27.14 PM.png]]
+![[Screenshot 2024-11-30 at 4.27.14 PM.webp]]
 ### [40:41](https://www.youtube.com/watch?v=4vAkTHeoORk&t=2441s) Creating a crafting system
 
 [42:14](https://www.youtube.com/watch?t=2534&v=4vAkTHeoORk): recipe.gd

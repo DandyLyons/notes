@@ -41,7 +41,7 @@ Link: [HireReady Resume Workshop](https://hireready.heysummit.com/talks/resume-w
 	- **Filter out** what is irrelevant to the recruiter 
 - Balancing your bullet points
 	- There are really only **5 types of bullet points**
-		- ![[Screenshot 2024-09-05 at 10.12.45 AM.png]]
+		- ![[Screenshot 2024-09-05 at 10.12.45 AM.webp|10xNaN|844x0]]
 		- **Built**
 		- **Lead**
 		- **Managed**
@@ -53,7 +53,7 @@ Link: [HireReady Resume Workshop](https://hireready.heysummit.com/talks/resume-w
 ### the **Bullet Point formula**
 - [14:42](https://www.youtube.com/watch?t=882&v=aRN3h1V3NIs)
 - 1. **Power verb**, 2. **Method/Skill**, 3. **Result**
-- ![[Screenshot 2024-09-05 at 10.16.08 AM.png]]
+- ![[Screenshot 2024-09-05 at 10.16.08 AM.webp]]
 - 1. **Power verb**: 
 	- e.g. built, improved, led
 - 2. **Method/Skill**: 
@@ -94,7 +94,7 @@ Link: [HireReady Resume Workshop](https://hireready.heysummit.com/talks/resume-w
 	- 2. Add value: Don't just be a synopsis of the rest of the summary
 	- 3. **Informal**: [14:42](https://www.youtube.com/watch?t=882&v=aRN3h1V3NIs)
 - 1. **Power verb**, 2. **Method/Skill**, 3. **Result**
-- ![[Screenshot 2024-09-05 at 10.16.08 AM.png]]
+- ![[Screenshot 2024-09-05 at 10.16.08 AM.webp]]
 - 1. **Power verb**: 
 	- e.g. built, improved, led
 - 2. **Method/Skill**: 
@@ -135,18 +135,18 @@ Link: [HireReady Resume Workshop](https://hireready.heysummit.com/talks/resume-w
 	- 2. Add value: Don't just be a synopsis of the rest of the summary
 	- 3. **Informal**: 
 	- Example: 
-		- ![[Screenshot 2024-09-05 at 10.26.15 AM.png]]
+		- ![[Screenshot 2024-09-05 at 10.26.15 AM.webp]]
 		- **beat Mark Zuckerberg at hockey** was a conversation starter and interesting ice-breaker. 
-		- ![[Screenshot 2024-09-05 at 10.28.01 AM.png]]
+		- ![[Screenshot 2024-09-05 at 10.28.01 AM.webp]]
 - Example of a **boring** summary without personality: 
 	- "*Experienced project manager with 5 years experience, self-driven, self-starter, workin gin the gaming industry for 10 years.*"
 - Takeaway: **Human beings hire human beings.**
 
 
 - This talk is not about 
-	- ![[Screenshot 2024-09-05 at 10.29.25 AM.png]]
+	- ![[Screenshot 2024-09-05 at 10.29.25 AM.webp]]
 - Growth Hack Your Career: 
-	- ![[Screenshot 2024-09-05 at 10.30.28 AM.png]]
+	- ![[Screenshot 2024-09-05 at 10.30.28 AM.webp]]
 
 ## Q & A
 [31:59](https://www.youtube.com/watch?t=1919&v=aRN3h1V3NIs)
@@ -161,18 +161,18 @@ Link: [HireReady Resume Workshop](https://hireready.heysummit.com/talks/resume-w
 ### ATS 
 - ATS issues: [35:21](https://www.youtube.com/watch?t=2121&v=aRN3h1V3NIs)
 	- Example: 
-		- ![[Screenshot 2024-09-05 at 10.26.15 AM.png]]
+		- ![[Screenshot 2024-09-05 at 10.26.15 AM.webp]]
 		- **beat Mark Zuckerberg at hockey** was a conversation starter and interesting ice-breaker. 
-		- ![[Screenshot 2024-09-05 at 10.28.01 AM.png]]
+		- ![[Screenshot 2024-09-05 at 10.28.01 AM.webp]]
 - Example of a **boring** summary without personality: 
 	- "*Experienced project manager with 5 years experience, self-driven, self-starter, workin gin the gaming industry for 10 years.*"
 - Takeaway: **Human beings hire human beings.**
 
 
 - This talk is not about 
-	- ![[Screenshot 2024-09-05 at 10.29.25 AM.png]]
+	- ![[Screenshot 2024-09-05 at 10.29.25 AM.webp]]
 - Growth Hack Your Career: 
-	- ![[Screenshot 2024-09-05 at 10.30.28 AM.png]]
+	- ![[Screenshot 2024-09-05 at 10.30.28 AM.webp]]
 
 ## Q & A
 [31:59](https://www.youtube.com/watch?t=1919&v=aRN3h1V3NIs)

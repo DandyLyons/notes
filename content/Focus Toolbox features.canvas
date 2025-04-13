@@ -1,27 +1,179 @@
 {
-	"nodes":[
-		{"id":"425836c91875c34c","x":-200,"y":80,"width":250,"height":60,"type":"text","text":"Maxims"},
-		{"id":"d92bed2dd6670856","x":-130,"y":360,"width":250,"height":200,"type":"text","text":"### Focus\n- Pomodoro timer\n- Agenda (Routines can be used as a template)\n- Distractions tracker\n- Stuck tools"},
-		{"id":"e280623fef9bcbd0","x":-600,"y":360,"width":250,"height":60,"type":"text","text":"Dopamine Menu"},
-		{"id":"26b0a87bfe5dec33","x":175,"y":180,"width":250,"height":60,"type":"text","text":"Routines"},
-		{"id":"8dfdff10d9e8de54","x":-500,"y":50,"width":250,"height":60,"type":"text","text":"Affirmations"},
-		{"id":"82942419364ca7a6","x":50,"y":-10,"width":250,"height":60,"type":"text","text":"Wins"},
-		{"id":"7e077995c268122b","x":-450,"y":580,"width":250,"height":60,"type":"text","text":"Stuck Tools"},
-		{"id":"f87cefa94ae09301","x":-200,"y":720,"width":250,"height":60,"type":"text","text":"Roadmap"},
-		{"id":"6ad203cceed5413e","x":120,"y":690,"width":250,"height":60,"type":"text","text":"Distractions tracker"},
-		{"id":"4ca3d847308302ba","x":400,"y":560,"width":250,"height":100,"type":"text","text":"\n### Audio Mixer\n- Lofi\n- Ambient sounds\n- White noise"},
-		{"id":"b49e41fa9180349f","x":-560,"y":210,"width":250,"height":60,"type":"text","text":"Reasons"}
-	],
-	"edges":[
-		{"id":"999cfe25a9a4a156","fromNode":"e280623fef9bcbd0","fromSide":"right","toNode":"d92bed2dd6670856","toSide":"left","label":"rewards"},
-		{"id":"9190f6053e74d259","fromNode":"425836c91875c34c","fromSide":"bottom","toNode":"d92bed2dd6670856","toSide":"top","label":"motivational"},
-		{"id":"510e261a88ddc433","fromNode":"26b0a87bfe5dec33","fromSide":"bottom","toNode":"d92bed2dd6670856","toSide":"right","label":"templates"},
-		{"id":"d932ea531450af7a","fromNode":"b49e41fa9180349f","fromSide":"bottom","toNode":"d92bed2dd6670856","toSide":"top"},
-		{"id":"6a7831217f9123b4","fromNode":"8dfdff10d9e8de54","fromSide":"bottom","toNode":"d92bed2dd6670856","toSide":"top"},
-		{"id":"b13641d72c929025","fromNode":"82942419364ca7a6","fromSide":"bottom","toNode":"d92bed2dd6670856","toSide":"top"},
-		{"id":"50a0f42de5ad615a","fromNode":"7e077995c268122b","fromSide":"top","toNode":"d92bed2dd6670856","toSide":"bottom","label":"SOS"},
-		{"id":"f75b92460ab5d8ea","fromNode":"f87cefa94ae09301","fromSide":"top","toNode":"d92bed2dd6670856","toSide":"bottom"},
-		{"id":"31fbe7ea839d9727","fromNode":"6ad203cceed5413e","fromSide":"top","toNode":"d92bed2dd6670856","toSide":"bottom"},
-		{"id":"c38dcc196e553aa4","fromNode":"4ca3d847308302ba","fromSide":"left","toNode":"d92bed2dd6670856","toSide":"right"}
-	]
+  "nodes": [
+    {
+      "id": "425836c91875c34c",
+      "x": -200,
+      "y": 80,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Maxims"
+    },
+    {
+      "id": "d92bed2dd6670856",
+      "x": -130,
+      "y": 360,
+      "width": 250,
+      "height": 200,
+      "type": "text",
+      "text": "### Focus\n- Pomodoro timer\n- Agenda (Routines can be used as a template)\n- Distractions tracker\n- Stuck tools"
+    },
+    {
+      "id": "e280623fef9bcbd0",
+      "x": -600,
+      "y": 360,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Dopamine Menu"
+    },
+    {
+      "id": "26b0a87bfe5dec33",
+      "x": 175,
+      "y": 180,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Routines"
+    },
+    {
+      "id": "8dfdff10d9e8de54",
+      "x": -500,
+      "y": 50,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Affirmations"
+    },
+    {
+      "id": "82942419364ca7a6",
+      "x": 50,
+      "y": -10,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Wins"
+    },
+    {
+      "id": "7e077995c268122b",
+      "x": -450,
+      "y": 580,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Stuck Tools"
+    },
+    {
+      "id": "f87cefa94ae09301",
+      "x": -200,
+      "y": 720,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Roadmap"
+    },
+    {
+      "id": "6ad203cceed5413e",
+      "x": 120,
+      "y": 690,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Distractions tracker"
+    },
+    {
+      "id": "4ca3d847308302ba",
+      "x": 400,
+      "y": 560,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "\n### Audio Mixer\n- Lofi\n- Ambient sounds\n- White noise"
+    },
+    {
+      "id": "b49e41fa9180349f",
+      "x": -560,
+      "y": 210,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Reasons"
+    }
+  ],
+  "edges": [
+    {
+      "id": "999cfe25a9a4a156",
+      "fromNode": "e280623fef9bcbd0",
+      "fromSide": "right",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "left",
+      "label": "rewards"
+    },
+    {
+      "id": "9190f6053e74d259",
+      "fromNode": "425836c91875c34c",
+      "fromSide": "bottom",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "top",
+      "label": "motivational"
+    },
+    {
+      "id": "510e261a88ddc433",
+      "fromNode": "26b0a87bfe5dec33",
+      "fromSide": "bottom",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "right",
+      "label": "templates"
+    },
+    {
+      "id": "d932ea531450af7a",
+      "fromNode": "b49e41fa9180349f",
+      "fromSide": "bottom",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "top"
+    },
+    {
+      "id": "6a7831217f9123b4",
+      "fromNode": "8dfdff10d9e8de54",
+      "fromSide": "bottom",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "top"
+    },
+    {
+      "id": "b13641d72c929025",
+      "fromNode": "82942419364ca7a6",
+      "fromSide": "bottom",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "top"
+    },
+    {
+      "id": "50a0f42de5ad615a",
+      "fromNode": "7e077995c268122b",
+      "fromSide": "top",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "bottom",
+      "label": "SOS"
+    },
+    {
+      "id": "f75b92460ab5d8ea",
+      "fromNode": "f87cefa94ae09301",
+      "fromSide": "top",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "bottom"
+    },
+    {
+      "id": "31fbe7ea839d9727",
+      "fromNode": "6ad203cceed5413e",
+      "fromSide": "top",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c38dcc196e553aa4",
+      "fromNode": "4ca3d847308302ba",
+      "fromSide": "left",
+      "toNode": "d92bed2dd6670856",
+      "toSide": "right"
+    }
+  ]
 }

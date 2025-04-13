@@ -39,8 +39,8 @@ In this 2019 GDC session, My Dog Zorro’s Brett Taylor approaches the art and s
 - [03:48](https://www.youtube.com/watch?t=228&v=B36_OL1ZXVM): Human RAM: The amount of power that the player has to hold info in their head and use that to solve puzzles. 
 	- It is finite
 - [04:35](https://www.youtube.com/watch?t=275&v=B36_OL1ZXVM): Working memory and [[Flow state]]: 
-	- ![[Screenshot 2024-12-15 at 4.00.51 PM.png]]
-	- ![[Screenshot 2024-12-15 at 2.27.02 PM.png]]
+	- ![[Screenshot 2024-12-15 at 4.00.51 PM.webp]]
+	- ![[Screenshot 2024-12-15 at 2.27.02 PM.webp]]
 	- Requiring too much or too little working memory produces [[anxiety]] and [[boredom]]. 
 	- Flow state is fun. 
 	- [[boredom]] and [[anxiety]] are not [[fun]]. 
@@ -49,7 +49,7 @@ In this 2019 GDC session, My Dog Zorro’s Brett Taylor approaches the art and s
 
 ### Handcrafted vs. procedural puzzles 
 - [08:40](https://www.youtube.com/watch?t=520&v=B36_OL1ZXVM): 
-- ![[Screenshot 2024-12-15 at 4.02.00 PM.png]]
+- ![[Screenshot 2024-12-15 at 4.02.00 PM.webp]]
 
 ### Noise
 - ⭐ [11:11](https://www.youtube.com/watch?t=671&v=B36_OL1ZXVM): Noise is anything that takes away from the player's working memory
@@ -68,7 +68,7 @@ In this 2019 GDC session, My Dog Zorro’s Brett Taylor approaches the art and s
 - [20:54](https://www.youtube.com/watch?t=1254&v=B36_OL1ZXVM) 
 - [21:35](https://www.youtube.com/watch?t=1295&v=B36_OL1ZXVM): About [[mediocrity]]
 	- Don't be afraid of not being good enough. 
-	- ![[Screenshot 2024-12-15 at 2.53.10 PM.png]]
+	- ![[Screenshot 2024-12-15 at 2.53.10 PM.webp]]
 - **It's hard to admit a level is pointless.** *Especially if there is nothing better to replace it.*
 - Each level should be *educational*, *interesting*, *fun*, or *unique*. 
 
@@ -86,7 +86,7 @@ In this 2019 GDC session, My Dog Zorro’s Brett Taylor approaches the art and s
 - **Puzzle-solving** requires patterns and consistency
 - The player needs an idea of what they don't yet know
 - It should be unambiguous if the level requires action *or* puzzle skills. 
-- **Suggestion**: Make action levels optional. ![[Screenshot 2024-12-15 at 3.00.09 PM.png]]
+- **Suggestion**: Make action levels optional. ![[Screenshot 2024-12-15 at 3.00.09 PM.webp]]
 #### 5. Make the solution unambiguous
 [26:54](https://www.youtube.com/watch?t=1614&v=B36_OL1ZXVM)
 - If the solution is ambiguous, it damages the player's trust in the game. 
@@ -121,7 +121,7 @@ In this 2019 GDC session, My Dog Zorro’s Brett Taylor approaches the art and s
 	- 2. Use the mechanics together. 
 		- Let the mechanics interact with each other. 
 	- 3. Now you have interesting puzzles! 
-- ![[Screenshot 2024-12-15 at 4.04.12 PM.png]]
+- ![[Screenshot 2024-12-15 at 4.04.12 PM.webp]]
 
 ### How do you create the mechanics? 
 - [38:40](https://www.youtube.com/watch?t=2320&v=B36_OL1ZXVM): Experience, intuition, and luck
@@ -145,12 +145,12 @@ In this 2019 GDC session, My Dog Zorro’s Brett Taylor approaches the art and s
 - ❓: [45:24](https://www.youtube.com/watch?t=2724&v=B36_OL1ZXVM): How do you create solution sentences? 
 	- Force mechanics to interact with each other, and see what happens. [[Emergent Design]]. 
 	- Ask "What if ____"
-	- ![[Screenshot 2024-12-15 at 3.53.23 PM.png]]
+	- ![[Screenshot 2024-12-15 at 3.53.23 PM.webp]]
 		- This is a spreadsheet, combining game mechanics together to form solution sentences. 
 ### Emergent Design in Puzzle Games
 - [47:51](https://www.youtube.com/watch?t=2871&v=B36_OL1ZXVM): Game designers don't design puzzles. They design the mechanics, and the mechanics lead to the puzzles. 
 	- This is [[Emergent Design]] in Game Development. 
-- ![[Screenshot 2024-12-15 at 3.59.37 PM.png]]
+- ![[Screenshot 2024-12-15 at 3.59.37 PM.webp]]
 	- Done rightly, it should actually be **easier** to create a puzzle, than to solve it. 
 ## Q and A
 - [53:55](https://www.youtube.com/watch?t=3235&v=B36_OL1ZXVM): How do you know which content needs to be thrown out? 

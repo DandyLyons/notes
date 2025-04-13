@@ -4,7 +4,7 @@ aliases:
   - asymptotic runtime
 publish: true
 ---
-![[BigO.jpg]]
+![[BigO.webp]]
 
 ## Sources
 - [[Cracking the Coding Interview]] 

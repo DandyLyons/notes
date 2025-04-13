@@ -39,8 +39,8 @@ media_link: https://www.youtube.com/watch?v=M1POAEPATFo
 ---
 ## Deploy an Existing Web App on Lambda
 [08:23](https://www.youtube.com/watch?t=503&v=M1POAEPATFo)
-- ![[Screenshot 2024-10-04 at 5.11.51 PM.png]]
-- ![[Screenshot 2024-10-04 at 5.12.07 PM.png]]
+- ![[Screenshot 2024-10-04 at 5.11.51 PM.webp]]
+- ![[Screenshot 2024-10-04 at 5.12.07 PM.webp]]
 - Lambda runs on EC2 virtual machines
 	- inside a MicroVM
 - Vapor and Hummingbird provide a library that adapts your web app code to lambda
@@ -52,9 +52,9 @@ media_link: https://www.youtube.com/watch?v=M1POAEPATFo
 			- You only need to add one line to your docker file: 
 				- `COPY --from=public.ecr.aws/awsguru/aws-lambda-adapter:0.6.4 /lambda-adapter jopt/extensions/lambda-adapter` 
 		- This doesn't require any code change at all
-		- ![[Screenshot 2024-10-04 at 5.18.44 PM.png]]
+		- ![[Screenshot 2024-10-04 at 5.18.44 PM.webp]]
 		- Write a SAM template
-			- ![[Screenshot 2024-10-04 at 5.20.55 PM.png]]
+			- ![[Screenshot 2024-10-04 at 5.20.55 PM.webp]]
 			- You provide: 
 				- the web app
 				- the docker container
@@ -79,7 +79,7 @@ media_link: https://www.youtube.com/watch?v=M1POAEPATFo
 
 ## How to build and package?
 [20:41](https://www.youtube.com/watch?t=1241&v=M1POAEPATFo)
-![[Screenshot 2024-10-04 at 6.51.00 PM.png]]
+![[Screenshot 2024-10-04 at 6.51.00 PM.webp]]
 - `swift package --disable-sandbox archive` 
 	- it will create a docker container with the swift runtime for amazon linux. compiles your code to a binary and create a zip file ready to deploy on lambda
 - How do you deploy the zip file? [22:09](https://www.youtube.com/watch?t=1329&v=M1POAEPATFo)

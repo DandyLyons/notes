@@ -53,7 +53,7 @@ I hope you found this useful. Thanks for watching.
 
 
 ## My Notes
-![[Screenshot 2025-02-03 at 11.59.10 AM.png]]
+![[Screenshot 2025-02-03 at 11.59.10 AM.webp]]
 
 ### [00:00](https://www.youtube.com/watch?v=7-Os36k4pHs&t=0s) What's happening
 ### [00:11](https://www.youtube.com/watch?v=7-Os36k4pHs&t=11s) What you get

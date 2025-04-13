@@ -12,7 +12,7 @@ System framework to perform core cryptographic functionality on Apple platforms.
 - [Cryptography and Your Apps - WWDC19 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/709)   (@ 19:34) 
 	- [Cryptography and Your Apps | WWDC NOTES](https://www.wwdcnotes.com/notes/wwdc19/709/) 
 
-![[Screenshot 2024-04-02 at 8.51.27 PM.png]]
+![[Screenshot 2024-04-02 at 8.51.27 PM.webp]]
 
 ## swift-crypto
 - [Swift.org - Introducing Swift Crypto](https://www.swift.org/blog/crypto/) 

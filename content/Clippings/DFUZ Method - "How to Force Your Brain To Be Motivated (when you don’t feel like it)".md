@@ -78,7 +78,7 @@ X: https://x.com/drjustinsung
 - [03:32](https://www.youtube.com/watch?t=212&v=RMB3NsQotvM): **Sources of motivation**
 	- **Extrinsic motivations**: money, reward, social status
 	- **intrinsic motivations:** things that come from our own mind. e.g. [[satisfaction]], [[fulfillment]], sense of [[purpose]], [[enjoyment]]. 
-![[Screenshot 2025-01-21 at 9.54.37 AM.png]]
+![[Screenshot 2025-01-21 at 9.54.37 AM.webp]]
 
 
 

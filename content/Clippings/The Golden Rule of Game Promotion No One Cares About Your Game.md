@@ -52,7 +52,7 @@ GDC talks cover a range of developmental topics including game design, programmi
 		- Does your content read well on a small screen? 
 ### Rule 4: Know your next step
 - [16:50](https://www.youtube.com/watch?t=1010&v=-341jEXj-iI): What is your sales funnel?
-	- ![[Screenshot 2024-12-15 at 9.20.51 PM.png]]
+	- ![[Screenshot 2024-12-15 at 9.20.51 PM.webp]]
 	- What is the next thing your viewers should do? 
 		- Always know where people should go next. 
 		- Call to actions are great! BUT can be mega cringe!
@@ -69,7 +69,7 @@ GDC talks cover a range of developmental topics including game design, programmi
 	- Tik Tok is a good platform to try a bunch of shots and find out which one people react to.  
 
 ### PR Campaign Evolution
-![[Screenshot 2024-12-15 at 9.29.39 PM.png]]
+![[Screenshot 2024-12-15 at 9.29.39 PM.webp]]
 - [21:21](https://www.youtube.com/watch?t=1281&v=-341jEXj-iI): 1. make the game
 - 2: regular PR Campaign
 - 3: rinse, repeat

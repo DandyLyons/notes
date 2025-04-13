@@ -8,7 +8,7 @@ Way back in 2007, Apple made backups easy and approachable with their Time Machi
 
 Yet even further back, the [Internet Archive](https://archive.org/) released the [Wayback Machine](https://web.archive.org/), a time machine, not just for files on your computer, but for the whole internet! 
 
-![[Screenshot 2024-03-26 at 1.01.15 PM.png]]
+![[Screenshot 2024-03-26 at 1.01.15 PM.webp]]
 >Who says Twitter is gone, huh? 
 
 

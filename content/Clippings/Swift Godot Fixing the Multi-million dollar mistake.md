@@ -26,16 +26,16 @@ Status: "✅ Read"
 - If you're happy with C# and other languages, by all means continue using it. 
 
 ### SwiftGodot Example [35:21](https://www.youtube.com/watch?t=2121&v=tzt36EGKEZo) 
-![[Screenshot 2024-11-11 at 8.40.26 AM.png]]
+![[Screenshot 2024-11-11 at 8.40.26 AM.webp]]
 - [35:45](https://www.youtube.com/watch?t=2145&v=tzt36EGKEZo): `@Godot` registers the class
 - [36:10](https://www.youtube.com/watch?t=2170&v=tzt36EGKEZo): `@Callable` surfaces the function to be usable by other Godot extensions
 - [36:16](https://www.youtube.com/watch?t=2176&v=tzt36EGKEZo): works just like `@export` in GDScript
-- ![[Screenshot 2024-11-11 at 8.44.08 AM.png]]
+- ![[Screenshot 2024-11-11 at 8.44.08 AM.webp]]
 
 ### [38:56](https://www.youtube.com/watch?t=2336&v=tzt36EGKEZo): SwiftGodotKit: Use Godot within Swift
-- ![[Screenshot 2024-11-11 at 8.46.30 AM.png]]
-- ![[Screenshot 2024-11-11 at 8.47.17 AM.png]]
-- ![[Screenshot 2024-11-11 at 8.49.04 AM.png]]
+- ![[Screenshot 2024-11-11 at 8.46.30 AM.webp]]
+- ![[Screenshot 2024-11-11 at 8.47.17 AM.webp]]
+- ![[Screenshot 2024-11-11 at 8.49.04 AM.webp]]
 ### [42:47](https://www.youtube.com/watch?t=2567&v=tzt36EGKEZo): SwiftGodot Community
 
 ### [47:32](https://www.youtube.com/watch?t=2852&v=tzt36EGKEZo)Q and A

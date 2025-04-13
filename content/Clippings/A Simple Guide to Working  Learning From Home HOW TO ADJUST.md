@@ -42,7 +42,7 @@ Licensed under Creative Commons: By Attribution 3.0
 http://creativecommons.org/licenses/by/3.0/
 
 ## My Notes
-![[Screenshot 2025-02-16 at 8.27.08 AM.png]]
+![[Screenshot 2025-02-16 at 8.27.08 AM.webp]]
 
 I'll help create organized study notes from this video about working from home with [[Topics/Health/ADHD/index|ADHD]].
 

@@ -20,8 +20,8 @@ media_link:
 		- Include headers
 	- Use keywords that align with your **ideal** direction
 	- 3 part framework:
-		- ![[Screenshot 2024-09-05 at 11.14.25 AM.png]]
-		- ![[Screenshot 2024-09-05 at 11.14.43 AM.png]]
+		- ![[Screenshot 2024-09-05 at 11.14.25 AM.webp]]
+		- ![[Screenshot 2024-09-05 at 11.14.43 AM.webp]]
 		- Sentence 1: Your background
 		- Sentence 2: Your strengths
 			- *I am particularly great at ... because I leverage my `unique skills here`* 
@@ -29,7 +29,7 @@ media_link:
 - Featured Section: 
 	- Blog posts, etc. Anything you want to highlight
 - Experience Section: 
-	- ![[Screenshot 2024-09-05 at 11.17.32 AM.png]]
+	- ![[Screenshot 2024-09-05 at 11.17.32 AM.webp]]
 	- Similar to a resume but does not need to be exact same. 
 	- Try 1-3 sentence paragraph to describe your role
 	- You can have a bit more information than a resume

@@ -14,14 +14,14 @@ URL: https://hireready.heysummit.com/talks/networking-workshop/
 	- the more you try to be someone else, you end up in the wrong job
 - **Design thinking**
 	- A problem solving methodology from the design
-	- ![[Screenshot 2024-09-05 at 1.08.38 PM.png]]
+	- ![[Screenshot 2024-09-05 at 1.08.38 PM.webp]]
 	- Similar to PDCA: (plan, do, check, act)
 	- Similar to Agile
 	- Step 1: Empathize: 
 		- Understanding others **and** yourself
 		- *Who are you?*
 			- Present. Past. Future. 
-			- ![[Screenshot 2024-09-05 at 1.13.17 PM.png]]
+			- ![[Screenshot 2024-09-05 at 1.13.17 PM.webp]]
 		- *What is important to you now in your work/career?* 
 		- *What does your community care about?* 
 		- *What do you stand for?* (values)
@@ -36,7 +36,7 @@ URL: https://hireready.heysummit.com/talks/networking-workshop/
 		- The Career Networking Persona Organizer
 			- Spreadsheet: [Fireworks Coaching Networking Organizer - 083024 - Google Drive](https://docs.google.com/spreadsheets/d/1-q6k48i1Am7XawaDoIhPHulN-avAXP-hL3ibJirDmhA/edit?gid=1185666861#gid=1185666861) 
 				- Click File > Make a copy to edit your own copy
-			- ![[Screenshot 2024-09-05 at 1.16.27 PM.png]]
+			- ![[Screenshot 2024-09-05 at 1.16.27 PM.webp]]
 			- a tool to keep track of people you know in your network
 			- similar to a CMS
 			- This is an **ongoing process**. It should be done periodically, even when you are not actively job seeking. 

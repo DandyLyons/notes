@@ -4,7 +4,7 @@ date:
 aliases: 
 title:
 ---
-![[Screenshot 2024-04-06 at 2.13.19 PM.png]] 
+![[Screenshot 2024-04-06 at 2.13.19 PM.webp]] 
 
 This cipher encrypts binary data. The algorithm is simple. Just use [[XOR]]. 
 This cipher has [[perfect secrecy]], meaning that a cipher text only attack is impossible. 

@@ -59,6 +59,6 @@ When developing any software, you are often faced with difficult choices. To hel
 
 ## Templates
 ### Supported Variables
-![[Projects Plugin.png]]
+![[Projects Plugin.webp]]
 ### Embeddable Views
-![[Projects Plugin-1.png]]
+![[Projects Plugin-1.webp]]

@@ -8,7 +8,7 @@ Steganography is the close sibling to [[Topics/Software Development/Cryptography
 
 Steganography is an example of [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) . 
 
-![[Screenshot 2024-04-30 at 1.59.32 PM.png]]
+![[Screenshot 2024-04-30 at 1.59.32 PM.webp]]
 ## Terminology
 - hiddentext: the message or payload that we want to communicate secretly
 - **Cover-__**: this is the innocuous thing that is hiding the payload
