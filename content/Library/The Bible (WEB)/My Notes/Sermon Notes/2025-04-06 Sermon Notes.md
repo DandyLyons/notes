@@ -27,9 +27,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series | Location | Subjects | Takeaways | Sermon Link |
-| ------ | -------- | -------- | --------- | ----------- |
-| \-     | \-       | \-       | \-        | \-          |
+| Series                                         | Location                                                                               | Subjects                                                                                                                                                        | Takeaways | Sermon Link |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| [[Allison on Galatians\|Allison on Galatians]] | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[peace\|peace]]</li><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/the apostolic salutation.md\|the apostolic salutation]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

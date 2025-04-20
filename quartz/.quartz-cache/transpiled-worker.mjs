@@ -251,7 +251,7 @@ var en_US_default = {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      notFound: "\xC2 or doesn't exist.",
       home: "Return to Homepage"
     },
     folderContent: {

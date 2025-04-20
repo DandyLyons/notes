@@ -41,7 +41,7 @@ then he has said, "Behold, I have come to do your will." He takes away the first
 by which will we have been sanctified through the offering of the body of Jesus Christ once for all. 
 
 ###### v11 
-Every priest indeed stands day by day serving and offering often the same sacrifices which can never take away sins, 
+Every priest indeed stands day by day serving and offering often[^1] the same sacrifices which can never take away sins, 
 
 ###### v12 
 but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God, 
@@ -134,4 +134,6 @@ But we are not of those who shrink back to destruction, but of those who have fa
 ## My Notes
 
 ---
-## Footnotes
+# Footnotes
+
+[^1]: i.e. *repeatedly*, *multiple times*

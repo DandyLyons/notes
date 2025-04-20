@@ -21,7 +21,7 @@ They bound him, led him away, and delivered him up to Pontius Pilate, the govern
 Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders, 
 
 ###### v4 
-saying, "I have sinned in that I betrayed innocent blood." But they said, "What is that to us? You see to it." 
+saying, "I have sinned in that I betrayed innocent blood." But they said, "What is that to us? [[#"You see to it."|You see to it.]]" 
 
 ###### v5 
 He threw down the pieces of silver in the sanctuary and departed. Then he went away and hanged himself. 
@@ -84,7 +84,7 @@ But the governor said, "Why? What evil has he done?" But they cried out exceedin
 
 ## Pilate Delivers Jesus to be Crucified
 ###### v24 
-So when Pilate saw that nothing was being gained, but rather that a disturbance was starting, he took water and washed his hands before the multitude, saying, "I am innocent of the blood of this righteous person. You see to it." 
+So when Pilate saw that nothing was being gained, but rather that a disturbance was starting, he took water and washed his hands before the multitude, saying, "I am innocent of the blood of this righteous person. [[#"You see to it."|You see to it.]]" 
 
 ###### v25 
 All the people answered, "May his blood be on us and on our children!" 
@@ -224,6 +224,25 @@ So they went with the guard and made the tomb secure, sealing the stone.
 ## My Notes
 
 - [[#v47]]: Jesus called "Eli, eli", meaning "My God, my God, why have you forsaken me." *Eli* means *my God*, but it is also short for Elijah. (Elijah means *my God is Yah.*) So the people mistakenly thought that Jesus was calling for the prophet Elijah. 
+
+### "You see to it."
+Matthew repeats this phrase *"See to it*" in this chapter. I do not think this is an accident. I think he is deliberately showing us a parallel. 
+
+- [[Matt-27#v4|Matthew 27.4]] saying, "I have sinned in that I betrayed innocent blood." But they said, "What is that to us? ==You see to it.=="  
+- [[Matt-27#v24|Matthew 27.24]] So when Pilate saw that nothing was being gained, but rather that a disturbance was starting, he took water and washed his hands before the multitude, saying, "I am innocent of the blood of this righteous person. ==You see to it.=="   
+
+In both instances: 
+1. someone explicitly uses the phrase *innocent blood*
+2. someone is expressing an objection to the idea of contributing to Jesus' death
+3. someone is worried about their own culpability 
+4. someone is explicitly stating that Jesus is without sin
+
+When we look deeper at each of these situations, the tell us quite a bit about Jesus and His accusors. 
+
+#### Regretful Judas
+In verses 3-8 we see Judas the disciple immediately after he betrays Jesus, his own teacher, to death. Judas "*felt remorse*" (that is regret). He says to the chief priests and elders of the temple "I have sinned in that I betrayed innocent blood." This is explicitly referring to Jesus. He knows that Jesus has done nothing wrong and yet now He is to be executed for crimes that He never committed. 
+
+The reply of the chief priests is drenched in irony. "What is that to us? You see to it." What is that to you? How can priests of the temple say that it is not their problem when a sinner comes to them and confesses his sin? It is literally their job to bring the people into right relationshi
 
 ---
 ## Footnotes

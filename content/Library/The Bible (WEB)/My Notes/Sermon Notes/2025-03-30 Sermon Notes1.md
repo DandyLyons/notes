@@ -26,9 +26,9 @@ WHERE file.path = this.file.path
 ```
 %%
 
-| Series | Location | Subjects | Takeaways | Sermon Link |
-| ------ | -------- | -------- | --------- | ----------- |
-| \-     | \-       | \-       | \-        | \-          |
+| Series                                                        | Location                                                                               | Subjects                                                                                                  | Takeaways | Sermon Link |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| [[gitignore/Allison on the Psalms.md\|Allison on the Psalms]] | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/providence.md\|providence]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 

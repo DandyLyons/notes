@@ -12,7 +12,6 @@ LIMIT 1000
 ```
 %%
 
-- [[Topics/maxims/All you can do is the best you can do..md|All you can do is the best you can do.]]
 - [[Topics/maxims/Just Do it.md|Just Do it]]
 - [[Topics/maxims/Many hands make little work..md|Many hands make little work.]]
 - [[Topics/maxims/Measure against yourself.md|Measure against yourself]]
@@ -23,5 +22,6 @@ LIMIT 1000
 - [[Topics/maxims/fake it til you make it.md|fake it til you make it]]
 - [[Topics/maxims/index.md|index]]
 - [[Topics/maxims/trust the process.md|trust the process]]
+- [[Topics/maxims/All you can do is the best you can do..md|All you can do is the best you can do.]]
 
 %% DATAVIEW_PUBLISHER: end %%

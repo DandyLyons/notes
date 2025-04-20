@@ -45,6 +45,7 @@ But the chief priests conspired to put Lazarus to death also,
 ###### v11 
 because on account of him many of the Jews went away and believed in Jesus. 
 
+### Palm Sunday
 ###### v12 
 On the next day a great multitude had come to the feast. When they heard that Jesus was coming to Jerusalem, 
 
@@ -52,7 +53,7 @@ On the next day a great multitude had come to the feast. When they heard that Je
 they took the branches of the palm trees and went out to meet him, and cried out, "Hosanna! Blessed is he who comes in the name of the Lord, the King of Israel!" 
 
 ###### v14 
-Jesus, having found a young donkey, sat on it. As it is written, 
+Jesus, having found a young donkey, sat on it. As it is [[Zech-09#v9|written]], 
 
 ###### v15 
 "Don't be afraid, daughter of Zion. Behold, your King comes, sitting on a donkey's colt." 
