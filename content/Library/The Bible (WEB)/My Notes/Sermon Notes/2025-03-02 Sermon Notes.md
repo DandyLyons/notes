@@ -28,7 +28,7 @@ WHERE file.path = this.file.path
 
 | Series                   | Location                                                                               | Subjects                                                                                      | Takeaways | Sermon Link |
 | ------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- | ----------- |
-| Allison on 2 Corinthians | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/love.md\|Love]]</li></ul> | \-        | \-          |
+| Allison on 2 Corinthians | [[Topics/Emmaus Orthodox Presbyterian Church.md\|Emmaus Orthodox Presbyterian Church]] | <ul><li>[[Library/The Bible (WEB)/00 - About/Subjects in the Bible/Love.md\|Love]]</li></ul> | \-        | \-          |
 
 %% DATAVIEW_PUBLISHER: end %%
 
