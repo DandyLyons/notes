@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Why is this site called "Dream. Build. Ship!"?
+title: Why is this site called Dream. Build. Ship!?
 aliases:
   - Dream. Build. Ship!
 ---
