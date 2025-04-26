@@ -28,10 +28,10 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: Minify HTML
-        run: |
-          npm install html-minifier-terser --no-save
-          npx html-minifier-terser --input-dir public --output-dir public --file-ext html --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --use-short-doctype --minify-css true --minify-js true
+      # - name: Minify HTML
+      #   run: |
+      #     npm install html-minifier-terser --no-save
+      #     npx html-minifier-terser --input-dir public --output-dir public --file-ext html --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --use-short-doctype --minify-css true --minify-js true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
