@@ -59,47 +59,7 @@ export default ((userOpts?: Partial<Options>) => {
   const opts: Options = { ...defaultOptions, ...userOpts }
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
-  // memoized
-  let fileTree: FileNode
-  let jsonTree: string
-
-  function constructFileTree(allFiles: QuartzPluginData[]) {
-    if (fileTree) {
-      return
-    }
-
-    // Construct tree from allFiles
-    fileTree = new FileNode("")
-    allFiles.forEach((file) => fileTree.add(file))
-
-    // Execute all functions (sort, filter, map) that were provided (if none were provided, only default "sort" is applied)
-    if (opts.order) {
-      // Order is important, use loop with index instead of order.map()
-      for (let i = 0; i < opts.order.length; i++) {
-        const functionName = opts.order[i]
-        if (functionName === "map") {
-          fileTree.map(opts.mapFn)
-        } else if (functionName === "sort") {
-          fileTree.sort(opts.sortFn)
-        } else if (functionName === "filter") {
-          fileTree.filter(opts.filterFn)
-        }
-      }
-    }
-
-    // Get all folders of tree. Initialize with collapsed state
-    // Stringify to pass json tree as data attribute ([data-tree])
-    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed")
-    jsonTree = JSON.stringify(folders)
-  }
-
-  const Explorer: QuartzComponent = ({
-    cfg,
-    allFiles,
-    displayClass,
-    fileData,
-  }: QuartzComponentProps) => {
-    constructFileTree(allFiles)
+  const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
     return (
       <div
         class={classNames(displayClass, "explorer")}

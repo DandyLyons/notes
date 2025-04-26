@@ -187,7 +187,7 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
     const textToMarkdownPromises: WorkerPromise<MarkdownContent[]>[] = []
     let processedFiles = 0
     for (const chunk of chunks(fps, CHUNK_SIZE)) {
-      childPromises.push(pool.exec("parseFiles", [argv, chunk, ctx.allSlugs]))
+      textToMarkdownPromises.push(pool.exec("parseMarkdown", [serializableCtx, chunk]))
     }
 
     const mdResults: Array<MarkdownContent[]> = await Promise.all(

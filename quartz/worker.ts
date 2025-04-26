@@ -13,8 +13,12 @@ import { options } from "./util/sourcemap"
 import { MarkdownContent, ProcessedContent } from "./plugins/vfile"
 
 // only called from worker thread
-export async function parseFiles(argv: Argv, fps: FilePath[], allSlugs: FullSlug[]) {
+export async function parseMarkdown(
+  partialCtx: WorkerSerializableBuildCtx,
+  fps: FilePath[],
+): Promise<MarkdownContent[]> {
   const ctx: BuildCtx = {
+    ...partialCtx,
     cfg,
   }
   return await createFileParser(ctx, fps)(createMdProcessor(ctx))

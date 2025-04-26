@@ -22,6 +22,7 @@ export type BuildTimeTrieData = QuartzPluginData & {
 }
 
 export interface BuildCtx {
+  buildId: string
   argv: Argv
   cfg: QuartzConfig
   allSlugs: FullSlug[]

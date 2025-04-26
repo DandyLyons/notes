@@ -40,13 +40,11 @@ type BuildData = {
   contentMap: ContentMap
   changesSinceLastBuild: Record<FilePath, ChangeEvent["type"]>
   lastBuildMs: number
-  dependencies: Dependencies
 }
-
-type FileEvent = "add" | "change" | "delete"
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
+    buildId: randomIdNonSecure(),
     argv,
     cfg,
     allSlugs: [],
@@ -284,93 +282,7 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
 
   console.log(`Emitted ${emittedFiles} files to \`${argv.output}\` in ${perf.timeSince("rebuild")}`)
   console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-
-  toRemove.clear()
-  release()
-  clientRefresh()
-}
-
-async function rebuildFromEntrypoint(
-  fp: string,
-  action: FileEvent,
-  clientRefresh: () => void,
-  buildData: BuildData, // note: this function mutates buildData
-) {
-  const { ctx, ignored, mut, initialSlugs, contentMap, toRebuild, toRemove, trackedAssets } =
-    buildData
-
-  const { argv } = ctx
-
-  // don't do anything for gitignored files
-  if (ignored(fp)) {
-    return
-  }
-
-  // dont bother rebuilding for non-content files, just track and refresh
-  fp = toPosixPath(fp)
-  const filePath = joinSegments(argv.directory, fp) as FilePath
-  if (path.extname(fp) !== ".md") {
-    if (action === "add" || action === "change") {
-      trackedAssets.add(filePath)
-    } else if (action === "delete") {
-      trackedAssets.delete(filePath)
-    }
-    clientRefresh()
-    return
-  }
-
-  if (action === "add" || action === "change") {
-    toRebuild.add(filePath)
-  } else if (action === "delete") {
-    toRemove.add(filePath)
-  }
-
-  const buildId = newBuildId()
-  ctx.buildId = buildId
-  buildData.lastBuildMs = new Date().getTime()
-  const release = await mut.acquire()
-
-  // there's another build after us, release and let them do it
-  if (ctx.buildId !== buildId) {
-    release()
-    return
-  }
-
-  const perf = new PerfTimer()
-  console.log(chalk.yellow("Detected change, rebuilding..."))
-  try {
-    const filesToRebuild = [...toRebuild].filter((fp) => !toRemove.has(fp))
-
-    const trackedSlugs = [...new Set([...contentMap.keys(), ...toRebuild, ...trackedAssets])]
-      .filter((fp) => !toRemove.has(fp))
-      .map((fp) => slugifyFilePath(path.posix.relative(argv.directory, fp) as FilePath))
-
-    ctx.allSlugs = [...new Set([...initialSlugs, ...trackedSlugs])]
-    const parsedContent = await parseMarkdown(ctx, filesToRebuild)
-    for (const content of parsedContent) {
-      const [_tree, vfile] = content
-      contentMap.set(vfile.data.filePath!, content)
-    }
-
-    for (const fp of toRemove) {
-      contentMap.delete(fp)
-    }
-
-    const parsedFiles = [...contentMap.values()]
-    const filteredContent = filterContent(ctx, parsedFiles)
-
-    // TODO: we can probably traverse the link graph to figure out what's safe to delete here
-    // instead of just deleting everything
-    await rimraf(path.join(argv.output, ".*"), { glob: true })
-    await emitContent(ctx, filteredContent)
-    console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-  } catch (err) {
-    console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
-    if (argv.verbose) {
-      console.log(chalk.red(err))
-    }
-  }
-
+  changes.splice(0, numChangesInBuild)
   clientRefresh()
   release()
 }

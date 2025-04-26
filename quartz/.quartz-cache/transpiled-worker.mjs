@@ -3494,7 +3494,7 @@ var en_US_default = {
     },
     error: {
       title: "Not Found",
-      notFound: "\xC2 or doesn't exist.",
+      notFound: "Either this page is private or doesn't exist.",
       home: "Return to Homepage"
     },
     folderContent: {
@@ -5963,6 +5963,48 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import rehypeMathjax from "rehype-mathjax/svg";
 import rehypeTypst from "@myriaddreamin/rehype-typst";
+var Latex = /* @__PURE__ */ __name((opts) => {
+  const engine = opts?.renderEngine ?? "katex";
+  const macros = opts?.customMacros ?? {};
+  return {
+    name: "Latex",
+    markdownPlugins() {
+      return [remarkMath];
+    },
+    htmlPlugins() {
+      switch (engine) {
+        case "katex": {
+          return [[rehypeKatex, { output: "html", macros, ...opts?.katexOptions ?? {} }]];
+        }
+        case "typst": {
+          return [[rehypeTypst, opts?.typstOptions ?? {}]];
+        }
+        case "mathjax": {
+          return [[rehypeMathjax, { macros, ...opts?.mathJaxOptions ?? {} }]];
+        }
+        default: {
+          return [[rehypeMathjax, { macros, ...opts?.mathJaxOptions ?? {} }]];
+        }
+      }
+    },
+    externalResources() {
+      switch (engine) {
+        case "katex":
+          return {
+            css: [{ content: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" }],
+            js: [
+              {
+                // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
+                src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js",
+                loadTime: "afterDOMReady",
+                contentType: "external"
+              }
+            ]
+          };
+      }
+    }
+  };
+}, "Latex");
 
 // quartz/plugins/transformers/description.ts
 import { toString } from "hast-util-to-string";
@@ -6885,13 +6927,14 @@ var blockquoteRegex = new RegExp(/(\[\[>\]\])\s*(.*)/, "g");
 var roamHighlightRegex = new RegExp(/\^\^(.+)\^\^/, "g");
 var roamItalicRegex = new RegExp(/__(.+)__/, "g");
 
-// quartz/plugins/filters/explicit.ts
-var ExplicitPublish = /* @__PURE__ */ __name(() => ({
-  name: "ExplicitPublish",
+// quartz/plugins/filters/draft.ts
+var RemoveDrafts = /* @__PURE__ */ __name(() => ({
+  name: "RemoveDrafts",
   shouldPublish(_ctx, [_tree, vfile]) {
-    return vfile.data?.frontmatter?.publish === true || vfile.data?.frontmatter?.publish === "true";
+    const draftFlag = vfile.data?.frontmatter?.draft === true || vfile.data?.frontmatter?.draft === "true";
+    return !draftFlag;
   }
-}), "ExplicitPublish");
+}), "RemoveDrafts");
 
 // quartz/plugins/emitters/contentPage.tsx
 import path6 from "path";
@@ -7735,6 +7778,7 @@ var ReaderMode = /* @__PURE__ */ __name(({ displayClass }) => {
 }, "ReaderMode");
 ReaderMode.beforeDOMLoaded = readermode_inline_default;
 ReaderMode.css = readermode_default;
+var ReaderMode_default = /* @__PURE__ */ __name(() => ReaderMode, "default");
 
 // quartz/util/theme.ts
 var DEFAULT_SANS_SERIF = 'system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
@@ -8606,37 +8650,7 @@ var defaultOptions14 = {
 var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
   const opts = { ...defaultOptions14, ...userOpts };
   const { OverflowList: OverflowList2, overflowListAfterDOMLoaded } = OverflowList_default();
-  let fileTree;
-  let jsonTree;
-  function constructFileTree(allFiles) {
-    if (fileTree) {
-      return;
-    }
-    fileTree = new FileNode("");
-    allFiles.forEach((file) => fileTree.add(file));
-    if (opts.order) {
-      for (let i = 0; i < opts.order.length; i++) {
-        const functionName = opts.order[i];
-        if (functionName === "map") {
-          fileTree.map(opts.mapFn);
-        } else if (functionName === "sort") {
-          fileTree.sort(opts.sortFn);
-        } else if (functionName === "filter") {
-          fileTree.filter(opts.filterFn);
-        }
-      }
-    }
-    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed");
-    jsonTree = JSON.stringify(folders);
-  }
-  __name(constructFileTree, "constructFileTree");
-  const Explorer = /* @__PURE__ */ __name(({
-    cfg,
-    allFiles,
-    displayClass,
-    fileData
-  }) => {
-    constructFileTree(allFiles);
+  const Explorer = /* @__PURE__ */ __name(({ cfg, displayClass }) => {
     return /* @__PURE__ */ jsxs14(
       "div",
       {
@@ -9057,6 +9071,36 @@ import { Fragment as Fragment5, jsx as jsx34 } from "preact/jsx-runtime";
 
 // quartz/components/Flex.tsx
 import { jsx as jsx35 } from "preact/jsx-runtime";
+var Flex_default = /* @__PURE__ */ __name((config2) => {
+  const Flex = /* @__PURE__ */ __name((props) => {
+    const direction = config2.direction ?? "row";
+    const wrap = config2.wrap ?? "nowrap";
+    const gap = config2.gap ?? "1rem";
+    return /* @__PURE__ */ jsx35("div", { style: `display: flex; flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap};`, children: config2.components.map((c) => {
+      const grow = c.grow ? 1 : 0;
+      const shrink = c.shrink ?? true ? 1 : 0;
+      const basis = c.basis ?? "auto";
+      const order = c.order ?? 0;
+      const align = c.align ?? "center";
+      const justify = c.justify ?? "center";
+      return /* @__PURE__ */ jsx35(
+        "div",
+        {
+          style: `flex-grow: ${grow}; flex-shrink: ${shrink}; flex-basis: ${basis}; order: ${order}; align-self: ${align}; justify-self: ${justify};`,
+          children: /* @__PURE__ */ jsx35(c.Component, { ...props })
+        }
+      );
+    }) });
+  }, "Flex");
+  Flex.afterDOMLoaded = concatenateResources(
+    ...config2.components.map((c) => c.Component.afterDOMLoaded)
+  );
+  Flex.beforeDOMLoaded = concatenateResources(
+    ...config2.components.map((c) => c.Component.beforeDOMLoaded)
+  );
+  Flex.css = concatenateResources(...config2.components.map((c) => c.Component.css));
+  return Flex;
+}, "default");
 
 // quartz/components/ConditionalRender.tsx
 import { jsx as jsx36 } from "preact/jsx-runtime";
@@ -9074,20 +9118,6 @@ var ConditionalRender_default = /* @__PURE__ */ __name((config2) => {
 }, "default");
 
 // quartz.layout.ts
-var MyExplorer = Explorer_default({
-  title: "Explorer",
-  folderClickBehavior: "link",
-  folderDefaultState: "collapsed",
-  useSavedState: true,
-  // sortFn: (a, b) => {
-  // implement sortFn here
-  // },
-  filterFn: /* @__PURE__ */ __name((node) => node.name !== "tags", "filterFn"),
-  //filter out "tags" folder
-  // mapFn: undefined,
-  order: ["filter", "map", "sort"]
-  // what order to apply functions in
-});
 var sharedPageComponents = {
   head: Head_default(),
   header: [],
@@ -9112,9 +9142,17 @@ var defaultContentPageLayout = {
   left: [
     PageTitle_default(),
     MobileOnly_default(Spacer_default()),
-    Search_default(),
-    Darkmode_default(),
-    DesktopOnly_default(MyExplorer)
+    Flex_default({
+      components: [
+        {
+          Component: Search_default(),
+          grow: true
+        },
+        { Component: Darkmode_default() },
+        { Component: ReaderMode_default() }
+      ]
+    }),
+    Explorer_default()
   ],
   right: [
     Graph_default(),
@@ -9127,9 +9165,16 @@ var defaultListPageLayout = {
   left: [
     PageTitle_default(),
     MobileOnly_default(Spacer_default()),
-    Search_default(),
-    Darkmode_default(),
-    DesktopOnly_default(MyExplorer)
+    Flex_default({
+      components: [
+        {
+          Component: Search_default(),
+          grow: true
+        },
+        { Component: Darkmode_default() }
+      ]
+    }),
+    Explorer_default()
   ],
   right: []
 };
@@ -10068,14 +10113,15 @@ import chalk6 from "chalk";
 // quartz.config.ts
 var config = {
   configuration: {
-    pageTitle: "Daniel's Notes",
+    pageTitle: "Quartz 4",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible"
     },
     locale: "en-US",
-    baseUrl: "dandylyons.github.io",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -10129,12 +10175,10 @@ var config = {
       GitHubFlavoredMarkdown(),
       TableOfContents(),
       CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Description({
-        descriptionLength: 150
-      })
-      // Plugin.Latex({ renderEngine: "katex" }),
+      Description(),
+      Latex({ renderEngine: "katex" })
     ],
-    filters: [ExplicitPublish()],
+    filters: [RemoveDrafts()],
     emitters: [
       AliasRedirects(),
       ComponentResources(),
@@ -10143,7 +10187,7 @@ var config = {
       TagPage(),
       ContentIndex({
         enableSiteMap: true,
-        includeEmptyFiles: false
+        enableRSS: true
       }),
       Assets(),
       Static(),
@@ -10274,13 +10318,14 @@ var options = {
 
 // quartz/worker.ts
 sourceMapSupport.install(options);
-async function parseFiles(argv, fps, allSlugs) {
+async function parseMarkdown(partialCtx, fps) {
   const ctx = {
+    ...partialCtx,
     cfg: quartz_config_default
   };
   return await createFileParser(ctx, fps)(createMdProcessor(ctx));
 }
-__name(parseFiles, "parseFiles");
+__name(parseMarkdown, "parseMarkdown");
 function processHtml(partialCtx, mds) {
   const ctx = {
     ...partialCtx,
@@ -10290,7 +10335,7 @@ function processHtml(partialCtx, mds) {
 }
 __name(processHtml, "processHtml");
 export {
-  parseFiles,
+  parseMarkdown,
   processHtml
 };
 //# sourceMappingURL=transpiled-worker.mjs.map
