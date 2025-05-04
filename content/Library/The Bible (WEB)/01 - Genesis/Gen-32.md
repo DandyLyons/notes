@@ -9,16 +9,16 @@ aliases:
 ***
 
 ## The Text 
-### Jacob Wrestles With God
+
 
 ###### v1 
 Jacob went on his way, and the angels of God met him. 
 
 ###### v2 
-When he saw them, Jacob said, "This is God's army." He called the name of that place Mahanaim. 
+When he saw them, Jacob said, "This is God's army." He called the name of that place [[Mahanaim]]. 
 
 ###### v3 
-Jacob sent messengers in front of him to Esau, his brother, to the land of Seir, the field of Edom. 
+Jacob sent messengers in front of him to Esau, his brother, to the land of [[Seir]], the field of Edom. 
 
 ###### v4 
 He commanded them, saying, "This is what you shall tell my lord, Esau: 'This is what your servant, Jacob, says. I have lived as a foreigner with Laban, and stayed until now. 
@@ -80,6 +80,7 @@ He rose up that night, and took his two wives, and his two servants, and his ele
 ###### v23 
 He took them, and sent them over the stream, and sent over that which he had. 
 
+### Jacob Wrestles with God and Gets the Name Israel 
 ###### v24 
 Jacob was left alone, and wrestled with a man there until the breaking of the day. 
 
@@ -99,7 +100,7 @@ He said, "Your name will no longer be called Jacob, but Israel; for you have fou
 Jacob asked him, "Please tell me your name." He said, "Why is it that you ask what my name is?" So he blessed him there. 
 
 ###### v30 
-Jacob called the name of the place Peniel; for he said, "I have seen God face to face, and my life is preserved." 
+Jacob called the name of the place [[Peniel]]; for he said, "I have seen God face to face, and my life is preserved." 
 
 ###### v31 
 The sun rose on him as he passed over Peniel, and he limped because of his thigh. 

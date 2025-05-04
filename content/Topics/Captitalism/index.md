@@ -7,4 +7,4 @@ ContentStatus: ✍🏼 Writing
 %%
 # Capitalism
 %%
-- [[I reject the term "capitalism"]] 
+- [[Topics/Captitalism/I reject the term "capitalism"]] 

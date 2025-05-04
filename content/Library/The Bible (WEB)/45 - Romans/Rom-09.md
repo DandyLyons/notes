@@ -85,10 +85,10 @@ and that he might make known the riches of his glory on vessels of mercy, which 
 us, whom he also called, not from the Jews only, but also from the Gentiles? 
 
 ###### v25 
-As he says also in Hosea, "I will call them 'my people,' which were not my people; and her 'beloved,' who was not beloved." 
+As he says also in [[Hos-02#v23|Hosea]], "I will call them 'my people,' which were not my people; and her 'beloved,' who was not beloved." 
 
 ###### v26 
-"It will be that in the place where it was said to them, 'You are not my people,' there they will be called 'children of the living God.'" 
+"It will be that in the place where it was [[Hos-01#v10|Hosea]] to them, 'You are not my people,' there they will be called 'children of the living God.'" 
 
 ###### v27 
 Isaiah cries concerning Israel, "If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved; 

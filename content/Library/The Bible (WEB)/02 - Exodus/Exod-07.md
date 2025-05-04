@@ -8,7 +8,8 @@ aliases:
 [[Exod-06|← Exodus 06]] | [[Exodus]] | [[Exod-08|Exodus 08 →]]
 ***
 
-
+## The Text
+### Moses and Aaron Confront Pharaoh
 
 ###### v1 
 Yahweh said to Moses, "Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet. 
@@ -31,6 +32,7 @@ Moses and Aaron did so. As Yahweh commanded them, so they did.
 ###### v7 
 Moses was eighty years old, and Aaron eighty-three years old, when they spoke to Pharaoh. 
 
+### Moses' Rod Turns Into a Serpent
 ###### v8 
 Yahweh spoke to Moses and to Aaron, saying, 
 
@@ -49,6 +51,7 @@ For they each cast down their rods, and they became serpents; but Aaron's rod sw
 ###### v13 
 Pharaoh's heart was hardened, and he didn't listen to them, as Yahweh had spoken. 
 
+### The First Plague: Water Turned Into Blood
 ###### v14 
 Yahweh said to Moses, "Pharaoh's heart is stubborn. He refuses to let the people go. 
 
@@ -65,7 +68,7 @@ Yahweh says, "In this you shall know that I am Yahweh. Behold: I will strike wit
 The fish that are in the river will die and the river will become foul. The Egyptians will loathe to drink water from the river."'" 
 
 ###### v19 
-Yahweh said to Moses, "Tell Aaron, 'Take your rod, and stretch out your hand over the waters of Egypt, over their rivers, over their streams, and over their pools, and over all their ponds of water, that they may become blood. There will be blood throughout all the land of Egypt, both in vessels of wood and in vessels of stone.'" 
+Yahweh said to Moses, "Tell Aaron, 'Take your rod, and stretch out your hand over the waters of Egypt, over their rivers, over their streams, and over their pools, and over all their ponds of water, that they may become blood. There will be blood throughout all the land of Egypt, both in vessels of wood and in vessels of stone[^1].'" 
 
 ###### v20 
 Moses and Aaron did so, as Yahweh commanded; and he lifted up the rod, and struck the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood. 
@@ -91,5 +94,10 @@ Seven days were fulfilled, after Yahweh had struck the river.
 ---
 ## My Notes
 
+### Water Turned Into Blood
+The Egyptians worshipped Hapi, the so-called god of their river. By turning their water into blood, God very clearly showed that Hapi was not God. 
+
 ---
-## Footnotes
+# Footnotes
+
+[^1]: Notice it is not just the river that turned to blood. It is every pond, and even every vessel or container of water. This plague lasted 7 days. Worse yet all the fish died. Certainly this would take a long time, likely years, for the population of fish to replenish. 

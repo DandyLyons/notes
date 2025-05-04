@@ -15,8 +15,8 @@ LIMIT 500
 
 | File                                                                                                                                                               | title |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| [[Library/The Bible (WEB)/00 - About/Events in the Bible/Jesus answers "What is the Greatest Commandment?".md\|Jesus answers "What is the Greatest Commandment?"]] | \-    |
 | [[Library/The Bible (WEB)/00 - About/Events in the Bible/The Temptation of Jesus.md\|The Temptation of Jesus]]                                                     | \-    |
+| [[Library/The Bible (WEB)/00 - About/Events in the Bible/Jesus answers "What is the Greatest Commandment?".md\|Jesus answers "What is the Greatest Commandment?"]] | \-    |
 | [[Library/The Bible (WEB)/00 - About/Events in the Bible/index.md\|index]]                                                                                         | \-    |
 
 %% DATAVIEW_PUBLISHER: end %%

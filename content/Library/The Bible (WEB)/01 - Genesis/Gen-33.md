@@ -56,7 +56,7 @@ Please let my lord pass over before his servant, and I will lead on gently, acco
 Esau said, "Let me now leave with you some of the people who are with me." He said, "Why? Let me find favor in the sight of my lord." 
 
 ###### v16 
-So Esau returned that day on his way to Seir. 
+So Esau returned that day on his way to [[Seir]]. 
 
 ###### v17 
 Jacob traveled to Succoth, built himself a house, and made shelters for his livestock. Therefore the name of the place is called Succoth. 

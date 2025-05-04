@@ -64,6 +64,7 @@ But you, when you fast, anoint your head and wash your face,
 ###### v18 
 so that you are not seen by men to be fasting, but by your Father who is in secret; and your Father, who sees in secret, will reward you. 
 
+### Store your treasure in Heaven
 ###### v19 
 "Don't lay up treasures for yourselves on the earth, where moth and rust consume, and where thieves break through and steal; 
 
@@ -81,7 +82,7 @@ But if your eye is evil, your whole body will be full of darkness. If therefore 
 
 ###### v24 
 "No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can't serve both God and Mammon. 
-
+### Anxiety and Faith
 ###### v25 
 Therefore I tell you, don't be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn't life more than food, and the body more than clothing? 
 

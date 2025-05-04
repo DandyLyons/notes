@@ -23,7 +23,7 @@ Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with 
 even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love, 
 
 ###### v5 
-having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire, 
+	having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire, 
 
 ###### v6 
 to the praise of the glory of his grace, by which he freely gave us favor in the Beloved, 
