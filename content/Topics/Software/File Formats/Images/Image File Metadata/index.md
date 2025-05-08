@@ -14,8 +14,8 @@ LIMIT 500
 %%
 
 - [[Topics/Software/File Formats/Images/Image File Metadata/EXIF.md|EXIF]]
-- [[Topics/Software/File Formats/Images/Image File Metadata/IPTC.md|IPTC]]
-- [[Topics/Software/File Formats/Images/Image File Metadata/XMP.md|XMP]]
 - [[Topics/Software/File Formats/Images/Image File Metadata/index.md|index]]
+- [[Topics/Software/File Formats/Images/Image File Metadata/XMP.md|XMP]]
+- [[Topics/Software/File Formats/Images/Image File Metadata/IPTC.md|IPTC]]
 
 %% DATAVIEW_PUBLISHER: end %%

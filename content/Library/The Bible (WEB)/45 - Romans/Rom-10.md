@@ -47,8 +47,9 @@ For the Scripture says, "Whoever believes in him will not be disappointed."
 For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him. 
 
 ###### v13 
-For, "Whoever will call on the name of the Lord will be saved." 
+[[Joel-02#v32|For]], "Whoever will call on the name of the Lord will be saved." 
 
+### Faith Comes By Hearing
 ###### v14 
 How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher? 
 

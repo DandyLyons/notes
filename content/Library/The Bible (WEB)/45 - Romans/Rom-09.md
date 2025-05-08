@@ -99,6 +99,7 @@ for He will finish the work and cut it short in righteousness, because the LORD 
 ###### v29 
 As Isaiah has said before, "Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah." 
 
+### Israel's Unbelief
 ###### v30 
 What shall we say then? That the Gentiles, who didn't follow after righteousness, attained to righteousness, even the righteousness which is of faith; 
 
@@ -109,7 +110,7 @@ but Israel, following after a law of righteousness, didn't arrive at the law of 
 Why? Because they didn't seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone; 
 
 ###### v33 
-even as it is written, "Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed."
+even as it is [[Isa-28#v16|written]], "Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed."
 
 ***
 [[Rom-08|← Romans 08]] | [[Romans]] | [[Rom-10|Romans 10 →]]

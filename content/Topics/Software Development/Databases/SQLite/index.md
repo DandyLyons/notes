@@ -28,8 +28,8 @@ LIMIT 500
 | [[Topics/Software Development/Databases/SQLite/Type Affinities in SQLite.md\|Type Affinities in SQLite]]                 | \-    |
 | [[Topics/Software Development/Databases/SQLite/`PRAGMA` in SQLite.md\|`PRAGMA` in SQLite]]                               | \-    |
 | [[Topics/Software Development/Databases/SQLite/database connections in SQLite.md\|database connections in SQLite]]       | \-    |
-| [[Topics/Software Development/Databases/SQLite/dates in SQLite.md\|dates in SQLite]]                                     | \-    |
 | [[Topics/Software Development/Databases/SQLite/dynamic type system in SQLite.md\|dynamic type system in SQLite]]         | \-    |
+| [[Topics/Software Development/Databases/SQLite/dates in SQLite.md\|dates in SQLite]]                                     | \-    |
 | [[Topics/Software Development/Databases/SQLite/extensions/index.md\|index]]                                              | \-    |
 | [[Topics/Software Development/Databases/SQLite/index.md\|index]]                                                         | \-    |
 | [[Topics/Software Development/Databases/SQLite/journal modes/Rollback Journal in SQLite.md\|Rollback Journal in SQLite]] | \-    |
