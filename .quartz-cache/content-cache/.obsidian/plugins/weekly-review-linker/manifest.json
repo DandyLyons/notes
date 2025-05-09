@@ -1,0 +1,10 @@
+{
+	"id": "weekly-review-linker",
+	"name": "Weekly Review notes linker",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "This links all of the files you have created in the last week into a Weekly Review note.",
+	"author": "Aditya Khowal and Brandon Boswell",
+	"authorUrl": "https://brandonkboswell.com",
+	"isDesktopOnly": false
+}

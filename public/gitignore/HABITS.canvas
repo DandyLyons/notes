@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "dbebd12add7376bf",
+      "type": "text",
+      "text": "```tracker\nsearchType: frontmatter \nsearchTarget: didMorningRoutine\ndatasetName: Did Morning Routine\nstartDate: 2024-02-01\nmonth:\n```\n\n\n\n",
+      "x": -125,
+      "y": -240,
+      "width": 425,
+      "height": 400
+    },
+    {
+      "id": "bd1cec5aa0dc44da",
+      "type": "text",
+      "text": "```tracker\nsearchType: frontmatter\nsearchTarget: didWorkout\ndatasetName: Did Workout\nstartDate: 2024-02-01\nmonth:\n\n```\n\n\n\n",
+      "x": -125,
+      "y": 180,
+      "width": 425,
+      "height": 400
+    },
+    {
+      "id": "9bfdafee3bb0727b",
+      "type": "text",
+      "text": "```dataview\nTABLE verseOfTheDay\nFROM \"gitignore/Journals/Life\"\nWHERE verseOfTheDay != null\nSORT file DESC\nLIMIT 1000\n```\n\n\n",
+      "x": 320,
+      "y": 180,
+      "width": 420,
+      "height": 400
+    },
+    {
+      "id": "7a78b62d7f759fed",
+      "type": "text",
+      "text": "```tracker\nsearchType: frontmatter \nsearchTarget: didTopTask\ndatasetName: Completed Top Task\nstartDate: 2024-02-01\nmonth:\n```\n\n\n\n\n",
+      "x": 320,
+      "y": -240,
+      "width": 420,
+      "height": 400
+    },
+    {
+      "id": "6d85b2bed306e083",
+      "type": "text",
+      "text": "# Weekly Reviews",
+      "x": 760,
+      "y": -240,
+      "width": 420,
+      "height": 400
+    }
+  ],
+  "edges": []
+}

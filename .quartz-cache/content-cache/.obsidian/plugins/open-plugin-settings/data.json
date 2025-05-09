@@ -1,0 +1,9 @@
+{
+  "pluginCmdr": [
+    {
+      "id": "open-plugin-settings",
+      "name": "Open Plugin Settings",
+      "commandName": "Open Plugin Settings"
+    }
+  ]
+}

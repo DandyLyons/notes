@@ -1,0 +1,36 @@
+{
+  "documents": {},
+  "hotkeys": {
+    "customHotkeys": {}
+  },
+  "view": {
+    "fontSize": 16,
+    "theme": {
+      "inactiveNodeOpacity": 25
+    },
+    "cardWidth": 550,
+    "cardsGap": 100,
+    "scrolling": {
+      "centerActiveNodeH": false,
+      "centerActiveNodeV": true
+    },
+    "limitPreviewHeight": true,
+    "zoomLevel": 1,
+    "showMinimap": false,
+    "showLeftSidebar": false,
+    "leftSidebarWidth": 500,
+    "leftSidebarActiveTab": "pinned-cards",
+    "applyGapBetweenCards": false,
+    "outlineMode": false,
+    "nodeIndentationWidth": 60,
+    "maintainEditMode": true,
+    "alwaysShowCardButtons": false,
+    "hiddenVerticalToolbarButtons": []
+  },
+  "general": {
+    "defaultDocumentFormat": "sections"
+  },
+  "styleRules": {
+    "documents": {}
+  }
+}

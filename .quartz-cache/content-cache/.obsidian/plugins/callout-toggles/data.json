@@ -1,0 +1,11 @@
+{
+  "pluginVersion": "1.2.0",
+  "shouldUseExplicitTitle": true,
+  "calloutIDCapitalization": "lower",
+  "defaultFoldableState": "unfoldable",
+  "autoSelectionModes": {
+    "whenNothingSelected": "selectHeaderToCursor",
+    "whenTextSelected": "selectHeaderToCursor",
+    "afterRemovingCallout": "originalSelection"
+  }
+}

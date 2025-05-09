@@ -1,0 +1,2 @@
+- [Home | Spotify](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu?si=4yxdmyx8TCWUww5NRROlQA)
+- [The Nostalgia of HOME's Resonance, Explained - YouTube](https://www.youtube.com/watch?v=OwgLAZ3AtaI)

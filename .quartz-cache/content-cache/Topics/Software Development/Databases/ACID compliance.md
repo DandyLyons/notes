@@ -1,0 +1,13 @@
+---
+publish: true
+aliases:
+  - ACID
+---
+In computer science, ACID (atomicity, consistency, isolation, durability) is a set of properties of database transactions intended to guarantee data validity despite errors, power failures, and other mishaps. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. 
+
+| ACID                                      |                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[atomicity in Databases\|atomicity]]     | guarantees that each transaction is treated as a single "unit" (atomic), which either succeeds completely or fails completely                                                                                                                                                                                                            |
+| [[consistency in databases\|consistency]] | [Consistency](https://en.wikipedia.org/wiki/Consistency_\(database_systems\) "Consistency (database systems)") ensures that a transaction can only bring the database from one consistent state to another.                                                                                                                              |
+| [[isolation in databases\|isolation]]     | [Isolation](https://en.wikipedia.org/wiki/Isolation_\(database_systems\) "Isolation (database systems)") ensures that concurrent execution of transactions leaves the database in the same state that would have been obtained if the transactions were executed sequentially.                                                           |
+| [[durability in databases\|durability]]   | [Durability](https://en.wikipedia.org/wiki/Durability_\(computer_science\) "Durability (computer science)") guarantees that once a transaction has been committed, it will remain committed even in the case of a system failure (e.g., power outage or [crash](https://en.wikipedia.org/wiki/Crash_\(computing\) "Crash (computing)")). |

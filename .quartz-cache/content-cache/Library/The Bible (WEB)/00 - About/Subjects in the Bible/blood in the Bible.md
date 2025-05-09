@@ -1,0 +1,5 @@
+---
+aliases:
+  - blood
+publish: true
+---

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Daniel&#039;s Notes</title>
+      <link>https://dandylyons.github.io</link>
+      <description>Last 10 notes on Daniel&#039;s Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Video - Neetcode - Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners</title>
+    <link>https://dandylyons.github.io/gitignore/Video---Neetcode---Top-5-Dynamic-Programming-Patterns-for-Coding-Interviews---For-Beginners</link>
+    <guid>https://dandylyons.github.io/gitignore/Video---Neetcode---Top-5-Dynamic-Programming-Patterns-for-Coding-Interviews---For-Beginners</guid>
+    <description> DYNAMIC PROGRAMMING PATTERNS - Google Sheets 5 Categories of Dynamic Programming Problems Fibonacci Numbers: 01:07 04:37: Bottom up dynamic programming approach One-dimensional array problem Zero or One Knapsack: 06:47 You have an array of values in a “knapsack” that can hold zero or one value.</description>
+    <pubDate>Fri, 09 May 2025 00:05:23 GMT</pubDate>
+  </item><item>
+    <title>Matthew Massicotte - The Bleeding Edge of Swift Concurrency</title>
+    <link>https://dandylyons.github.io/gitignore/Matthew-Massicotte---The-Bleeding-Edge-of-Swift-Concurrency</link>
+    <guid>https://dandylyons.github.io/gitignore/Matthew-Massicotte---The-Bleeding-Edge-of-Swift-Concurrency</guid>
+    <description>Watch it here: Matthew Massicotte - The Bleeding Edge of Swift Concurrency - YouTube Excerpts How [[Task in Swift]] holds onto self Matthew Massicotte - The Bleeding Edge of Swift Concurrency - YouTube .</description>
+    <pubDate>Fri, 09 May 2025 00:03:45 GMT</pubDate>
+  </item><item>
+    <title>Jesus Tells The Parable of the Good Samaritan</title>
+    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/Jesus-Tells-The-Parable-of-the-Good-Samaritan</link>
+    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/Jesus-Tells-The-Parable-of-the-Good-Samaritan</guid>
+    <description>Notable Passages Matthew’s Account Matthew 25:31-46 “But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.</description>
+    <pubDate>Fri, 09 May 2025 00:03:35 GMT</pubDate>
+  </item><item>
+    <title>isolation in databases</title>
+    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/isolation-in-databases</link>
+    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/isolation-in-databases</guid>
+    <description> See ACID .</description>
+    <pubDate>Fri, 09 May 2025 00:02:46 GMT</pubDate>
+  </item><item>
+    <title>CNN Fake Story of Syrian Prisoner</title>
+    <link>https://dandylyons.github.io/gitignore/CNN-Fake-Story-of-Syrian-Prisoner</link>
+    <guid>https://dandylyons.github.io/gitignore/CNN-Fake-Story-of-Syrian-Prisoner</guid>
+    <description> Syria: Freed prisoner who said he was a victim of the Assad regime was an intelligence officer, locals say | CNN The Original Video: Video: CNN witnesses moment Syrian prisoner is freed from Assad’s forced detention | CNN CNN ADMITS Freed Syrian Prisoner Story WAS A SHAM; Huge Embarrassment For Cla...</description>
+    <pubDate>Fri, 09 May 2025 00:02:01 GMT</pubDate>
+  </item><item>
+    <title>Displaying Products in RevenueCat</title>
+    <link>https://dandylyons.github.io/gitignore/Displaying-Products-in-RevenueCat</link>
+    <guid>https://dandylyons.github.io/gitignore/Displaying-Products-in-RevenueCat</guid>
+    <description>Docs In-App Subscriptions Made Easy – RevenueCat .</description>
+    <pubDate>Fri, 09 May 2025 00:02:00 GMT</pubDate>
+  </item><item>
+    <title>App Store Small Business Program</title>
+    <link>https://dandylyons.github.io/gitignore/App-Store-Small-Business-Program</link>
+    <guid>https://dandylyons.github.io/gitignore/App-Store-Small-Business-Program</guid>
+    <description>Docs Intro: App Store Small Business Program - Apple Developer Guides App Store Small Business Program | RevenueCat .</description>
+    <pubDate>Fri, 09 May 2025 00:00:26 GMT</pubDate>
+  </item><item>
+    <title>battle of the sexes</title>
+    <link>https://dandylyons.github.io/gitignore/UNORGANIZED/battle-of-the-sexes</link>
+    <guid>https://dandylyons.github.io/gitignore/UNORGANIZED/battle-of-the-sexes</guid>
+    <description> Fit Chicks vs Average Joes | WHO’S STRONGER? - YouTube .</description>
+    <pubDate>Thu, 08 May 2025 23:59:54 GMT</pubDate>
+  </item><item>
+    <title>@dynamicMemberLookup in Swift</title>
+    <link>https://dandylyons.github.io/gitignore/@dynamicMemberLookup-in-Swift</link>
+    <guid>https://dandylyons.github.io/gitignore/@dynamicMemberLookup-in-Swift</guid>
+    <description>Using KeyPaths Combining dynamic member lookup with key paths | Swift by Sundell See KeyPaths in Swift @dynamicMemberLookup class Reference&lt;Value&gt; { fileprivate(set) var value: Value init(value: Value) { self.value = value } subscript&lt;T&gt;(dynamicMember keyPath: KeyPath&lt;Value, T&gt;) -&...</description>
+    <pubDate>Thu, 08 May 2025 23:59:14 GMT</pubDate>
+  </item><item>
+    <title>Swift Concurrency Cheat Sheet</title>
+    <link>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</link>
+    <guid>https://dandylyons.github.io/gitignore/Swift-Concurrency-Cheat-Sheet</guid>
+    <description>This page is intended to be a quick, glanceable view of Swift’s broad concurrency features.</description>
+    <pubDate>Thu, 08 May 2025 23:59:11 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

@@ -1,0 +1,19 @@
+/* Applies to both edit and preview modes */
+.no_margins .cm-contentContainer,
+.no_margins .markdown-preview-sizer,
+.no_margins .markdown-reading-view {
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+}
+
+/* Editing view adjustments */
+.no_margins.markdown-source-view.mod-cm6 .cm-scroller {
+  padding: 0 !important;
+}
+
+/* Reading view adjustments */ 
+.no_margins.markdown-preview-view .markdown-preview-section {
+  max-width: 100% !important;
+  margin: 0 !important;
+}

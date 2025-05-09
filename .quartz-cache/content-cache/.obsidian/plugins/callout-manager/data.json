@@ -1,0 +1,132 @@
+{
+  "callouts": {
+    "custom": [
+      "disambiguation",
+      "disambiguation-callout",
+      "idea",
+      "star",
+      "my-thoughts",
+      "passage",
+      "deprecated"
+    ],
+    "settings": {
+      "disambiguation-callout": [
+        {
+          "changes": {
+            "icon": "lucide-circle-dot"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "92, 168, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "92, 168, 255"
+          }
+        }
+      ],
+      "disambiguation": [
+        {
+          "changes": {
+            "icon": "lucide-circle-dot",
+            "color": "147, 195, 251"
+          }
+        }
+      ],
+      "attention": [
+        {
+          "changes": {
+            "icon": "lucide-eye",
+            "color": "240, 232, 0"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "color": "244, 135, 11"
+          }
+        }
+      ],
+      "idea": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "249, 228, 93"
+          }
+        }
+      ],
+      "star": [
+        {
+          "changes": {
+            "icon": "lucide-star"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "my-thoughts": [
+        {
+          "changes": {
+            "icon": "lucide-brain",
+            "color": "199, 176, 112"
+          }
+        }
+      ],
+      "passage": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-text",
+            "color": "164, 136, 61"
+          }
+        }
+      ],
+      "deprecated": [
+        {
+          "changes": {
+            "icon": "lucide-alert-triangle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "241, 164, 9"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

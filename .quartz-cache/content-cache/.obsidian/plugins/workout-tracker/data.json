@@ -1,0 +1,25 @@
+{
+  "workoutsFolder": "Workouts",
+  "additionalExerciseParams": [
+    {
+      "name": "Weight",
+      "type": "string"
+    },
+    {
+      "name": "Reps",
+      "type": "number"
+    }
+  ],
+  "muscleGroups": [
+    "Chest",
+    "Back",
+    "Legs",
+    "Core"
+  ],
+  "exercises": [
+    {
+      "name": "Bench press",
+      "muscleGroup": "Chest"
+    }
+  ]
+}

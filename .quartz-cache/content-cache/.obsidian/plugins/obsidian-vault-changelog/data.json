@@ -1,0 +1,6 @@
+{
+  "autoUpdate": false,
+  "changelogPath": "Changelog.md",
+  "datetimeFormat": "YYYY-MM-DD[T]HHmm",
+  "maxRecentFiles": 100
+}

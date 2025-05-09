@@ -1,0 +1,1 @@
+This card number was ended on [[2025-02-26]] and will be replaced with a new Discover It card in the mail. (This happened because Zone Athletic Club went out of business.)
