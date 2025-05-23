@@ -21,6 +21,7 @@ lastRead: 2025-05-21
 personalRating: 5
 tags:
   - autobiography
+publish: true
 ---
 
 ### Book Background
