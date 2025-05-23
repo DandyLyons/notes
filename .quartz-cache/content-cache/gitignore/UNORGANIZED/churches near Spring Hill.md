@@ -1,2 +1,0 @@
-- [Cornerstone Presbyterian Church](https://cornerstonepresfranklin.org) 
-- [Parish Presbyterian Church](https://parishpres.org) 

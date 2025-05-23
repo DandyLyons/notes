@@ -1,5 +1,0 @@
----
-publish: true
-subjects:
-  - "[[inhibition]]"
----

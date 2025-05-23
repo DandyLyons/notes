@@ -46,22 +46,22 @@ Not only so, but Rebekah also conceived by one, by our father Isaac.
 For being not yet born, neither having done anything good or bad, that the purpose of God according to election might stand, not of works, but of him who calls, 
 
 ###### v12 
-it was said to her, "The elder will serve the younger." 
+it was [[Gen-25#v23|said]] to her, "The elder will serve the younger." 
 
 ###### v13 
-Even as it is written, "Jacob I loved, but Esau I hated." 
+Even as it is [[Mal-01#v2|written]], "Jacob I loved, but Esau I hated." 
 
 ###### v14 
 What shall we say then? Is there unrighteousness with God? May it never be! 
 
 ###### v15 
-For he said to Moses, "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion." 
+For he [[Exod-33#v19|said]] to Moses, "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion." 
 
 ###### v16 
 So then it is not of him who wills, nor of him who runs, but of God who has mercy. 
 
 ###### v17 
-For the Scripture says to Pharaoh, "For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth." 
+For the Scripture [[Exod-09#v16|says]] to Pharaoh, "For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth." 
 
 ###### v18 
 So then, he has mercy on whom he desires, and he hardens whom he desires. 
@@ -91,13 +91,13 @@ As he says also in [[Hos-02#v23|Hosea]], "I will call them 'my people,' which we
 "It will be that in the place where it was [[Hos-01#v10|Hosea]] to them, 'You are not my people,' there they will be called 'children of the living God.'" 
 
 ###### v27 
-Isaiah cries concerning Israel, "If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved; 
+[[Isa-10#v22|Isaiah]] cries concerning Israel, "If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved; 
 
 ###### v28 
 for He will finish the work and cut it short in righteousness, because the LORD will make a short work upon the earth." 
 
 ###### v29 
-As Isaiah has said before, "Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah." 
+As [[Isa-01#v9|Isaiah]] has said before, "Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah." 
 
 ### Israel's Unbelief
 ###### v30 

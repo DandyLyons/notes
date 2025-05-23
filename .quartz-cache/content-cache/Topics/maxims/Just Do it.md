@@ -1,2 +1,0 @@
-- Feeling [[fatigue|tired]]? [[DFUZ Method - "How to Force Your Brain To Be Motivated (when you don’t feel like it)"#11 04 Step 2 F **Fake**|Do it tired.]] 
-- Feeling [[Fear|scared]]? **Do it scared.** 

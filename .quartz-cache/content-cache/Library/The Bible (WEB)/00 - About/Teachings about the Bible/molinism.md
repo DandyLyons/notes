@@ -1,1 +1,0 @@
-- [Molinism - Wikipedia](https://en.wikipedia.org/wiki/Molinism#Difference_from_Calvinism_and_from_Arminianism) 

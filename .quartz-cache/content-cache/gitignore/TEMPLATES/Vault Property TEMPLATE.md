@@ -1,6 +1,0 @@
----
-propName: 
-propType: 
-propPurpose: 
-propValidValues:
----

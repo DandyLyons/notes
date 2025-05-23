@@ -1,1 +1,0 @@
-- Locked box: Store a reward in a container (like food). You can't open it unless you met a certain condition (like did a certain amount of exercise)

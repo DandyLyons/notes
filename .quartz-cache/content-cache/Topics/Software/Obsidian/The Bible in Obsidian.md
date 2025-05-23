@@ -1,6 +1,0 @@
-- [[How to Set Up the Bible in Obsidian]]
-- [[How to Add the Bible to Obsidian]]
-- [[Obsidian Bible Link Plugin Link Multiple Bible Verses With Ease  biblestudy biblekasten]]
-- [[Logos Bible Software vs Obsidian Which is best for connected Bible notes?]]
-- [[Bible Linker plugin]]
-- [[Read-Later/Clippings/How to Set Up a Daily Bible Reading Plan Completely in Obsidian|How to Set Up a Daily Bible Reading Plan Completely in Obsidian]] 

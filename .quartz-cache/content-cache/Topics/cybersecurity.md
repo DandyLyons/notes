@@ -1,1 +1,0 @@
-- https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/ 

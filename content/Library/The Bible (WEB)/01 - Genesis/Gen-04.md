@@ -9,7 +9,7 @@ aliases:
 [[Gen-03|← Genesis 03]] | [[Genesis]] | [[Gen-05|Genesis 05 →]]
 ***
 
-
+## The Text
 
 ###### v1 
 The man knew Eve his wife. She conceived, and gave birth to Cain, and said, "I have gotten a man with Yahweh's help." 
@@ -97,9 +97,9 @@ A son was also born to Seth, and he named him Enosh. At that time men began to c
 
 ### my notes on v7
 [[#v7]] 
-- **sin crouches at the door**: 
+- **it's desire is for you but you must rule over it**: this verse uses precisely the same phrases as [[Gen-03#v16]]. This is certainly no coincidence. There is a clear parallel in the mind of the Author. 
+	- **Further reading**: 
+		- [InterVarsity Press](https://www.ivpress.com/Contents/Item/Display/21898)
+		- 
 
 ---
-# Footnotes
-
-[^1]: [[#v7]]: 

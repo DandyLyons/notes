@@ -1,2 +1,0 @@
-- [[Exod-07#v13|Exodus 7:13-14]] Pharaoh's heart was hardened, and he didn't listen to them, as Yahweh had spoken.  Yahweh said to Moses, "Pharaoh's heart is stubborn. He refuses to let the people go.  [[Exod-07#v14|]]
-- [[Exod-07#v22|Exodus 7.22]] The magicians of Egypt did the same thing with their enchantments. So Pharaoh's heart was hardened, and he didn't listen to them, as Yahweh had spoken.  

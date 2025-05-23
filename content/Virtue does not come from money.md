@@ -1,0 +1,1 @@
+>“Virtue does not come from money, but rather from virtue comes money, and all other things good to man.” ―[[Socrates]]

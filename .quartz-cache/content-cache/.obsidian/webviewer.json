@@ -1,8 +1,0 @@
-{
-  "openExternalURLs": true,
-  "enableAdblocking": true,
-  "markdownPath": "Clippings",
-  "homepage": "https://www.perplexity.ai",
-  "customSearchEngine": "https://www.perplexity.ai/search?q=%s",
-  "searchEngine": "custom"
-}

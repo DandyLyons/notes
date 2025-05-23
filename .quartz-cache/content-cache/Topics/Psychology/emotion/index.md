@@ -1,5 +1,0 @@
----
-aliases:
-  - emotion
-publish: true
----

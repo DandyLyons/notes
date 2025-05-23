@@ -1,3 +1,0 @@
-- [[Topics/productivity/Morning Routine/index|Morning Routine]]
-	- [[My Morning Routine TEMPLATE]] (deprecated, moved to [[gitignore/Journals/Life/TEMPLATES/Daily Notes TEMPLATE|Daily Notes TEMPLATE]])
-- [[Topics/productivity/Weekly Review/index|Weekly Review]] 

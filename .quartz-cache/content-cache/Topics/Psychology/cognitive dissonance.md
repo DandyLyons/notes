@@ -1,1 +1,0 @@
-See [Cognitive dissonance - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_dissonance) 

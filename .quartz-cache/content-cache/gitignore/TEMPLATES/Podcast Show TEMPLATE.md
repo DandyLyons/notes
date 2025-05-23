@@ -1,5 +1,0 @@
----
-showTitle: 
-showURL: 
-subjects:
----

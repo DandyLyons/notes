@@ -8,6 +8,7 @@ aliases:
 - [Regex | Apple Developer Documentation](https://developer.apple.com/documentation/swift/regex)
 - [WWDC22 Regex: Beyond the Basics](https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110358-swift-regex-beyond-the-basics/) 
 ## Deep Dives
+- [Regular Expressions in Swift](http://www.iro.umontreal.ca/~lapalme/RegexInSwift/index.html)
 - [Swift Regex Deep Dive | Intro to Regular Expressions | Big Nerd Ranch](https://bignerdranch.com/blog/swift-regex/) 
 - [Swift Regex with practical examples | Medium](https://blorenzop.medium.com/swift-regex-56eaf81e6d1e)
 

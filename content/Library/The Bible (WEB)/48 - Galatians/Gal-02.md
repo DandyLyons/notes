@@ -9,7 +9,8 @@ aliases:
 ***
 
 
-
+## The Text
+### Paul Presents the Gospel in Jerusalem 
 ###### v1 
 Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me. 
 
@@ -40,6 +41,7 @@ and when they perceived the grace that was given to me, James and Cephas and Joh
 ###### v10 
 They only asked us to remember the poor--which very thing I was also zealous to do. 
 
+### Peter Errs into False Doctrine and Paul Opposes Him
 ###### v11 
 But when Peter came to Antioch, I resisted him to his face, because he stood condemned. 
 

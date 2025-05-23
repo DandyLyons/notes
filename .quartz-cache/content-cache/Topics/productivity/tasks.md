@@ -1,5 +1,0 @@
----
-aliases:
-  - task
-publish: true
----

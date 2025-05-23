@@ -13,4 +13,5 @@ aliases:
 https://robb.sh/posts/check-links-in-hugo-with-htmltest/
 
 ## Deep Dive
+- Concepts: [From WordPress to Hugo, a mindset transition \| Regis Philibert](https://www.regisphilibert.com/blog/2019/01/from-wordpress-to-hugo-a-mindset-transition/) 
 - [[Shortcodes in Hugo]] 

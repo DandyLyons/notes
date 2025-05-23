@@ -1,1 +1,0 @@
-Accomplished cryptographer serving in WW1 and WW2. 

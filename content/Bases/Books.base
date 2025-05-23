@@ -1,0 +1,24 @@
+filters:
+  and:
+    - contains(file.path, "Media DB/books")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - author
+      - publish
+      - read
+      - personalRating
+      - Status
+      - year
+    sort:
+      - column: file.name
+        direction: ASC
+    columnSize:
+      property.publish: 118
+  - type: table
+    name: another table
+    filters:
+      and:
+        - dateAfter(file.ctime, "2025-02-02T14:24:00")

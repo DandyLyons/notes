@@ -7,7 +7,9 @@ aliases:
 
 [[Exod-07|← Exodus 07]] | [[Exodus]] | [[Exod-09|Exodus 09 →]]
 ***
+## The Text
 
+### The Plague of Frogs
 ###### v1
 Yahweh spoke to Moses, "Go in to Pharaoh, and tell him, 'This is what Yahweh says, "Let my people go, that they may serve me.
 
@@ -51,8 +53,9 @@ Yahweh did according to the word of Moses, and the frogs died out of the houses,
 They gathered them together in heaps, and the land stank.
 
 ###### v15
-But when Pharaoh saw that there was a respite, he hardened his heart, and didn't listen to them, as Yahweh had spoken.
+But when Pharaoh saw that there was a respite, [[the hardening of Pharaoh's heart|he hardened his heart]] and didn't listen to them, as Yahweh had spoken.
 
+### The Plague of Lice
 ###### v16
 Yahweh said to Moses, "Tell Aaron, 'Stretch out your rod, and strike the dust of the earth, that it may become lice throughout all the land of Egypt.'"
 
@@ -72,7 +75,7 @@ Yahweh said to Moses, "Rise up early in the morning, and stand before Pharaoh; b
 Else, if you will not let my people go, behold, I will send swarms of flies on you, and on your servants, and on your people, and into your houses. The houses of the Egyptians shall be full of swarms of flies, and also the ground they are on.
 
 ###### v22
-I will set apart in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there, to the end you may know that I am Yahweh on the earth.
+I will set apart in that day the land of [[Goshen]], in which my people dwell, that no swarms of flies shall be there, to the end you may know that I am Yahweh on the earth.
 
 ###### v23
 I will put a division between my people and your people. This sign shall happen by tomorrow."'"
@@ -102,7 +105,7 @@ Moses went out from Pharaoh, and prayed to Yahweh.
 Yahweh did according to the word of Moses, and he removed the swarms of flies from Pharaoh, from his servants, and from his people. There remained not one.
 
 ###### v32
-Pharaoh hardened his heart this time also, and he didn't let the people go.
+Pharaoh [[the hardening of Pharaoh's heart|hardened his heart]] this time also, and he didn't let the people go.
 
 ***
 [[Exod-07|← Exodus 07]] | [[Exodus]] | [[Exod-09|Exodus 09 →]]

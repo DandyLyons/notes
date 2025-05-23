@@ -1,5 +1,0 @@
----
-aliases:
-  - GRDB
-publish: true
----

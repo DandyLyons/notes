@@ -10,7 +10,9 @@ subjects:
 [[Gen-02|← Genesis 02]] | [[Genesis]] | [[Gen-04|Genesis 04 →]]
 ***
 
+## The Text
 
+### The Serpent Deceives
 
 ###### v1 
 [[#notes on v1]]
@@ -52,15 +54,17 @@ The man said, "The woman whom you gave to be with me, she gave me fruit from the
 ###### v13
 Yahweh God said to the woman, "What have you done?" The woman said, "The serpent deceived me, and I ate."
 
+### God Curses the Serpent
 ###### v14
 Yahweh God said to the serpent, "Because you have done this, you are cursed above all livestock, and above every animal of the field. You shall go on your belly and you shall eat [[dust]] all the days of your life.
 
 ###### v15
 I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel."
-
+### God Curses the Woman
 ###### v16
 To the woman he said, "I will greatly multiply your pain in childbirth[^1]. You will bear children in pain. Your desire will be for your husband, and he will rule over you."
 
+### God Curses the Man
 ###### v17
 To Adam he said, "Because you have listened to your wife's voice, and have eaten from the tree, about which I commanded you, saying, 'You shall not eat of it,' the ground is cursed for your sake. You will eat from it with much labor all the days of your life.
 
@@ -76,6 +80,7 @@ The man called his wife Eve because she would be the mother of all the living.
 ###### v21
 Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.
 
+### God Exiles Humanity
 ###### v22
 Yahweh God said, "Behold, the man has become like one of us, knowing good and evil. Now, lest he reach out his hand, and also take of the tree of life, and eat, and live forever--"
 
@@ -92,6 +97,7 @@ So he drove out the man; and he placed cherubim at the east of the garden of Ede
 ## My Notes
 ### notes on v1
  - [[Rev-20#v2|Revelation 20:2]] makes it clear that Satan is *the old serpent*, and *the dragon*, and *the devil*
+ - This question by the serpent is obviously false and yet what is cunning about it is that it instills doubt
 
 ### notes on v15
 
